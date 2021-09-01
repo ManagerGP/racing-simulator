@@ -1,0 +1,1532 @@
+,driver,lap,trackStatus,position,grid,out,performance,trackTemp,airTemp,raining,windSpeed,humidity,pressure,windDir,tyre,tyreLap,track,team
+0,BOT,1,0,2,8,0,31,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,4.0,Sakhir Outer Track,Mercedes
+1,BOT,2,0,2,8,0,36,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,5.0,Sakhir Outer Track,Mercedes
+2,BOT,3,0,2,8,0,34,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,6.0,Sakhir Outer Track,Mercedes
+3,BOT,4,0,2,8,0,32,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,7.0,Sakhir Outer Track,Mercedes
+4,BOT,5,0,2,8,0,31,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,8.0,Sakhir Outer Track,Mercedes
+5,BOT,6,0,2,8,0,32,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,9.0,Sakhir Outer Track,Mercedes
+6,BOT,7,0,2,8,0,32,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,10.0,Sakhir Outer Track,Mercedes
+7,BOT,8,0,2,8,0,33,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,11.0,Sakhir Outer Track,Mercedes
+8,BOT,9,0,2,8,0,33,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,M,12.0,Sakhir Outer Track,Mercedes
+9,BOT,10,0,2,8,0,33,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,13.0,Sakhir Outer Track,Mercedes
+10,BOT,11,0,2,8,0,34,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,14.0,Sakhir Outer Track,Mercedes
+11,BOT,12,0,2,8,0,34,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,15.0,Sakhir Outer Track,Mercedes
+12,BOT,13,0,2,8,0,34,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,16.0,Sakhir Outer Track,Mercedes
+13,BOT,14,0,2,8,0,35,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,17.0,Sakhir Outer Track,Mercedes
+14,BOT,15,0,2,8,0,35,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,18.0,Sakhir Outer Track,Mercedes
+15,BOT,16,0,2,8,0,35,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,19.0,Sakhir Outer Track,Mercedes
+16,BOT,17,0,2,8,0,35,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,20.0,Sakhir Outer Track,Mercedes
+17,BOT,18,0,2,8,0,35,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,M,21.0,Sakhir Outer Track,Mercedes
+18,BOT,19,0,2,8,0,35,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,22.0,Sakhir Outer Track,Mercedes
+19,BOT,20,0,2,8,0,35,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,M,23.0,Sakhir Outer Track,Mercedes
+20,BOT,21,0,2,8,0,36,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,24.0,Sakhir Outer Track,Mercedes
+21,BOT,22,0,2,8,0,36,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,25.0,Sakhir Outer Track,Mercedes
+22,BOT,23,0,2,8,0,36,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,26.0,Sakhir Outer Track,Mercedes
+23,BOT,24,0,2,8,0,36,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,27.0,Sakhir Outer Track,Mercedes
+24,BOT,25,0,2,8,0,37,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,28.0,Sakhir Outer Track,Mercedes
+25,BOT,26,0,2,8,0,37,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,29.0,Sakhir Outer Track,Mercedes
+26,BOT,27,0,2,8,0,37,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,30.0,Sakhir Outer Track,Mercedes
+27,BOT,28,0,2,8,0,38,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,31.0,Sakhir Outer Track,Mercedes
+28,BOT,29,0,2,8,0,38,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,32.0,Sakhir Outer Track,Mercedes
+29,BOT,30,0,2,8,0,38,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,33.0,Sakhir Outer Track,Mercedes
+30,BOT,31,0,2,8,0,38,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,34.0,Sakhir Outer Track,Mercedes
+31,BOT,32,0,2,8,0,38,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,35.0,Sakhir Outer Track,Mercedes
+32,BOT,33,0,2,8,0,39,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,36.0,Sakhir Outer Track,Mercedes
+33,BOT,34,0,2,8,0,39,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,37.0,Sakhir Outer Track,Mercedes
+34,BOT,35,0,2,8,0,39,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,38.0,Sakhir Outer Track,Mercedes
+35,BOT,36,0,2,8,0,39,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,39.0,Sakhir Outer Track,Mercedes
+36,BOT,37,0,2,8,0,39,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,40.0,Sakhir Outer Track,Mercedes
+37,BOT,38,0,2,8,0,39,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,41.0,Sakhir Outer Track,Mercedes
+38,BOT,39,0,2,8,0,40,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,42.0,Sakhir Outer Track,Mercedes
+39,BOT,40,0,2,8,0,40,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,43.0,Sakhir Outer Track,Mercedes
+40,BOT,41,0,2,8,0,40,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,44.0,Sakhir Outer Track,Mercedes
+41,BOT,42,0,2,8,0,40,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,45.0,Sakhir Outer Track,Mercedes
+42,BOT,43,0,2,8,0,40,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,46.0,Sakhir Outer Track,Mercedes
+43,BOT,44,0,2,8,0,39,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,47.0,Sakhir Outer Track,Mercedes
+44,BOT,45,0,2,8,0,39,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,48.0,Sakhir Outer Track,Mercedes
+45,BOT,46,0,1,8,0,39,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,49.0,Sakhir Outer Track,Mercedes
+46,BOT,47,0,1,8,0,39,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,50.0,Sakhir Outer Track,Mercedes
+47,BOT,48,0,1,8,0,39,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,51.0,Sakhir Outer Track,Mercedes
+48,BOT,49,0,1,8,0,39,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,52.0,Sakhir Outer Track,Mercedes
+49,BOT,50,0,2,8,0,39,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,0.0,Sakhir Outer Track,Mercedes
+50,BOT,51,0,2,8,0,39,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,1.0,Sakhir Outer Track,Mercedes
+51,BOT,52,0,2,8,0,39,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,2.0,Sakhir Outer Track,Mercedes
+52,BOT,53,0,2,8,0,39,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,3.0,Sakhir Outer Track,Mercedes
+53,BOT,54,0,2,8,0,39,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,4.0,Sakhir Outer Track,Mercedes
+54,BOT,55,0,2,8,0,38,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,5.0,Sakhir Outer Track,Mercedes
+55,BOT,56,0,2,8,0,38,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,6.0,Sakhir Outer Track,Mercedes
+56,BOT,57,0,2,8,0,38,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,7.0,Sakhir Outer Track,Mercedes
+57,BOT,58,0,2,8,0,38,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,8.0,Sakhir Outer Track,Mercedes
+58,BOT,59,0,2,8,0,38,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,9.0,Sakhir Outer Track,Mercedes
+59,BOT,60,0,2,8,0,38,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,10.0,Sakhir Outer Track,Mercedes
+60,BOT,61,0,2,8,0,38,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,11.0,Sakhir Outer Track,Mercedes
+61,BOT,62,0,2,8,0,38,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,12.0,Sakhir Outer Track,Mercedes
+62,BOT,63,0,5,8,0,38,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,H,13.0,Sakhir Outer Track,Mercedes
+63,BOT,64,0,4,8,0,38,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,14.0,Sakhir Outer Track,Mercedes
+64,BOT,65,0,4,8,0,37,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,H,15.0,Sakhir Outer Track,Mercedes
+65,BOT,66,0,4,8,0,37,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,H,16.0,Sakhir Outer Track,Mercedes
+66,BOT,67,0,4,8,0,37,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,H,17.0,Sakhir Outer Track,Mercedes
+67,BOT,68,0,4,8,0,37,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,H,18.0,Sakhir Outer Track,Mercedes
+68,BOT,69,0,4,8,0,37,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,19.0,Sakhir Outer Track,Mercedes
+69,BOT,70,0,5,8,0,37,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,H,20.0,Sakhir Outer Track,Mercedes
+70,BOT,71,0,5,8,0,37,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,H,21.0,Sakhir Outer Track,Mercedes
+71,BOT,72,0,5,8,0,37,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,H,22.0,Sakhir Outer Track,Mercedes
+72,BOT,73,0,5,8,0,38,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,H,23.0,Sakhir Outer Track,Mercedes
+73,BOT,74,0,5,8,0,38,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,H,24.0,Sakhir Outer Track,Mercedes
+74,BOT,75,0,5,8,0,38,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,H,25.0,Sakhir Outer Track,Mercedes
+75,BOT,76,0,5,8,0,38,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,26.0,Sakhir Outer Track,Mercedes
+76,BOT,77,0,7,8,0,38,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,27.0,Sakhir Outer Track,Mercedes
+77,BOT,78,0,9,8,0,38,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,H,28.0,Sakhir Outer Track,Mercedes
+78,BOT,79,0,8,8,0,38,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,29.0,Sakhir Outer Track,Mercedes
+79,BOT,80,0,8,8,0,38,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,H,30.0,Sakhir Outer Track,Mercedes
+80,BOT,81,0,8,8,0,38,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,H,31.0,Sakhir Outer Track,Mercedes
+81,BOT,82,0,8,8,0,38,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,H,32.0,Sakhir Outer Track,Mercedes
+82,BOT,83,0,8,8,0,38,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,H,33.0,Sakhir Outer Track,Mercedes
+83,BOT,84,0,8,8,0,38,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,H,34.0,Sakhir Outer Track,Mercedes
+84,BOT,85,0,8,8,0,38,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,H,35.0,Sakhir Outer Track,Mercedes
+85,BOT,86,0,8,8,0,38,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,H,36.0,Sakhir Outer Track,Mercedes
+86,BOT,87,0,8,8,0,38,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,H,37.0,Sakhir Outer Track,Mercedes
+0,RUS,1,0,1,9,0,93,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,4.0,Sakhir Outer Track,Mercedes
+1,RUS,2,0,1,9,0,88,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,5.0,Sakhir Outer Track,Mercedes
+2,RUS,3,0,1,9,0,82,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,6.0,Sakhir Outer Track,Mercedes
+3,RUS,4,0,1,9,0,79,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,7.0,Sakhir Outer Track,Mercedes
+4,RUS,5,0,1,9,0,78,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,8.0,Sakhir Outer Track,Mercedes
+5,RUS,6,0,1,9,0,78,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,M,9.0,Sakhir Outer Track,Mercedes
+6,RUS,7,0,1,9,0,78,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,10.0,Sakhir Outer Track,Mercedes
+7,RUS,8,0,1,9,0,80,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,11.0,Sakhir Outer Track,Mercedes
+8,RUS,9,0,1,9,0,80,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,12.0,Sakhir Outer Track,Mercedes
+9,RUS,10,0,1,9,0,81,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,13.0,Sakhir Outer Track,Mercedes
+10,RUS,11,0,1,9,0,82,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,M,14.0,Sakhir Outer Track,Mercedes
+11,RUS,12,0,1,9,0,83,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,15.0,Sakhir Outer Track,Mercedes
+12,RUS,13,0,1,9,0,84,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,16.0,Sakhir Outer Track,Mercedes
+13,RUS,14,0,1,9,0,85,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,17.0,Sakhir Outer Track,Mercedes
+14,RUS,15,0,1,9,0,85,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,18.0,Sakhir Outer Track,Mercedes
+15,RUS,16,0,1,9,0,86,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,19.0,Sakhir Outer Track,Mercedes
+16,RUS,17,0,1,9,0,86,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,20.0,Sakhir Outer Track,Mercedes
+17,RUS,18,0,1,9,0,86,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,21.0,Sakhir Outer Track,Mercedes
+18,RUS,19,0,1,9,0,87,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,22.0,Sakhir Outer Track,Mercedes
+19,RUS,20,0,1,9,0,87,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,23.0,Sakhir Outer Track,Mercedes
+20,RUS,21,0,1,9,0,88,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,24.0,Sakhir Outer Track,Mercedes
+21,RUS,22,0,1,9,0,88,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,M,25.0,Sakhir Outer Track,Mercedes
+22,RUS,23,0,1,9,0,88,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,26.0,Sakhir Outer Track,Mercedes
+23,RUS,24,0,1,9,0,88,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,M,27.0,Sakhir Outer Track,Mercedes
+24,RUS,25,0,1,9,0,89,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,28.0,Sakhir Outer Track,Mercedes
+25,RUS,26,0,1,9,0,89,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,29.0,Sakhir Outer Track,Mercedes
+26,RUS,27,0,1,9,0,89,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,30.0,Sakhir Outer Track,Mercedes
+27,RUS,28,0,1,9,0,89,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,31.0,Sakhir Outer Track,Mercedes
+28,RUS,29,0,1,9,0,89,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,32.0,Sakhir Outer Track,Mercedes
+29,RUS,30,0,1,9,0,90,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,33.0,Sakhir Outer Track,Mercedes
+30,RUS,31,0,1,9,0,90,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,34.0,Sakhir Outer Track,Mercedes
+31,RUS,32,0,1,9,0,90,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,35.0,Sakhir Outer Track,Mercedes
+32,RUS,33,0,1,9,0,90,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,36.0,Sakhir Outer Track,Mercedes
+33,RUS,34,0,1,9,0,90,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,37.0,Sakhir Outer Track,Mercedes
+34,RUS,35,0,1,9,0,90,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,38.0,Sakhir Outer Track,Mercedes
+35,RUS,36,0,1,9,0,90,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,39.0,Sakhir Outer Track,Mercedes
+36,RUS,37,0,1,9,0,90,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,40.0,Sakhir Outer Track,Mercedes
+37,RUS,38,0,1,9,0,90,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,41.0,Sakhir Outer Track,Mercedes
+38,RUS,39,0,1,9,0,91,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,42.0,Sakhir Outer Track,Mercedes
+39,RUS,40,0,1,9,0,90,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,43.0,Sakhir Outer Track,Mercedes
+40,RUS,41,0,1,9,0,90,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,44.0,Sakhir Outer Track,Mercedes
+41,RUS,42,0,1,9,0,89,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,45.0,Sakhir Outer Track,Mercedes
+42,RUS,43,0,1,9,0,89,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,46.0,Sakhir Outer Track,Mercedes
+43,RUS,44,0,1,9,0,88,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,47.0,Sakhir Outer Track,Mercedes
+44,RUS,45,0,1,9,0,87,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,48.0,Sakhir Outer Track,Mercedes
+45,RUS,46,0,2,9,0,86,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,H,0.0,Sakhir Outer Track,Mercedes
+46,RUS,47,0,2,9,0,85,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,H,1.0,Sakhir Outer Track,Mercedes
+47,RUS,48,0,2,9,0,84,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,H,2.0,Sakhir Outer Track,Mercedes
+48,RUS,49,0,2,9,0,84,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,3.0,Sakhir Outer Track,Mercedes
+49,RUS,50,0,1,9,0,83,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,4.0,Sakhir Outer Track,Mercedes
+50,RUS,51,0,1,9,0,82,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,5.0,Sakhir Outer Track,Mercedes
+51,RUS,52,0,1,9,0,82,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,6.0,Sakhir Outer Track,Mercedes
+52,RUS,53,0,1,9,0,81,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,7.0,Sakhir Outer Track,Mercedes
+53,RUS,54,0,1,9,0,80,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,8.0,Sakhir Outer Track,Mercedes
+54,RUS,55,0,1,9,0,80,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,9.0,Sakhir Outer Track,Mercedes
+55,RUS,56,0,1,9,0,79,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,10.0,Sakhir Outer Track,Mercedes
+56,RUS,57,0,1,9,0,78,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,11.0,Sakhir Outer Track,Mercedes
+57,RUS,58,0,1,9,0,78,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,12.0,Sakhir Outer Track,Mercedes
+58,RUS,59,0,1,9,0,77,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,13.0,Sakhir Outer Track,Mercedes
+59,RUS,60,0,1,9,0,77,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,14.0,Sakhir Outer Track,Mercedes
+60,RUS,61,0,1,9,0,76,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,15.0,Sakhir Outer Track,Mercedes
+61,RUS,62,0,1,9,0,76,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,16.0,Sakhir Outer Track,Mercedes
+62,RUS,63,0,1,9,0,75,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,M,3.0,Sakhir Outer Track,Mercedes
+63,RUS,64,0,5,9,0,74,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,M,6.0,Sakhir Outer Track,Mercedes
+64,RUS,65,0,5,9,0,72,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,M,7.0,Sakhir Outer Track,Mercedes
+65,RUS,66,0,5,9,0,71,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,M,8.0,Sakhir Outer Track,Mercedes
+66,RUS,67,0,5,9,0,71,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,M,9.0,Sakhir Outer Track,Mercedes
+67,RUS,68,0,5,9,0,70,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,M,10.0,Sakhir Outer Track,Mercedes
+68,RUS,69,0,5,9,0,70,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,M,11.0,Sakhir Outer Track,Mercedes
+69,RUS,70,0,4,9,0,70,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,M,12.0,Sakhir Outer Track,Mercedes
+70,RUS,71,0,4,9,0,70,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,M,13.0,Sakhir Outer Track,Mercedes
+71,RUS,72,0,3,9,0,70,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,M,14.0,Sakhir Outer Track,Mercedes
+72,RUS,73,0,2,9,0,70,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,M,15.0,Sakhir Outer Track,Mercedes
+73,RUS,74,0,2,9,0,70,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,M,16.0,Sakhir Outer Track,Mercedes
+74,RUS,75,0,2,9,0,70,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,M,17.0,Sakhir Outer Track,Mercedes
+75,RUS,76,0,2,9,0,70,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,M,18.0,Sakhir Outer Track,Mercedes
+76,RUS,77,0,2,9,0,70,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,M,19.0,Sakhir Outer Track,Mercedes
+77,RUS,78,0,2,9,0,70,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,M,20.0,Sakhir Outer Track,Mercedes
+78,RUS,79,0,14,9,0,70,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,S,3.0,Sakhir Outer Track,Mercedes
+79,RUS,80,0,14,9,0,71,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,S,4.0,Sakhir Outer Track,Mercedes
+80,RUS,81,0,13,9,0,71,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,S,5.0,Sakhir Outer Track,Mercedes
+81,RUS,82,0,13,9,0,71,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,S,6.0,Sakhir Outer Track,Mercedes
+82,RUS,83,0,12,9,0,71,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,S,7.0,Sakhir Outer Track,Mercedes
+83,RUS,84,0,11,9,0,71,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,S,8.0,Sakhir Outer Track,Mercedes
+84,RUS,85,0,11,9,0,71,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,S,9.0,Sakhir Outer Track,Mercedes
+85,RUS,86,0,10,9,0,71,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,S,10.0,Sakhir Outer Track,Mercedes
+86,RUS,87,0,9,9,0,71,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,S,11.0,Sakhir Outer Track,Mercedes
+0,PER,1,0,18,19,0,45,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,,0.0,Sakhir Outer Track,Racing Point
+1,PER,2,0,18,19,0,47,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,,0.0,Sakhir Outer Track,Racing Point
+2,PER,3,0,18,19,0,43,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,,0.0,Sakhir Outer Track,Racing Point
+3,PER,4,0,18,19,0,40,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,,0.0,Sakhir Outer Track,Racing Point
+4,PER,5,0,18,19,0,40,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,,0.0,Sakhir Outer Track,Racing Point
+5,PER,6,0,18,19,0,41,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,,0.0,Sakhir Outer Track,Racing Point
+6,PER,7,0,16,19,0,42,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,,0.0,Sakhir Outer Track,Racing Point
+7,PER,8,0,14,19,0,43,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,,0.0,Sakhir Outer Track,Racing Point
+8,PER,9,0,13,19,0,43,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,,0.0,Sakhir Outer Track,Racing Point
+9,PER,10,0,12,19,0,45,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,,0.0,Sakhir Outer Track,Racing Point
+10,PER,11,0,11,19,0,46,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,,0.0,Sakhir Outer Track,Racing Point
+11,PER,12,0,11,19,0,47,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,,0.0,Sakhir Outer Track,Racing Point
+12,PER,13,0,11,19,0,48,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,,0.0,Sakhir Outer Track,Racing Point
+13,PER,14,0,11,19,0,48,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,,0.0,Sakhir Outer Track,Racing Point
+14,PER,15,0,11,19,0,49,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,,0.0,Sakhir Outer Track,Racing Point
+15,PER,16,0,11,19,0,49,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,,0.0,Sakhir Outer Track,Racing Point
+16,PER,17,0,11,19,0,50,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,,0.0,Sakhir Outer Track,Racing Point
+17,PER,18,0,11,19,0,50,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,,0.0,Sakhir Outer Track,Racing Point
+18,PER,19,0,11,19,0,51,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,,0.0,Sakhir Outer Track,Racing Point
+19,PER,20,0,10,19,0,51,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,,0.0,Sakhir Outer Track,Racing Point
+20,PER,21,0,9,19,0,52,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,,0.0,Sakhir Outer Track,Racing Point
+21,PER,22,0,9,19,0,52,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,,0.0,Sakhir Outer Track,Racing Point
+22,PER,23,0,9,19,0,53,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,,0.0,Sakhir Outer Track,Racing Point
+23,PER,24,0,9,19,0,53,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,,0.0,Sakhir Outer Track,Racing Point
+24,PER,25,0,9,19,0,54,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,,0.0,Sakhir Outer Track,Racing Point
+25,PER,26,0,9,19,0,54,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,,0.0,Sakhir Outer Track,Racing Point
+26,PER,27,0,9,19,0,55,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,,0.0,Sakhir Outer Track,Racing Point
+27,PER,28,0,8,19,0,55,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,,0.0,Sakhir Outer Track,Racing Point
+28,PER,29,0,6,19,0,56,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,,0.0,Sakhir Outer Track,Racing Point
+29,PER,30,0,5,19,0,56,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,,0.0,Sakhir Outer Track,Racing Point
+30,PER,31,0,5,19,0,56,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,,0.0,Sakhir Outer Track,Racing Point
+31,PER,32,0,5,19,0,57,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,,0.0,Sakhir Outer Track,Racing Point
+32,PER,33,0,5,19,0,57,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,,0.0,Sakhir Outer Track,Racing Point
+33,PER,34,0,5,19,0,57,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,,0.0,Sakhir Outer Track,Racing Point
+34,PER,35,0,5,19,0,58,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,,0.0,Sakhir Outer Track,Racing Point
+35,PER,36,0,5,19,0,58,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,,0.0,Sakhir Outer Track,Racing Point
+36,PER,37,0,5,19,0,59,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,,0.0,Sakhir Outer Track,Racing Point
+37,PER,38,0,5,19,0,59,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,,0.0,Sakhir Outer Track,Racing Point
+38,PER,39,0,5,19,0,59,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,,0.0,Sakhir Outer Track,Racing Point
+39,PER,40,0,5,19,0,59,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,,0.0,Sakhir Outer Track,Racing Point
+40,PER,41,0,4,19,0,59,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,,0.0,Sakhir Outer Track,Racing Point
+41,PER,42,0,4,19,0,60,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,,0.0,Sakhir Outer Track,Racing Point
+42,PER,43,0,3,19,0,60,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,,0.0,Sakhir Outer Track,Racing Point
+43,PER,44,0,3,19,0,60,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,,0.0,Sakhir Outer Track,Racing Point
+44,PER,45,0,3,19,0,60,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,,0.0,Sakhir Outer Track,Racing Point
+45,PER,46,0,3,19,0,60,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,,0.0,Sakhir Outer Track,Racing Point
+46,PER,47,0,3,19,0,60,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,,0.0,Sakhir Outer Track,Racing Point
+47,PER,48,0,9,19,0,60,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,,0.0,Sakhir Outer Track,Racing Point
+48,PER,49,0,9,19,0,59,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,,0.0,Sakhir Outer Track,Racing Point
+49,PER,50,0,9,19,0,59,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,,0.0,Sakhir Outer Track,Racing Point
+50,PER,51,0,9,19,0,59,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,,0.0,Sakhir Outer Track,Racing Point
+51,PER,52,0,8,19,0,59,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,,0.0,Sakhir Outer Track,Racing Point
+52,PER,53,0,8,19,0,59,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,,0.0,Sakhir Outer Track,Racing Point
+53,PER,54,0,7,19,0,59,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,,0.0,Sakhir Outer Track,Racing Point
+54,PER,55,0,7,19,0,59,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,,0.0,Sakhir Outer Track,Racing Point
+55,PER,56,0,4,19,0,59,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,,0.0,Sakhir Outer Track,Racing Point
+56,PER,57,0,3,19,0,59,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,,0.0,Sakhir Outer Track,Racing Point
+57,PER,58,0,3,19,0,58,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,,0.0,Sakhir Outer Track,Racing Point
+58,PER,59,0,3,19,0,58,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,,0.0,Sakhir Outer Track,Racing Point
+59,PER,60,0,3,19,0,58,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,,0.0,Sakhir Outer Track,Racing Point
+60,PER,61,0,3,19,0,58,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,,0.0,Sakhir Outer Track,Racing Point
+61,PER,62,0,3,19,0,58,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,,0.0,Sakhir Outer Track,Racing Point
+62,PER,63,0,2,19,0,58,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,,0.0,Sakhir Outer Track,Racing Point
+63,PER,64,0,1,19,0,57,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,,0.0,Sakhir Outer Track,Racing Point
+64,PER,65,0,1,19,0,56,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,,0.0,Sakhir Outer Track,Racing Point
+65,PER,66,0,1,19,0,56,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,,0.0,Sakhir Outer Track,Racing Point
+66,PER,67,0,1,19,0,55,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,,0.0,Sakhir Outer Track,Racing Point
+67,PER,68,0,1,19,0,55,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,,0.0,Sakhir Outer Track,Racing Point
+68,PER,69,0,1,19,0,55,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,,0.0,Sakhir Outer Track,Racing Point
+69,PER,70,0,1,19,0,55,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,,0.0,Sakhir Outer Track,Racing Point
+70,PER,71,0,1,19,0,55,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,,0.0,Sakhir Outer Track,Racing Point
+71,PER,72,0,1,19,0,55,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,,0.0,Sakhir Outer Track,Racing Point
+72,PER,73,0,1,19,0,55,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,,0.0,Sakhir Outer Track,Racing Point
+73,PER,74,0,1,19,0,56,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,,0.0,Sakhir Outer Track,Racing Point
+74,PER,75,0,1,19,0,56,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,,0.0,Sakhir Outer Track,Racing Point
+75,PER,76,0,1,19,0,56,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,,0.0,Sakhir Outer Track,Racing Point
+76,PER,77,0,1,19,0,56,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,,0.0,Sakhir Outer Track,Racing Point
+77,PER,78,0,1,19,0,56,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,,0.0,Sakhir Outer Track,Racing Point
+78,PER,79,0,1,19,0,56,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,,0.0,Sakhir Outer Track,Racing Point
+79,PER,80,0,1,19,0,56,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,,0.0,Sakhir Outer Track,Racing Point
+80,PER,81,0,1,19,0,56,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,,0.0,Sakhir Outer Track,Racing Point
+81,PER,82,0,1,19,0,56,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,,0.0,Sakhir Outer Track,Racing Point
+82,PER,83,0,1,19,0,56,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,,0.0,Sakhir Outer Track,Racing Point
+83,PER,84,0,1,19,0,57,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,,0.0,Sakhir Outer Track,Racing Point
+84,PER,85,0,1,19,0,57,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,,0.0,Sakhir Outer Track,Racing Point
+85,PER,86,0,1,19,0,57,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,,0.0,Sakhir Outer Track,Racing Point
+86,PER,87,0,1,19,1,57,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,,0.0,Sakhir Outer Track,Racing Point
+0,KVY,1,0,5,20,0,74,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,,0.0,Sakhir Outer Track,AlphaTauri
+1,KVY,2,0,5,20,0,74,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,,0.0,Sakhir Outer Track,AlphaTauri
+2,KVY,3,0,5,20,0,70,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,,0.0,Sakhir Outer Track,AlphaTauri
+3,KVY,4,0,5,20,0,63,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,,0.0,Sakhir Outer Track,AlphaTauri
+4,KVY,5,0,5,20,0,61,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,,0.0,Sakhir Outer Track,AlphaTauri
+5,KVY,6,0,5,20,0,59,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,,0.0,Sakhir Outer Track,AlphaTauri
+6,KVY,7,0,5,20,0,58,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,,0.0,Sakhir Outer Track,AlphaTauri
+7,KVY,8,0,5,20,0,58,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,,0.0,Sakhir Outer Track,AlphaTauri
+8,KVY,9,0,5,20,0,58,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,,0.0,Sakhir Outer Track,AlphaTauri
+9,KVY,10,0,5,20,0,58,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,,0.0,Sakhir Outer Track,AlphaTauri
+10,KVY,11,0,5,20,0,59,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,,0.0,Sakhir Outer Track,AlphaTauri
+11,KVY,12,0,5,20,0,60,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,,0.0,Sakhir Outer Track,AlphaTauri
+12,KVY,13,0,5,20,0,60,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,,0.0,Sakhir Outer Track,AlphaTauri
+13,KVY,14,0,5,20,0,60,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,,0.0,Sakhir Outer Track,AlphaTauri
+14,KVY,15,0,5,20,0,61,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,,0.0,Sakhir Outer Track,AlphaTauri
+15,KVY,16,0,5,20,0,61,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,,0.0,Sakhir Outer Track,AlphaTauri
+16,KVY,17,0,5,20,0,61,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,,0.0,Sakhir Outer Track,AlphaTauri
+17,KVY,18,0,5,20,0,61,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,,0.0,Sakhir Outer Track,AlphaTauri
+18,KVY,19,0,5,20,0,61,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,,0.0,Sakhir Outer Track,AlphaTauri
+19,KVY,20,0,5,20,0,62,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,,0.0,Sakhir Outer Track,AlphaTauri
+20,KVY,21,0,5,20,0,62,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,,0.0,Sakhir Outer Track,AlphaTauri
+21,KVY,22,0,5,20,0,63,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,,0.0,Sakhir Outer Track,AlphaTauri
+22,KVY,23,0,5,20,0,63,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,,0.0,Sakhir Outer Track,AlphaTauri
+23,KVY,24,0,5,20,0,64,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,,0.0,Sakhir Outer Track,AlphaTauri
+24,KVY,25,0,5,20,0,64,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,,0.0,Sakhir Outer Track,AlphaTauri
+25,KVY,26,0,5,20,0,65,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,,0.0,Sakhir Outer Track,AlphaTauri
+26,KVY,27,0,7,20,0,65,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,,0.0,Sakhir Outer Track,AlphaTauri
+27,KVY,28,0,11,20,0,66,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,,0.0,Sakhir Outer Track,AlphaTauri
+28,KVY,29,0,10,20,0,66,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,,0.0,Sakhir Outer Track,AlphaTauri
+29,KVY,30,0,9,20,0,67,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,,0.0,Sakhir Outer Track,AlphaTauri
+30,KVY,31,0,8,20,0,67,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,,0.0,Sakhir Outer Track,AlphaTauri
+31,KVY,32,0,8,20,0,67,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,,0.0,Sakhir Outer Track,AlphaTauri
+32,KVY,33,0,8,20,0,68,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,,0.0,Sakhir Outer Track,AlphaTauri
+33,KVY,34,0,8,20,0,68,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,,0.0,Sakhir Outer Track,AlphaTauri
+34,KVY,35,0,8,20,0,68,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,,0.0,Sakhir Outer Track,AlphaTauri
+35,KVY,36,0,8,20,0,69,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,,0.0,Sakhir Outer Track,AlphaTauri
+36,KVY,37,0,8,20,0,69,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,,0.0,Sakhir Outer Track,AlphaTauri
+37,KVY,38,0,8,20,0,69,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,,0.0,Sakhir Outer Track,AlphaTauri
+38,KVY,39,0,8,20,0,70,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,,0.0,Sakhir Outer Track,AlphaTauri
+39,KVY,40,0,8,20,0,70,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,,0.0,Sakhir Outer Track,AlphaTauri
+40,KVY,41,0,8,20,0,70,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,,0.0,Sakhir Outer Track,AlphaTauri
+41,KVY,42,0,7,20,0,70,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,,0.0,Sakhir Outer Track,AlphaTauri
+42,KVY,43,0,6,20,0,69,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,,0.0,Sakhir Outer Track,AlphaTauri
+43,KVY,44,0,6,20,0,69,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,,0.0,Sakhir Outer Track,AlphaTauri
+44,KVY,45,0,6,20,0,69,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,,0.0,Sakhir Outer Track,AlphaTauri
+45,KVY,46,0,6,20,0,69,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,,0.0,Sakhir Outer Track,AlphaTauri
+46,KVY,47,0,6,20,0,69,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,,0.0,Sakhir Outer Track,AlphaTauri
+47,KVY,48,0,4,20,0,69,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,,0.0,Sakhir Outer Track,AlphaTauri
+48,KVY,49,0,4,20,0,68,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,,0.0,Sakhir Outer Track,AlphaTauri
+49,KVY,50,0,4,20,0,68,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,,0.0,Sakhir Outer Track,AlphaTauri
+50,KVY,51,0,4,20,0,68,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,,0.0,Sakhir Outer Track,AlphaTauri
+51,KVY,52,0,4,20,0,68,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,,0.0,Sakhir Outer Track,AlphaTauri
+52,KVY,53,0,5,20,0,68,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,,0.0,Sakhir Outer Track,AlphaTauri
+53,KVY,54,0,10,20,0,68,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,,0.0,Sakhir Outer Track,AlphaTauri
+54,KVY,55,0,9,20,0,68,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,,0.0,Sakhir Outer Track,AlphaTauri
+55,KVY,56,0,9,20,0,68,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,,0.0,Sakhir Outer Track,AlphaTauri
+56,KVY,57,0,9,20,0,67,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,,0.0,Sakhir Outer Track,AlphaTauri
+57,KVY,58,0,9,20,0,67,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,,0.0,Sakhir Outer Track,AlphaTauri
+58,KVY,59,0,9,20,0,67,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,,0.0,Sakhir Outer Track,AlphaTauri
+59,KVY,60,0,9,20,0,67,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,,0.0,Sakhir Outer Track,AlphaTauri
+60,KVY,61,0,9,20,0,67,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,,0.0,Sakhir Outer Track,AlphaTauri
+61,KVY,62,0,9,20,0,67,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,,0.0,Sakhir Outer Track,AlphaTauri
+62,KVY,63,0,8,20,0,67,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,,0.0,Sakhir Outer Track,AlphaTauri
+63,KVY,64,0,8,20,0,67,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,,0.0,Sakhir Outer Track,AlphaTauri
+64,KVY,65,0,8,20,0,66,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,,0.0,Sakhir Outer Track,AlphaTauri
+65,KVY,66,0,8,20,0,66,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,,0.0,Sakhir Outer Track,AlphaTauri
+66,KVY,67,0,8,20,0,66,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,,0.0,Sakhir Outer Track,AlphaTauri
+67,KVY,68,0,8,20,0,66,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,,0.0,Sakhir Outer Track,AlphaTauri
+68,KVY,69,0,8,20,0,66,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,,0.0,Sakhir Outer Track,AlphaTauri
+69,KVY,70,0,8,20,0,66,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,,0.0,Sakhir Outer Track,AlphaTauri
+70,KVY,71,0,8,20,0,66,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,,0.0,Sakhir Outer Track,AlphaTauri
+71,KVY,72,0,9,20,0,66,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,,0.0,Sakhir Outer Track,AlphaTauri
+72,KVY,73,0,9,20,0,67,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,,0.0,Sakhir Outer Track,AlphaTauri
+73,KVY,74,0,9,20,0,67,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,,0.0,Sakhir Outer Track,AlphaTauri
+74,KVY,75,0,9,20,0,67,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,,0.0,Sakhir Outer Track,AlphaTauri
+75,KVY,76,0,9,20,0,67,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,,0.0,Sakhir Outer Track,AlphaTauri
+76,KVY,77,0,9,20,0,67,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,,0.0,Sakhir Outer Track,AlphaTauri
+77,KVY,78,0,8,20,0,67,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,,0.0,Sakhir Outer Track,AlphaTauri
+78,KVY,79,0,7,20,0,68,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,,0.0,Sakhir Outer Track,AlphaTauri
+79,KVY,80,0,7,20,0,68,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,,0.0,Sakhir Outer Track,AlphaTauri
+80,KVY,81,0,7,20,0,68,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,,0.0,Sakhir Outer Track,AlphaTauri
+81,KVY,82,0,7,20,0,68,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,,0.0,Sakhir Outer Track,AlphaTauri
+82,KVY,83,0,7,20,0,68,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,,0.0,Sakhir Outer Track,AlphaTauri
+83,KVY,84,0,7,20,0,69,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,,0.0,Sakhir Outer Track,AlphaTauri
+84,KVY,85,0,7,20,0,69,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,,0.0,Sakhir Outer Track,AlphaTauri
+85,KVY,86,0,7,20,0,69,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,,0.0,Sakhir Outer Track,AlphaTauri
+86,KVY,87,0,7,20,1,69,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,,0.0,Sakhir Outer Track,AlphaTauri
+0,RIC,1,0,4,1,0,52,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,S,3.0,Sakhir Outer Track,Renault
+1,RIC,2,0,4,1,0,59,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,0.0,Sakhir Outer Track,Renault
+2,RIC,3,0,4,1,0,59,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,1.0,Sakhir Outer Track,Renault
+3,RIC,4,0,4,1,0,58,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,2.0,Sakhir Outer Track,Renault
+4,RIC,5,0,4,1,0,58,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,3.0,Sakhir Outer Track,Renault
+5,RIC,6,0,4,1,0,58,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,M,4.0,Sakhir Outer Track,Renault
+6,RIC,7,0,4,1,0,58,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,5.0,Sakhir Outer Track,Renault
+7,RIC,8,0,4,1,0,59,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,6.0,Sakhir Outer Track,Renault
+8,RIC,9,0,4,1,0,60,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,7.0,Sakhir Outer Track,Renault
+9,RIC,10,0,4,1,0,60,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,8.0,Sakhir Outer Track,Renault
+10,RIC,11,0,4,1,0,60,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,M,9.0,Sakhir Outer Track,Renault
+11,RIC,12,0,4,1,0,61,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,10.0,Sakhir Outer Track,Renault
+12,RIC,13,0,4,1,0,61,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,11.0,Sakhir Outer Track,Renault
+13,RIC,14,0,4,1,0,61,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,12.0,Sakhir Outer Track,Renault
+14,RIC,15,0,4,1,0,61,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,13.0,Sakhir Outer Track,Renault
+15,RIC,16,0,4,1,0,61,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,14.0,Sakhir Outer Track,Renault
+16,RIC,17,0,4,1,0,62,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,15.0,Sakhir Outer Track,Renault
+17,RIC,18,0,4,1,0,62,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,16.0,Sakhir Outer Track,Renault
+18,RIC,19,0,4,1,0,62,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,17.0,Sakhir Outer Track,Renault
+19,RIC,20,0,4,1,0,62,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,18.0,Sakhir Outer Track,Renault
+20,RIC,21,0,4,1,0,62,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,19.0,Sakhir Outer Track,Renault
+21,RIC,22,0,4,1,0,62,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,20.0,Sakhir Outer Track,Renault
+22,RIC,23,0,4,1,0,63,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,21.0,Sakhir Outer Track,Renault
+23,RIC,24,0,4,1,0,63,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,M,22.0,Sakhir Outer Track,Renault
+24,RIC,25,0,4,1,0,63,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,23.0,Sakhir Outer Track,Renault
+25,RIC,26,0,4,1,0,63,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,24.0,Sakhir Outer Track,Renault
+26,RIC,27,0,4,1,0,63,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,25.0,Sakhir Outer Track,Renault
+27,RIC,28,0,3,1,0,64,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,26.0,Sakhir Outer Track,Renault
+28,RIC,29,0,4,1,0,64,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,27.0,Sakhir Outer Track,Renault
+29,RIC,30,0,10,1,0,64,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,28.0,Sakhir Outer Track,Renault
+30,RIC,31,0,9,1,0,64,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,29.0,Sakhir Outer Track,Renault
+31,RIC,32,0,9,1,0,64,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,30.0,Sakhir Outer Track,Renault
+32,RIC,33,0,9,1,0,64,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,31.0,Sakhir Outer Track,Renault
+33,RIC,34,0,9,1,0,64,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,32.0,Sakhir Outer Track,Renault
+34,RIC,35,0,9,1,0,65,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,33.0,Sakhir Outer Track,Renault
+35,RIC,36,0,9,1,0,65,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,34.0,Sakhir Outer Track,Renault
+36,RIC,37,0,9,1,0,65,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,35.0,Sakhir Outer Track,Renault
+37,RIC,38,0,9,1,0,65,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,36.0,Sakhir Outer Track,Renault
+38,RIC,39,0,9,1,0,65,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,37.0,Sakhir Outer Track,Renault
+39,RIC,40,0,9,1,0,65,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,38.0,Sakhir Outer Track,Renault
+40,RIC,41,0,9,1,0,67,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,39.0,Sakhir Outer Track,Renault
+41,RIC,42,0,8,1,0,69,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,40.0,Sakhir Outer Track,Renault
+42,RIC,43,0,7,1,0,71,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,41.0,Sakhir Outer Track,Renault
+43,RIC,44,0,7,1,0,73,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,42.0,Sakhir Outer Track,Renault
+44,RIC,45,0,7,1,0,74,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,43.0,Sakhir Outer Track,Renault
+45,RIC,46,0,7,1,0,75,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,44.0,Sakhir Outer Track,Renault
+46,RIC,47,0,7,1,0,76,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,45.0,Sakhir Outer Track,Renault
+47,RIC,48,0,5,1,0,76,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,H,0.0,Sakhir Outer Track,Renault
+48,RIC,49,0,5,1,0,77,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,1.0,Sakhir Outer Track,Renault
+49,RIC,50,0,5,1,0,78,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,2.0,Sakhir Outer Track,Renault
+50,RIC,51,0,5,1,0,79,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,3.0,Sakhir Outer Track,Renault
+51,RIC,52,0,5,1,0,81,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,4.0,Sakhir Outer Track,Renault
+52,RIC,53,0,4,1,0,82,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,5.0,Sakhir Outer Track,Renault
+53,RIC,54,0,4,1,0,83,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,6.0,Sakhir Outer Track,Renault
+54,RIC,55,0,4,1,0,83,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,7.0,Sakhir Outer Track,Renault
+55,RIC,56,0,8,1,0,84,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,8.0,Sakhir Outer Track,Renault
+56,RIC,57,0,8,1,0,84,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,9.0,Sakhir Outer Track,Renault
+57,RIC,58,0,8,1,0,85,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,10.0,Sakhir Outer Track,Renault
+58,RIC,59,0,8,1,0,85,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,11.0,Sakhir Outer Track,Renault
+59,RIC,60,0,8,1,0,85,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,12.0,Sakhir Outer Track,Renault
+60,RIC,61,0,8,1,0,85,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,13.0,Sakhir Outer Track,Renault
+61,RIC,62,0,8,1,0,85,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,14.0,Sakhir Outer Track,Renault
+62,RIC,63,0,7,1,0,85,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,15.0,Sakhir Outer Track,Renault
+63,RIC,64,0,7,1,0,85,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,16.0,Sakhir Outer Track,Renault
+64,RIC,65,0,7,1,0,85,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,H,17.0,Sakhir Outer Track,Renault
+65,RIC,66,0,7,1,0,86,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,18.0,Sakhir Outer Track,Renault
+66,RIC,67,0,7,1,0,86,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,H,19.0,Sakhir Outer Track,Renault
+67,RIC,68,0,7,1,0,87,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,H,20.0,Sakhir Outer Track,Renault
+68,RIC,69,0,7,1,0,87,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,H,21.0,Sakhir Outer Track,Renault
+69,RIC,70,0,7,1,0,87,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,H,22.0,Sakhir Outer Track,Renault
+70,RIC,71,0,7,1,0,88,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,23.0,Sakhir Outer Track,Renault
+71,RIC,72,0,7,1,0,88,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,H,24.0,Sakhir Outer Track,Renault
+72,RIC,73,0,7,1,0,88,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,H,25.0,Sakhir Outer Track,Renault
+73,RIC,74,0,7,1,0,89,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,H,26.0,Sakhir Outer Track,Renault
+74,RIC,75,0,7,1,0,89,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,H,27.0,Sakhir Outer Track,Renault
+75,RIC,76,0,7,1,0,90,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,H,28.0,Sakhir Outer Track,Renault
+76,RIC,77,0,6,1,0,90,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,29.0,Sakhir Outer Track,Renault
+77,RIC,78,0,6,1,0,91,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,30.0,Sakhir Outer Track,Renault
+78,RIC,79,0,5,1,0,91,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,31.0,Sakhir Outer Track,Renault
+79,RIC,80,0,5,1,0,91,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,H,32.0,Sakhir Outer Track,Renault
+80,RIC,81,0,5,1,0,92,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,H,33.0,Sakhir Outer Track,Renault
+81,RIC,82,0,5,1,0,92,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,H,34.0,Sakhir Outer Track,Renault
+82,RIC,83,0,5,1,0,92,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,H,35.0,Sakhir Outer Track,Renault
+83,RIC,84,0,5,1,0,93,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,H,36.0,Sakhir Outer Track,Renault
+84,RIC,85,0,5,1,0,93,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,H,37.0,Sakhir Outer Track,Renault
+85,RIC,86,0,5,1,0,93,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,H,38.0,Sakhir Outer Track,Renault
+86,RIC,87,0,5,1,0,94,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,H,39.0,Sakhir Outer Track,Renault
+0,SAI,1,0,3,7,0,48,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,S,3.0,Sakhir Outer Track,McLaren
+1,SAI,2,0,3,7,0,49,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,4.0,Sakhir Outer Track,McLaren
+2,SAI,3,0,3,7,0,45,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,5.0,Sakhir Outer Track,McLaren
+3,SAI,4,0,3,7,0,44,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,6.0,Sakhir Outer Track,McLaren
+4,SAI,5,0,3,7,0,44,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,7.0,Sakhir Outer Track,McLaren
+5,SAI,6,0,3,7,0,45,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,8.0,Sakhir Outer Track,McLaren
+6,SAI,7,0,3,7,0,45,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,9.0,Sakhir Outer Track,McLaren
+7,SAI,8,0,3,7,0,45,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,S,10.0,Sakhir Outer Track,McLaren
+8,SAI,9,0,3,7,0,46,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,11.0,Sakhir Outer Track,McLaren
+9,SAI,10,0,3,7,0,47,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,12.0,Sakhir Outer Track,McLaren
+10,SAI,11,0,3,7,0,48,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,S,13.0,Sakhir Outer Track,McLaren
+11,SAI,12,0,3,7,0,49,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,14.0,Sakhir Outer Track,McLaren
+12,SAI,13,0,3,7,0,50,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,15.0,Sakhir Outer Track,McLaren
+13,SAI,14,0,3,7,0,51,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,16.0,Sakhir Outer Track,McLaren
+14,SAI,15,0,3,7,0,51,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,17.0,Sakhir Outer Track,McLaren
+15,SAI,16,0,3,7,0,52,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,18.0,Sakhir Outer Track,McLaren
+16,SAI,17,0,3,7,0,52,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,S,19.0,Sakhir Outer Track,McLaren
+17,SAI,18,0,3,7,0,53,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,20.0,Sakhir Outer Track,McLaren
+18,SAI,19,0,3,7,0,53,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,S,21.0,Sakhir Outer Track,McLaren
+19,SAI,20,0,3,7,0,53,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,22.0,Sakhir Outer Track,McLaren
+20,SAI,21,0,3,7,0,54,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,S,23.0,Sakhir Outer Track,McLaren
+21,SAI,22,0,3,7,0,54,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,24.0,Sakhir Outer Track,McLaren
+22,SAI,23,0,3,7,0,55,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,25.0,Sakhir Outer Track,McLaren
+23,SAI,24,0,3,7,0,55,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,26.0,Sakhir Outer Track,McLaren
+24,SAI,25,0,3,7,0,55,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,S,27.0,Sakhir Outer Track,McLaren
+25,SAI,26,0,3,7,0,56,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,28.0,Sakhir Outer Track,McLaren
+26,SAI,27,0,3,7,0,56,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,S,29.0,Sakhir Outer Track,McLaren
+27,SAI,28,0,4,7,0,56,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,2.0,Sakhir Outer Track,McLaren
+28,SAI,29,0,9,7,0,56,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,3.0,Sakhir Outer Track,McLaren
+29,SAI,30,0,8,7,0,57,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,4.0,Sakhir Outer Track,McLaren
+30,SAI,31,0,7,7,0,57,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,5.0,Sakhir Outer Track,McLaren
+31,SAI,32,0,7,7,0,57,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,6.0,Sakhir Outer Track,McLaren
+32,SAI,33,0,7,7,0,57,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,7.0,Sakhir Outer Track,McLaren
+33,SAI,34,0,7,7,0,57,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,8.0,Sakhir Outer Track,McLaren
+34,SAI,35,0,7,7,0,57,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,9.0,Sakhir Outer Track,McLaren
+35,SAI,36,0,7,7,0,58,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,10.0,Sakhir Outer Track,McLaren
+36,SAI,37,0,7,7,0,58,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,11.0,Sakhir Outer Track,McLaren
+37,SAI,38,0,7,7,0,58,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,12.0,Sakhir Outer Track,McLaren
+38,SAI,39,0,7,7,0,58,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,13.0,Sakhir Outer Track,McLaren
+39,SAI,40,0,7,7,0,58,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,14.0,Sakhir Outer Track,McLaren
+40,SAI,41,0,7,7,0,58,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,15.0,Sakhir Outer Track,McLaren
+41,SAI,42,0,6,7,0,58,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,16.0,Sakhir Outer Track,McLaren
+42,SAI,43,0,5,7,0,58,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,17.0,Sakhir Outer Track,McLaren
+43,SAI,44,0,5,7,0,58,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,18.0,Sakhir Outer Track,McLaren
+44,SAI,45,0,5,7,0,58,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,19.0,Sakhir Outer Track,McLaren
+45,SAI,46,0,5,7,0,58,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,20.0,Sakhir Outer Track,McLaren
+46,SAI,47,0,4,7,0,58,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,21.0,Sakhir Outer Track,McLaren
+47,SAI,48,0,3,7,0,58,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,22.0,Sakhir Outer Track,McLaren
+48,SAI,49,0,3,7,0,58,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,23.0,Sakhir Outer Track,McLaren
+49,SAI,50,0,3,7,0,58,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,24.0,Sakhir Outer Track,McLaren
+50,SAI,51,0,3,7,0,58,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,25.0,Sakhir Outer Track,McLaren
+51,SAI,52,0,3,7,0,58,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,M,26.0,Sakhir Outer Track,McLaren
+52,SAI,53,0,3,7,0,58,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,M,27.0,Sakhir Outer Track,McLaren
+53,SAI,54,0,3,7,0,59,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,0.0,Sakhir Outer Track,McLaren
+54,SAI,55,0,3,7,0,58,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,1.0,Sakhir Outer Track,McLaren
+55,SAI,56,0,7,7,0,58,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,2.0,Sakhir Outer Track,McLaren
+56,SAI,57,0,7,7,0,58,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,3.0,Sakhir Outer Track,McLaren
+57,SAI,58,0,7,7,0,58,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,4.0,Sakhir Outer Track,McLaren
+58,SAI,59,0,7,7,0,58,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,5.0,Sakhir Outer Track,McLaren
+59,SAI,60,0,7,7,0,58,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,6.0,Sakhir Outer Track,McLaren
+60,SAI,61,0,7,7,0,58,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,7.0,Sakhir Outer Track,McLaren
+61,SAI,62,0,7,7,0,58,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,8.0,Sakhir Outer Track,McLaren
+62,SAI,63,0,6,7,0,57,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,9.0,Sakhir Outer Track,McLaren
+63,SAI,64,0,6,7,0,57,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,H,10.0,Sakhir Outer Track,McLaren
+64,SAI,65,0,6,7,0,57,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,11.0,Sakhir Outer Track,McLaren
+65,SAI,66,0,6,7,0,56,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,H,12.0,Sakhir Outer Track,McLaren
+66,SAI,67,0,6,7,0,56,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,H,13.0,Sakhir Outer Track,McLaren
+67,SAI,68,0,6,7,0,56,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,H,14.0,Sakhir Outer Track,McLaren
+68,SAI,69,0,6,7,0,56,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,H,15.0,Sakhir Outer Track,McLaren
+69,SAI,70,0,6,7,0,56,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,16.0,Sakhir Outer Track,McLaren
+70,SAI,71,0,6,7,0,56,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,H,17.0,Sakhir Outer Track,McLaren
+71,SAI,72,0,6,7,0,56,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,H,18.0,Sakhir Outer Track,McLaren
+72,SAI,73,0,6,7,0,56,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,H,19.0,Sakhir Outer Track,McLaren
+73,SAI,74,0,6,7,0,56,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,H,20.0,Sakhir Outer Track,McLaren
+74,SAI,75,0,6,7,0,56,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,H,21.0,Sakhir Outer Track,McLaren
+75,SAI,76,0,6,7,0,56,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,H,22.0,Sakhir Outer Track,McLaren
+76,SAI,77,0,5,7,0,57,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,23.0,Sakhir Outer Track,McLaren
+77,SAI,78,0,5,7,0,57,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,24.0,Sakhir Outer Track,McLaren
+78,SAI,79,0,4,7,0,57,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,H,25.0,Sakhir Outer Track,McLaren
+79,SAI,80,0,4,7,0,57,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,26.0,Sakhir Outer Track,McLaren
+80,SAI,81,0,4,7,0,57,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,H,27.0,Sakhir Outer Track,McLaren
+81,SAI,82,0,4,7,0,57,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,H,28.0,Sakhir Outer Track,McLaren
+82,SAI,83,0,4,7,0,57,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,H,29.0,Sakhir Outer Track,McLaren
+83,SAI,84,0,4,7,0,57,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,H,30.0,Sakhir Outer Track,McLaren
+84,SAI,85,0,4,7,0,58,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,H,31.0,Sakhir Outer Track,McLaren
+85,SAI,86,0,4,7,0,58,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,H,32.0,Sakhir Outer Track,McLaren
+86,SAI,87,0,4,7,0,58,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,H,33.0,Sakhir Outer Track,McLaren
+0,GAS,1,0,7,5,0,52,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,S,3.0,Sakhir Outer Track,AlphaTauri
+1,GAS,2,0,7,5,0,55,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,4.0,Sakhir Outer Track,AlphaTauri
+2,GAS,3,0,7,5,0,52,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,5.0,Sakhir Outer Track,AlphaTauri
+3,GAS,4,0,7,5,0,52,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,6.0,Sakhir Outer Track,AlphaTauri
+4,GAS,5,0,7,5,0,53,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,7.0,Sakhir Outer Track,AlphaTauri
+5,GAS,6,0,7,5,0,54,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,8.0,Sakhir Outer Track,AlphaTauri
+6,GAS,7,0,7,5,0,54,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,9.0,Sakhir Outer Track,AlphaTauri
+7,GAS,8,0,7,5,0,55,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,10.0,Sakhir Outer Track,AlphaTauri
+8,GAS,9,0,7,5,0,55,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,11.0,Sakhir Outer Track,AlphaTauri
+9,GAS,10,0,7,5,0,56,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,S,12.0,Sakhir Outer Track,AlphaTauri
+10,GAS,11,0,7,5,0,57,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,S,13.0,Sakhir Outer Track,AlphaTauri
+11,GAS,12,0,7,5,0,58,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,14.0,Sakhir Outer Track,AlphaTauri
+12,GAS,13,0,7,5,0,59,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,15.0,Sakhir Outer Track,AlphaTauri
+13,GAS,14,0,7,5,0,59,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,16.0,Sakhir Outer Track,AlphaTauri
+14,GAS,15,0,7,5,0,60,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,17.0,Sakhir Outer Track,AlphaTauri
+15,GAS,16,0,7,5,0,60,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,18.0,Sakhir Outer Track,AlphaTauri
+16,GAS,17,0,7,5,0,60,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,S,19.0,Sakhir Outer Track,AlphaTauri
+17,GAS,18,0,7,5,0,61,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,20.0,Sakhir Outer Track,AlphaTauri
+18,GAS,19,0,7,5,0,61,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,21.0,Sakhir Outer Track,AlphaTauri
+19,GAS,20,0,7,5,0,61,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,S,22.0,Sakhir Outer Track,AlphaTauri
+20,GAS,21,0,7,5,0,62,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,23.0,Sakhir Outer Track,AlphaTauri
+21,GAS,22,0,7,5,0,62,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,24.0,Sakhir Outer Track,AlphaTauri
+22,GAS,23,0,7,5,0,63,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,25.0,Sakhir Outer Track,AlphaTauri
+23,GAS,24,0,7,5,0,63,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,S,26.0,Sakhir Outer Track,AlphaTauri
+24,GAS,25,0,7,5,0,64,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,27.0,Sakhir Outer Track,AlphaTauri
+25,GAS,26,0,7,5,0,64,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,S,28.0,Sakhir Outer Track,AlphaTauri
+26,GAS,27,0,6,5,0,65,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,S,29.0,Sakhir Outer Track,AlphaTauri
+27,GAS,28,0,7,5,0,65,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,S,30.0,Sakhir Outer Track,AlphaTauri
+28,GAS,29,0,11,5,0,66,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,S,31.0,Sakhir Outer Track,AlphaTauri
+29,GAS,30,0,11,5,0,66,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,0.0,Sakhir Outer Track,AlphaTauri
+30,GAS,31,0,11,5,0,67,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,1.0,Sakhir Outer Track,AlphaTauri
+31,GAS,32,0,10,5,0,67,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,2.0,Sakhir Outer Track,AlphaTauri
+32,GAS,33,0,10,5,0,68,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,3.0,Sakhir Outer Track,AlphaTauri
+33,GAS,34,0,10,5,0,68,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,4.0,Sakhir Outer Track,AlphaTauri
+34,GAS,35,0,10,5,0,69,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,5.0,Sakhir Outer Track,AlphaTauri
+35,GAS,36,0,10,5,0,69,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,6.0,Sakhir Outer Track,AlphaTauri
+36,GAS,37,0,10,5,0,70,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,7.0,Sakhir Outer Track,AlphaTauri
+37,GAS,38,0,10,5,0,70,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,8.0,Sakhir Outer Track,AlphaTauri
+38,GAS,39,0,10,5,0,70,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,9.0,Sakhir Outer Track,AlphaTauri
+39,GAS,40,0,10,5,0,70,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,10.0,Sakhir Outer Track,AlphaTauri
+40,GAS,41,0,10,5,0,70,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,11.0,Sakhir Outer Track,AlphaTauri
+41,GAS,42,0,9,5,0,71,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,12.0,Sakhir Outer Track,AlphaTauri
+42,GAS,43,0,8,5,0,71,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,13.0,Sakhir Outer Track,AlphaTauri
+43,GAS,44,0,8,5,0,71,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,14.0,Sakhir Outer Track,AlphaTauri
+44,GAS,45,0,8,5,0,71,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,15.0,Sakhir Outer Track,AlphaTauri
+45,GAS,46,0,8,5,0,71,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,16.0,Sakhir Outer Track,AlphaTauri
+46,GAS,47,0,8,5,0,70,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,17.0,Sakhir Outer Track,AlphaTauri
+47,GAS,48,0,6,5,0,70,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,18.0,Sakhir Outer Track,AlphaTauri
+48,GAS,49,0,6,5,0,70,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,19.0,Sakhir Outer Track,AlphaTauri
+49,GAS,50,0,6,5,0,70,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,20.0,Sakhir Outer Track,AlphaTauri
+50,GAS,51,0,8,5,0,70,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,21.0,Sakhir Outer Track,AlphaTauri
+51,GAS,52,0,12,5,0,69,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,M,22.0,Sakhir Outer Track,AlphaTauri
+52,GAS,53,0,12,5,0,69,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,M,23.0,Sakhir Outer Track,AlphaTauri
+53,GAS,54,0,11,5,0,69,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,M,24.0,Sakhir Outer Track,AlphaTauri
+54,GAS,55,0,10,5,0,69,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,M,25.0,Sakhir Outer Track,AlphaTauri
+55,GAS,56,0,10,5,0,69,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,0.0,Sakhir Outer Track,AlphaTauri
+56,GAS,57,0,10,5,0,68,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,1.0,Sakhir Outer Track,AlphaTauri
+57,GAS,58,0,10,5,0,68,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,2.0,Sakhir Outer Track,AlphaTauri
+58,GAS,59,0,10,5,0,68,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,3.0,Sakhir Outer Track,AlphaTauri
+59,GAS,60,0,10,5,0,68,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,4.0,Sakhir Outer Track,AlphaTauri
+60,GAS,61,0,10,5,0,68,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,5.0,Sakhir Outer Track,AlphaTauri
+61,GAS,62,0,10,5,0,67,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,6.0,Sakhir Outer Track,AlphaTauri
+62,GAS,63,0,9,5,0,67,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,H,7.0,Sakhir Outer Track,AlphaTauri
+63,GAS,64,0,9,5,0,67,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,8.0,Sakhir Outer Track,AlphaTauri
+64,GAS,65,0,9,5,0,66,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,H,9.0,Sakhir Outer Track,AlphaTauri
+65,GAS,66,0,9,5,0,66,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,H,10.0,Sakhir Outer Track,AlphaTauri
+66,GAS,67,0,9,5,0,66,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,H,11.0,Sakhir Outer Track,AlphaTauri
+67,GAS,68,0,9,5,0,66,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,12.0,Sakhir Outer Track,AlphaTauri
+68,GAS,69,0,10,5,0,66,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,H,13.0,Sakhir Outer Track,AlphaTauri
+69,GAS,70,0,10,5,0,66,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,H,14.0,Sakhir Outer Track,AlphaTauri
+70,GAS,71,0,10,5,0,66,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,H,15.0,Sakhir Outer Track,AlphaTauri
+71,GAS,72,0,10,5,0,66,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,H,16.0,Sakhir Outer Track,AlphaTauri
+72,GAS,73,0,10,5,0,67,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,H,17.0,Sakhir Outer Track,AlphaTauri
+73,GAS,74,0,10,5,0,67,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,H,18.0,Sakhir Outer Track,AlphaTauri
+74,GAS,75,0,10,5,0,67,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,19.0,Sakhir Outer Track,AlphaTauri
+75,GAS,76,0,10,5,0,67,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,20.0,Sakhir Outer Track,AlphaTauri
+76,GAS,77,0,10,5,0,67,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,H,21.0,Sakhir Outer Track,AlphaTauri
+77,GAS,78,0,10,5,0,67,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,22.0,Sakhir Outer Track,AlphaTauri
+78,GAS,79,0,9,5,0,68,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,H,23.0,Sakhir Outer Track,AlphaTauri
+79,GAS,80,0,9,5,0,68,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,H,24.0,Sakhir Outer Track,AlphaTauri
+80,GAS,81,0,9,5,0,68,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,H,25.0,Sakhir Outer Track,AlphaTauri
+81,GAS,82,0,9,5,0,68,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,H,26.0,Sakhir Outer Track,AlphaTauri
+82,GAS,83,0,9,5,0,68,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,H,27.0,Sakhir Outer Track,AlphaTauri
+83,GAS,84,0,9,5,0,69,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,H,28.0,Sakhir Outer Track,AlphaTauri
+84,GAS,85,0,10,5,0,69,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,H,29.0,Sakhir Outer Track,AlphaTauri
+85,GAS,86,0,11,5,0,69,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,H,30.0,Sakhir Outer Track,AlphaTauri
+86,GAS,87,0,11,5,0,69,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,H,31.0,Sakhir Outer Track,AlphaTauri
+0,STR,1,0,6,4,0,44,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,S,3.0,Sakhir Outer Track,Racing Point
+1,STR,2,0,6,4,0,42,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,4.0,Sakhir Outer Track,Racing Point
+2,STR,3,0,6,4,0,42,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,5.0,Sakhir Outer Track,Racing Point
+3,STR,4,0,6,4,0,41,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,6.0,Sakhir Outer Track,Racing Point
+4,STR,5,0,6,4,0,42,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,7.0,Sakhir Outer Track,Racing Point
+5,STR,6,0,6,4,0,43,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,8.0,Sakhir Outer Track,Racing Point
+6,STR,7,0,6,4,0,42,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,9.0,Sakhir Outer Track,Racing Point
+7,STR,8,0,6,4,0,43,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,S,10.0,Sakhir Outer Track,Racing Point
+8,STR,9,0,6,4,0,43,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,11.0,Sakhir Outer Track,Racing Point
+9,STR,10,0,6,4,0,44,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,12.0,Sakhir Outer Track,Racing Point
+10,STR,11,0,6,4,0,45,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,S,13.0,Sakhir Outer Track,Racing Point
+11,STR,12,0,6,4,0,46,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,S,14.0,Sakhir Outer Track,Racing Point
+12,STR,13,0,6,4,0,47,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,15.0,Sakhir Outer Track,Racing Point
+13,STR,14,0,6,4,0,48,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,16.0,Sakhir Outer Track,Racing Point
+14,STR,15,0,6,4,0,48,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,17.0,Sakhir Outer Track,Racing Point
+15,STR,16,0,6,4,0,49,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,18.0,Sakhir Outer Track,Racing Point
+16,STR,17,0,6,4,0,49,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,19.0,Sakhir Outer Track,Racing Point
+17,STR,18,0,6,4,0,50,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,S,20.0,Sakhir Outer Track,Racing Point
+18,STR,19,0,6,4,0,50,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,S,21.0,Sakhir Outer Track,Racing Point
+19,STR,20,0,6,4,0,50,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,22.0,Sakhir Outer Track,Racing Point
+20,STR,21,0,6,4,0,51,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,S,23.0,Sakhir Outer Track,Racing Point
+21,STR,22,0,6,4,0,51,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,24.0,Sakhir Outer Track,Racing Point
+22,STR,23,0,6,4,0,52,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,S,25.0,Sakhir Outer Track,Racing Point
+23,STR,24,0,6,4,0,52,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,26.0,Sakhir Outer Track,Racing Point
+24,STR,25,0,6,4,0,52,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,27.0,Sakhir Outer Track,Racing Point
+25,STR,26,0,6,4,0,53,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,28.0,Sakhir Outer Track,Racing Point
+26,STR,27,0,5,4,0,53,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,S,29.0,Sakhir Outer Track,Racing Point
+27,STR,28,0,5,4,0,53,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,30.0,Sakhir Outer Track,Racing Point
+28,STR,29,0,3,4,0,53,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,0.0,Sakhir Outer Track,Racing Point
+29,STR,30,0,3,4,0,54,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,1.0,Sakhir Outer Track,Racing Point
+30,STR,31,0,3,4,0,54,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,2.0,Sakhir Outer Track,Racing Point
+31,STR,32,0,3,4,0,54,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,3.0,Sakhir Outer Track,Racing Point
+32,STR,33,0,3,4,0,54,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,4.0,Sakhir Outer Track,Racing Point
+33,STR,34,0,3,4,0,55,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,5.0,Sakhir Outer Track,Racing Point
+34,STR,35,0,3,4,0,55,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,6.0,Sakhir Outer Track,Racing Point
+35,STR,36,0,3,4,0,55,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,7.0,Sakhir Outer Track,Racing Point
+36,STR,37,0,3,4,0,55,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,8.0,Sakhir Outer Track,Racing Point
+37,STR,38,0,3,4,0,56,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,9.0,Sakhir Outer Track,Racing Point
+38,STR,39,0,3,4,0,56,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,10.0,Sakhir Outer Track,Racing Point
+39,STR,40,0,3,4,0,56,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,11.0,Sakhir Outer Track,Racing Point
+40,STR,41,0,3,4,0,56,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,12.0,Sakhir Outer Track,Racing Point
+41,STR,42,0,3,4,0,56,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,13.0,Sakhir Outer Track,Racing Point
+42,STR,43,0,10,4,0,56,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,14.0,Sakhir Outer Track,Racing Point
+43,STR,44,0,10,4,0,56,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,15.0,Sakhir Outer Track,Racing Point
+44,STR,45,0,10,4,0,56,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,16.0,Sakhir Outer Track,Racing Point
+45,STR,46,0,10,4,0,56,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,17.0,Sakhir Outer Track,Racing Point
+46,STR,47,0,10,4,0,56,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,18.0,Sakhir Outer Track,Racing Point
+47,STR,48,0,8,4,0,56,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,19.0,Sakhir Outer Track,Racing Point
+48,STR,49,0,8,4,0,56,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,20.0,Sakhir Outer Track,Racing Point
+49,STR,50,0,8,4,0,56,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,21.0,Sakhir Outer Track,Racing Point
+50,STR,51,0,7,4,0,56,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,22.0,Sakhir Outer Track,Racing Point
+51,STR,52,0,7,4,0,56,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,23.0,Sakhir Outer Track,Racing Point
+52,STR,53,0,7,4,0,56,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,24.0,Sakhir Outer Track,Racing Point
+53,STR,54,0,6,4,0,56,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,M,25.0,Sakhir Outer Track,Racing Point
+54,STR,55,0,6,4,0,56,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,M,26.0,Sakhir Outer Track,Racing Point
+55,STR,56,0,5,4,0,56,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,M,0.0,Sakhir Outer Track,Racing Point
+56,STR,57,0,5,4,0,56,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,M,1.0,Sakhir Outer Track,Racing Point
+57,STR,58,0,5,4,0,56,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,M,2.0,Sakhir Outer Track,Racing Point
+58,STR,59,0,5,4,0,56,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,M,3.0,Sakhir Outer Track,Racing Point
+59,STR,60,0,5,4,0,56,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,M,4.0,Sakhir Outer Track,Racing Point
+60,STR,61,0,5,4,0,56,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,M,5.0,Sakhir Outer Track,Racing Point
+61,STR,62,0,5,4,0,56,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,M,6.0,Sakhir Outer Track,Racing Point
+62,STR,63,0,4,4,0,55,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,M,7.0,Sakhir Outer Track,Racing Point
+63,STR,64,0,3,4,0,55,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,M,8.0,Sakhir Outer Track,Racing Point
+64,STR,65,0,3,4,0,54,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,M,9.0,Sakhir Outer Track,Racing Point
+65,STR,66,0,3,4,0,54,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,M,10.0,Sakhir Outer Track,Racing Point
+66,STR,67,0,3,4,0,54,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,M,11.0,Sakhir Outer Track,Racing Point
+67,STR,68,0,3,4,0,53,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,M,12.0,Sakhir Outer Track,Racing Point
+68,STR,69,0,3,4,0,53,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,M,13.0,Sakhir Outer Track,Racing Point
+69,STR,70,0,3,4,0,54,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,M,14.0,Sakhir Outer Track,Racing Point
+70,STR,71,0,3,4,0,54,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,M,15.0,Sakhir Outer Track,Racing Point
+71,STR,72,0,4,4,0,54,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,M,16.0,Sakhir Outer Track,Racing Point
+72,STR,73,0,4,4,0,54,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,M,17.0,Sakhir Outer Track,Racing Point
+73,STR,74,0,4,4,0,54,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,M,18.0,Sakhir Outer Track,Racing Point
+74,STR,75,0,4,4,0,54,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,M,19.0,Sakhir Outer Track,Racing Point
+75,STR,76,0,4,4,0,54,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,M,20.0,Sakhir Outer Track,Racing Point
+76,STR,77,0,4,4,0,55,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,M,21.0,Sakhir Outer Track,Racing Point
+77,STR,78,0,4,4,0,55,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,M,22.0,Sakhir Outer Track,Racing Point
+78,STR,79,0,3,4,0,55,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,M,23.0,Sakhir Outer Track,Racing Point
+79,STR,80,0,3,4,0,55,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,M,24.0,Sakhir Outer Track,Racing Point
+80,STR,81,0,3,4,0,55,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,M,25.0,Sakhir Outer Track,Racing Point
+81,STR,82,0,3,4,0,55,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,M,26.0,Sakhir Outer Track,Racing Point
+82,STR,83,0,3,4,0,56,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,M,27.0,Sakhir Outer Track,Racing Point
+83,STR,84,0,3,4,0,56,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,M,28.0,Sakhir Outer Track,Racing Point
+84,STR,85,0,3,4,0,56,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,M,29.0,Sakhir Outer Track,Racing Point
+85,STR,86,0,3,4,0,56,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,M,30.0,Sakhir Outer Track,Racing Point
+86,STR,87,0,3,4,0,56,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,M,31.0,Sakhir Outer Track,Racing Point
+0,OCO,1,0,8,11,0,46,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,3.0,Sakhir Outer Track,Renault
+1,OCO,2,0,8,11,0,47,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,4.0,Sakhir Outer Track,Renault
+2,OCO,3,0,8,11,0,47,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,5.0,Sakhir Outer Track,Renault
+3,OCO,4,0,8,11,0,47,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,6.0,Sakhir Outer Track,Renault
+4,OCO,5,0,8,11,0,47,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,7.0,Sakhir Outer Track,Renault
+5,OCO,6,0,8,11,0,47,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,8.0,Sakhir Outer Track,Renault
+6,OCO,7,0,8,11,0,46,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,S,9.0,Sakhir Outer Track,Renault
+7,OCO,8,0,8,11,0,46,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,10.0,Sakhir Outer Track,Renault
+8,OCO,9,0,8,11,0,47,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,11.0,Sakhir Outer Track,Renault
+9,OCO,10,0,8,11,0,47,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,S,12.0,Sakhir Outer Track,Renault
+10,OCO,11,0,8,11,0,48,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,13.0,Sakhir Outer Track,Renault
+11,OCO,12,0,8,11,0,49,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,14.0,Sakhir Outer Track,Renault
+12,OCO,13,0,8,11,0,50,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,15.0,Sakhir Outer Track,Renault
+13,OCO,14,0,8,11,0,50,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,16.0,Sakhir Outer Track,Renault
+14,OCO,15,0,8,11,0,51,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,17.0,Sakhir Outer Track,Renault
+15,OCO,16,0,8,11,0,51,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,S,18.0,Sakhir Outer Track,Renault
+16,OCO,17,0,8,11,0,51,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,S,19.0,Sakhir Outer Track,Renault
+17,OCO,18,0,8,11,0,52,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,20.0,Sakhir Outer Track,Renault
+18,OCO,19,0,8,11,0,52,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,S,21.0,Sakhir Outer Track,Renault
+19,OCO,20,0,8,11,0,53,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,22.0,Sakhir Outer Track,Renault
+20,OCO,21,0,8,11,0,53,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,S,23.0,Sakhir Outer Track,Renault
+21,OCO,22,0,8,11,0,54,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,24.0,Sakhir Outer Track,Renault
+22,OCO,23,0,8,11,0,54,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,25.0,Sakhir Outer Track,Renault
+23,OCO,24,0,8,11,0,55,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,26.0,Sakhir Outer Track,Renault
+24,OCO,25,0,8,11,0,55,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,S,27.0,Sakhir Outer Track,Renault
+25,OCO,26,0,8,11,0,55,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,28.0,Sakhir Outer Track,Renault
+26,OCO,27,0,8,11,0,56,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,S,29.0,Sakhir Outer Track,Renault
+27,OCO,28,0,6,11,0,56,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,S,30.0,Sakhir Outer Track,Renault
+28,OCO,29,0,5,11,0,56,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,6.0,Sakhir Outer Track,Renault
+29,OCO,30,0,4,11,0,57,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,7.0,Sakhir Outer Track,Renault
+30,OCO,31,0,4,11,0,57,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,8.0,Sakhir Outer Track,Renault
+31,OCO,32,0,4,11,0,58,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,9.0,Sakhir Outer Track,Renault
+32,OCO,33,0,4,11,0,58,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,10.0,Sakhir Outer Track,Renault
+33,OCO,34,0,4,11,0,58,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,11.0,Sakhir Outer Track,Renault
+34,OCO,35,0,4,11,0,58,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,12.0,Sakhir Outer Track,Renault
+35,OCO,36,0,4,11,0,59,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,13.0,Sakhir Outer Track,Renault
+36,OCO,37,0,4,11,0,59,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,14.0,Sakhir Outer Track,Renault
+37,OCO,38,0,4,11,0,59,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,15.0,Sakhir Outer Track,Renault
+38,OCO,39,0,4,11,0,59,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,16.0,Sakhir Outer Track,Renault
+39,OCO,40,0,4,11,0,60,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,17.0,Sakhir Outer Track,Renault
+40,OCO,41,0,5,11,0,60,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,18.0,Sakhir Outer Track,Renault
+41,OCO,42,0,10,11,0,60,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,19.0,Sakhir Outer Track,Renault
+42,OCO,43,0,9,11,0,60,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,20.0,Sakhir Outer Track,Renault
+43,OCO,44,0,9,11,0,60,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,21.0,Sakhir Outer Track,Renault
+44,OCO,45,0,9,11,0,60,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,22.0,Sakhir Outer Track,Renault
+45,OCO,46,0,9,11,0,60,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,23.0,Sakhir Outer Track,Renault
+46,OCO,47,0,9,11,0,60,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,24.0,Sakhir Outer Track,Renault
+47,OCO,48,0,7,11,0,60,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,25.0,Sakhir Outer Track,Renault
+48,OCO,49,0,7,11,0,60,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,26.0,Sakhir Outer Track,Renault
+49,OCO,50,0,7,11,0,60,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,27.0,Sakhir Outer Track,Renault
+50,OCO,51,0,6,11,0,60,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,28.0,Sakhir Outer Track,Renault
+51,OCO,52,0,6,11,0,60,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,0.0,Sakhir Outer Track,Renault
+52,OCO,53,0,6,11,0,60,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,1.0,Sakhir Outer Track,Renault
+53,OCO,54,0,5,11,0,60,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,2.0,Sakhir Outer Track,Renault
+54,OCO,55,0,5,11,0,60,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,3.0,Sakhir Outer Track,Renault
+55,OCO,56,0,3,11,0,60,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,4.0,Sakhir Outer Track,Renault
+56,OCO,57,0,4,11,0,60,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,5.0,Sakhir Outer Track,Renault
+57,OCO,58,0,4,11,0,60,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,6.0,Sakhir Outer Track,Renault
+58,OCO,59,0,4,11,0,60,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,7.0,Sakhir Outer Track,Renault
+59,OCO,60,0,4,11,0,60,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,8.0,Sakhir Outer Track,Renault
+60,OCO,61,0,4,11,0,60,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,9.0,Sakhir Outer Track,Renault
+61,OCO,62,0,4,11,0,60,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,10.0,Sakhir Outer Track,Renault
+62,OCO,63,0,3,11,0,60,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,11.0,Sakhir Outer Track,Renault
+63,OCO,64,0,2,11,0,59,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,12.0,Sakhir Outer Track,Renault
+64,OCO,65,0,2,11,0,59,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,H,13.0,Sakhir Outer Track,Renault
+65,OCO,66,0,2,11,0,58,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,14.0,Sakhir Outer Track,Renault
+66,OCO,67,0,2,11,0,58,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,H,15.0,Sakhir Outer Track,Renault
+67,OCO,68,0,2,11,0,58,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,H,16.0,Sakhir Outer Track,Renault
+68,OCO,69,0,2,11,0,58,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,H,17.0,Sakhir Outer Track,Renault
+69,OCO,70,0,2,11,0,58,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,H,18.0,Sakhir Outer Track,Renault
+70,OCO,71,0,2,11,0,58,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,19.0,Sakhir Outer Track,Renault
+71,OCO,72,0,2,11,0,58,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,H,20.0,Sakhir Outer Track,Renault
+72,OCO,73,0,3,11,0,58,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,H,21.0,Sakhir Outer Track,Renault
+73,OCO,74,0,3,11,0,58,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,H,22.0,Sakhir Outer Track,Renault
+74,OCO,75,0,3,11,0,59,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,H,23.0,Sakhir Outer Track,Renault
+75,OCO,76,0,3,11,0,59,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,H,24.0,Sakhir Outer Track,Renault
+76,OCO,77,0,3,11,0,59,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,25.0,Sakhir Outer Track,Renault
+77,OCO,78,0,3,11,0,59,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,26.0,Sakhir Outer Track,Renault
+78,OCO,79,0,2,11,0,59,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,H,27.0,Sakhir Outer Track,Renault
+79,OCO,80,0,2,11,0,59,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,28.0,Sakhir Outer Track,Renault
+80,OCO,81,0,2,11,0,59,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,H,29.0,Sakhir Outer Track,Renault
+81,OCO,82,0,2,11,0,60,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,H,30.0,Sakhir Outer Track,Renault
+82,OCO,83,0,2,11,0,60,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,H,31.0,Sakhir Outer Track,Renault
+83,OCO,84,0,2,11,0,60,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,H,32.0,Sakhir Outer Track,Renault
+84,OCO,85,0,2,11,0,60,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,H,33.0,Sakhir Outer Track,Renault
+85,OCO,86,0,2,11,0,60,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,H,34.0,Sakhir Outer Track,Renault
+86,OCO,87,0,2,11,0,60,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,H,35.0,Sakhir Outer Track,Renault
+0,ALB,1,0,12,3,0,44,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,S,3.0,Sakhir Outer Track,Red Bull Racing
+1,ALB,2,0,12,3,0,42,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,4.0,Sakhir Outer Track,Red Bull Racing
+2,ALB,3,0,12,3,0,40,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,5.0,Sakhir Outer Track,Red Bull Racing
+3,ALB,4,0,12,3,0,40,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,6.0,Sakhir Outer Track,Red Bull Racing
+4,ALB,5,0,11,3,0,41,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,7.0,Sakhir Outer Track,Red Bull Racing
+5,ALB,6,0,11,3,0,42,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,8.0,Sakhir Outer Track,Red Bull Racing
+6,ALB,7,0,11,3,0,43,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,9.0,Sakhir Outer Track,Red Bull Racing
+7,ALB,8,0,10,3,0,43,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,S,10.0,Sakhir Outer Track,Red Bull Racing
+8,ALB,9,0,11,3,0,44,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,11.0,Sakhir Outer Track,Red Bull Racing
+9,ALB,10,0,11,3,0,45,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,12.0,Sakhir Outer Track,Red Bull Racing
+10,ALB,11,0,10,3,0,46,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,S,13.0,Sakhir Outer Track,Red Bull Racing
+11,ALB,12,0,10,3,0,47,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,S,14.0,Sakhir Outer Track,Red Bull Racing
+12,ALB,13,0,10,3,0,48,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,15.0,Sakhir Outer Track,Red Bull Racing
+13,ALB,14,0,10,3,0,49,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,16.0,Sakhir Outer Track,Red Bull Racing
+14,ALB,15,0,10,3,0,49,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,17.0,Sakhir Outer Track,Red Bull Racing
+15,ALB,16,0,10,3,0,50,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,18.0,Sakhir Outer Track,Red Bull Racing
+16,ALB,17,0,10,3,0,50,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,19.0,Sakhir Outer Track,Red Bull Racing
+17,ALB,18,0,10,3,0,51,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,S,20.0,Sakhir Outer Track,Red Bull Racing
+18,ALB,19,0,10,3,0,51,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,S,21.0,Sakhir Outer Track,Red Bull Racing
+19,ALB,20,0,9,3,0,52,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,22.0,Sakhir Outer Track,Red Bull Racing
+20,ALB,21,0,10,3,0,52,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,S,23.0,Sakhir Outer Track,Red Bull Racing
+21,ALB,22,0,10,3,0,53,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,24.0,Sakhir Outer Track,Red Bull Racing
+22,ALB,23,0,10,3,0,53,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,S,25.0,Sakhir Outer Track,Red Bull Racing
+23,ALB,24,0,10,3,0,53,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,26.0,Sakhir Outer Track,Red Bull Racing
+24,ALB,25,0,10,3,0,54,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,27.0,Sakhir Outer Track,Red Bull Racing
+25,ALB,26,0,10,3,0,54,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,28.0,Sakhir Outer Track,Red Bull Racing
+26,ALB,27,0,10,3,0,54,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,S,29.0,Sakhir Outer Track,Red Bull Racing
+27,ALB,28,0,9,3,0,55,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,30.0,Sakhir Outer Track,Red Bull Racing
+28,ALB,29,0,7,3,0,55,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,S,31.0,Sakhir Outer Track,Red Bull Racing
+29,ALB,30,0,6,3,0,55,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,S,32.0,Sakhir Outer Track,Red Bull Racing
+30,ALB,31,0,6,3,0,56,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,S,33.0,Sakhir Outer Track,Red Bull Racing
+31,ALB,32,0,6,3,0,56,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,S,34.0,Sakhir Outer Track,Red Bull Racing
+32,ALB,33,0,6,3,0,56,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,S,35.0,Sakhir Outer Track,Red Bull Racing
+33,ALB,34,0,6,3,0,57,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,S,36.0,Sakhir Outer Track,Red Bull Racing
+34,ALB,35,0,6,3,0,57,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,S,37.0,Sakhir Outer Track,Red Bull Racing
+35,ALB,36,0,6,3,0,57,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,S,38.0,Sakhir Outer Track,Red Bull Racing
+36,ALB,37,0,6,3,0,57,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,S,39.0,Sakhir Outer Track,Red Bull Racing
+37,ALB,38,0,6,3,0,58,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,S,40.0,Sakhir Outer Track,Red Bull Racing
+38,ALB,39,0,6,3,0,58,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,S,41.0,Sakhir Outer Track,Red Bull Racing
+39,ALB,40,0,6,3,0,58,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,S,42.0,Sakhir Outer Track,Red Bull Racing
+40,ALB,41,0,6,3,0,58,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,S,43.0,Sakhir Outer Track,Red Bull Racing
+41,ALB,42,0,5,3,0,58,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,S,44.0,Sakhir Outer Track,Red Bull Racing
+42,ALB,43,0,4,3,0,58,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,0.0,Sakhir Outer Track,Red Bull Racing
+43,ALB,44,0,4,3,0,58,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,1.0,Sakhir Outer Track,Red Bull Racing
+44,ALB,45,0,4,3,0,58,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,2.0,Sakhir Outer Track,Red Bull Racing
+45,ALB,46,0,4,3,0,58,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,3.0,Sakhir Outer Track,Red Bull Racing
+46,ALB,47,0,5,3,0,58,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,4.0,Sakhir Outer Track,Red Bull Racing
+47,ALB,48,0,11,3,0,58,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,5.0,Sakhir Outer Track,Red Bull Racing
+48,ALB,49,0,11,3,0,58,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,6.0,Sakhir Outer Track,Red Bull Racing
+49,ALB,50,0,11,3,0,58,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,7.0,Sakhir Outer Track,Red Bull Racing
+50,ALB,51,0,11,3,0,58,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,8.0,Sakhir Outer Track,Red Bull Racing
+51,ALB,52,0,9,3,0,59,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,9.0,Sakhir Outer Track,Red Bull Racing
+52,ALB,53,0,9,3,0,59,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,10.0,Sakhir Outer Track,Red Bull Racing
+53,ALB,54,0,8,3,0,59,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,11.0,Sakhir Outer Track,Red Bull Racing
+54,ALB,55,0,8,3,0,59,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,M,12.0,Sakhir Outer Track,Red Bull Racing
+55,ALB,56,0,6,3,0,59,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,M,13.0,Sakhir Outer Track,Red Bull Racing
+56,ALB,57,0,6,3,0,59,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,M,14.0,Sakhir Outer Track,Red Bull Racing
+57,ALB,58,0,6,3,0,59,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,M,15.0,Sakhir Outer Track,Red Bull Racing
+58,ALB,59,0,6,3,0,59,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,M,16.0,Sakhir Outer Track,Red Bull Racing
+59,ALB,60,0,6,3,0,59,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,M,17.0,Sakhir Outer Track,Red Bull Racing
+60,ALB,61,0,6,3,0,59,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,M,18.0,Sakhir Outer Track,Red Bull Racing
+61,ALB,62,0,6,3,0,58,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,M,19.0,Sakhir Outer Track,Red Bull Racing
+62,ALB,63,0,10,3,0,58,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,M,20.0,Sakhir Outer Track,Red Bull Racing
+63,ALB,64,0,10,3,0,58,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,M,21.0,Sakhir Outer Track,Red Bull Racing
+64,ALB,65,0,10,3,0,57,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,M,22.0,Sakhir Outer Track,Red Bull Racing
+65,ALB,66,0,10,3,0,56,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,M,23.0,Sakhir Outer Track,Red Bull Racing
+66,ALB,67,0,10,3,0,57,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,M,24.0,Sakhir Outer Track,Red Bull Racing
+67,ALB,68,0,10,3,0,57,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,M,25.0,Sakhir Outer Track,Red Bull Racing
+68,ALB,69,0,9,3,0,58,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,M,26.0,Sakhir Outer Track,Red Bull Racing
+69,ALB,70,0,9,3,0,59,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,M,27.0,Sakhir Outer Track,Red Bull Racing
+70,ALB,71,0,9,3,0,60,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,M,28.0,Sakhir Outer Track,Red Bull Racing
+71,ALB,72,0,8,3,0,61,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,M,29.0,Sakhir Outer Track,Red Bull Racing
+72,ALB,73,0,8,3,0,63,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,M,30.0,Sakhir Outer Track,Red Bull Racing
+73,ALB,74,0,8,3,0,64,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,M,31.0,Sakhir Outer Track,Red Bull Racing
+74,ALB,75,0,8,3,0,65,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,M,32.0,Sakhir Outer Track,Red Bull Racing
+75,ALB,76,0,8,3,0,66,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,M,33.0,Sakhir Outer Track,Red Bull Racing
+76,ALB,77,0,8,3,0,67,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,M,34.0,Sakhir Outer Track,Red Bull Racing
+77,ALB,78,0,7,3,0,68,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,M,35.0,Sakhir Outer Track,Red Bull Racing
+78,ALB,79,0,6,3,0,69,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,M,36.0,Sakhir Outer Track,Red Bull Racing
+79,ALB,80,0,6,3,0,70,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,M,37.0,Sakhir Outer Track,Red Bull Racing
+80,ALB,81,0,6,3,0,70,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,M,38.0,Sakhir Outer Track,Red Bull Racing
+81,ALB,82,0,6,3,0,71,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,M,39.0,Sakhir Outer Track,Red Bull Racing
+82,ALB,83,0,6,3,0,72,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,M,40.0,Sakhir Outer Track,Red Bull Racing
+83,ALB,84,0,6,3,0,73,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,M,41.0,Sakhir Outer Track,Red Bull Racing
+84,ALB,85,0,6,3,0,73,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,M,42.0,Sakhir Outer Track,Red Bull Racing
+85,ALB,86,0,6,3,0,74,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,M,43.0,Sakhir Outer Track,Red Bull Racing
+86,ALB,87,0,6,3,0,75,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,M,44.0,Sakhir Outer Track,Red Bull Racing
+0,VET,1,0,9,2,0,53,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,0.0,Sakhir Outer Track,Ferrari
+1,VET,2,0,9,2,0,50,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,1.0,Sakhir Outer Track,Ferrari
+2,VET,3,0,9,2,0,50,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,2.0,Sakhir Outer Track,Ferrari
+3,VET,4,0,9,2,0,50,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,3.0,Sakhir Outer Track,Ferrari
+4,VET,5,0,9,2,0,50,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,4.0,Sakhir Outer Track,Ferrari
+5,VET,6,0,9,2,0,50,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,5.0,Sakhir Outer Track,Ferrari
+6,VET,7,0,9,2,0,50,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,6.0,Sakhir Outer Track,Ferrari
+7,VET,8,0,11,2,0,50,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,7.0,Sakhir Outer Track,Ferrari
+8,VET,9,0,10,2,0,50,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,8.0,Sakhir Outer Track,Ferrari
+9,VET,10,0,10,2,0,51,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,9.0,Sakhir Outer Track,Ferrari
+10,VET,11,0,12,2,0,52,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,10.0,Sakhir Outer Track,Ferrari
+11,VET,12,0,12,2,0,52,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,11.0,Sakhir Outer Track,Ferrari
+12,VET,13,0,12,2,0,53,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,12.0,Sakhir Outer Track,Ferrari
+13,VET,14,0,12,2,0,54,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,13.0,Sakhir Outer Track,Ferrari
+14,VET,15,0,12,2,0,54,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,14.0,Sakhir Outer Track,Ferrari
+15,VET,16,0,12,2,0,55,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,15.0,Sakhir Outer Track,Ferrari
+16,VET,17,0,12,2,0,55,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,16.0,Sakhir Outer Track,Ferrari
+17,VET,18,0,12,2,0,56,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,17.0,Sakhir Outer Track,Ferrari
+18,VET,19,0,12,2,0,56,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,18.0,Sakhir Outer Track,Ferrari
+19,VET,20,0,12,2,0,56,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,19.0,Sakhir Outer Track,Ferrari
+20,VET,21,0,11,2,0,57,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,20.0,Sakhir Outer Track,Ferrari
+21,VET,22,0,11,2,0,57,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,M,21.0,Sakhir Outer Track,Ferrari
+22,VET,23,0,11,2,0,57,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,22.0,Sakhir Outer Track,Ferrari
+23,VET,24,0,11,2,0,58,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,23.0,Sakhir Outer Track,Ferrari
+24,VET,25,0,11,2,0,58,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,24.0,Sakhir Outer Track,Ferrari
+25,VET,26,0,11,2,0,58,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,25.0,Sakhir Outer Track,Ferrari
+26,VET,27,0,11,2,0,59,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,26.0,Sakhir Outer Track,Ferrari
+27,VET,28,0,10,2,0,59,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,27.0,Sakhir Outer Track,Ferrari
+28,VET,29,0,8,2,0,59,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,28.0,Sakhir Outer Track,Ferrari
+29,VET,30,0,7,2,0,59,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,29.0,Sakhir Outer Track,Ferrari
+30,VET,31,0,10,2,0,60,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,30.0,Sakhir Outer Track,Ferrari
+31,VET,32,0,12,2,0,60,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,31.0,Sakhir Outer Track,Ferrari
+32,VET,33,0,12,2,0,60,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,32.0,Sakhir Outer Track,Ferrari
+33,VET,34,0,12,2,0,60,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,33.0,Sakhir Outer Track,Ferrari
+34,VET,35,0,12,2,0,61,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,34.0,Sakhir Outer Track,Ferrari
+35,VET,36,0,12,2,0,61,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,35.0,Sakhir Outer Track,Ferrari
+36,VET,37,0,12,2,0,61,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,36.0,Sakhir Outer Track,Ferrari
+37,VET,38,0,12,2,0,61,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,37.0,Sakhir Outer Track,Ferrari
+38,VET,39,0,12,2,0,61,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,38.0,Sakhir Outer Track,Ferrari
+39,VET,40,0,12,2,0,61,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,39.0,Sakhir Outer Track,Ferrari
+40,VET,41,0,12,2,0,61,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,40.0,Sakhir Outer Track,Ferrari
+41,VET,42,0,12,2,0,61,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,H,0.0,Sakhir Outer Track,Ferrari
+42,VET,43,0,12,2,0,61,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,H,1.0,Sakhir Outer Track,Ferrari
+43,VET,44,0,12,2,0,61,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,H,2.0,Sakhir Outer Track,Ferrari
+44,VET,45,0,12,2,0,61,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,H,3.0,Sakhir Outer Track,Ferrari
+45,VET,46,0,12,2,0,61,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,H,4.0,Sakhir Outer Track,Ferrari
+46,VET,47,0,12,2,0,61,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,H,5.0,Sakhir Outer Track,Ferrari
+47,VET,48,0,12,2,0,61,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,H,6.0,Sakhir Outer Track,Ferrari
+48,VET,49,0,12,2,0,61,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,H,7.0,Sakhir Outer Track,Ferrari
+49,VET,50,0,12,2,0,61,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,8.0,Sakhir Outer Track,Ferrari
+50,VET,51,0,12,2,0,61,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,9.0,Sakhir Outer Track,Ferrari
+51,VET,52,0,11,2,0,61,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,10.0,Sakhir Outer Track,Ferrari
+52,VET,53,0,11,2,0,61,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,11.0,Sakhir Outer Track,Ferrari
+53,VET,54,0,12,2,0,61,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,12.0,Sakhir Outer Track,Ferrari
+54,VET,55,0,12,2,0,61,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,13.0,Sakhir Outer Track,Ferrari
+55,VET,56,0,12,2,0,61,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,14.0,Sakhir Outer Track,Ferrari
+56,VET,57,0,12,2,0,61,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,15.0,Sakhir Outer Track,Ferrari
+57,VET,58,0,12,2,0,61,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,16.0,Sakhir Outer Track,Ferrari
+58,VET,59,0,12,2,0,61,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,17.0,Sakhir Outer Track,Ferrari
+59,VET,60,0,12,2,0,61,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,18.0,Sakhir Outer Track,Ferrari
+60,VET,61,0,12,2,0,61,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,19.0,Sakhir Outer Track,Ferrari
+61,VET,62,0,12,2,0,60,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,20.0,Sakhir Outer Track,Ferrari
+62,VET,63,0,12,2,0,60,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,21.0,Sakhir Outer Track,Ferrari
+63,VET,64,0,12,2,0,60,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,22.0,Sakhir Outer Track,Ferrari
+64,VET,65,0,12,2,0,60,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,23.0,Sakhir Outer Track,Ferrari
+65,VET,66,0,12,2,0,59,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,H,24.0,Sakhir Outer Track,Ferrari
+66,VET,67,0,12,2,0,59,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,25.0,Sakhir Outer Track,Ferrari
+67,VET,68,0,12,2,0,59,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,H,26.0,Sakhir Outer Track,Ferrari
+68,VET,69,0,12,2,0,58,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,H,27.0,Sakhir Outer Track,Ferrari
+69,VET,70,0,12,2,0,58,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,H,28.0,Sakhir Outer Track,Ferrari
+70,VET,71,0,12,2,0,59,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,H,29.0,Sakhir Outer Track,Ferrari
+71,VET,72,0,12,2,0,59,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,30.0,Sakhir Outer Track,Ferrari
+72,VET,73,0,12,2,0,59,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,H,31.0,Sakhir Outer Track,Ferrari
+73,VET,74,0,12,2,0,59,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,H,32.0,Sakhir Outer Track,Ferrari
+74,VET,75,0,12,2,0,59,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,H,33.0,Sakhir Outer Track,Ferrari
+75,VET,76,0,12,2,0,59,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,H,34.0,Sakhir Outer Track,Ferrari
+76,VET,77,0,12,2,0,59,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,35.0,Sakhir Outer Track,Ferrari
+77,VET,78,0,12,2,0,59,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,36.0,Sakhir Outer Track,Ferrari
+78,VET,79,0,11,2,0,59,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,H,37.0,Sakhir Outer Track,Ferrari
+79,VET,80,0,11,2,0,59,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,38.0,Sakhir Outer Track,Ferrari
+80,VET,81,0,11,2,0,60,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,H,39.0,Sakhir Outer Track,Ferrari
+81,VET,82,0,11,2,0,60,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,H,40.0,Sakhir Outer Track,Ferrari
+82,VET,83,0,11,2,0,60,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,H,41.0,Sakhir Outer Track,Ferrari
+83,VET,84,0,12,2,0,60,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,H,42.0,Sakhir Outer Track,Ferrari
+84,VET,85,0,12,2,0,60,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,H,43.0,Sakhir Outer Track,Ferrari
+85,VET,86,0,12,2,0,60,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,H,44.0,Sakhir Outer Track,Ferrari
+86,VET,87,0,12,2,0,60,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,H,45.0,Sakhir Outer Track,Ferrari
+0,GIO,1,0,13,6,0,39,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,0.0,Sakhir Outer Track,Alfa Romeo Racing
+1,GIO,2,0,13,6,0,41,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,1.0,Sakhir Outer Track,Alfa Romeo Racing
+2,GIO,3,0,14,6,0,43,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,2.0,Sakhir Outer Track,Alfa Romeo Racing
+3,GIO,4,0,14,6,0,43,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,3.0,Sakhir Outer Track,Alfa Romeo Racing
+4,GIO,5,0,14,6,0,45,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,4.0,Sakhir Outer Track,Alfa Romeo Racing
+5,GIO,6,0,14,6,0,46,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,M,5.0,Sakhir Outer Track,Alfa Romeo Racing
+6,GIO,7,0,14,6,0,47,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,6.0,Sakhir Outer Track,Alfa Romeo Racing
+7,GIO,8,0,15,6,0,46,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,7.0,Sakhir Outer Track,Alfa Romeo Racing
+8,GIO,9,0,15,6,0,46,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,8.0,Sakhir Outer Track,Alfa Romeo Racing
+9,GIO,10,0,15,6,0,47,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,9.0,Sakhir Outer Track,Alfa Romeo Racing
+10,GIO,11,0,15,6,0,47,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,M,10.0,Sakhir Outer Track,Alfa Romeo Racing
+11,GIO,12,0,15,6,0,48,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,11.0,Sakhir Outer Track,Alfa Romeo Racing
+12,GIO,13,0,15,6,0,49,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,12.0,Sakhir Outer Track,Alfa Romeo Racing
+13,GIO,14,0,15,6,0,49,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,13.0,Sakhir Outer Track,Alfa Romeo Racing
+14,GIO,15,0,15,6,0,50,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,14.0,Sakhir Outer Track,Alfa Romeo Racing
+15,GIO,16,0,14,6,0,50,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,15.0,Sakhir Outer Track,Alfa Romeo Racing
+16,GIO,17,0,14,6,0,50,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,16.0,Sakhir Outer Track,Alfa Romeo Racing
+17,GIO,18,0,14,6,0,51,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,17.0,Sakhir Outer Track,Alfa Romeo Racing
+18,GIO,19,0,14,6,0,51,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,18.0,Sakhir Outer Track,Alfa Romeo Racing
+19,GIO,20,0,14,6,0,51,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,19.0,Sakhir Outer Track,Alfa Romeo Racing
+20,GIO,21,0,13,6,0,52,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,20.0,Sakhir Outer Track,Alfa Romeo Racing
+21,GIO,22,0,13,6,0,52,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,21.0,Sakhir Outer Track,Alfa Romeo Racing
+22,GIO,23,0,13,6,0,52,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,M,22.0,Sakhir Outer Track,Alfa Romeo Racing
+23,GIO,24,0,13,6,0,53,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,23.0,Sakhir Outer Track,Alfa Romeo Racing
+24,GIO,25,0,13,6,0,53,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,24.0,Sakhir Outer Track,Alfa Romeo Racing
+25,GIO,26,0,13,6,0,53,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,25.0,Sakhir Outer Track,Alfa Romeo Racing
+26,GIO,27,0,16,6,0,53,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,26.0,Sakhir Outer Track,Alfa Romeo Racing
+27,GIO,28,0,16,6,0,54,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,27.0,Sakhir Outer Track,Alfa Romeo Racing
+28,GIO,29,0,16,6,0,54,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,28.0,Sakhir Outer Track,Alfa Romeo Racing
+29,GIO,30,0,16,6,0,54,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,29.0,Sakhir Outer Track,Alfa Romeo Racing
+30,GIO,31,0,15,6,0,54,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,30.0,Sakhir Outer Track,Alfa Romeo Racing
+31,GIO,32,0,14,6,0,55,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,31.0,Sakhir Outer Track,Alfa Romeo Racing
+32,GIO,33,0,14,6,0,55,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,32.0,Sakhir Outer Track,Alfa Romeo Racing
+33,GIO,34,0,14,6,0,55,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,33.0,Sakhir Outer Track,Alfa Romeo Racing
+34,GIO,35,0,14,6,0,55,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,34.0,Sakhir Outer Track,Alfa Romeo Racing
+35,GIO,36,0,14,6,0,55,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,35.0,Sakhir Outer Track,Alfa Romeo Racing
+36,GIO,37,0,14,6,0,55,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,36.0,Sakhir Outer Track,Alfa Romeo Racing
+37,GIO,38,0,14,6,0,55,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,37.0,Sakhir Outer Track,Alfa Romeo Racing
+38,GIO,39,0,14,6,0,55,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,38.0,Sakhir Outer Track,Alfa Romeo Racing
+39,GIO,40,0,14,6,0,56,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,39.0,Sakhir Outer Track,Alfa Romeo Racing
+40,GIO,41,0,14,6,0,56,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,40.0,Sakhir Outer Track,Alfa Romeo Racing
+41,GIO,42,0,14,6,0,56,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,41.0,Sakhir Outer Track,Alfa Romeo Racing
+42,GIO,43,0,14,6,0,56,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,42.0,Sakhir Outer Track,Alfa Romeo Racing
+43,GIO,44,0,14,6,0,56,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,43.0,Sakhir Outer Track,Alfa Romeo Racing
+44,GIO,45,0,14,6,0,56,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,M,44.0,Sakhir Outer Track,Alfa Romeo Racing
+45,GIO,46,0,14,6,0,56,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,45.0,Sakhir Outer Track,Alfa Romeo Racing
+46,GIO,47,0,14,6,0,56,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,46.0,Sakhir Outer Track,Alfa Romeo Racing
+47,GIO,48,0,14,6,0,56,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,0.0,Sakhir Outer Track,Alfa Romeo Racing
+48,GIO,49,0,14,6,0,56,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,1.0,Sakhir Outer Track,Alfa Romeo Racing
+49,GIO,50,0,14,6,0,56,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,2.0,Sakhir Outer Track,Alfa Romeo Racing
+50,GIO,51,0,14,6,0,56,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,3.0,Sakhir Outer Track,Alfa Romeo Racing
+51,GIO,52,0,14,6,0,56,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,4.0,Sakhir Outer Track,Alfa Romeo Racing
+52,GIO,53,0,13,6,0,56,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,5.0,Sakhir Outer Track,Alfa Romeo Racing
+53,GIO,54,0,13,6,0,56,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,6.0,Sakhir Outer Track,Alfa Romeo Racing
+54,GIO,55,0,13,6,0,55,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,H,7.0,Sakhir Outer Track,Alfa Romeo Racing
+55,GIO,56,0,13,6,0,55,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,H,8.0,Sakhir Outer Track,Alfa Romeo Racing
+56,GIO,57,0,13,6,0,56,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,9.0,Sakhir Outer Track,Alfa Romeo Racing
+57,GIO,58,0,13,6,0,56,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,10.0,Sakhir Outer Track,Alfa Romeo Racing
+58,GIO,59,0,13,6,0,56,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,11.0,Sakhir Outer Track,Alfa Romeo Racing
+59,GIO,60,0,13,6,0,56,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,12.0,Sakhir Outer Track,Alfa Romeo Racing
+60,GIO,61,0,13,6,0,56,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,H,13.0,Sakhir Outer Track,Alfa Romeo Racing
+61,GIO,62,0,13,6,0,55,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,14.0,Sakhir Outer Track,Alfa Romeo Racing
+62,GIO,63,0,13,6,0,55,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,S,0.0,Sakhir Outer Track,Alfa Romeo Racing
+63,GIO,64,0,13,6,0,54,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,S,1.0,Sakhir Outer Track,Alfa Romeo Racing
+64,GIO,65,0,13,6,0,54,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,S,2.0,Sakhir Outer Track,Alfa Romeo Racing
+65,GIO,66,0,13,6,0,54,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,S,3.0,Sakhir Outer Track,Alfa Romeo Racing
+66,GIO,67,0,13,6,0,54,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,S,4.0,Sakhir Outer Track,Alfa Romeo Racing
+67,GIO,68,0,13,6,0,54,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,S,5.0,Sakhir Outer Track,Alfa Romeo Racing
+68,GIO,69,0,13,6,0,54,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,S,6.0,Sakhir Outer Track,Alfa Romeo Racing
+69,GIO,70,0,13,6,0,54,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,S,7.0,Sakhir Outer Track,Alfa Romeo Racing
+70,GIO,71,0,13,6,0,54,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,S,8.0,Sakhir Outer Track,Alfa Romeo Racing
+71,GIO,72,0,13,6,0,54,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,S,9.0,Sakhir Outer Track,Alfa Romeo Racing
+72,GIO,73,0,13,6,0,54,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,S,10.0,Sakhir Outer Track,Alfa Romeo Racing
+73,GIO,74,0,13,6,0,54,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,S,11.0,Sakhir Outer Track,Alfa Romeo Racing
+74,GIO,75,0,13,6,0,54,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,S,12.0,Sakhir Outer Track,Alfa Romeo Racing
+75,GIO,76,0,13,6,0,54,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,S,13.0,Sakhir Outer Track,Alfa Romeo Racing
+76,GIO,77,0,13,6,0,54,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,S,14.0,Sakhir Outer Track,Alfa Romeo Racing
+77,GIO,78,0,13,6,0,54,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,S,15.0,Sakhir Outer Track,Alfa Romeo Racing
+78,GIO,79,0,12,6,0,54,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,S,16.0,Sakhir Outer Track,Alfa Romeo Racing
+79,GIO,80,0,12,6,0,55,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,S,17.0,Sakhir Outer Track,Alfa Romeo Racing
+80,GIO,81,0,12,6,0,55,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,S,18.0,Sakhir Outer Track,Alfa Romeo Racing
+81,GIO,82,0,12,6,0,55,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,S,19.0,Sakhir Outer Track,Alfa Romeo Racing
+82,GIO,83,0,13,6,0,55,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,S,20.0,Sakhir Outer Track,Alfa Romeo Racing
+83,GIO,84,0,13,6,0,55,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,S,21.0,Sakhir Outer Track,Alfa Romeo Racing
+84,GIO,85,0,13,6,0,55,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,S,22.0,Sakhir Outer Track,Alfa Romeo Racing
+85,GIO,86,0,13,6,0,55,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,S,23.0,Sakhir Outer Track,Alfa Romeo Racing
+86,GIO,87,0,13,6,0,55,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,S,24.0,Sakhir Outer Track,Alfa Romeo Racing
+0,MAG,1,0,11,12,0,40,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,2.0,Sakhir Outer Track,Haas F1 Team
+1,MAG,2,0,11,12,0,43,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,3.0,Sakhir Outer Track,Haas F1 Team
+2,MAG,3,0,11,12,0,38,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,4.0,Sakhir Outer Track,Haas F1 Team
+3,MAG,4,0,11,12,0,36,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,5.0,Sakhir Outer Track,Haas F1 Team
+4,MAG,5,0,12,12,0,36,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,6.0,Sakhir Outer Track,Haas F1 Team
+5,MAG,6,0,12,12,0,38,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,M,7.0,Sakhir Outer Track,Haas F1 Team
+6,MAG,7,0,12,12,0,39,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,8.0,Sakhir Outer Track,Haas F1 Team
+7,MAG,8,0,12,12,0,41,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,9.0,Sakhir Outer Track,Haas F1 Team
+8,MAG,9,0,12,12,0,42,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,10.0,Sakhir Outer Track,Haas F1 Team
+9,MAG,10,0,13,12,0,44,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,11.0,Sakhir Outer Track,Haas F1 Team
+10,MAG,11,0,13,12,0,45,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,12.0,Sakhir Outer Track,Haas F1 Team
+11,MAG,12,0,13,12,0,47,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,13.0,Sakhir Outer Track,Haas F1 Team
+12,MAG,13,0,13,12,0,48,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,14.0,Sakhir Outer Track,Haas F1 Team
+13,MAG,14,0,13,12,0,49,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,15.0,Sakhir Outer Track,Haas F1 Team
+14,MAG,15,0,13,12,0,50,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,16.0,Sakhir Outer Track,Haas F1 Team
+15,MAG,16,0,15,12,0,50,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,17.0,Sakhir Outer Track,Haas F1 Team
+16,MAG,17,0,15,12,0,51,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,18.0,Sakhir Outer Track,Haas F1 Team
+17,MAG,18,0,15,12,0,52,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,19.0,Sakhir Outer Track,Haas F1 Team
+18,MAG,19,0,15,12,0,54,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,20.0,Sakhir Outer Track,Haas F1 Team
+19,MAG,20,0,15,12,0,56,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,21.0,Sakhir Outer Track,Haas F1 Team
+20,MAG,21,0,14,12,0,59,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,22.0,Sakhir Outer Track,Haas F1 Team
+21,MAG,22,0,14,12,0,60,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,M,23.0,Sakhir Outer Track,Haas F1 Team
+22,MAG,23,0,14,12,0,61,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,24.0,Sakhir Outer Track,Haas F1 Team
+23,MAG,24,0,14,12,0,63,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,M,25.0,Sakhir Outer Track,Haas F1 Team
+24,MAG,25,0,14,12,0,66,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,26.0,Sakhir Outer Track,Haas F1 Team
+25,MAG,26,0,15,12,0,69,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,27.0,Sakhir Outer Track,Haas F1 Team
+26,MAG,27,0,17,12,0,70,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,28.0,Sakhir Outer Track,Haas F1 Team
+27,MAG,28,0,17,12,0,72,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,29.0,Sakhir Outer Track,Haas F1 Team
+28,MAG,29,0,17,12,0,73,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,30.0,Sakhir Outer Track,Haas F1 Team
+29,MAG,30,0,17,12,0,75,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,31.0,Sakhir Outer Track,Haas F1 Team
+30,MAG,31,0,17,12,0,76,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,32.0,Sakhir Outer Track,Haas F1 Team
+31,MAG,32,0,15,12,0,77,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,H,0.0,Sakhir Outer Track,Haas F1 Team
+32,MAG,33,0,15,12,0,78,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,H,1.0,Sakhir Outer Track,Haas F1 Team
+33,MAG,34,0,15,12,0,80,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,H,2.0,Sakhir Outer Track,Haas F1 Team
+34,MAG,35,0,15,12,0,81,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,H,3.0,Sakhir Outer Track,Haas F1 Team
+35,MAG,36,0,15,12,0,82,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,H,4.0,Sakhir Outer Track,Haas F1 Team
+36,MAG,37,0,15,12,0,83,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,H,5.0,Sakhir Outer Track,Haas F1 Team
+37,MAG,38,0,15,12,0,84,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,H,6.0,Sakhir Outer Track,Haas F1 Team
+38,MAG,39,0,15,12,0,85,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,H,7.0,Sakhir Outer Track,Haas F1 Team
+39,MAG,40,0,15,12,0,86,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,H,8.0,Sakhir Outer Track,Haas F1 Team
+40,MAG,41,0,15,12,0,87,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,H,9.0,Sakhir Outer Track,Haas F1 Team
+41,MAG,42,0,15,12,0,88,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,H,10.0,Sakhir Outer Track,Haas F1 Team
+42,MAG,43,0,15,12,0,88,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,H,11.0,Sakhir Outer Track,Haas F1 Team
+43,MAG,44,0,15,12,0,89,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,H,12.0,Sakhir Outer Track,Haas F1 Team
+44,MAG,45,0,15,12,0,90,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,H,13.0,Sakhir Outer Track,Haas F1 Team
+45,MAG,46,0,15,12,0,90,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,H,14.0,Sakhir Outer Track,Haas F1 Team
+46,MAG,47,0,15,12,0,90,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,H,15.0,Sakhir Outer Track,Haas F1 Team
+47,MAG,48,0,15,12,0,90,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,16.0,Sakhir Outer Track,Haas F1 Team
+48,MAG,49,0,15,12,0,90,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,17.0,Sakhir Outer Track,Haas F1 Team
+49,MAG,50,0,15,12,0,90,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,18.0,Sakhir Outer Track,Haas F1 Team
+50,MAG,51,0,15,12,0,90,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,19.0,Sakhir Outer Track,Haas F1 Team
+51,MAG,52,0,15,12,0,90,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,20.0,Sakhir Outer Track,Haas F1 Team
+52,MAG,53,0,14,12,0,90,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,21.0,Sakhir Outer Track,Haas F1 Team
+53,MAG,54,0,14,12,0,90,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,H,22.0,Sakhir Outer Track,Haas F1 Team
+54,MAG,55,0,14,12,0,90,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,S,0.0,Sakhir Outer Track,Haas F1 Team
+55,MAG,56,0,14,12,0,90,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,S,1.0,Sakhir Outer Track,Haas F1 Team
+56,MAG,57,0,14,12,0,90,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,S,2.0,Sakhir Outer Track,Haas F1 Team
+57,MAG,58,0,14,12,0,90,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,S,3.0,Sakhir Outer Track,Haas F1 Team
+58,MAG,59,0,14,12,0,90,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,S,4.0,Sakhir Outer Track,Haas F1 Team
+59,MAG,60,0,14,12,0,90,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,S,5.0,Sakhir Outer Track,Haas F1 Team
+60,MAG,61,0,14,12,0,90,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,S,6.0,Sakhir Outer Track,Haas F1 Team
+61,MAG,62,0,14,12,0,89,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,S,7.0,Sakhir Outer Track,Haas F1 Team
+62,MAG,63,0,14,12,0,89,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,S,8.0,Sakhir Outer Track,Haas F1 Team
+63,MAG,64,0,14,12,0,88,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,S,3.0,Sakhir Outer Track,Haas F1 Team
+64,MAG,65,0,14,12,0,88,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,S,4.0,Sakhir Outer Track,Haas F1 Team
+65,MAG,66,0,14,12,0,88,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,S,5.0,Sakhir Outer Track,Haas F1 Team
+66,MAG,67,0,14,12,0,88,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,S,6.0,Sakhir Outer Track,Haas F1 Team
+67,MAG,68,0,14,12,0,88,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,S,7.0,Sakhir Outer Track,Haas F1 Team
+68,MAG,69,0,14,12,0,88,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,S,8.0,Sakhir Outer Track,Haas F1 Team
+69,MAG,70,0,15,12,0,88,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,S,9.0,Sakhir Outer Track,Haas F1 Team
+70,MAG,71,0,15,12,0,88,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,S,10.0,Sakhir Outer Track,Haas F1 Team
+71,MAG,72,0,15,12,0,88,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,S,11.0,Sakhir Outer Track,Haas F1 Team
+72,MAG,73,0,15,12,0,88,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,S,12.0,Sakhir Outer Track,Haas F1 Team
+73,MAG,74,0,15,12,0,88,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,S,13.0,Sakhir Outer Track,Haas F1 Team
+74,MAG,75,0,15,12,0,88,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,S,14.0,Sakhir Outer Track,Haas F1 Team
+75,MAG,76,0,15,12,0,88,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,S,15.0,Sakhir Outer Track,Haas F1 Team
+76,MAG,77,0,15,12,0,88,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,S,16.0,Sakhir Outer Track,Haas F1 Team
+77,MAG,78,0,15,12,0,88,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,S,17.0,Sakhir Outer Track,Haas F1 Team
+78,MAG,79,0,15,12,0,89,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,S,18.0,Sakhir Outer Track,Haas F1 Team
+79,MAG,80,0,15,12,0,89,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,S,19.0,Sakhir Outer Track,Haas F1 Team
+80,MAG,81,0,15,12,0,89,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,S,20.0,Sakhir Outer Track,Haas F1 Team
+81,MAG,82,0,15,12,0,89,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,S,21.0,Sakhir Outer Track,Haas F1 Team
+82,MAG,83,0,15,12,0,89,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,S,22.0,Sakhir Outer Track,Haas F1 Team
+83,MAG,84,0,15,12,0,89,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,S,23.0,Sakhir Outer Track,Haas F1 Team
+84,MAG,85,0,15,12,0,89,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,S,24.0,Sakhir Outer Track,Haas F1 Team
+85,MAG,86,0,15,12,0,89,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,S,25.0,Sakhir Outer Track,Haas F1 Team
+86,MAG,87,0,15,12,0,89,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,S,26.0,Sakhir Outer Track,Haas F1 Team
+0,LAT,1,0,14,13,0,41,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,0.0,Sakhir Outer Track,Williams
+1,LAT,2,0,14,13,0,44,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,1.0,Sakhir Outer Track,Williams
+2,LAT,3,0,13,13,0,43,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,2.0,Sakhir Outer Track,Williams
+3,LAT,4,0,13,13,0,43,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,3.0,Sakhir Outer Track,Williams
+4,LAT,5,0,13,13,0,44,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,M,4.0,Sakhir Outer Track,Williams
+5,LAT,6,0,13,13,0,45,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,5.0,Sakhir Outer Track,Williams
+6,LAT,7,0,13,13,0,45,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,6.0,Sakhir Outer Track,Williams
+7,LAT,8,0,13,13,0,45,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,7.0,Sakhir Outer Track,Williams
+8,LAT,9,0,14,13,0,45,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,8.0,Sakhir Outer Track,Williams
+9,LAT,10,0,14,13,0,46,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,9.0,Sakhir Outer Track,Williams
+10,LAT,11,0,14,13,0,47,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,10.0,Sakhir Outer Track,Williams
+11,LAT,12,0,14,13,0,48,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,11.0,Sakhir Outer Track,Williams
+12,LAT,13,0,14,13,0,48,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,12.0,Sakhir Outer Track,Williams
+13,LAT,14,0,14,13,0,49,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,13.0,Sakhir Outer Track,Williams
+14,LAT,15,0,14,13,0,49,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,14.0,Sakhir Outer Track,Williams
+15,LAT,16,0,13,13,0,50,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,15.0,Sakhir Outer Track,Williams
+16,LAT,17,0,13,13,0,50,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,16.0,Sakhir Outer Track,Williams
+17,LAT,18,0,13,13,0,51,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,17.0,Sakhir Outer Track,Williams
+18,LAT,19,0,13,13,0,51,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,18.0,Sakhir Outer Track,Williams
+19,LAT,20,0,13,13,0,52,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,19.0,Sakhir Outer Track,Williams
+20,LAT,21,0,12,13,0,52,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,20.0,Sakhir Outer Track,Williams
+21,LAT,22,0,12,13,0,53,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,21.0,Sakhir Outer Track,Williams
+22,LAT,23,0,12,13,0,53,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,22.0,Sakhir Outer Track,Williams
+23,LAT,24,0,12,13,0,53,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,23.0,Sakhir Outer Track,Williams
+24,LAT,25,0,12,13,0,54,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,24.0,Sakhir Outer Track,Williams
+25,LAT,26,0,12,13,0,54,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,25.0,Sakhir Outer Track,Williams
+26,LAT,27,0,12,13,0,54,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,H,0.0,Sakhir Outer Track,Williams
+27,LAT,28,0,15,13,0,54,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,H,1.0,Sakhir Outer Track,Williams
+28,LAT,29,0,15,13,0,55,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,H,2.0,Sakhir Outer Track,Williams
+29,LAT,30,0,15,13,0,55,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,H,3.0,Sakhir Outer Track,Williams
+30,LAT,31,0,14,13,0,56,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,H,4.0,Sakhir Outer Track,Williams
+31,LAT,32,0,13,13,0,56,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,H,5.0,Sakhir Outer Track,Williams
+32,LAT,33,0,13,13,0,56,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,H,6.0,Sakhir Outer Track,Williams
+33,LAT,34,0,13,13,0,57,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,7.0,Sakhir Outer Track,Williams
+34,LAT,35,0,13,13,0,57,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,8.0,Sakhir Outer Track,Williams
+35,LAT,36,0,13,13,0,57,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,9.0,Sakhir Outer Track,Williams
+36,LAT,37,0,13,13,0,57,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,H,10.0,Sakhir Outer Track,Williams
+37,LAT,38,0,13,13,0,58,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,H,11.0,Sakhir Outer Track,Williams
+38,LAT,39,0,13,13,0,58,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,H,12.0,Sakhir Outer Track,Williams
+39,LAT,40,0,13,13,0,58,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,H,13.0,Sakhir Outer Track,Williams
+40,LAT,41,0,13,13,0,58,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,H,14.0,Sakhir Outer Track,Williams
+41,LAT,42,0,13,13,0,58,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,H,15.0,Sakhir Outer Track,Williams
+42,LAT,43,0,13,13,0,58,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,H,16.0,Sakhir Outer Track,Williams
+43,LAT,44,0,13,13,0,58,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,H,17.0,Sakhir Outer Track,Williams
+44,LAT,45,0,13,13,0,58,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,H,18.0,Sakhir Outer Track,Williams
+45,LAT,46,0,13,13,0,58,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,H,19.0,Sakhir Outer Track,Williams
+46,LAT,47,0,13,13,0,58,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,H,20.0,Sakhir Outer Track,Williams
+47,LAT,48,0,13,13,0,58,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,H,21.0,Sakhir Outer Track,Williams
+48,LAT,49,0,13,13,0,58,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,H,22.0,Sakhir Outer Track,Williams
+49,LAT,50,0,13,13,0,58,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,H,23.0,Sakhir Outer Track,Williams
+50,LAT,51,0,13,13,0,58,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,H,24.0,Sakhir Outer Track,Williams
+51,LAT,52,0,13,13,0,57,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,H,25.0,Sakhir Outer Track,Williams
+0,AIT,1,0,15,15,0,40,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,0.0,Sakhir Outer Track,Williams
+1,AIT,2,0,15,15,0,42,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,1.0,Sakhir Outer Track,Williams
+2,AIT,3,0,15,15,0,43,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,2.0,Sakhir Outer Track,Williams
+3,AIT,4,0,15,15,0,43,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,3.0,Sakhir Outer Track,Williams
+4,AIT,5,0,15,15,0,42,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,4.0,Sakhir Outer Track,Williams
+5,AIT,6,0,15,15,0,43,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,5.0,Sakhir Outer Track,Williams
+6,AIT,7,0,15,15,0,43,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,S,6.0,Sakhir Outer Track,Williams
+7,AIT,8,0,16,15,0,44,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,7.0,Sakhir Outer Track,Williams
+8,AIT,9,0,16,15,0,45,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,8.0,Sakhir Outer Track,Williams
+9,AIT,10,0,17,15,0,45,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,S,9.0,Sakhir Outer Track,Williams
+10,AIT,11,0,16,15,0,46,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,10.0,Sakhir Outer Track,Williams
+11,AIT,12,0,16,15,0,47,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,11.0,Sakhir Outer Track,Williams
+12,AIT,13,0,16,15,0,48,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,12.0,Sakhir Outer Track,Williams
+13,AIT,14,0,16,15,0,49,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,13.0,Sakhir Outer Track,Williams
+14,AIT,15,0,16,15,0,49,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,14.0,Sakhir Outer Track,Williams
+15,AIT,16,0,16,15,0,50,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,S,15.0,Sakhir Outer Track,Williams
+16,AIT,17,0,16,15,0,50,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,16.0,Sakhir Outer Track,Williams
+17,AIT,18,0,16,15,0,51,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,S,17.0,Sakhir Outer Track,Williams
+18,AIT,19,0,16,15,0,51,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,18.0,Sakhir Outer Track,Williams
+19,AIT,20,0,16,15,0,52,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,S,19.0,Sakhir Outer Track,Williams
+20,AIT,21,0,15,15,0,52,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,20.0,Sakhir Outer Track,Williams
+21,AIT,22,0,15,15,0,53,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,21.0,Sakhir Outer Track,Williams
+22,AIT,23,0,15,15,0,53,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,22.0,Sakhir Outer Track,Williams
+23,AIT,24,0,15,15,0,53,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,S,23.0,Sakhir Outer Track,Williams
+24,AIT,25,0,15,15,0,54,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,24.0,Sakhir Outer Track,Williams
+25,AIT,26,0,14,15,0,54,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,S,25.0,Sakhir Outer Track,Williams
+26,AIT,27,0,13,15,0,54,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,0.0,Sakhir Outer Track,Williams
+27,AIT,28,0,12,15,0,55,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,1.0,Sakhir Outer Track,Williams
+28,AIT,29,0,12,15,0,55,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,2.0,Sakhir Outer Track,Williams
+29,AIT,30,0,12,15,0,55,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,3.0,Sakhir Outer Track,Williams
+30,AIT,31,0,13,15,0,56,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,M,4.0,Sakhir Outer Track,Williams
+31,AIT,32,0,16,15,0,56,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,5.0,Sakhir Outer Track,Williams
+32,AIT,33,0,16,15,0,56,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,6.0,Sakhir Outer Track,Williams
+33,AIT,34,0,16,15,0,56,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,7.0,Sakhir Outer Track,Williams
+34,AIT,35,0,16,15,0,56,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,8.0,Sakhir Outer Track,Williams
+35,AIT,36,0,16,15,0,57,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,9.0,Sakhir Outer Track,Williams
+36,AIT,37,0,16,15,0,57,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,10.0,Sakhir Outer Track,Williams
+37,AIT,38,0,16,15,0,57,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,11.0,Sakhir Outer Track,Williams
+38,AIT,39,0,16,15,0,57,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,12.0,Sakhir Outer Track,Williams
+39,AIT,40,0,16,15,0,57,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,13.0,Sakhir Outer Track,Williams
+40,AIT,41,0,16,15,0,57,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,M,14.0,Sakhir Outer Track,Williams
+41,AIT,42,0,16,15,0,57,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,15.0,Sakhir Outer Track,Williams
+42,AIT,43,0,16,15,0,57,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,16.0,Sakhir Outer Track,Williams
+43,AIT,44,0,16,15,0,57,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,17.0,Sakhir Outer Track,Williams
+44,AIT,45,0,16,15,0,57,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,18.0,Sakhir Outer Track,Williams
+45,AIT,46,0,16,15,0,57,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,19.0,Sakhir Outer Track,Williams
+46,AIT,47,0,16,15,0,57,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,20.0,Sakhir Outer Track,Williams
+47,AIT,48,0,16,15,0,57,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,21.0,Sakhir Outer Track,Williams
+48,AIT,49,0,16,15,0,57,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,22.0,Sakhir Outer Track,Williams
+49,AIT,50,0,16,15,0,57,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,23.0,Sakhir Outer Track,Williams
+50,AIT,51,0,16,15,0,57,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,M,24.0,Sakhir Outer Track,Williams
+51,AIT,52,0,16,15,0,57,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,M,25.0,Sakhir Outer Track,Williams
+52,AIT,53,0,15,15,0,57,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,M,26.0,Sakhir Outer Track,Williams
+53,AIT,54,0,15,15,0,57,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,M,27.0,Sakhir Outer Track,Williams
+54,AIT,55,0,15,15,0,57,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,S,3.0,Sakhir Outer Track,Williams
+55,AIT,56,0,15,15,0,57,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,S,4.0,Sakhir Outer Track,Williams
+56,AIT,57,0,15,15,0,57,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,S,5.0,Sakhir Outer Track,Williams
+57,AIT,58,0,15,15,0,57,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,S,6.0,Sakhir Outer Track,Williams
+58,AIT,59,0,16,15,0,57,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,S,7.0,Sakhir Outer Track,Williams
+59,AIT,60,0,17,15,0,57,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,S,8.0,Sakhir Outer Track,Williams
+60,AIT,61,0,17,15,0,57,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,S,9.0,Sakhir Outer Track,Williams
+61,AIT,62,0,17,15,0,56,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,S,10.0,Sakhir Outer Track,Williams
+62,AIT,63,0,17,15,0,56,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,S,11.0,Sakhir Outer Track,Williams
+63,AIT,64,0,17,15,0,56,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,S,12.0,Sakhir Outer Track,Williams
+64,AIT,65,0,17,15,0,56,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,S,13.0,Sakhir Outer Track,Williams
+65,AIT,66,0,17,15,0,56,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,S,14.0,Sakhir Outer Track,Williams
+66,AIT,67,0,17,15,0,56,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,S,15.0,Sakhir Outer Track,Williams
+67,AIT,68,0,17,15,0,57,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,S,16.0,Sakhir Outer Track,Williams
+68,AIT,69,0,17,15,0,57,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,S,17.0,Sakhir Outer Track,Williams
+69,AIT,70,0,17,15,0,57,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,S,18.0,Sakhir Outer Track,Williams
+70,AIT,71,0,17,15,0,57,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,S,19.0,Sakhir Outer Track,Williams
+71,AIT,72,0,17,15,0,57,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,S,20.0,Sakhir Outer Track,Williams
+72,AIT,73,0,17,15,0,57,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,S,21.0,Sakhir Outer Track,Williams
+73,AIT,74,0,17,15,0,57,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,S,22.0,Sakhir Outer Track,Williams
+74,AIT,75,0,17,15,0,57,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,S,23.0,Sakhir Outer Track,Williams
+75,AIT,76,0,17,15,0,57,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,S,24.0,Sakhir Outer Track,Williams
+76,AIT,77,0,17,15,0,57,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,S,25.0,Sakhir Outer Track,Williams
+77,AIT,78,0,17,15,0,57,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,S,26.0,Sakhir Outer Track,Williams
+78,AIT,79,0,17,15,0,57,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,S,27.0,Sakhir Outer Track,Williams
+79,AIT,80,0,17,15,0,57,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,S,28.0,Sakhir Outer Track,Williams
+80,AIT,81,0,17,15,0,57,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,S,29.0,Sakhir Outer Track,Williams
+81,AIT,82,0,16,15,0,57,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,S,30.0,Sakhir Outer Track,Williams
+82,AIT,83,0,16,15,0,57,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,S,31.0,Sakhir Outer Track,Williams
+83,AIT,84,0,16,15,0,57,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,S,32.0,Sakhir Outer Track,Williams
+84,AIT,85,0,16,15,0,57,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,S,33.0,Sakhir Outer Track,Williams
+85,AIT,86,0,16,15,0,57,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,S,34.0,Sakhir Outer Track,Williams
+86,AIT,87,0,16,15,0,57,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,S,35.0,Sakhir Outer Track,Williams
+0,RAI,1,0,17,18,0,46,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,S,0.0,Sakhir Outer Track,Alfa Romeo Racing
+1,RAI,2,0,17,18,0,41,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,S,1.0,Sakhir Outer Track,Alfa Romeo Racing
+2,RAI,3,0,17,18,0,41,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,S,2.0,Sakhir Outer Track,Alfa Romeo Racing
+3,RAI,4,0,17,18,0,40,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,S,3.0,Sakhir Outer Track,Alfa Romeo Racing
+4,RAI,5,0,17,18,0,40,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,S,4.0,Sakhir Outer Track,Alfa Romeo Racing
+5,RAI,6,0,17,18,0,40,23.9,21.1,0.0,1.7,57.9,1015.7,347.0,S,5.0,Sakhir Outer Track,Alfa Romeo Racing
+6,RAI,7,0,18,18,0,41,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,S,6.0,Sakhir Outer Track,Alfa Romeo Racing
+7,RAI,8,0,17,18,0,42,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,S,7.0,Sakhir Outer Track,Alfa Romeo Racing
+8,RAI,9,0,17,18,0,43,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,S,8.0,Sakhir Outer Track,Alfa Romeo Racing
+9,RAI,10,0,16,18,0,44,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,S,9.0,Sakhir Outer Track,Alfa Romeo Racing
+10,RAI,11,0,17,18,0,45,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,S,10.0,Sakhir Outer Track,Alfa Romeo Racing
+11,RAI,12,0,17,18,0,45,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,S,11.0,Sakhir Outer Track,Alfa Romeo Racing
+12,RAI,13,0,17,18,0,46,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,S,12.0,Sakhir Outer Track,Alfa Romeo Racing
+13,RAI,14,0,17,18,0,47,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,S,13.0,Sakhir Outer Track,Alfa Romeo Racing
+14,RAI,15,0,17,18,0,48,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,S,14.0,Sakhir Outer Track,Alfa Romeo Racing
+15,RAI,16,0,17,18,0,48,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,S,15.0,Sakhir Outer Track,Alfa Romeo Racing
+16,RAI,17,0,17,18,0,49,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,S,16.0,Sakhir Outer Track,Alfa Romeo Racing
+17,RAI,18,0,17,18,0,49,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,S,17.0,Sakhir Outer Track,Alfa Romeo Racing
+18,RAI,19,0,17,18,0,50,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,S,18.0,Sakhir Outer Track,Alfa Romeo Racing
+19,RAI,20,0,17,18,0,50,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,S,19.0,Sakhir Outer Track,Alfa Romeo Racing
+20,RAI,21,0,16,18,0,51,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,S,20.0,Sakhir Outer Track,Alfa Romeo Racing
+21,RAI,22,0,16,18,0,51,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,S,21.0,Sakhir Outer Track,Alfa Romeo Racing
+22,RAI,23,0,17,18,0,52,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,S,22.0,Sakhir Outer Track,Alfa Romeo Racing
+23,RAI,24,0,18,18,0,52,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,S,23.0,Sakhir Outer Track,Alfa Romeo Racing
+24,RAI,25,0,18,18,0,52,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,S,24.0,Sakhir Outer Track,Alfa Romeo Racing
+25,RAI,26,0,18,18,0,52,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,S,25.0,Sakhir Outer Track,Alfa Romeo Racing
+26,RAI,27,0,18,18,0,53,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,S,26.0,Sakhir Outer Track,Alfa Romeo Racing
+27,RAI,28,0,18,18,0,53,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,0.0,Sakhir Outer Track,Alfa Romeo Racing
+28,RAI,29,0,18,18,0,53,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,1.0,Sakhir Outer Track,Alfa Romeo Racing
+29,RAI,30,0,18,18,0,54,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,2.0,Sakhir Outer Track,Alfa Romeo Racing
+30,RAI,31,0,18,18,0,54,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,3.0,Sakhir Outer Track,Alfa Romeo Racing
+31,RAI,32,0,17,18,0,54,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,M,4.0,Sakhir Outer Track,Alfa Romeo Racing
+32,RAI,33,0,17,18,0,54,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,M,5.0,Sakhir Outer Track,Alfa Romeo Racing
+33,RAI,34,0,17,18,0,55,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,M,6.0,Sakhir Outer Track,Alfa Romeo Racing
+34,RAI,35,0,17,18,0,55,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,M,7.0,Sakhir Outer Track,Alfa Romeo Racing
+35,RAI,36,0,17,18,0,55,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,M,8.0,Sakhir Outer Track,Alfa Romeo Racing
+36,RAI,37,0,17,18,0,55,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,M,9.0,Sakhir Outer Track,Alfa Romeo Racing
+37,RAI,38,0,17,18,0,56,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,M,10.0,Sakhir Outer Track,Alfa Romeo Racing
+38,RAI,39,0,17,18,0,56,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,M,11.0,Sakhir Outer Track,Alfa Romeo Racing
+39,RAI,40,0,17,18,0,56,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,M,12.0,Sakhir Outer Track,Alfa Romeo Racing
+40,RAI,41,0,17,18,0,56,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,M,13.0,Sakhir Outer Track,Alfa Romeo Racing
+41,RAI,42,0,17,18,0,56,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,M,14.0,Sakhir Outer Track,Alfa Romeo Racing
+42,RAI,43,0,17,18,0,56,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,M,15.0,Sakhir Outer Track,Alfa Romeo Racing
+43,RAI,44,0,17,18,0,56,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,M,16.0,Sakhir Outer Track,Alfa Romeo Racing
+44,RAI,45,0,17,18,0,56,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,M,17.0,Sakhir Outer Track,Alfa Romeo Racing
+45,RAI,46,0,17,18,0,56,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,M,18.0,Sakhir Outer Track,Alfa Romeo Racing
+46,RAI,47,0,17,18,0,56,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,M,19.0,Sakhir Outer Track,Alfa Romeo Racing
+47,RAI,48,0,17,18,0,56,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,M,20.0,Sakhir Outer Track,Alfa Romeo Racing
+48,RAI,49,0,17,18,0,56,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,M,21.0,Sakhir Outer Track,Alfa Romeo Racing
+49,RAI,50,0,17,18,0,56,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,M,22.0,Sakhir Outer Track,Alfa Romeo Racing
+50,RAI,51,0,17,18,0,56,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,M,23.0,Sakhir Outer Track,Alfa Romeo Racing
+51,RAI,52,0,17,18,0,56,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,M,24.0,Sakhir Outer Track,Alfa Romeo Racing
+52,RAI,53,0,16,18,0,56,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+53,RAI,54,0,16,18,0,56,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+54,RAI,55,0,16,18,0,56,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+55,RAI,56,0,16,18,0,56,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+56,RAI,57,0,16,18,0,56,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+57,RAI,58,0,16,18,0,56,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+58,RAI,59,0,15,18,0,56,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+59,RAI,60,0,15,18,0,56,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+60,RAI,61,0,15,18,0,55,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+61,RAI,62,0,15,18,0,55,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+62,RAI,63,0,15,18,0,55,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+63,RAI,64,0,15,18,0,54,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+64,RAI,65,0,15,18,0,54,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+65,RAI,66,0,15,18,0,55,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+66,RAI,67,0,15,18,0,55,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+67,RAI,68,0,15,18,0,54,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+68,RAI,69,0,15,18,0,54,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+69,RAI,70,0,14,18,0,54,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+70,RAI,71,0,14,18,0,54,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+71,RAI,72,0,14,18,0,55,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+72,RAI,73,0,14,18,0,55,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+73,RAI,74,0,14,18,0,55,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+74,RAI,75,0,14,18,0,55,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+75,RAI,76,0,14,18,0,55,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+76,RAI,77,0,14,18,0,55,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+77,RAI,78,0,14,18,0,55,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+78,RAI,79,0,13,18,0,55,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+79,RAI,80,0,13,18,0,55,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+80,RAI,81,0,14,18,0,55,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+81,RAI,82,0,14,18,0,56,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+82,RAI,83,0,14,18,0,56,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+83,RAI,84,0,14,18,0,56,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+84,RAI,85,0,14,18,0,56,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+85,RAI,86,0,14,18,0,56,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+86,RAI,87,0,14,18,1,56,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,,0.0,Sakhir Outer Track,Alfa Romeo Racing
+0,NOR,1,0,10,16,0,59,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,0.0,Sakhir Outer Track,McLaren
+1,NOR,2,0,10,16,0,67,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,1.0,Sakhir Outer Track,McLaren
+2,NOR,3,0,10,16,0,66,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,2.0,Sakhir Outer Track,McLaren
+3,NOR,4,0,10,16,0,66,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,3.0,Sakhir Outer Track,McLaren
+4,NOR,5,0,10,16,0,68,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,4.0,Sakhir Outer Track,McLaren
+5,NOR,6,0,10,16,0,66,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,5.0,Sakhir Outer Track,McLaren
+6,NOR,7,0,10,16,0,64,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,6.0,Sakhir Outer Track,McLaren
+7,NOR,8,0,9,16,0,63,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,7.0,Sakhir Outer Track,McLaren
+8,NOR,9,0,9,16,0,62,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,8.0,Sakhir Outer Track,McLaren
+9,NOR,10,0,9,16,0,62,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,M,9.0,Sakhir Outer Track,McLaren
+10,NOR,11,0,9,16,0,62,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,10.0,Sakhir Outer Track,McLaren
+11,NOR,12,0,9,16,0,61,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,11.0,Sakhir Outer Track,McLaren
+12,NOR,13,0,9,16,0,61,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,12.0,Sakhir Outer Track,McLaren
+13,NOR,14,0,9,16,0,61,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,13.0,Sakhir Outer Track,McLaren
+14,NOR,15,0,9,16,0,61,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,14.0,Sakhir Outer Track,McLaren
+15,NOR,16,0,9,16,0,61,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,15.0,Sakhir Outer Track,McLaren
+16,NOR,17,0,9,16,0,60,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,16.0,Sakhir Outer Track,McLaren
+17,NOR,18,0,9,16,0,61,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,17.0,Sakhir Outer Track,McLaren
+18,NOR,19,0,9,16,0,61,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,18.0,Sakhir Outer Track,McLaren
+19,NOR,20,0,11,16,0,61,23.4,20.8,0.0,1.9,54.9,1015.9,2.0,M,19.0,Sakhir Outer Track,McLaren
+20,NOR,21,0,18,16,0,60,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,M,20.0,Sakhir Outer Track,McLaren
+21,NOR,22,0,18,16,0,61,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,21.0,Sakhir Outer Track,McLaren
+22,NOR,23,0,18,16,0,61,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,M,22.0,Sakhir Outer Track,McLaren
+23,NOR,24,0,17,16,0,61,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,M,23.0,Sakhir Outer Track,McLaren
+24,NOR,25,0,16,16,0,61,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,M,24.0,Sakhir Outer Track,McLaren
+25,NOR,26,0,16,16,0,61,23.4,20.8,0.0,1.1,55.2,1015.9,2.0,M,25.0,Sakhir Outer Track,McLaren
+26,NOR,27,0,14,16,0,61,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,M,26.0,Sakhir Outer Track,McLaren
+27,NOR,28,0,13,16,0,61,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,M,27.0,Sakhir Outer Track,McLaren
+28,NOR,29,0,13,16,0,61,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,M,28.0,Sakhir Outer Track,McLaren
+29,NOR,30,0,13,16,0,62,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,M,29.0,Sakhir Outer Track,McLaren
+30,NOR,31,0,12,16,0,62,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,M,30.0,Sakhir Outer Track,McLaren
+31,NOR,32,0,11,16,0,62,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,H,0.0,Sakhir Outer Track,McLaren
+32,NOR,33,0,11,16,0,62,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,H,1.0,Sakhir Outer Track,McLaren
+33,NOR,34,0,11,16,0,62,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,H,2.0,Sakhir Outer Track,McLaren
+34,NOR,35,0,11,16,0,62,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,H,3.0,Sakhir Outer Track,McLaren
+35,NOR,36,0,11,16,0,62,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,H,4.0,Sakhir Outer Track,McLaren
+36,NOR,37,0,11,16,0,63,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,H,5.0,Sakhir Outer Track,McLaren
+37,NOR,38,0,11,16,0,63,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,H,6.0,Sakhir Outer Track,McLaren
+38,NOR,39,0,11,16,0,63,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,H,7.0,Sakhir Outer Track,McLaren
+39,NOR,40,0,11,16,0,63,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,H,8.0,Sakhir Outer Track,McLaren
+40,NOR,41,0,11,16,0,63,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,H,9.0,Sakhir Outer Track,McLaren
+41,NOR,42,0,11,16,0,62,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,H,10.0,Sakhir Outer Track,McLaren
+42,NOR,43,0,11,16,0,62,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,H,11.0,Sakhir Outer Track,McLaren
+43,NOR,44,0,11,16,0,62,23.2,20.8,0.0,1.5,57.1,1016.2,6.0,H,12.0,Sakhir Outer Track,McLaren
+44,NOR,45,0,11,16,0,62,23.3,20.8,0.0,1.3,57.1,1016.3,342.0,H,13.0,Sakhir Outer Track,McLaren
+45,NOR,46,0,11,16,0,62,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,H,14.0,Sakhir Outer Track,McLaren
+46,NOR,47,0,11,16,0,61,23.0,20.7,0.0,1.8,57.6,1016.2,8.0,H,15.0,Sakhir Outer Track,McLaren
+47,NOR,48,0,10,16,0,61,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,H,16.0,Sakhir Outer Track,McLaren
+48,NOR,49,0,10,16,0,61,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,H,17.0,Sakhir Outer Track,McLaren
+49,NOR,50,0,10,16,0,61,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,18.0,Sakhir Outer Track,McLaren
+50,NOR,51,0,10,16,0,61,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,19.0,Sakhir Outer Track,McLaren
+51,NOR,52,0,10,16,0,61,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,20.0,Sakhir Outer Track,McLaren
+52,NOR,53,0,10,16,0,60,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,21.0,Sakhir Outer Track,McLaren
+53,NOR,54,0,9,16,0,60,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,22.0,Sakhir Outer Track,McLaren
+54,NOR,55,0,11,16,0,60,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,M,0.0,Sakhir Outer Track,McLaren
+55,NOR,56,0,11,16,0,60,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,M,1.0,Sakhir Outer Track,McLaren
+56,NOR,57,0,11,16,0,60,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,M,2.0,Sakhir Outer Track,McLaren
+57,NOR,58,0,11,16,0,60,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,M,3.0,Sakhir Outer Track,McLaren
+58,NOR,59,0,11,16,0,60,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,M,4.0,Sakhir Outer Track,McLaren
+59,NOR,60,0,11,16,0,60,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,S,0.0,Sakhir Outer Track,McLaren
+60,NOR,61,0,11,16,0,59,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,S,1.0,Sakhir Outer Track,McLaren
+61,NOR,62,0,11,16,0,59,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,S,2.0,Sakhir Outer Track,McLaren
+62,NOR,63,0,11,16,0,59,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,S,3.0,Sakhir Outer Track,McLaren
+63,NOR,64,0,11,16,0,58,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,S,4.0,Sakhir Outer Track,McLaren
+64,NOR,65,0,11,16,0,58,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,S,5.0,Sakhir Outer Track,McLaren
+65,NOR,66,0,11,16,0,58,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,S,6.0,Sakhir Outer Track,McLaren
+66,NOR,67,0,11,16,0,57,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,S,7.0,Sakhir Outer Track,McLaren
+67,NOR,68,0,11,16,0,57,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,S,8.0,Sakhir Outer Track,McLaren
+68,NOR,69,0,11,16,0,57,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,S,9.0,Sakhir Outer Track,McLaren
+69,NOR,70,0,11,16,0,57,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,S,10.0,Sakhir Outer Track,McLaren
+70,NOR,71,0,11,16,0,58,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,S,11.0,Sakhir Outer Track,McLaren
+71,NOR,72,0,11,16,0,58,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,S,12.0,Sakhir Outer Track,McLaren
+72,NOR,73,0,11,16,0,58,22.8,20.5,0.0,1.7,60.6,1016.3,356.0,S,13.0,Sakhir Outer Track,McLaren
+73,NOR,74,0,11,16,0,58,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,S,14.0,Sakhir Outer Track,McLaren
+74,NOR,75,0,11,16,0,58,22.8,20.5,0.0,2.3,60.8,1016.2,5.0,S,15.0,Sakhir Outer Track,McLaren
+75,NOR,76,0,11,16,0,58,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,S,16.0,Sakhir Outer Track,McLaren
+76,NOR,77,0,11,16,0,58,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,S,17.0,Sakhir Outer Track,McLaren
+77,NOR,78,0,11,16,0,58,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,S,18.0,Sakhir Outer Track,McLaren
+78,NOR,79,0,10,16,0,58,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,S,19.0,Sakhir Outer Track,McLaren
+79,NOR,80,0,10,16,0,58,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,S,20.0,Sakhir Outer Track,McLaren
+80,NOR,81,0,10,16,0,58,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,S,21.0,Sakhir Outer Track,McLaren
+81,NOR,82,0,10,16,0,58,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,S,22.0,Sakhir Outer Track,McLaren
+82,NOR,83,0,10,16,0,59,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,S,23.0,Sakhir Outer Track,McLaren
+83,NOR,84,0,10,16,0,59,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,S,24.0,Sakhir Outer Track,McLaren
+84,NOR,85,0,9,16,0,59,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,S,25.0,Sakhir Outer Track,McLaren
+85,NOR,86,0,9,16,0,59,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,S,26.0,Sakhir Outer Track,McLaren
+86,NOR,87,0,10,16,0,59,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,S,27.0,Sakhir Outer Track,McLaren
+0,FIT,1,0,16,14,0,37,23.8,21.1,0.0,2.1,58.8,1015.7,7.0,M,0.0,Sakhir Outer Track,Haas F1 Team
+1,FIT,2,0,16,14,0,36,23.8,21.1,0.0,2.3,58.7,1015.7,8.0,M,1.0,Sakhir Outer Track,Haas F1 Team
+2,FIT,3,0,16,14,0,34,23.8,21.1,0.0,2.0,58.4,1015.7,18.0,M,2.0,Sakhir Outer Track,Haas F1 Team
+3,FIT,4,0,16,14,0,34,23.8,21.1,0.0,2.2,58.2,1015.8,354.0,M,3.0,Sakhir Outer Track,Haas F1 Team
+4,FIT,5,0,16,14,0,33,23.8,21.1,0.0,2.4,58.3,1015.8,9.0,M,4.0,Sakhir Outer Track,Haas F1 Team
+5,FIT,6,0,16,14,0,34,23.8,21.1,0.0,2.4,57.4,1015.8,4.0,M,5.0,Sakhir Outer Track,Haas F1 Team
+6,FIT,7,0,17,14,0,35,23.8,21.1,0.0,2.0,57.5,1015.7,337.0,M,6.0,Sakhir Outer Track,Haas F1 Team
+7,FIT,8,0,18,14,0,36,23.8,21.1,0.0,2.8,57.4,1015.8,7.0,M,7.0,Sakhir Outer Track,Haas F1 Team
+8,FIT,9,0,18,14,0,37,23.8,21.0,0.0,2.3,57.7,1015.8,5.0,M,8.0,Sakhir Outer Track,Haas F1 Team
+9,FIT,10,0,18,14,0,39,23.8,21.0,0.0,2.3,57.5,1015.8,340.0,M,9.0,Sakhir Outer Track,Haas F1 Team
+10,FIT,11,0,18,14,0,40,23.8,21.0,0.0,2.0,57.3,1015.9,12.0,M,10.0,Sakhir Outer Track,Haas F1 Team
+11,FIT,12,0,18,14,0,41,23.7,21.0,0.0,1.9,56.9,1015.8,3.0,M,11.0,Sakhir Outer Track,Haas F1 Team
+12,FIT,13,0,18,14,0,42,23.7,21.0,0.0,2.4,56.7,1015.9,42.0,M,12.0,Sakhir Outer Track,Haas F1 Team
+13,FIT,14,0,18,14,0,43,23.7,21.0,0.0,2.4,56.3,1015.8,1.0,M,13.0,Sakhir Outer Track,Haas F1 Team
+14,FIT,15,0,18,14,0,44,23.6,20.9,0.0,2.6,56.2,1015.9,327.0,M,14.0,Sakhir Outer Track,Haas F1 Team
+15,FIT,16,0,18,14,0,45,23.6,20.9,0.0,2.1,56.0,1015.8,2.0,M,15.0,Sakhir Outer Track,Haas F1 Team
+16,FIT,17,0,18,14,0,45,23.5,20.9,0.0,1.7,56.1,1015.9,357.0,M,16.0,Sakhir Outer Track,Haas F1 Team
+17,FIT,18,0,18,14,0,46,23.5,20.9,0.0,2.6,55.9,1015.8,20.0,M,17.0,Sakhir Outer Track,Haas F1 Team
+18,FIT,19,0,18,14,0,47,23.4,20.8,0.0,2.9,56.2,1015.8,350.0,M,18.0,Sakhir Outer Track,Haas F1 Team
+19,FIT,20,0,18,14,0,47,23.4,20.8,0.0,2.5,55.7,1015.7,353.0,M,19.0,Sakhir Outer Track,Haas F1 Team
+20,FIT,21,0,17,14,0,48,23.5,20.8,0.0,2.2,55.1,1015.9,341.0,M,20.0,Sakhir Outer Track,Haas F1 Team
+21,FIT,22,0,17,14,0,48,23.4,20.8,0.0,1.9,55.0,1015.9,11.0,M,21.0,Sakhir Outer Track,Haas F1 Team
+22,FIT,23,0,16,14,0,49,23.4,20.8,0.0,2.0,55.0,1015.9,54.0,M,22.0,Sakhir Outer Track,Haas F1 Team
+23,FIT,24,0,16,14,0,50,23.4,20.8,0.0,2.0,55.1,1015.9,6.0,H,0.0,Sakhir Outer Track,Haas F1 Team
+24,FIT,25,0,17,14,0,50,23.4,20.8,0.0,1.9,55.1,1015.9,2.0,H,1.0,Sakhir Outer Track,Haas F1 Team
+25,FIT,26,0,17,14,0,51,23.4,20.8,0.0,1.8,55.4,1015.9,0.0,H,2.0,Sakhir Outer Track,Haas F1 Team
+26,FIT,27,0,15,14,0,51,23.4,20.8,0.0,2.1,54.7,1015.9,340.0,H,3.0,Sakhir Outer Track,Haas F1 Team
+27,FIT,28,0,14,14,0,51,23.3,20.8,0.0,2.2,54.5,1016.0,349.0,H,4.0,Sakhir Outer Track,Haas F1 Team
+28,FIT,29,0,14,14,0,52,23.3,20.9,0.0,1.9,54.3,1015.9,350.0,H,5.0,Sakhir Outer Track,Haas F1 Team
+29,FIT,30,0,14,14,0,52,23.3,20.8,0.0,1.4,54.8,1015.8,53.0,H,6.0,Sakhir Outer Track,Haas F1 Team
+30,FIT,31,0,16,14,0,52,23.3,20.8,0.0,1.3,55.4,1016.0,60.0,H,7.0,Sakhir Outer Track,Haas F1 Team
+31,FIT,32,0,18,14,0,52,23.2,20.9,0.0,1.5,55.7,1015.9,7.0,H,8.0,Sakhir Outer Track,Haas F1 Team
+32,FIT,33,0,18,14,0,52,23.4,20.8,0.0,1.8,55.7,1015.9,30.0,H,9.0,Sakhir Outer Track,Haas F1 Team
+33,FIT,34,0,18,14,0,53,23.4,20.8,0.0,1.6,55.7,1015.9,95.0,H,10.0,Sakhir Outer Track,Haas F1 Team
+34,FIT,35,0,18,14,0,53,23.3,20.8,0.0,1.2,55.8,1015.9,80.0,H,11.0,Sakhir Outer Track,Haas F1 Team
+35,FIT,36,0,18,14,0,54,23.3,20.8,0.0,1.5,55.9,1015.9,9.0,H,12.0,Sakhir Outer Track,Haas F1 Team
+36,FIT,37,0,18,14,0,54,23.3,20.8,0.0,3.4,56.2,1015.9,330.0,H,13.0,Sakhir Outer Track,Haas F1 Team
+37,FIT,38,0,18,14,0,54,23.2,20.8,0.0,2.5,56.3,1016.0,18.0,H,14.0,Sakhir Outer Track,Haas F1 Team
+38,FIT,39,0,18,14,0,54,23.3,20.8,0.0,2.3,56.4,1016.0,329.0,H,15.0,Sakhir Outer Track,Haas F1 Team
+39,FIT,40,0,18,14,0,54,23.1,20.7,0.0,2.0,56.5,1016.0,5.0,H,16.0,Sakhir Outer Track,Haas F1 Team
+40,FIT,41,0,18,14,0,54,23.1,20.7,0.0,1.2,56.8,1016.1,8.0,H,17.0,Sakhir Outer Track,Haas F1 Team
+41,FIT,42,0,18,14,0,54,23.1,20.7,0.0,1.6,56.7,1016.1,6.0,H,18.0,Sakhir Outer Track,Haas F1 Team
+42,FIT,43,0,18,14,0,54,23.2,20.7,0.0,1.9,57.0,1016.2,9.0,H,19.0,Sakhir Outer Track,Haas F1 Team
+43,FIT,44,0,18,14,0,54,23.3,20.7,0.0,1.5,57.5,1016.2,18.0,H,20.0,Sakhir Outer Track,Haas F1 Team
+44,FIT,45,0,18,14,0,55,23.0,20.8,0.0,2.3,57.5,1016.2,13.0,H,21.0,Sakhir Outer Track,Haas F1 Team
+45,FIT,46,0,18,14,0,54,23.1,20.8,0.0,1.6,57.6,1016.3,12.0,H,22.0,Sakhir Outer Track,Haas F1 Team
+46,FIT,47,0,18,14,0,55,23.1,20.8,0.0,2.3,57.5,1016.3,327.0,H,23.0,Sakhir Outer Track,Haas F1 Team
+47,FIT,48,0,18,14,0,55,23.0,20.7,0.0,1.8,57.8,1016.3,4.0,H,24.0,Sakhir Outer Track,Haas F1 Team
+48,FIT,49,0,18,14,0,55,23.0,20.8,0.0,1.5,57.8,1016.2,27.0,H,25.0,Sakhir Outer Track,Haas F1 Team
+49,FIT,50,0,18,14,0,55,23.2,20.8,0.0,1.8,57.7,1016.3,17.0,H,26.0,Sakhir Outer Track,Haas F1 Team
+50,FIT,51,0,18,14,0,55,23.2,20.7,0.0,1.7,58.1,1016.3,67.0,H,27.0,Sakhir Outer Track,Haas F1 Team
+51,FIT,52,0,18,14,0,55,23.1,20.7,0.0,1.6,58.1,1016.3,353.0,H,28.0,Sakhir Outer Track,Haas F1 Team
+52,FIT,53,0,17,14,0,55,23.0,20.6,0.0,1.9,58.4,1016.2,60.0,H,29.0,Sakhir Outer Track,Haas F1 Team
+53,FIT,54,0,17,14,0,55,22.9,20.6,0.0,2.0,58.4,1016.3,5.0,H,30.0,Sakhir Outer Track,Haas F1 Team
+54,FIT,55,0,17,14,0,55,22.9,20.7,0.0,1.3,58.4,1016.3,61.0,M,0.0,Sakhir Outer Track,Haas F1 Team
+55,FIT,56,0,17,14,0,55,23.0,20.6,0.0,1.1,58.6,1016.2,10.0,M,1.0,Sakhir Outer Track,Haas F1 Team
+56,FIT,57,0,17,14,0,55,23.0,20.6,0.0,2.0,58.8,1016.3,51.0,M,2.0,Sakhir Outer Track,Haas F1 Team
+57,FIT,58,0,17,14,0,55,22.9,20.6,0.0,1.5,59.0,1016.2,0.0,M,3.0,Sakhir Outer Track,Haas F1 Team
+58,FIT,59,0,17,14,0,55,22.9,20.5,0.0,2.0,59.0,1016.2,26.0,M,4.0,Sakhir Outer Track,Haas F1 Team
+59,FIT,60,0,16,14,0,55,22.9,20.6,0.0,2.8,59.0,1016.3,349.0,M,5.0,Sakhir Outer Track,Haas F1 Team
+60,FIT,61,0,16,14,0,54,22.9,20.6,0.0,1.4,59.3,1016.2,5.0,M,6.0,Sakhir Outer Track,Haas F1 Team
+61,FIT,62,0,16,14,0,54,23.0,20.6,0.0,1.6,59.1,1016.3,290.0,M,7.0,Sakhir Outer Track,Haas F1 Team
+62,FIT,63,0,16,14,0,54,23.0,20.6,0.0,1.2,59.2,1016.1,347.0,S,0.0,Sakhir Outer Track,Haas F1 Team
+63,FIT,64,0,16,14,0,54,23.0,20.6,0.0,1.3,59.3,1016.3,6.0,S,1.0,Sakhir Outer Track,Haas F1 Team
+64,FIT,65,0,16,14,0,54,23.0,20.6,0.0,1.4,59.4,1016.2,92.0,S,2.0,Sakhir Outer Track,Haas F1 Team
+65,FIT,66,0,16,14,0,54,23.0,20.6,0.0,1.3,59.5,1016.2,32.0,S,3.0,Sakhir Outer Track,Haas F1 Team
+66,FIT,67,0,16,14,0,54,22.8,20.5,0.0,1.6,59.5,1016.2,4.0,S,4.0,Sakhir Outer Track,Haas F1 Team
+67,FIT,68,0,16,14,0,54,22.7,20.5,0.0,1.6,59.6,1016.2,13.0,S,5.0,Sakhir Outer Track,Haas F1 Team
+68,FIT,69,0,16,14,0,54,22.7,20.5,0.0,1.6,59.8,1016.3,10.0,S,6.0,Sakhir Outer Track,Haas F1 Team
+69,FIT,70,0,16,14,0,54,22.8,20.5,0.0,1.5,60.0,1016.2,0.0,S,7.0,Sakhir Outer Track,Haas F1 Team
+70,FIT,71,0,16,14,0,54,22.8,20.5,0.0,1.9,59.9,1016.2,348.0,S,8.0,Sakhir Outer Track,Haas F1 Team
+71,FIT,72,0,16,14,0,54,22.8,20.5,0.0,1.5,60.1,1016.2,23.0,S,9.0,Sakhir Outer Track,Haas F1 Team
+72,FIT,73,0,16,14,0,54,22.8,20.5,0.0,2.2,60.7,1016.2,6.0,S,10.0,Sakhir Outer Track,Haas F1 Team
+73,FIT,74,0,16,14,0,54,22.8,20.5,0.0,1.5,60.7,1016.2,343.0,S,11.0,Sakhir Outer Track,Haas F1 Team
+74,FIT,75,0,16,14,0,54,22.8,20.5,0.0,2.2,60.5,1016.2,315.0,S,12.0,Sakhir Outer Track,Haas F1 Team
+75,FIT,76,0,16,14,0,55,22.7,20.5,0.0,2.4,60.6,1016.3,1.0,S,13.0,Sakhir Outer Track,Haas F1 Team
+76,FIT,77,0,16,14,0,55,22.8,20.5,0.0,1.7,60.6,1016.3,8.0,S,14.0,Sakhir Outer Track,Haas F1 Team
+77,FIT,78,0,16,14,0,55,22.8,20.5,0.0,1.6,60.7,1016.2,351.0,S,15.0,Sakhir Outer Track,Haas F1 Team
+78,FIT,79,0,16,14,0,55,22.7,20.4,0.0,1.0,60.8,1016.2,326.0,S,16.0,Sakhir Outer Track,Haas F1 Team
+79,FIT,80,0,16,14,0,55,22.7,20.5,0.0,1.9,60.9,1016.4,343.0,S,17.0,Sakhir Outer Track,Haas F1 Team
+80,FIT,81,0,16,14,0,55,22.7,20.5,0.0,1.7,61.0,1016.3,334.0,S,18.0,Sakhir Outer Track,Haas F1 Team
+81,FIT,82,0,17,14,0,55,22.7,20.5,0.0,2.1,61.0,1016.3,11.0,S,19.0,Sakhir Outer Track,Haas F1 Team
+82,FIT,83,0,17,14,0,55,22.6,20.5,0.0,1.4,60.8,1016.4,12.0,S,20.0,Sakhir Outer Track,Haas F1 Team
+83,FIT,84,0,17,14,0,55,22.6,20.4,0.0,2.6,61.3,1016.4,3.0,S,21.0,Sakhir Outer Track,Haas F1 Team
+84,FIT,85,0,17,14,0,55,22.6,20.5,0.0,1.9,61.0,1016.5,15.0,S,22.0,Sakhir Outer Track,Haas F1 Team
+85,FIT,86,0,17,14,0,56,22.7,20.4,0.0,1.2,61.0,1016.6,43.0,S,23.0,Sakhir Outer Track,Haas F1 Team
+86,FIT,87,0,17,14,0,56,22.7,20.4,0.0,2.0,60.9,1016.6,14.0,S,24.0,Sakhir Outer Track,Haas F1 Team

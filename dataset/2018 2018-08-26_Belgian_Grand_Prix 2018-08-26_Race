@@ -1,0 +1,691 @@
+,driver,lap,trackStatus,position,grid,out,performance,trackTemp,airTemp,raining,windSpeed,humidity,pressure,windDir,tyre,tyreLap,track,team
+0,HAM,1,0,2,2,0,77,29.7,17.3,0.0,2.4,38.1,967.2,145.0,V,3.0,Spa-Francorchamps,Mercedes
+1,HAM,2,0,2,2,0,81,30.1,17.4,0.0,2.9,39.0,967.1,128.0,V,4.0,Spa-Francorchamps,Mercedes
+2,HAM,3,0,2,2,0,80,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,5.0,Spa-Francorchamps,Mercedes
+3,HAM,4,0,2,2,0,79,29.9,18.3,0.0,3.0,36.2,967.1,171.0,V,6.0,Spa-Francorchamps,Mercedes
+4,HAM,5,0,2,2,0,79,29.3,17.7,0.0,2.9,35.5,967.0,175.0,V,7.0,Spa-Francorchamps,Mercedes
+5,HAM,6,0,2,2,0,79,28.9,17.3,0.0,2.8,34.5,967.0,155.0,V,8.0,Spa-Francorchamps,Mercedes
+6,HAM,7,0,2,2,0,80,28.9,17.4,0.0,2.0,35.1,967.0,157.0,V,9.0,Spa-Francorchamps,Mercedes
+7,HAM,8,0,2,2,0,80,28.5,17.4,0.0,2.5,36.0,967.1,0.0,V,10.0,Spa-Francorchamps,Mercedes
+8,HAM,9,0,2,2,0,80,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,11.0,Spa-Francorchamps,Mercedes
+9,HAM,10,0,2,2,0,80,28.3,17.0,0.0,2.3,37.6,966.9,177.0,V,12.0,Spa-Francorchamps,Mercedes
+10,HAM,11,0,2,2,0,80,28.4,17.2,0.0,2.7,37.4,967.0,150.0,V,13.0,Spa-Francorchamps,Mercedes
+11,HAM,12,0,2,2,0,81,28.3,17.5,0.0,2.6,35.5,967.0,158.0,V,14.0,Spa-Francorchamps,Mercedes
+12,HAM,13,0,2,2,0,81,27.7,17.1,0.0,0.6,36.1,967.0,82.0,V,15.0,Spa-Francorchamps,Mercedes
+13,HAM,14,0,2,2,0,81,27.6,17.0,0.0,0.7,37.3,966.8,144.0,V,16.0,Spa-Francorchamps,Mercedes
+14,HAM,15,0,2,2,0,81,27.5,17.1,0.0,2.0,37.9,966.8,193.0,V,17.0,Spa-Francorchamps,Mercedes
+15,HAM,16,0,2,2,0,81,27.5,17.6,0.0,1.4,36.6,966.9,180.0,V,18.0,Spa-Francorchamps,Mercedes
+16,HAM,17,0,2,2,0,81,27.1,17.2,0.0,2.4,37.6,966.9,39.0,V,19.0,Spa-Francorchamps,Mercedes
+17,HAM,18,0,2,2,0,81,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,20.0,Spa-Francorchamps,Mercedes
+18,HAM,19,0,2,2,0,82,27.1,17.1,0.0,1.4,38.9,966.9,152.0,V,21.0,Spa-Francorchamps,Mercedes
+19,HAM,20,0,2,2,0,82,27.1,17.3,0.0,2.0,38.7,966.9,185.0,V,22.0,Spa-Francorchamps,Mercedes
+20,HAM,21,0,2,2,0,82,27.1,17.3,0.0,2.6,37.2,966.9,155.0,V,23.0,Spa-Francorchamps,Mercedes
+21,HAM,22,0,3,2,0,82,27.1,17.0,0.0,1.1,36.5,966.9,146.0,S,0.0,Spa-Francorchamps,Mercedes
+22,HAM,23,0,2,2,0,82,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,1.0,Spa-Francorchamps,Mercedes
+23,HAM,24,0,2,2,0,82,27.1,17.3,0.0,2.1,37.1,966.9,195.0,S,2.0,Spa-Francorchamps,Mercedes
+24,HAM,25,0,2,2,0,82,26.9,17.3,0.0,1.8,37.4,966.8,133.0,S,3.0,Spa-Francorchamps,Mercedes
+25,HAM,26,0,2,2,0,82,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,4.0,Spa-Francorchamps,Mercedes
+26,HAM,27,0,2,2,0,82,26.7,17.1,0.0,2.8,38.0,966.7,176.0,S,5.0,Spa-Francorchamps,Mercedes
+27,HAM,28,0,2,2,0,81,27.0,17.3,0.0,1.7,38.0,966.7,158.0,S,6.0,Spa-Francorchamps,Mercedes
+28,HAM,29,0,2,2,0,81,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,7.0,Spa-Francorchamps,Mercedes
+29,HAM,30,0,2,2,0,81,26.9,17.4,0.0,1.9,38.3,966.7,267.0,S,8.0,Spa-Francorchamps,Mercedes
+30,HAM,31,0,2,2,0,81,26.7,17.2,0.0,2.5,39.4,966.7,158.0,S,9.0,Spa-Francorchamps,Mercedes
+31,HAM,32,0,2,2,0,81,26.5,17.2,0.0,2.7,38.7,966.8,148.0,S,10.0,Spa-Francorchamps,Mercedes
+32,HAM,33,0,2,2,0,81,26.3,17.0,0.0,1.8,39.5,966.8,172.0,S,11.0,Spa-Francorchamps,Mercedes
+33,HAM,34,0,2,2,0,81,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,12.0,Spa-Francorchamps,Mercedes
+34,HAM,35,0,2,2,0,81,26.3,17.1,0.0,1.3,38.4,966.7,180.0,S,13.0,Spa-Francorchamps,Mercedes
+35,HAM,36,0,2,2,0,81,26.4,17.0,0.0,1.3,39.8,966.7,154.0,S,14.0,Spa-Francorchamps,Mercedes
+36,HAM,37,0,2,2,0,81,26.5,17.1,0.0,1.2,39.7,966.7,155.0,S,15.0,Spa-Francorchamps,Mercedes
+37,HAM,38,0,2,2,0,81,26.6,17.4,0.0,1.7,38.9,966.6,156.0,S,16.0,Spa-Francorchamps,Mercedes
+38,HAM,39,0,2,2,0,81,26.8,17.4,0.0,1.1,39.5,966.7,158.0,S,17.0,Spa-Francorchamps,Mercedes
+39,HAM,40,0,2,2,0,81,26.8,17.4,0.0,1.7,39.5,966.6,148.0,S,18.0,Spa-Francorchamps,Mercedes
+40,HAM,41,0,2,2,0,82,26.6,17.2,0.0,1.0,39.6,966.6,166.0,S,19.0,Spa-Francorchamps,Mercedes
+41,HAM,42,0,2,2,0,82,26.2,17.2,0.0,1.2,40.2,966.7,180.0,S,20.0,Spa-Francorchamps,Mercedes
+42,HAM,43,0,2,2,0,82,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,21.0,Spa-Francorchamps,Mercedes
+43,HAM,44,0,2,2,0,82,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,22.0,Spa-Francorchamps,Mercedes
+0,VET,1,0,1,1,0,61,30.0,17.4,0.0,2.9,38.5,967.1,160.0,V,3.0,Spa-Francorchamps,Ferrari
+1,VET,2,0,1,1,0,57,30.1,17.4,0.0,4.3,38.4,967.2,152.0,V,4.0,Spa-Francorchamps,Ferrari
+2,VET,3,0,1,1,0,58,29.7,17.3,0.0,3.3,38.1,967.1,140.0,V,5.0,Spa-Francorchamps,Ferrari
+3,VET,4,0,1,1,0,59,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,6.0,Spa-Francorchamps,Ferrari
+4,VET,5,0,1,1,0,61,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,7.0,Spa-Francorchamps,Ferrari
+5,VET,6,0,1,1,0,64,29.3,17.9,0.0,1.0,35.6,967.1,154.0,V,8.0,Spa-Francorchamps,Ferrari
+6,VET,7,0,1,1,0,66,29.1,17.6,0.0,2.6,35.3,967.0,156.0,V,9.0,Spa-Francorchamps,Ferrari
+7,VET,8,0,1,1,0,67,28.9,17.3,0.0,2.8,34.5,967.0,155.0,V,10.0,Spa-Francorchamps,Ferrari
+8,VET,9,0,1,1,0,68,28.4,17.2,0.0,2.7,37.4,967.0,150.0,V,11.0,Spa-Francorchamps,Ferrari
+9,VET,10,0,1,1,0,69,27.6,17.1,0.0,1.8,36.5,967.0,36.0,V,12.0,Spa-Francorchamps,Ferrari
+10,VET,11,0,1,1,0,70,27.6,17.0,0.0,0.7,37.3,966.8,144.0,V,13.0,Spa-Francorchamps,Ferrari
+11,VET,12,0,1,1,0,71,27.3,17.5,0.0,1.3,36.6,966.9,48.0,V,14.0,Spa-Francorchamps,Ferrari
+12,VET,13,0,1,1,0,72,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,15.0,Spa-Francorchamps,Ferrari
+13,VET,14,0,1,1,0,72,27.2,17.4,0.0,2.5,37.4,966.9,192.0,V,16.0,Spa-Francorchamps,Ferrari
+14,VET,15,0,1,1,0,72,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,17.0,Spa-Francorchamps,Ferrari
+15,VET,16,0,1,1,0,73,27.1,17.1,0.0,1.4,38.9,966.9,152.0,V,18.0,Spa-Francorchamps,Ferrari
+16,VET,17,0,1,1,0,73,27.1,17.3,0.0,2.0,38.7,966.9,185.0,V,19.0,Spa-Francorchamps,Ferrari
+17,VET,18,0,1,1,0,74,27.1,17.3,0.0,2.4,36.1,966.9,204.0,V,20.0,Spa-Francorchamps,Ferrari
+18,VET,19,0,1,1,0,74,27.1,17.3,0.0,1.7,35.9,966.8,199.0,V,21.0,Spa-Francorchamps,Ferrari
+19,VET,20,0,1,1,0,74,27.1,17.0,0.0,1.1,36.5,966.9,146.0,V,22.0,Spa-Francorchamps,Ferrari
+20,VET,21,0,1,1,0,74,27.1,17.1,0.0,1.6,36.9,966.9,138.0,V,23.0,Spa-Francorchamps,Ferrari
+21,VET,22,0,1,1,0,75,27.1,17.0,0.0,1.9,36.4,966.9,200.0,V,24.0,Spa-Francorchamps,Ferrari
+22,VET,23,0,1,1,0,75,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,0.0,Spa-Francorchamps,Ferrari
+23,VET,24,0,1,1,0,75,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,1.0,Spa-Francorchamps,Ferrari
+24,VET,25,0,1,1,0,75,27.1,17.3,0.0,2.1,37.1,966.9,195.0,S,2.0,Spa-Francorchamps,Ferrari
+25,VET,26,0,1,1,0,75,26.9,17.1,0.0,2.8,38.0,966.8,151.0,S,3.0,Spa-Francorchamps,Ferrari
+26,VET,27,0,1,1,0,75,26.9,17.1,0.0,2.5,37.7,966.7,172.0,S,4.0,Spa-Francorchamps,Ferrari
+27,VET,28,0,1,1,0,75,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,5.0,Spa-Francorchamps,Ferrari
+28,VET,29,0,1,1,0,75,26.7,17.1,0.0,2.8,38.0,966.7,176.0,S,6.0,Spa-Francorchamps,Ferrari
+29,VET,30,0,1,1,0,75,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,7.0,Spa-Francorchamps,Ferrari
+30,VET,31,0,1,1,0,75,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,8.0,Spa-Francorchamps,Ferrari
+31,VET,32,0,1,1,0,75,26.7,17.2,0.0,2.5,39.4,966.7,158.0,S,9.0,Spa-Francorchamps,Ferrari
+32,VET,33,0,1,1,0,75,26.5,17.2,0.0,2.7,38.7,966.8,148.0,S,10.0,Spa-Francorchamps,Ferrari
+33,VET,34,0,1,1,0,75,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,11.0,Spa-Francorchamps,Ferrari
+34,VET,35,0,1,1,0,76,26.4,17.0,0.0,1.3,39.8,966.7,154.0,S,12.0,Spa-Francorchamps,Ferrari
+35,VET,36,0,1,1,0,76,26.5,17.1,0.0,1.2,39.7,966.7,155.0,S,13.0,Spa-Francorchamps,Ferrari
+36,VET,37,0,1,1,0,76,26.5,17.3,0.0,1.3,39.1,966.7,175.0,S,14.0,Spa-Francorchamps,Ferrari
+37,VET,38,0,1,1,0,76,26.6,17.4,0.0,1.7,38.9,966.6,156.0,S,15.0,Spa-Francorchamps,Ferrari
+38,VET,39,0,1,1,0,76,26.8,17.4,0.0,1.1,39.5,966.7,158.0,S,16.0,Spa-Francorchamps,Ferrari
+39,VET,40,0,1,1,0,76,26.3,17.2,0.0,2.5,38.9,966.6,234.0,S,17.0,Spa-Francorchamps,Ferrari
+40,VET,41,0,1,1,0,76,26.2,17.4,0.0,2.5,39.8,966.6,130.0,S,18.0,Spa-Francorchamps,Ferrari
+41,VET,42,0,1,1,0,76,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,19.0,Spa-Francorchamps,Ferrari
+42,VET,43,0,1,1,0,76,25.5,17.3,0.0,1.4,39.5,966.7,175.0,S,20.0,Spa-Francorchamps,Ferrari
+43,VET,44,0,1,1,0,77,25.6,17.4,0.0,1.7,38.8,966.7,181.0,S,21.0,Spa-Francorchamps,Ferrari
+0,OCO,1,0,4,6,0,58,29.7,17.3,0.0,2.3,38.7,967.1,161.0,V,3.0,Spa-Francorchamps,Racing Point
+1,OCO,2,0,4,6,0,62,30.0,17.4,0.0,2.9,38.5,967.1,160.0,V,4.0,Spa-Francorchamps,Racing Point
+2,OCO,3,0,4,6,0,63,30.1,17.4,0.0,4.3,38.4,967.2,152.0,V,5.0,Spa-Francorchamps,Racing Point
+3,OCO,4,0,4,6,0,63,30.1,17.4,0.0,2.9,39.0,967.1,128.0,V,6.0,Spa-Francorchamps,Racing Point
+4,OCO,5,0,4,6,0,63,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,7.0,Spa-Francorchamps,Racing Point
+5,OCO,6,0,4,6,0,63,29.9,18.3,0.0,3.0,36.2,967.1,171.0,V,8.0,Spa-Francorchamps,Racing Point
+6,OCO,7,0,5,6,0,64,29.5,18.0,0.0,1.9,34.7,967.0,263.0,V,9.0,Spa-Francorchamps,Racing Point
+7,OCO,8,0,5,6,0,64,29.3,17.7,0.0,2.9,35.5,967.0,175.0,V,10.0,Spa-Francorchamps,Racing Point
+8,OCO,9,0,5,6,0,65,29.0,17.6,0.0,2.8,34.1,967.0,150.0,V,11.0,Spa-Francorchamps,Racing Point
+9,OCO,10,0,5,6,0,65,28.9,17.3,0.0,2.8,34.5,967.0,155.0,V,12.0,Spa-Francorchamps,Racing Point
+10,OCO,11,0,5,6,0,65,28.9,17.4,0.0,2.0,35.1,967.0,157.0,V,13.0,Spa-Francorchamps,Racing Point
+11,OCO,12,0,5,6,0,66,28.4,17.2,0.0,0.9,35.4,966.8,156.0,V,14.0,Spa-Francorchamps,Racing Point
+12,OCO,13,0,5,6,0,66,28.3,17.0,0.0,2.3,37.6,966.9,177.0,V,15.0,Spa-Francorchamps,Racing Point
+13,OCO,14,0,5,6,0,66,28.4,17.2,0.0,2.7,37.4,967.0,150.0,V,16.0,Spa-Francorchamps,Racing Point
+14,OCO,15,0,5,6,0,66,28.3,17.5,0.0,2.6,35.5,967.0,158.0,V,17.0,Spa-Francorchamps,Racing Point
+15,OCO,16,0,5,6,0,66,27.9,17.3,0.0,2.6,36.1,966.9,166.0,V,18.0,Spa-Francorchamps,Racing Point
+16,OCO,17,0,5,6,0,66,27.6,17.1,0.0,1.8,36.5,967.0,36.0,V,19.0,Spa-Francorchamps,Racing Point
+17,OCO,18,0,5,6,0,67,27.6,17.0,0.0,0.7,37.3,966.8,144.0,V,20.0,Spa-Francorchamps,Racing Point
+18,OCO,19,0,5,6,0,67,27.5,17.0,0.0,1.2,37.1,966.9,143.0,V,21.0,Spa-Francorchamps,Racing Point
+19,OCO,20,0,5,6,0,67,27.5,17.5,0.0,2.0,37.5,966.9,183.0,V,22.0,Spa-Francorchamps,Racing Point
+20,OCO,21,0,5,6,0,67,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,23.0,Spa-Francorchamps,Racing Point
+21,OCO,22,0,5,6,0,67,27.2,17.4,0.0,2.5,37.4,966.9,192.0,V,24.0,Spa-Francorchamps,Racing Point
+22,OCO,23,0,5,6,0,67,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,25.0,Spa-Francorchamps,Racing Point
+23,OCO,24,0,5,6,0,67,27.1,17.1,0.0,1.4,38.9,966.9,152.0,V,26.0,Spa-Francorchamps,Racing Point
+24,OCO,25,0,7,6,0,68,27.1,17.3,0.0,2.4,36.1,966.9,204.0,S,0.0,Spa-Francorchamps,Racing Point
+25,OCO,26,0,6,6,0,68,27.1,17.0,0.0,1.1,36.5,966.9,146.0,S,1.0,Spa-Francorchamps,Racing Point
+26,OCO,27,0,6,6,0,68,27.1,17.0,0.0,1.9,36.4,966.9,200.0,S,2.0,Spa-Francorchamps,Racing Point
+27,OCO,28,0,6,6,0,68,27.1,17.3,0.0,2.1,37.1,966.9,195.0,S,3.0,Spa-Francorchamps,Racing Point
+28,OCO,29,0,6,6,0,68,26.7,17.1,0.0,2.8,38.0,966.7,176.0,S,4.0,Spa-Francorchamps,Racing Point
+29,OCO,30,0,5,6,0,68,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,5.0,Spa-Francorchamps,Racing Point
+30,OCO,31,0,5,6,0,68,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,6.0,Spa-Francorchamps,Racing Point
+31,OCO,32,0,6,6,0,68,26.3,17.0,0.0,1.1,39.5,966.7,183.0,S,7.0,Spa-Francorchamps,Racing Point
+32,OCO,33,0,6,6,0,69,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,8.0,Spa-Francorchamps,Racing Point
+33,OCO,34,0,6,6,0,69,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,9.0,Spa-Francorchamps,Racing Point
+34,OCO,35,0,6,6,0,69,26.3,17.1,0.0,1.3,38.4,966.7,180.0,S,10.0,Spa-Francorchamps,Racing Point
+35,OCO,36,0,6,6,0,69,26.6,17.4,0.0,1.7,38.9,966.6,156.0,S,11.0,Spa-Francorchamps,Racing Point
+36,OCO,37,0,6,6,0,69,26.8,17.4,0.0,1.1,39.5,966.7,158.0,S,12.0,Spa-Francorchamps,Racing Point
+37,OCO,38,0,6,6,0,69,26.2,17.2,0.0,1.2,40.2,966.7,180.0,S,13.0,Spa-Francorchamps,Racing Point
+38,OCO,39,0,6,6,0,70,26.2,17.4,0.0,2.9,38.6,966.6,174.0,S,14.0,Spa-Francorchamps,Racing Point
+39,OCO,40,0,6,6,0,70,25.9,17.3,0.0,2.7,40.3,966.6,157.0,S,15.0,Spa-Francorchamps,Racing Point
+40,OCO,41,0,6,6,0,70,25.6,17.3,0.0,3.4,38.2,966.6,155.0,S,16.0,Spa-Francorchamps,Racing Point
+41,OCO,42,0,6,6,0,70,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,17.0,Spa-Francorchamps,Racing Point
+42,OCO,43,0,6,6,0,70,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,18.0,Spa-Francorchamps,Racing Point
+43,OCO,44,0,6,6,0,71,25.6,17.4,0.0,1.7,38.8,966.7,181.0,S,19.0,Spa-Francorchamps,Racing Point
+0,PER,1,0,3,5,0,53,29.7,17.3,0.0,2.3,38.7,967.1,161.0,V,3.0,Spa-Francorchamps,Racing Point
+1,PER,2,0,3,5,0,55,30.1,17.4,0.0,4.3,38.4,967.2,152.0,V,4.0,Spa-Francorchamps,Racing Point
+2,PER,3,0,3,5,0,56,29.7,17.3,0.0,3.3,38.1,967.1,140.0,V,5.0,Spa-Francorchamps,Racing Point
+3,PER,4,0,3,5,0,56,30.1,17.4,0.0,2.9,39.0,967.1,128.0,V,6.0,Spa-Francorchamps,Racing Point
+4,PER,5,0,3,5,0,57,30.3,17.7,0.0,1.7,38.1,967.0,174.0,V,7.0,Spa-Francorchamps,Racing Point
+5,PER,6,0,3,5,0,58,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,8.0,Spa-Francorchamps,Racing Point
+6,PER,7,0,3,5,0,60,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,9.0,Spa-Francorchamps,Racing Point
+7,PER,8,0,3,5,0,61,29.9,18.3,0.0,3.0,36.2,967.1,171.0,V,10.0,Spa-Francorchamps,Racing Point
+8,PER,9,0,3,5,0,62,29.3,17.7,0.0,2.9,35.5,967.0,175.0,V,11.0,Spa-Francorchamps,Racing Point
+9,PER,10,0,4,5,0,62,29.0,17.6,0.0,2.8,34.1,967.0,150.0,V,12.0,Spa-Francorchamps,Racing Point
+10,PER,11,0,4,5,0,63,28.9,17.4,0.0,2.0,35.1,967.0,157.0,V,13.0,Spa-Francorchamps,Racing Point
+11,PER,12,0,4,5,0,63,28.8,17.4,0.0,2.8,35.0,967.1,156.0,V,14.0,Spa-Francorchamps,Racing Point
+12,PER,13,0,4,5,0,64,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,15.0,Spa-Francorchamps,Racing Point
+13,PER,14,0,4,5,0,64,28.3,17.0,0.0,2.3,37.6,966.9,177.0,V,16.0,Spa-Francorchamps,Racing Point
+14,PER,15,0,4,5,0,64,27.9,17.3,0.0,2.6,36.1,966.9,166.0,V,17.0,Spa-Francorchamps,Racing Point
+15,PER,16,0,4,5,0,64,27.6,17.1,0.0,1.8,36.5,967.0,36.0,V,18.0,Spa-Francorchamps,Racing Point
+16,PER,17,0,4,5,0,65,27.5,17.0,0.0,1.2,37.1,966.9,143.0,V,19.0,Spa-Francorchamps,Racing Point
+17,PER,18,0,4,5,0,65,27.3,17.5,0.0,1.3,36.6,966.9,48.0,V,20.0,Spa-Francorchamps,Racing Point
+18,PER,19,0,4,5,0,65,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,21.0,Spa-Francorchamps,Racing Point
+19,PER,20,0,4,5,0,66,27.1,17.2,0.0,2.4,37.6,966.9,39.0,V,22.0,Spa-Francorchamps,Racing Point
+20,PER,21,0,4,5,0,66,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,23.0,Spa-Francorchamps,Racing Point
+21,PER,22,0,4,5,0,66,27.1,17.3,0.0,2.4,36.1,966.9,204.0,V,24.0,Spa-Francorchamps,Racing Point
+22,PER,23,0,4,5,0,66,27.1,17.3,0.0,2.6,37.2,966.9,155.0,V,25.0,Spa-Francorchamps,Racing Point
+23,PER,24,0,4,5,0,67,27.1,17.3,0.0,1.7,35.9,966.8,199.0,V,26.0,Spa-Francorchamps,Racing Point
+24,PER,25,0,4,5,0,67,27.1,17.0,0.0,1.9,36.4,966.9,200.0,V,27.0,Spa-Francorchamps,Racing Point
+25,PER,26,0,5,5,0,67,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,0.0,Spa-Francorchamps,Racing Point
+26,PER,27,0,5,5,0,67,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,1.0,Spa-Francorchamps,Racing Point
+27,PER,28,0,5,5,0,67,27.1,17.3,0.0,2.1,37.1,966.9,195.0,S,2.0,Spa-Francorchamps,Racing Point
+28,PER,29,0,5,5,0,67,26.9,17.2,0.0,2.0,38.4,966.8,187.0,S,3.0,Spa-Francorchamps,Racing Point
+29,PER,30,0,4,5,0,67,26.7,17.1,0.0,2.8,38.0,966.7,176.0,S,4.0,Spa-Francorchamps,Racing Point
+30,PER,31,0,4,5,0,67,27.0,17.3,0.0,2.6,38.2,966.7,165.0,S,5.0,Spa-Francorchamps,Racing Point
+31,PER,32,0,4,5,0,67,26.9,17.4,0.0,1.9,38.3,966.7,267.0,S,6.0,Spa-Francorchamps,Racing Point
+32,PER,33,0,4,5,0,68,26.7,17.2,0.0,2.5,39.4,966.7,158.0,S,7.0,Spa-Francorchamps,Racing Point
+33,PER,34,0,4,5,0,68,26.5,17.2,0.0,2.7,38.7,966.8,148.0,S,8.0,Spa-Francorchamps,Racing Point
+34,PER,35,0,4,5,0,68,26.3,17.0,0.0,1.1,39.5,966.7,183.0,S,9.0,Spa-Francorchamps,Racing Point
+35,PER,36,0,4,5,0,68,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,10.0,Spa-Francorchamps,Racing Point
+36,PER,37,0,4,5,0,69,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,11.0,Spa-Francorchamps,Racing Point
+37,PER,38,0,4,5,0,69,26.4,17.0,0.0,1.3,39.8,966.7,154.0,S,12.0,Spa-Francorchamps,Racing Point
+38,PER,39,0,4,5,0,69,26.5,17.1,0.0,1.2,39.7,966.7,155.0,S,13.0,Spa-Francorchamps,Racing Point
+39,PER,40,0,5,5,0,69,26.6,17.4,0.0,1.7,38.9,966.6,156.0,S,14.0,Spa-Francorchamps,Racing Point
+40,PER,41,0,5,5,0,69,26.3,17.2,0.0,2.5,38.9,966.6,234.0,S,15.0,Spa-Francorchamps,Racing Point
+41,PER,42,0,5,5,0,69,25.8,17.4,0.0,2.7,38.4,966.6,163.0,S,16.0,Spa-Francorchamps,Racing Point
+42,PER,43,0,5,5,0,69,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,17.0,Spa-Francorchamps,Racing Point
+43,PER,44,0,5,5,0,70,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,18.0,Spa-Francorchamps,Racing Point
+0,GRO,1,0,6,7,0,60,30.1,17.4,0.0,4.3,38.4,967.2,152.0,V,3.0,Spa-Francorchamps,Haas F1 Team
+1,GRO,2,0,6,7,0,57,29.7,17.3,0.0,3.3,38.1,967.1,140.0,V,4.0,Spa-Francorchamps,Haas F1 Team
+2,GRO,3,0,6,7,0,57,29.7,17.3,0.0,2.4,38.1,967.2,145.0,V,5.0,Spa-Francorchamps,Haas F1 Team
+3,GRO,4,0,6,7,0,58,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,6.0,Spa-Francorchamps,Haas F1 Team
+4,GRO,5,0,6,7,0,58,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,7.0,Spa-Francorchamps,Haas F1 Team
+5,GRO,6,0,6,7,0,60,29.5,18.0,0.0,1.9,34.7,967.0,263.0,V,8.0,Spa-Francorchamps,Haas F1 Team
+6,GRO,7,0,6,7,0,61,29.3,17.9,0.0,1.0,35.6,967.1,154.0,V,9.0,Spa-Francorchamps,Haas F1 Team
+7,GRO,8,0,6,7,0,62,28.9,17.3,0.0,2.8,34.5,967.0,155.0,V,10.0,Spa-Francorchamps,Haas F1 Team
+8,GRO,9,0,6,7,0,63,28.4,17.2,0.0,0.9,35.4,966.8,156.0,V,11.0,Spa-Francorchamps,Haas F1 Team
+9,GRO,10,0,6,7,0,64,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,12.0,Spa-Francorchamps,Haas F1 Team
+10,GRO,11,0,6,7,0,65,27.6,17.1,0.0,1.8,36.5,967.0,36.0,V,13.0,Spa-Francorchamps,Haas F1 Team
+11,GRO,12,0,6,7,0,65,27.6,17.0,0.0,0.7,37.3,966.8,144.0,V,14.0,Spa-Francorchamps,Haas F1 Team
+12,GRO,13,0,6,7,0,65,27.5,17.1,0.0,2.0,37.9,966.8,193.0,V,15.0,Spa-Francorchamps,Haas F1 Team
+13,GRO,14,0,6,7,0,65,27.5,17.5,0.0,2.0,37.5,966.9,183.0,V,16.0,Spa-Francorchamps,Haas F1 Team
+14,GRO,15,0,6,7,0,65,27.5,17.6,0.0,1.7,37.4,966.9,152.0,V,17.0,Spa-Francorchamps,Haas F1 Team
+15,GRO,16,0,6,7,0,66,27.5,17.6,0.0,1.4,36.6,966.9,180.0,V,18.0,Spa-Francorchamps,Haas F1 Team
+16,GRO,17,0,6,7,0,66,27.3,17.5,0.0,1.3,36.6,966.9,48.0,V,19.0,Spa-Francorchamps,Haas F1 Team
+17,GRO,18,0,6,7,0,66,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,20.0,Spa-Francorchamps,Haas F1 Team
+18,GRO,19,0,6,7,0,67,27.2,17.4,0.0,2.5,37.4,966.9,192.0,V,21.0,Spa-Francorchamps,Haas F1 Team
+19,GRO,20,0,6,7,0,67,27.1,17.2,0.0,2.4,37.6,966.9,39.0,V,22.0,Spa-Francorchamps,Haas F1 Team
+20,GRO,21,0,6,7,0,67,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,23.0,Spa-Francorchamps,Haas F1 Team
+21,GRO,22,0,6,7,0,68,27.1,17.3,0.0,2.0,38.7,966.9,185.0,V,24.0,Spa-Francorchamps,Haas F1 Team
+22,GRO,23,0,7,7,0,68,27.1,17.3,0.0,2.4,36.1,966.9,204.0,V,25.0,Spa-Francorchamps,Haas F1 Team
+23,GRO,24,0,10,7,0,68,27.1,17.0,0.0,1.1,36.5,966.9,146.0,S,0.0,Spa-Francorchamps,Haas F1 Team
+24,GRO,25,0,9,7,0,68,27.1,17.1,0.0,1.6,36.9,966.9,138.0,S,1.0,Spa-Francorchamps,Haas F1 Team
+25,GRO,26,0,8,7,0,68,27.1,17.0,0.0,1.9,36.4,966.9,200.0,S,2.0,Spa-Francorchamps,Haas F1 Team
+26,GRO,27,0,7,7,0,68,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,3.0,Spa-Francorchamps,Haas F1 Team
+27,GRO,28,0,7,7,0,68,26.9,17.1,0.0,2.8,38.0,966.8,151.0,S,4.0,Spa-Francorchamps,Haas F1 Team
+28,GRO,29,0,7,7,0,68,26.9,17.2,0.0,2.0,38.4,966.8,187.0,S,5.0,Spa-Francorchamps,Haas F1 Team
+29,GRO,30,0,7,7,0,68,26.8,17.3,0.0,1.3,37.1,966.9,121.0,S,6.0,Spa-Francorchamps,Haas F1 Team
+30,GRO,31,0,7,7,0,68,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,7.0,Spa-Francorchamps,Haas F1 Team
+31,GRO,32,0,7,7,0,69,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,8.0,Spa-Francorchamps,Haas F1 Team
+32,GRO,33,0,7,7,0,69,26.8,17.4,0.0,1.3,38.2,966.8,173.0,S,9.0,Spa-Francorchamps,Haas F1 Team
+33,GRO,34,0,7,7,0,69,26.8,17.3,0.0,2.5,38.6,966.7,150.0,S,10.0,Spa-Francorchamps,Haas F1 Team
+34,GRO,35,0,7,7,0,69,26.3,17.0,0.0,1.1,39.5,966.7,183.0,S,11.0,Spa-Francorchamps,Haas F1 Team
+35,GRO,36,0,7,7,0,69,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,12.0,Spa-Francorchamps,Haas F1 Team
+36,GRO,37,0,7,7,0,69,26.5,17.1,0.0,1.2,39.7,966.7,155.0,S,13.0,Spa-Francorchamps,Haas F1 Team
+37,GRO,38,0,7,7,0,70,26.6,17.4,0.0,1.7,38.9,966.6,156.0,S,14.0,Spa-Francorchamps,Haas F1 Team
+38,GRO,39,0,7,7,0,70,26.3,17.2,0.0,2.5,38.9,966.6,234.0,S,15.0,Spa-Francorchamps,Haas F1 Team
+39,GRO,40,0,7,7,0,70,26.2,17.4,0.0,2.5,39.8,966.6,130.0,S,16.0,Spa-Francorchamps,Haas F1 Team
+40,GRO,41,0,7,7,0,71,25.6,17.3,0.0,3.4,38.2,966.6,155.0,S,17.0,Spa-Francorchamps,Haas F1 Team
+41,GRO,42,0,7,7,0,71,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,18.0,Spa-Francorchamps,Haas F1 Team
+42,GRO,43,0,7,7,0,71,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,19.0,Spa-Francorchamps,Haas F1 Team
+43,GRO,44,0,7,7,0,71,25.6,17.4,0.0,1.7,38.8,966.7,181.0,S,20.0,Spa-Francorchamps,Haas F1 Team
+0,RAI,1,0,17,17,0,43,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,3.0,Spa-Francorchamps,Ferrari
+1,RAI,2,0,15,17,0,47,28.5,17.4,0.0,2.5,36.0,967.1,0.0,M,0.0,Spa-Francorchamps,Ferrari
+2,RAI,3,0,14,17,0,52,28.4,17.2,0.0,0.9,35.4,966.8,156.0,M,1.0,Spa-Francorchamps,Ferrari
+3,RAI,4,0,14,17,0,54,27.1,17.3,0.0,1.7,35.9,966.8,199.0,M,2.0,Spa-Francorchamps,Ferrari
+4,RAI,5,0,15,17,0,56,26.8,17.3,0.0,2.5,38.6,966.7,150.0,M,3.0,Spa-Francorchamps,Ferrari
+5,RAI,6,0,15,17,0,58,26.3,17.0,0.0,1.8,39.5,966.8,172.0,M,4.0,Spa-Francorchamps,Ferrari
+6,RAI,7,0,16,17,0,59,26.3,17.1,0.0,1.3,38.4,966.7,180.0,M,5.0,Spa-Francorchamps,Ferrari
+7,RAI,8,0,16,17,1,59,26.2,17.4,0.0,2.5,39.8,966.6,130.0,M,6.0,Spa-Francorchamps,Ferrari
+0,VER,1,0,5,3,0,64,29.7,17.3,0.0,2.3,38.7,967.1,161.0,V,3.0,Spa-Francorchamps,Red Bull Racing
+1,VER,2,0,5,3,0,64,30.1,17.4,0.0,4.3,38.4,967.2,152.0,V,4.0,Spa-Francorchamps,Red Bull Racing
+2,VER,3,0,5,3,0,65,29.7,17.3,0.0,3.3,38.1,967.1,140.0,V,5.0,Spa-Francorchamps,Red Bull Racing
+3,VER,4,0,5,3,0,66,29.7,17.3,0.0,2.4,38.1,967.2,145.0,V,6.0,Spa-Francorchamps,Red Bull Racing
+4,VER,5,0,5,3,0,69,30.1,17.4,0.0,2.9,39.0,967.1,128.0,V,7.0,Spa-Francorchamps,Red Bull Racing
+5,VER,6,0,5,3,0,72,30.3,17.7,0.0,1.7,38.1,967.0,174.0,V,8.0,Spa-Francorchamps,Red Bull Racing
+6,VER,7,0,4,3,0,74,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,9.0,Spa-Francorchamps,Red Bull Racing
+7,VER,8,0,4,3,0,75,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,10.0,Spa-Francorchamps,Red Bull Racing
+8,VER,9,0,4,3,0,76,29.9,18.3,0.0,3.0,36.2,967.1,171.0,V,11.0,Spa-Francorchamps,Red Bull Racing
+9,VER,10,0,3,3,0,77,29.3,17.7,0.0,2.9,35.5,967.0,175.0,V,12.0,Spa-Francorchamps,Red Bull Racing
+10,VER,11,0,3,3,0,77,29.1,17.6,0.0,2.6,35.3,967.0,156.0,V,13.0,Spa-Francorchamps,Red Bull Racing
+11,VER,12,0,3,3,0,78,29.0,17.6,0.0,2.8,34.1,967.0,150.0,V,14.0,Spa-Francorchamps,Red Bull Racing
+12,VER,13,0,3,3,0,78,28.5,17.4,0.0,2.5,36.0,967.1,0.0,V,15.0,Spa-Francorchamps,Red Bull Racing
+13,VER,14,0,3,3,0,79,28.4,17.2,0.0,0.9,35.4,966.8,156.0,V,16.0,Spa-Francorchamps,Red Bull Racing
+14,VER,15,0,3,3,0,79,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,17.0,Spa-Francorchamps,Red Bull Racing
+15,VER,16,0,3,3,0,80,28.3,17.5,0.0,2.6,35.5,967.0,158.0,V,18.0,Spa-Francorchamps,Red Bull Racing
+16,VER,17,0,3,3,0,80,27.6,17.1,0.0,1.8,36.5,967.0,36.0,V,19.0,Spa-Francorchamps,Red Bull Racing
+17,VER,18,0,3,3,0,81,27.5,17.1,0.0,2.0,37.9,966.8,193.0,V,20.0,Spa-Francorchamps,Red Bull Racing
+18,VER,19,0,3,3,0,81,27.5,17.5,0.0,2.0,37.5,966.9,183.0,V,21.0,Spa-Francorchamps,Red Bull Racing
+19,VER,20,0,3,3,0,81,27.5,17.6,0.0,1.7,37.4,966.9,152.0,V,22.0,Spa-Francorchamps,Red Bull Racing
+20,VER,21,0,3,3,0,81,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,23.0,Spa-Francorchamps,Red Bull Racing
+21,VER,22,0,2,3,0,82,27.1,17.2,0.0,2.4,37.6,966.9,39.0,V,24.0,Spa-Francorchamps,Red Bull Racing
+22,VER,23,0,3,3,0,82,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,25.0,Spa-Francorchamps,Red Bull Racing
+23,VER,24,0,3,3,0,82,27.1,17.3,0.0,2.0,38.7,966.9,185.0,V,26.0,Spa-Francorchamps,Red Bull Racing
+24,VER,25,0,3,3,0,82,27.1,17.3,0.0,2.4,36.1,966.9,204.0,V,27.0,Spa-Francorchamps,Red Bull Racing
+25,VER,26,0,3,3,0,82,27.1,17.0,0.0,1.1,36.5,966.9,146.0,V,28.0,Spa-Francorchamps,Red Bull Racing
+26,VER,27,0,3,3,0,82,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,0.0,Spa-Francorchamps,Red Bull Racing
+27,VER,28,0,3,3,0,82,26.9,17.1,0.0,2.5,37.7,966.7,172.0,S,1.0,Spa-Francorchamps,Red Bull Racing
+28,VER,29,0,3,3,0,83,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,2.0,Spa-Francorchamps,Red Bull Racing
+29,VER,30,0,3,3,0,83,27.0,17.3,0.0,1.7,38.0,966.7,158.0,S,3.0,Spa-Francorchamps,Red Bull Racing
+30,VER,31,0,3,3,0,83,27.0,17.3,0.0,2.6,38.2,966.7,165.0,S,4.0,Spa-Francorchamps,Red Bull Racing
+31,VER,32,0,3,3,0,83,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,5.0,Spa-Francorchamps,Red Bull Racing
+32,VER,33,0,3,3,0,83,26.8,17.4,0.0,1.3,38.2,966.8,173.0,S,6.0,Spa-Francorchamps,Red Bull Racing
+33,VER,34,0,3,3,0,83,26.7,17.2,0.0,2.5,39.4,966.7,158.0,S,7.0,Spa-Francorchamps,Red Bull Racing
+34,VER,35,0,3,3,0,83,26.5,17.2,0.0,2.7,38.7,966.8,148.0,S,8.0,Spa-Francorchamps,Red Bull Racing
+35,VER,36,0,3,3,0,83,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,9.0,Spa-Francorchamps,Red Bull Racing
+36,VER,37,0,3,3,0,83,26.3,17.1,0.0,1.3,38.4,966.7,180.0,S,10.0,Spa-Francorchamps,Red Bull Racing
+37,VER,38,0,3,3,0,83,26.5,17.1,0.0,1.2,39.7,966.7,155.0,S,11.0,Spa-Francorchamps,Red Bull Racing
+38,VER,39,0,3,3,0,83,26.8,17.4,0.0,1.7,39.5,966.6,148.0,S,12.0,Spa-Francorchamps,Red Bull Racing
+39,VER,40,0,3,3,0,83,26.3,17.2,0.0,2.5,38.9,966.6,234.0,S,13.0,Spa-Francorchamps,Red Bull Racing
+40,VER,41,0,3,3,0,83,25.9,17.3,0.0,2.7,40.3,966.6,157.0,S,14.0,Spa-Francorchamps,Red Bull Racing
+41,VER,42,0,3,3,0,83,25.8,17.4,0.0,2.7,38.4,966.6,163.0,S,15.0,Spa-Francorchamps,Red Bull Racing
+42,VER,43,0,3,3,0,83,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,16.0,Spa-Francorchamps,Red Bull Racing
+43,VER,44,0,3,3,0,83,25.6,17.4,0.0,1.7,38.8,966.7,181.0,S,17.0,Spa-Francorchamps,Red Bull Racing
+0,RIC,1,0,12,16,0,54,29.7,17.3,0.0,2.3,38.7,967.1,161.0,V,3.0,Spa-Francorchamps,Red Bull Racing
+1,RIC,2,0,17,16,0,66,29.9,18.3,0.0,3.0,36.2,967.1,171.0,S,0.0,Spa-Francorchamps,Red Bull Racing
+2,RIC,3,0,17,16,0,71,29.3,17.9,0.0,1.0,35.6,967.1,154.0,S,1.0,Spa-Francorchamps,Red Bull Racing
+3,RIC,4,0,17,16,0,73,29.3,17.7,0.0,2.9,35.5,967.0,175.0,S,2.0,Spa-Francorchamps,Red Bull Racing
+4,RIC,5,0,17,16,0,74,28.9,17.4,0.0,2.0,35.1,967.0,157.0,S,3.0,Spa-Francorchamps,Red Bull Racing
+5,RIC,6,0,17,16,0,74,28.4,17.2,0.0,2.7,37.4,967.0,150.0,S,4.0,Spa-Francorchamps,Red Bull Racing
+6,RIC,7,0,17,16,0,75,27.5,17.5,0.0,2.0,37.5,966.9,183.0,S,5.0,Spa-Francorchamps,Red Bull Racing
+7,RIC,8,0,17,16,0,75,27.5,17.6,0.0,1.7,37.4,966.9,152.0,S,6.0,Spa-Francorchamps,Red Bull Racing
+8,RIC,9,0,16,16,0,75,27.3,17.5,0.0,1.3,36.6,966.9,48.0,S,7.0,Spa-Francorchamps,Red Bull Racing
+9,RIC,10,0,16,16,0,75,27.3,17.5,0.0,1.5,37.0,966.9,184.0,S,8.0,Spa-Francorchamps,Red Bull Racing
+10,RIC,11,0,16,16,0,75,27.1,17.1,0.0,1.4,38.9,966.9,152.0,S,9.0,Spa-Francorchamps,Red Bull Racing
+11,RIC,12,0,16,16,0,75,27.1,17.3,0.0,2.4,36.1,966.9,204.0,S,10.0,Spa-Francorchamps,Red Bull Racing
+12,RIC,13,0,16,16,0,75,27.1,17.3,0.0,2.6,37.2,966.9,155.0,S,11.0,Spa-Francorchamps,Red Bull Racing
+13,RIC,14,0,16,16,0,75,27.1,17.1,0.0,1.6,36.9,966.9,138.0,S,12.0,Spa-Francorchamps,Red Bull Racing
+14,RIC,15,0,16,16,0,75,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,13.0,Spa-Francorchamps,Red Bull Racing
+15,RIC,16,0,16,16,0,75,27.1,17.3,0.0,2.1,37.1,966.9,195.0,S,14.0,Spa-Francorchamps,Red Bull Racing
+16,RIC,17,0,16,16,0,75,26.9,17.1,0.0,2.8,38.0,966.8,151.0,S,15.0,Spa-Francorchamps,Red Bull Racing
+17,RIC,18,0,16,16,0,75,26.8,17.3,0.0,1.3,37.1,966.9,121.0,S,16.0,Spa-Francorchamps,Red Bull Racing
+18,RIC,19,0,16,16,0,75,26.9,17.3,0.0,1.8,37.4,966.8,133.0,S,17.0,Spa-Francorchamps,Red Bull Racing
+19,RIC,20,0,16,16,0,75,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,18.0,Spa-Francorchamps,Red Bull Racing
+20,RIC,21,0,16,16,0,75,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,19.0,Spa-Francorchamps,Red Bull Racing
+21,RIC,22,0,16,16,0,75,27.0,17.3,0.0,2.6,38.2,966.7,165.0,S,20.0,Spa-Francorchamps,Red Bull Racing
+22,RIC,23,0,16,16,0,75,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,21.0,Spa-Francorchamps,Red Bull Racing
+23,RIC,24,0,16,16,0,75,26.4,17.0,0.0,1.3,39.8,966.7,154.0,S,22.0,Spa-Francorchamps,Red Bull Racing
+24,RIC,25,0,16,16,0,75,26.5,17.3,0.0,1.3,39.1,966.7,175.0,S,23.0,Spa-Francorchamps,Red Bull Racing
+25,RIC,26,0,16,16,0,75,26.8,17.4,0.0,1.1,39.5,966.7,158.0,S,24.0,Spa-Francorchamps,Red Bull Racing
+26,RIC,27,0,16,16,0,74,26.2,17.2,0.0,1.2,40.2,966.7,180.0,S,25.0,Spa-Francorchamps,Red Bull Racing
+27,RIC,28,0,16,16,1,74,25.6,17.3,0.0,3.4,38.2,966.6,155.0,S,26.0,Spa-Francorchamps,Red Bull Racing
+0,MAG,1,0,7,8,0,50,29.5,17.2,0.0,2.8,38.4,967.1,166.0,V,3.0,Spa-Francorchamps,Haas F1 Team
+1,MAG,2,0,7,8,0,55,30.0,17.4,0.0,2.9,38.5,967.1,160.0,V,4.0,Spa-Francorchamps,Haas F1 Team
+2,MAG,3,0,7,8,0,55,30.1,17.4,0.0,4.3,38.4,967.2,152.0,V,5.0,Spa-Francorchamps,Haas F1 Team
+3,MAG,4,0,7,8,0,55,29.7,17.3,0.0,3.3,38.1,967.1,140.0,V,6.0,Spa-Francorchamps,Haas F1 Team
+4,MAG,5,0,7,8,0,56,29.7,17.3,0.0,2.4,38.1,967.2,145.0,V,7.0,Spa-Francorchamps,Haas F1 Team
+5,MAG,6,0,7,8,0,58,30.1,17.4,0.0,2.9,39.0,967.1,128.0,V,8.0,Spa-Francorchamps,Haas F1 Team
+6,MAG,7,0,7,8,0,59,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,9.0,Spa-Francorchamps,Haas F1 Team
+7,MAG,8,0,7,8,0,60,30.0,18.1,0.0,2.7,36.1,967.1,182.0,V,10.0,Spa-Francorchamps,Haas F1 Team
+8,MAG,9,0,7,8,0,61,29.9,18.3,0.0,3.0,36.2,967.1,171.0,V,11.0,Spa-Francorchamps,Haas F1 Team
+9,MAG,10,0,7,8,0,62,29.3,17.9,0.0,1.0,35.6,967.1,154.0,V,12.0,Spa-Francorchamps,Haas F1 Team
+10,MAG,11,0,7,8,0,63,29.1,17.6,0.0,2.6,35.3,967.0,156.0,V,13.0,Spa-Francorchamps,Haas F1 Team
+11,MAG,12,0,7,8,0,63,28.9,17.3,0.0,2.8,34.5,967.0,155.0,V,14.0,Spa-Francorchamps,Haas F1 Team
+12,MAG,13,0,7,8,0,64,28.9,17.4,0.0,2.0,35.1,967.0,157.0,V,15.0,Spa-Francorchamps,Haas F1 Team
+13,MAG,14,0,7,8,0,64,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,16.0,Spa-Francorchamps,Haas F1 Team
+14,MAG,15,0,7,8,0,64,28.3,17.5,0.0,2.6,35.5,967.0,158.0,V,17.0,Spa-Francorchamps,Haas F1 Team
+15,MAG,16,0,7,8,0,65,27.7,17.1,0.0,0.6,36.1,967.0,82.0,V,18.0,Spa-Francorchamps,Haas F1 Team
+16,MAG,17,0,7,8,0,65,27.6,17.1,0.0,1.8,36.5,967.0,36.0,V,19.0,Spa-Francorchamps,Haas F1 Team
+17,MAG,18,0,7,8,0,65,27.3,17.5,0.0,1.3,36.6,966.9,48.0,V,20.0,Spa-Francorchamps,Haas F1 Team
+18,MAG,19,0,7,8,0,66,27.2,17.4,0.0,2.5,37.4,966.9,192.0,V,21.0,Spa-Francorchamps,Haas F1 Team
+19,MAG,20,0,7,8,0,66,27.1,17.3,0.0,2.0,38.7,966.9,185.0,V,22.0,Spa-Francorchamps,Haas F1 Team
+20,MAG,21,0,7,8,0,66,27.1,17.3,0.0,2.6,37.2,966.9,155.0,V,23.0,Spa-Francorchamps,Haas F1 Team
+21,MAG,22,0,8,8,0,66,27.2,17.1,0.0,1.1,37.3,966.8,154.0,V,24.0,Spa-Francorchamps,Haas F1 Team
+22,MAG,23,0,8,8,0,66,27.1,17.3,0.0,2.1,37.1,966.9,195.0,V,25.0,Spa-Francorchamps,Haas F1 Team
+23,MAG,24,0,7,8,0,66,26.9,17.1,0.0,2.5,37.7,966.7,172.0,V,26.0,Spa-Francorchamps,Haas F1 Team
+24,MAG,25,0,6,8,0,66,26.8,17.3,0.0,1.3,37.1,966.9,121.0,V,27.0,Spa-Francorchamps,Haas F1 Team
+25,MAG,26,0,7,8,0,66,27.0,17.4,0.0,1.7,37.6,966.8,178.0,V,28.0,Spa-Francorchamps,Haas F1 Team
+26,MAG,27,0,8,8,0,66,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,0.0,Spa-Francorchamps,Haas F1 Team
+27,MAG,28,0,8,8,0,66,27.0,17.3,0.0,1.7,38.0,966.7,158.0,S,1.0,Spa-Francorchamps,Haas F1 Team
+28,MAG,29,0,8,8,0,66,27.0,17.3,0.0,2.6,38.2,966.7,165.0,S,2.0,Spa-Francorchamps,Haas F1 Team
+29,MAG,30,0,8,8,0,66,26.8,17.3,0.0,2.5,38.6,966.7,150.0,S,3.0,Spa-Francorchamps,Haas F1 Team
+30,MAG,31,0,8,8,0,67,26.5,17.2,0.0,2.7,38.7,966.8,148.0,S,4.0,Spa-Francorchamps,Haas F1 Team
+31,MAG,32,0,8,8,0,67,26.3,17.0,0.0,1.8,39.5,966.8,172.0,S,5.0,Spa-Francorchamps,Haas F1 Team
+32,MAG,33,0,8,8,0,67,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,6.0,Spa-Francorchamps,Haas F1 Team
+33,MAG,34,0,8,8,0,67,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,7.0,Spa-Francorchamps,Haas F1 Team
+34,MAG,35,0,8,8,0,67,26.3,17.1,0.0,1.3,38.4,966.7,180.0,S,8.0,Spa-Francorchamps,Haas F1 Team
+35,MAG,36,0,8,8,0,67,26.4,17.0,0.0,1.3,39.8,966.7,154.0,S,9.0,Spa-Francorchamps,Haas F1 Team
+36,MAG,37,0,8,8,0,67,26.5,17.3,0.0,1.3,39.1,966.7,175.0,S,10.0,Spa-Francorchamps,Haas F1 Team
+37,MAG,38,0,8,8,0,68,26.6,17.2,0.0,1.0,39.6,966.6,166.0,S,11.0,Spa-Francorchamps,Haas F1 Team
+38,MAG,39,0,8,8,0,68,26.2,17.2,0.0,1.2,40.2,966.7,180.0,S,12.0,Spa-Francorchamps,Haas F1 Team
+39,MAG,40,0,8,8,0,68,26.2,17.4,0.0,2.5,39.8,966.6,130.0,S,13.0,Spa-Francorchamps,Haas F1 Team
+40,MAG,41,0,8,8,0,68,26.2,17.4,0.0,2.9,38.6,966.6,174.0,S,14.0,Spa-Francorchamps,Haas F1 Team
+41,MAG,42,0,8,8,0,68,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,15.0,Spa-Francorchamps,Haas F1 Team
+42,MAG,43,0,8,8,0,69,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,16.0,Spa-Francorchamps,Haas F1 Team
+43,MAG,44,0,8,8,0,69,25.5,17.3,0.0,1.4,39.5,966.7,175.0,S,17.0,Spa-Francorchamps,Haas F1 Team
+0,GAS,1,0,8,9,0,74,29.7,17.3,0.0,2.3,38.7,967.1,161.0,V,0.0,Spa-Francorchamps,Toro Rosso
+1,GAS,2,0,8,9,0,73,29.7,17.3,0.0,3.3,38.1,967.1,140.0,V,1.0,Spa-Francorchamps,Toro Rosso
+2,GAS,3,0,8,9,0,75,30.3,18.1,0.0,3.2,38.3,967.1,208.0,V,2.0,Spa-Francorchamps,Toro Rosso
+3,GAS,4,0,8,9,0,76,29.5,18.0,0.0,1.9,34.7,967.0,263.0,V,3.0,Spa-Francorchamps,Toro Rosso
+4,GAS,5,0,8,9,0,76,29.3,17.9,0.0,1.0,35.6,967.1,154.0,V,4.0,Spa-Francorchamps,Toro Rosso
+5,GAS,6,0,8,9,0,77,28.9,17.3,0.0,2.8,34.5,967.0,155.0,V,5.0,Spa-Francorchamps,Toro Rosso
+6,GAS,7,0,8,9,0,77,28.9,17.4,0.0,2.0,35.1,967.0,157.0,V,6.0,Spa-Francorchamps,Toro Rosso
+7,GAS,8,0,8,9,0,78,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,7.0,Spa-Francorchamps,Toro Rosso
+8,GAS,9,0,8,9,0,79,28.3,17.0,0.0,2.3,37.6,966.9,177.0,V,8.0,Spa-Francorchamps,Toro Rosso
+9,GAS,10,0,8,9,0,79,28.3,17.5,0.0,2.6,35.5,967.0,158.0,V,9.0,Spa-Francorchamps,Toro Rosso
+10,GAS,11,0,8,9,0,79,27.9,17.3,0.0,2.6,36.1,966.9,166.0,V,10.0,Spa-Francorchamps,Toro Rosso
+11,GAS,12,0,8,9,0,80,27.7,17.1,0.0,0.6,36.1,967.0,82.0,V,11.0,Spa-Francorchamps,Toro Rosso
+12,GAS,13,0,8,9,0,80,27.5,17.0,0.0,1.2,37.1,966.9,143.0,V,12.0,Spa-Francorchamps,Toro Rosso
+13,GAS,14,0,8,9,0,80,27.5,17.5,0.0,2.0,37.5,966.9,183.0,V,13.0,Spa-Francorchamps,Toro Rosso
+14,GAS,15,0,8,9,0,80,27.3,17.5,0.0,1.3,36.6,966.9,48.0,V,14.0,Spa-Francorchamps,Toro Rosso
+15,GAS,16,0,8,9,0,80,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,15.0,Spa-Francorchamps,Toro Rosso
+16,GAS,17,0,8,9,0,80,27.0,17.0,0.0,0.7,38.2,966.9,182.0,V,16.0,Spa-Francorchamps,Toro Rosso
+17,GAS,18,0,9,9,0,80,27.1,17.1,0.0,1.4,38.9,966.9,152.0,V,17.0,Spa-Francorchamps,Toro Rosso
+18,GAS,19,0,9,9,0,81,27.1,17.3,0.0,2.6,37.2,966.9,155.0,V,18.0,Spa-Francorchamps,Toro Rosso
+19,GAS,20,0,9,9,0,81,27.1,17.3,0.0,1.7,35.9,966.8,199.0,V,19.0,Spa-Francorchamps,Toro Rosso
+20,GAS,21,0,9,9,0,81,27.1,17.0,0.0,1.9,36.4,966.9,200.0,V,20.0,Spa-Francorchamps,Toro Rosso
+21,GAS,22,0,9,9,0,81,26.9,17.1,0.0,2.5,37.7,966.7,172.0,V,21.0,Spa-Francorchamps,Toro Rosso
+22,GAS,23,0,9,9,0,81,26.9,17.2,0.0,2.0,38.4,966.8,187.0,V,22.0,Spa-Francorchamps,Toro Rosso
+23,GAS,24,0,8,9,0,81,26.8,17.3,0.0,1.3,37.1,966.9,121.0,V,23.0,Spa-Francorchamps,Toro Rosso
+24,GAS,25,0,10,9,0,81,26.9,17.3,0.0,1.8,37.4,966.8,133.0,V,24.0,Spa-Francorchamps,Toro Rosso
+25,GAS,26,0,10,9,0,81,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,0.0,Spa-Francorchamps,Toro Rosso
+26,GAS,27,0,9,9,0,81,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,1.0,Spa-Francorchamps,Toro Rosso
+27,GAS,28,0,9,9,0,81,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,2.0,Spa-Francorchamps,Toro Rosso
+28,GAS,29,0,9,9,0,81,26.8,17.4,0.0,1.3,38.2,966.8,173.0,S,3.0,Spa-Francorchamps,Toro Rosso
+29,GAS,30,0,9,9,0,81,26.8,17.3,0.0,2.5,38.6,966.7,150.0,S,4.0,Spa-Francorchamps,Toro Rosso
+30,GAS,31,0,9,9,0,81,26.7,17.2,0.0,2.5,39.4,966.7,158.0,S,5.0,Spa-Francorchamps,Toro Rosso
+31,GAS,32,0,9,9,0,81,26.3,17.0,0.0,1.1,39.5,966.7,183.0,S,6.0,Spa-Francorchamps,Toro Rosso
+32,GAS,33,0,9,9,0,81,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,7.0,Spa-Francorchamps,Toro Rosso
+33,GAS,34,0,9,9,0,81,26.4,17.4,0.0,1.2,38.2,966.7,139.0,S,8.0,Spa-Francorchamps,Toro Rosso
+34,GAS,35,0,9,9,0,81,26.4,17.0,0.0,1.3,39.8,966.7,154.0,S,9.0,Spa-Francorchamps,Toro Rosso
+35,GAS,36,0,9,9,0,81,26.6,17.4,0.0,1.7,38.9,966.6,156.0,S,10.0,Spa-Francorchamps,Toro Rosso
+36,GAS,37,0,9,9,0,81,26.8,17.4,0.0,1.1,39.5,966.7,158.0,S,11.0,Spa-Francorchamps,Toro Rosso
+37,GAS,38,0,9,9,0,81,26.3,17.2,0.0,2.5,38.9,966.6,234.0,S,12.0,Spa-Francorchamps,Toro Rosso
+38,GAS,39,0,9,9,0,81,26.2,17.2,0.0,1.2,40.2,966.7,180.0,S,13.0,Spa-Francorchamps,Toro Rosso
+39,GAS,40,0,9,9,0,82,26.2,17.4,0.0,2.5,39.8,966.6,130.0,S,14.0,Spa-Francorchamps,Toro Rosso
+40,GAS,41,0,9,9,0,82,25.9,17.3,0.0,2.7,40.3,966.6,157.0,S,15.0,Spa-Francorchamps,Toro Rosso
+41,GAS,42,0,9,9,0,82,25.8,17.4,0.0,2.7,38.4,966.6,163.0,S,16.0,Spa-Francorchamps,Toro Rosso
+42,GAS,43,0,9,9,0,82,25.4,17.0,0.0,2.0,39.5,966.7,185.0,S,17.0,Spa-Francorchamps,Toro Rosso
+43,GAS,44,0,9,9,0,82,25.6,17.4,0.0,1.7,38.8,966.7,181.0,S,18.0,Spa-Francorchamps,Toro Rosso
+0,HAR,1,0,13,14,0,66,30.1,17.4,0.0,4.3,38.4,967.2,152.0,S,0.0,Spa-Francorchamps,Toro Rosso
+1,HAR,2,0,12,14,0,69,29.7,17.3,0.0,3.3,38.1,967.1,140.0,S,1.0,Spa-Francorchamps,Toro Rosso
+2,HAR,3,0,12,14,0,70,30.3,18.1,0.0,3.2,38.3,967.1,208.0,S,2.0,Spa-Francorchamps,Toro Rosso
+3,HAR,4,0,12,14,0,71,29.5,18.0,0.0,1.9,34.7,967.0,263.0,S,3.0,Spa-Francorchamps,Toro Rosso
+4,HAR,5,0,12,14,0,71,29.3,17.9,0.0,1.0,35.6,967.1,154.0,S,4.0,Spa-Francorchamps,Toro Rosso
+5,HAR,6,0,13,14,0,72,29.3,17.7,0.0,2.9,35.5,967.0,175.0,S,5.0,Spa-Francorchamps,Toro Rosso
+6,HAR,7,0,14,14,0,72,29.1,17.6,0.0,2.6,35.3,967.0,156.0,S,6.0,Spa-Francorchamps,Toro Rosso
+7,HAR,8,0,14,14,0,72,28.4,17.2,0.0,0.9,35.4,966.8,156.0,S,7.0,Spa-Francorchamps,Toro Rosso
+8,HAR,9,0,14,14,0,73,28.3,17.0,0.0,2.3,37.6,966.9,177.0,S,8.0,Spa-Francorchamps,Toro Rosso
+9,HAR,10,0,14,14,0,73,28.4,17.2,0.0,2.7,37.4,967.0,150.0,S,9.0,Spa-Francorchamps,Toro Rosso
+10,HAR,11,0,14,14,0,73,27.9,17.3,0.0,2.6,36.1,966.9,166.0,S,10.0,Spa-Francorchamps,Toro Rosso
+11,HAR,12,0,14,14,0,74,27.7,17.1,0.0,0.6,36.1,967.0,82.0,S,11.0,Spa-Francorchamps,Toro Rosso
+12,HAR,13,0,14,14,0,74,27.6,17.1,0.0,1.8,36.5,967.0,36.0,S,12.0,Spa-Francorchamps,Toro Rosso
+13,HAR,14,0,14,14,0,74,27.5,17.1,0.0,2.0,37.9,966.8,193.0,S,13.0,Spa-Francorchamps,Toro Rosso
+14,HAR,15,0,14,14,0,75,27.5,17.5,0.0,2.0,37.5,966.9,183.0,S,14.0,Spa-Francorchamps,Toro Rosso
+15,HAR,16,0,14,14,0,75,27.5,17.6,0.0,1.4,36.6,966.9,180.0,S,15.0,Spa-Francorchamps,Toro Rosso
+16,HAR,17,0,14,14,0,75,27.3,17.5,0.0,1.5,37.0,966.9,184.0,S,16.0,Spa-Francorchamps,Toro Rosso
+17,HAR,18,0,14,14,0,76,27.2,17.4,0.0,2.5,37.4,966.9,192.0,S,17.0,Spa-Francorchamps,Toro Rosso
+18,HAR,19,0,14,14,0,76,27.0,17.0,0.0,0.7,38.2,966.9,182.0,S,18.0,Spa-Francorchamps,Toro Rosso
+19,HAR,20,0,14,14,0,76,27.1,17.3,0.0,2.4,36.1,966.9,204.0,S,19.0,Spa-Francorchamps,Toro Rosso
+20,HAR,21,0,14,14,0,76,27.1,17.3,0.0,2.6,37.2,966.9,155.0,S,20.0,Spa-Francorchamps,Toro Rosso
+21,HAR,22,0,13,14,0,76,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,21.0,Spa-Francorchamps,Toro Rosso
+22,HAR,23,0,12,14,0,76,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,22.0,Spa-Francorchamps,Toro Rosso
+23,HAR,24,0,12,14,0,77,27.1,17.3,0.0,2.1,37.1,966.9,195.0,S,23.0,Spa-Francorchamps,Toro Rosso
+24,HAR,25,0,11,14,0,77,26.9,17.2,0.0,2.0,38.4,966.8,187.0,S,24.0,Spa-Francorchamps,Toro Rosso
+25,HAR,26,0,11,14,0,77,26.8,17.3,0.0,1.3,37.1,966.9,121.0,S,25.0,Spa-Francorchamps,Toro Rosso
+26,HAR,27,0,10,14,0,77,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,26.0,Spa-Francorchamps,Toro Rosso
+27,HAR,28,0,10,14,0,77,26.7,17.1,0.0,2.0,38.7,966.7,158.0,S,27.0,Spa-Francorchamps,Toro Rosso
+28,HAR,29,0,11,14,0,77,27.0,17.3,0.0,1.7,38.0,966.7,158.0,S,28.0,Spa-Francorchamps,Toro Rosso
+29,HAR,30,0,11,14,0,77,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,29.0,Spa-Francorchamps,Toro Rosso
+30,HAR,31,0,13,14,0,77,26.9,17.4,0.0,1.9,38.3,966.7,267.0,S,30.0,Spa-Francorchamps,Toro Rosso
+31,HAR,32,0,14,14,0,77,26.8,17.3,0.0,2.5,38.6,966.7,150.0,V,0.0,Spa-Francorchamps,Toro Rosso
+32,HAR,33,0,14,14,0,77,26.5,17.2,0.0,2.7,38.7,966.8,148.0,V,1.0,Spa-Francorchamps,Toro Rosso
+33,HAR,34,0,14,14,0,78,26.3,17.0,0.0,1.1,39.5,966.7,183.0,V,2.0,Spa-Francorchamps,Toro Rosso
+34,HAR,35,0,14,14,0,78,26.8,17.4,0.0,1.1,39.5,966.7,158.0,V,3.0,Spa-Francorchamps,Toro Rosso
+35,HAR,36,0,14,14,0,78,26.6,17.2,0.0,1.0,39.6,966.6,166.0,V,4.0,Spa-Francorchamps,Toro Rosso
+36,HAR,37,0,14,14,0,78,26.2,17.2,0.0,1.2,40.2,966.7,180.0,V,5.0,Spa-Francorchamps,Toro Rosso
+37,HAR,38,0,14,14,0,79,26.2,17.4,0.0,2.5,39.8,966.6,130.0,V,6.0,Spa-Francorchamps,Toro Rosso
+38,HAR,39,0,14,14,0,79,26.2,17.4,0.0,2.9,38.6,966.6,174.0,V,7.0,Spa-Francorchamps,Toro Rosso
+39,HAR,40,0,14,14,0,79,25.6,17.3,0.0,3.4,38.2,966.6,155.0,V,8.0,Spa-Francorchamps,Toro Rosso
+40,HAR,41,0,14,14,0,79,25.4,17.0,0.0,3.2,38.8,966.7,204.0,V,9.0,Spa-Francorchamps,Toro Rosso
+41,HAR,42,0,14,14,0,80,25.4,17.0,0.0,2.0,39.5,966.7,185.0,V,10.0,Spa-Francorchamps,Toro Rosso
+42,HAR,43,0,14,14,0,80,25.5,17.3,0.0,1.4,39.5,966.7,175.0,V,11.0,Spa-Francorchamps,Toro Rosso
+0,ERI,1,0,9,18,0,59,29.5,17.2,0.0,2.8,38.4,967.1,166.0,,0.0,Spa-Francorchamps,Sauber
+1,ERI,2,0,9,18,0,59,29.7,17.3,0.0,2.3,38.7,967.1,161.0,,0.0,Spa-Francorchamps,Sauber
+2,ERI,3,0,9,18,0,59,30.1,17.4,0.0,4.3,38.4,967.2,152.0,,0.0,Spa-Francorchamps,Sauber
+3,ERI,4,0,9,18,0,58,29.7,17.3,0.0,3.3,38.1,967.1,140.0,,0.0,Spa-Francorchamps,Sauber
+4,ERI,5,0,10,18,0,59,30.3,17.7,0.0,1.7,38.1,967.0,174.0,,0.0,Spa-Francorchamps,Sauber
+5,ERI,6,0,10,18,0,60,29.9,18.3,0.0,3.0,36.2,967.1,171.0,,0.0,Spa-Francorchamps,Sauber
+6,ERI,7,0,9,18,0,61,29.3,17.9,0.0,1.0,35.6,967.1,154.0,,0.0,Spa-Francorchamps,Sauber
+7,ERI,8,0,9,18,0,62,29.3,17.7,0.0,2.9,35.5,967.0,175.0,,0.0,Spa-Francorchamps,Sauber
+8,ERI,9,0,9,18,0,63,29.0,17.6,0.0,2.8,34.1,967.0,150.0,,0.0,Spa-Francorchamps,Sauber
+9,ERI,10,0,9,18,0,63,28.9,17.3,0.0,2.8,34.5,967.0,155.0,,0.0,Spa-Francorchamps,Sauber
+10,ERI,11,0,9,18,0,64,28.8,17.4,0.0,2.8,35.0,967.1,156.0,,0.0,Spa-Francorchamps,Sauber
+11,ERI,12,0,9,18,0,64,28.3,17.0,0.0,2.5,36.5,967.0,189.0,,0.0,Spa-Francorchamps,Sauber
+12,ERI,13,0,9,18,0,65,28.4,17.2,0.0,2.7,37.4,967.0,150.0,,0.0,Spa-Francorchamps,Sauber
+13,ERI,14,0,9,18,0,65,27.6,17.1,0.0,1.8,36.5,967.0,36.0,,0.0,Spa-Francorchamps,Sauber
+14,ERI,15,0,9,18,0,65,27.6,17.0,0.0,0.7,37.3,966.8,144.0,,0.0,Spa-Francorchamps,Sauber
+15,ERI,16,0,9,18,0,66,27.5,17.0,0.0,1.2,37.1,966.9,143.0,,0.0,Spa-Francorchamps,Sauber
+16,ERI,17,0,10,18,0,66,27.5,17.5,0.0,2.0,37.5,966.9,183.0,,0.0,Spa-Francorchamps,Sauber
+17,ERI,18,0,10,18,0,66,27.5,17.6,0.0,1.7,37.4,966.9,152.0,,0.0,Spa-Francorchamps,Sauber
+18,ERI,19,0,10,18,0,66,27.3,17.5,0.0,1.3,36.6,966.9,48.0,,0.0,Spa-Francorchamps,Sauber
+19,ERI,20,0,10,18,0,67,27.2,17.4,0.0,2.5,37.4,966.9,192.0,,0.0,Spa-Francorchamps,Sauber
+20,ERI,21,0,10,18,0,67,27.1,17.3,0.0,2.0,38.7,966.9,185.0,,0.0,Spa-Francorchamps,Sauber
+21,ERI,22,0,10,18,0,67,27.1,17.3,0.0,2.4,36.1,966.9,204.0,,0.0,Spa-Francorchamps,Sauber
+22,ERI,23,0,10,18,0,67,27.1,17.1,0.0,1.6,36.9,966.9,138.0,,0.0,Spa-Francorchamps,Sauber
+23,ERI,24,0,9,18,0,67,27.2,17.1,0.0,1.1,37.3,966.8,154.0,,0.0,Spa-Francorchamps,Sauber
+24,ERI,25,0,8,18,0,68,27.1,17.1,0.0,2.6,36.7,966.8,157.0,,0.0,Spa-Francorchamps,Sauber
+25,ERI,26,0,9,18,0,68,26.9,17.1,0.0,2.5,37.7,966.7,172.0,,0.0,Spa-Francorchamps,Sauber
+26,ERI,27,0,11,18,0,68,26.9,17.2,0.0,2.0,38.4,966.8,187.0,,0.0,Spa-Francorchamps,Sauber
+27,ERI,28,0,11,18,0,68,26.8,17.3,0.0,1.3,37.1,966.9,121.0,,0.0,Spa-Francorchamps,Sauber
+28,ERI,29,0,10,18,0,68,26.7,17.1,0.0,2.0,38.7,966.7,158.0,,0.0,Spa-Francorchamps,Sauber
+29,ERI,30,0,10,18,0,68,27.0,17.3,0.0,1.7,38.0,966.7,158.0,,0.0,Spa-Francorchamps,Sauber
+30,ERI,31,0,10,18,0,68,26.8,17.3,0.0,2.5,38.6,966.7,150.0,,0.0,Spa-Francorchamps,Sauber
+31,ERI,32,0,10,18,0,68,26.7,17.2,0.0,2.5,39.4,966.7,158.0,,0.0,Spa-Francorchamps,Sauber
+32,ERI,33,0,10,18,0,69,26.5,17.2,0.0,2.7,38.7,966.8,148.0,,0.0,Spa-Francorchamps,Sauber
+33,ERI,34,0,10,18,0,69,26.3,17.0,0.0,1.8,39.5,966.8,172.0,,0.0,Spa-Francorchamps,Sauber
+34,ERI,35,0,10,18,0,69,26.3,17.0,0.0,1.1,39.5,966.7,183.0,,0.0,Spa-Francorchamps,Sauber
+35,ERI,36,0,10,18,0,69,26.4,17.4,0.0,1.2,38.2,966.7,139.0,,0.0,Spa-Francorchamps,Sauber
+36,ERI,37,0,10,18,0,69,26.3,17.1,0.0,1.3,38.4,966.7,180.0,,0.0,Spa-Francorchamps,Sauber
+37,ERI,38,0,10,18,0,70,26.4,17.0,0.0,1.3,39.8,966.7,154.0,,0.0,Spa-Francorchamps,Sauber
+38,ERI,39,0,10,18,0,70,26.6,17.4,0.0,1.7,38.9,966.6,156.0,,0.0,Spa-Francorchamps,Sauber
+39,ERI,40,0,10,18,0,70,26.8,17.4,0.0,1.1,39.5,966.7,158.0,,0.0,Spa-Francorchamps,Sauber
+40,ERI,41,0,10,18,0,70,26.3,17.2,0.0,2.5,38.9,966.6,234.0,,0.0,Spa-Francorchamps,Sauber
+41,ERI,42,0,10,18,0,71,25.9,17.3,0.0,2.7,40.3,966.6,157.0,,0.0,Spa-Francorchamps,Sauber
+42,ERI,43,0,10,18,1,71,25.4,17.0,0.0,2.0,39.5,966.7,185.0,,0.0,Spa-Francorchamps,Sauber
+0,SIR,1,0,10,10,0,58,30.0,17.4,0.0,2.9,38.5,967.1,160.0,S,0.0,Spa-Francorchamps,Williams
+1,SIR,2,0,10,10,0,62,30.1,17.4,0.0,4.3,38.4,967.2,152.0,S,1.0,Spa-Francorchamps,Williams
+2,SIR,3,0,10,10,0,63,30.3,17.7,0.0,1.7,38.1,967.0,174.0,S,2.0,Spa-Francorchamps,Williams
+3,SIR,4,0,10,10,0,63,29.5,18.0,0.0,1.9,34.7,967.0,263.0,S,3.0,Spa-Francorchamps,Williams
+4,SIR,5,0,9,10,0,63,29.3,17.9,0.0,1.0,35.6,967.1,154.0,S,4.0,Spa-Francorchamps,Williams
+5,SIR,6,0,9,10,0,64,29.3,17.7,0.0,2.9,35.5,967.0,175.0,S,5.0,Spa-Francorchamps,Williams
+6,SIR,7,0,10,10,0,65,29.1,17.6,0.0,2.6,35.3,967.0,156.0,S,6.0,Spa-Francorchamps,Williams
+7,SIR,8,0,10,10,0,66,28.9,17.4,0.0,2.0,35.1,967.0,157.0,S,7.0,Spa-Francorchamps,Williams
+8,SIR,9,0,10,10,0,67,28.8,17.4,0.0,2.8,35.0,967.1,156.0,S,8.0,Spa-Francorchamps,Williams
+9,SIR,10,0,10,10,0,67,28.4,17.2,0.0,0.9,35.4,966.8,156.0,S,9.0,Spa-Francorchamps,Williams
+10,SIR,11,0,10,10,0,68,28.3,17.0,0.0,2.5,36.5,967.0,189.0,S,10.0,Spa-Francorchamps,Williams
+11,SIR,12,0,11,10,0,68,28.4,17.2,0.0,2.7,37.4,967.0,150.0,S,11.0,Spa-Francorchamps,Williams
+12,SIR,13,0,11,10,0,68,27.9,17.3,0.0,2.6,36.1,966.9,166.0,S,12.0,Spa-Francorchamps,Williams
+13,SIR,14,0,11,10,0,68,27.5,17.0,0.0,1.2,37.1,966.9,143.0,S,13.0,Spa-Francorchamps,Williams
+14,SIR,15,0,11,10,0,69,27.5,17.5,0.0,2.0,37.5,966.9,183.0,S,14.0,Spa-Francorchamps,Williams
+15,SIR,16,0,11,10,0,69,27.3,17.5,0.0,1.5,37.0,966.9,184.0,S,15.0,Spa-Francorchamps,Williams
+16,SIR,17,0,11,10,0,69,27.2,17.4,0.0,2.5,37.4,966.9,192.0,S,16.0,Spa-Francorchamps,Williams
+17,SIR,18,0,11,10,0,69,27.0,17.0,0.0,0.7,38.2,966.9,182.0,S,17.0,Spa-Francorchamps,Williams
+18,SIR,19,0,11,10,0,69,27.1,17.3,0.0,2.6,37.2,966.9,155.0,S,18.0,Spa-Francorchamps,Williams
+19,SIR,20,0,11,10,0,70,27.1,17.0,0.0,1.1,36.5,966.9,146.0,S,19.0,Spa-Francorchamps,Williams
+20,SIR,21,0,11,10,0,70,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,20.0,Spa-Francorchamps,Williams
+21,SIR,22,0,11,10,0,70,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,21.0,Spa-Francorchamps,Williams
+22,SIR,23,0,11,10,0,70,26.9,17.2,0.0,2.0,38.4,966.8,187.0,S,22.0,Spa-Francorchamps,Williams
+23,SIR,24,0,11,10,0,70,26.9,17.3,0.0,1.8,37.4,966.8,133.0,S,23.0,Spa-Francorchamps,Williams
+24,SIR,25,0,12,10,0,71,27.0,17.4,0.0,1.7,37.6,966.8,178.0,S,24.0,Spa-Francorchamps,Williams
+25,SIR,26,0,12,10,0,71,26.7,17.1,0.0,2.8,38.0,966.7,176.0,S,25.0,Spa-Francorchamps,Williams
+26,SIR,27,0,12,10,0,71,27.0,17.3,0.0,1.7,38.0,966.7,158.0,V,0.0,Spa-Francorchamps,Williams
+27,SIR,28,0,12,10,0,71,26.9,17.2,0.0,2.0,38.1,966.7,171.0,V,1.0,Spa-Francorchamps,Williams
+28,SIR,29,0,12,10,0,71,26.8,17.4,0.0,1.3,38.2,966.8,173.0,V,2.0,Spa-Francorchamps,Williams
+29,SIR,30,0,12,10,0,71,26.8,17.3,0.0,2.5,38.6,966.7,150.0,V,3.0,Spa-Francorchamps,Williams
+30,SIR,31,0,11,10,0,71,26.5,17.2,0.0,2.7,38.7,966.8,148.0,V,4.0,Spa-Francorchamps,Williams
+31,SIR,32,0,12,10,0,71,26.4,17.3,0.0,2.0,39.3,966.8,180.0,V,5.0,Spa-Francorchamps,Williams
+32,SIR,33,0,12,10,0,71,26.4,17.4,0.0,1.2,38.2,966.7,139.0,V,6.0,Spa-Francorchamps,Williams
+33,SIR,34,0,12,10,0,72,26.4,17.0,0.0,1.3,39.8,966.7,154.0,V,7.0,Spa-Francorchamps,Williams
+34,SIR,35,0,12,10,0,72,26.5,17.1,0.0,1.2,39.7,966.7,155.0,V,8.0,Spa-Francorchamps,Williams
+35,SIR,36,0,12,10,0,72,26.6,17.4,0.0,1.7,38.9,966.6,156.0,V,9.0,Spa-Francorchamps,Williams
+36,SIR,37,0,12,10,0,72,26.6,17.2,0.0,1.0,39.6,966.6,166.0,V,10.0,Spa-Francorchamps,Williams
+37,SIR,38,0,12,10,0,72,26.3,17.2,0.0,2.5,38.9,966.6,234.0,V,11.0,Spa-Francorchamps,Williams
+38,SIR,39,0,12,10,0,72,26.2,17.4,0.0,2.9,38.6,966.6,174.0,V,12.0,Spa-Francorchamps,Williams
+39,SIR,40,0,12,10,0,73,25.8,17.4,0.0,2.7,38.4,966.6,163.0,V,13.0,Spa-Francorchamps,Williams
+40,SIR,41,0,12,10,0,73,25.4,17.0,0.0,2.0,39.5,966.7,185.0,V,14.0,Spa-Francorchamps,Williams
+41,SIR,42,0,12,10,0,73,25.5,17.3,0.0,1.4,39.5,966.7,175.0,V,15.0,Spa-Francorchamps,Williams
+42,SIR,43,0,12,10,0,74,25.6,17.4,0.0,1.7,38.8,966.7,181.0,V,16.0,Spa-Francorchamps,Williams
+0,STR,1,0,11,19,0,61,30.0,17.4,0.0,2.9,38.5,967.1,160.0,,0.0,Spa-Francorchamps,Williams
+1,STR,2,0,11,19,0,63,30.1,17.4,0.0,4.3,38.4,967.2,152.0,,0.0,Spa-Francorchamps,Williams
+2,STR,3,0,11,19,0,62,29.7,17.3,0.0,3.3,38.1,967.1,140.0,,0.0,Spa-Francorchamps,Williams
+3,STR,4,0,11,19,0,63,29.7,17.3,0.0,2.4,38.1,967.2,145.0,,0.0,Spa-Francorchamps,Williams
+4,STR,5,0,11,19,0,64,30.1,17.4,0.0,2.9,39.0,967.1,128.0,,0.0,Spa-Francorchamps,Williams
+5,STR,6,0,11,19,0,65,29.3,17.9,0.0,1.0,35.6,967.1,154.0,,0.0,Spa-Francorchamps,Williams
+6,STR,7,0,11,19,0,66,29.3,17.7,0.0,2.9,35.5,967.0,175.0,,0.0,Spa-Francorchamps,Williams
+7,STR,8,0,11,19,0,66,29.1,17.6,0.0,2.6,35.3,967.0,156.0,,0.0,Spa-Francorchamps,Williams
+8,STR,9,0,11,19,0,67,28.5,17.4,0.0,2.5,36.0,967.1,0.0,,0.0,Spa-Francorchamps,Williams
+9,STR,10,0,11,19,0,68,28.4,17.2,0.0,0.9,35.4,966.8,156.0,,0.0,Spa-Francorchamps,Williams
+10,STR,11,0,12,19,0,68,28.3,17.0,0.0,2.3,37.6,966.9,177.0,,0.0,Spa-Francorchamps,Williams
+11,STR,12,0,12,19,0,69,28.4,17.2,0.0,2.7,37.4,967.0,150.0,,0.0,Spa-Francorchamps,Williams
+12,STR,13,0,12,19,0,69,28.3,17.5,0.0,2.6,35.5,967.0,158.0,,0.0,Spa-Francorchamps,Williams
+13,STR,14,0,12,19,0,69,27.7,17.1,0.0,0.6,36.1,967.0,82.0,,0.0,Spa-Francorchamps,Williams
+14,STR,15,0,12,19,0,69,27.6,17.0,0.0,0.7,37.3,966.8,144.0,,0.0,Spa-Francorchamps,Williams
+15,STR,16,0,12,19,0,69,27.5,17.0,0.0,1.2,37.1,966.9,143.0,,0.0,Spa-Francorchamps,Williams
+16,STR,17,0,12,19,0,70,27.5,17.1,0.0,2.0,37.9,966.8,193.0,,0.0,Spa-Francorchamps,Williams
+17,STR,18,0,12,19,0,70,27.5,17.5,0.0,2.0,37.5,966.9,183.0,,0.0,Spa-Francorchamps,Williams
+18,STR,19,0,12,19,0,71,27.3,17.5,0.0,1.3,36.6,966.9,48.0,,0.0,Spa-Francorchamps,Williams
+19,STR,20,0,12,19,0,71,27.3,17.5,0.0,1.5,37.0,966.9,184.0,,0.0,Spa-Francorchamps,Williams
+20,STR,21,0,12,19,0,71,27.0,17.0,0.0,0.7,38.2,966.9,182.0,,0.0,Spa-Francorchamps,Williams
+21,STR,22,0,12,19,0,72,27.1,17.3,0.0,2.0,38.7,966.9,185.0,,0.0,Spa-Francorchamps,Williams
+22,STR,23,0,13,19,0,73,27.1,17.3,0.0,2.6,37.2,966.9,155.0,,0.0,Spa-Francorchamps,Williams
+23,STR,24,0,15,19,0,73,27.1,17.0,0.0,1.1,36.5,966.9,146.0,,0.0,Spa-Francorchamps,Williams
+24,STR,25,0,15,19,0,73,27.2,17.1,0.0,1.1,37.3,966.8,154.0,,0.0,Spa-Francorchamps,Williams
+25,STR,26,0,14,19,0,73,27.1,17.3,0.0,2.1,37.1,966.9,195.0,,0.0,Spa-Francorchamps,Williams
+26,STR,27,0,14,19,0,72,26.9,17.1,0.0,2.8,38.0,966.8,151.0,,0.0,Spa-Francorchamps,Williams
+27,STR,28,0,14,19,0,72,26.8,17.3,0.0,1.3,37.1,966.9,121.0,,0.0,Spa-Francorchamps,Williams
+28,STR,29,0,14,19,0,72,26.7,17.1,0.0,2.0,38.7,966.7,158.0,,0.0,Spa-Francorchamps,Williams
+29,STR,30,0,14,19,0,72,27.0,17.3,0.0,2.6,38.2,966.7,165.0,,0.0,Spa-Francorchamps,Williams
+30,STR,31,0,14,19,0,72,26.8,17.3,0.0,2.5,38.6,966.7,150.0,,0.0,Spa-Francorchamps,Williams
+31,STR,32,0,13,19,0,72,26.5,17.2,0.0,2.7,38.7,966.8,148.0,,0.0,Spa-Francorchamps,Williams
+32,STR,33,0,13,19,0,72,26.3,17.0,0.0,1.8,39.5,966.8,172.0,,0.0,Spa-Francorchamps,Williams
+33,STR,34,0,13,19,0,72,26.3,17.0,0.0,1.1,39.5,966.7,183.0,,0.0,Spa-Francorchamps,Williams
+34,STR,35,0,13,19,0,72,26.5,17.1,0.0,1.2,39.7,966.7,155.0,,0.0,Spa-Francorchamps,Williams
+35,STR,36,0,13,19,0,72,26.5,17.3,0.0,1.3,39.1,966.7,175.0,,0.0,Spa-Francorchamps,Williams
+36,STR,37,0,13,19,0,72,26.8,17.4,0.0,1.1,39.5,966.7,158.0,,0.0,Spa-Francorchamps,Williams
+37,STR,38,0,13,19,0,72,26.3,17.2,0.0,2.5,38.9,966.6,234.0,,0.0,Spa-Francorchamps,Williams
+38,STR,39,0,13,19,0,72,26.2,17.2,0.0,1.2,40.2,966.7,180.0,,0.0,Spa-Francorchamps,Williams
+39,STR,40,0,13,19,0,72,25.8,17.4,0.0,2.7,38.4,966.6,163.0,,0.0,Spa-Francorchamps,Williams
+40,STR,41,0,13,19,0,72,25.4,17.0,0.0,2.0,39.5,966.7,185.0,,0.0,Spa-Francorchamps,Williams
+41,STR,42,0,13,19,0,73,25.5,17.3,0.0,1.4,39.5,966.7,175.0,,0.0,Spa-Francorchamps,Williams
+42,STR,43,0,13,19,1,73,25.6,17.4,0.0,1.7,38.8,966.7,181.0,,0.0,Spa-Francorchamps,Williams
+0,BOT,1,0,15,12,0,66,29.5,17.2,0.0,2.8,38.4,967.1,166.0,S,0.0,Spa-Francorchamps,Mercedes
+1,BOT,2,0,14,12,0,68,29.7,17.3,0.0,2.3,38.7,967.1,161.0,S,1.0,Spa-Francorchamps,Mercedes
+2,BOT,3,0,16,12,0,70,29.7,17.3,0.0,3.3,38.1,967.1,140.0,S,2.0,Spa-Francorchamps,Mercedes
+3,BOT,4,0,16,12,0,70,29.7,17.3,0.0,2.4,38.1,967.2,145.0,S,3.0,Spa-Francorchamps,Mercedes
+4,BOT,5,0,14,12,0,70,30.1,17.4,0.0,2.9,39.0,967.1,128.0,S,4.0,Spa-Francorchamps,Mercedes
+5,BOT,6,0,14,12,0,72,29.9,18.3,0.0,3.0,36.2,967.1,171.0,S,5.0,Spa-Francorchamps,Mercedes
+6,BOT,7,0,13,12,0,73,29.5,18.0,0.0,1.9,34.7,967.0,263.0,S,6.0,Spa-Francorchamps,Mercedes
+7,BOT,8,0,13,12,0,73,29.1,17.6,0.0,2.6,35.3,967.0,156.0,S,7.0,Spa-Francorchamps,Mercedes
+8,BOT,9,0,12,12,0,74,29.0,17.6,0.0,2.8,34.1,967.0,150.0,S,8.0,Spa-Francorchamps,Mercedes
+9,BOT,10,0,12,12,0,75,28.9,17.3,0.0,2.8,34.5,967.0,155.0,S,9.0,Spa-Francorchamps,Mercedes
+10,BOT,11,0,11,12,0,75,28.9,17.4,0.0,2.0,35.1,967.0,157.0,S,10.0,Spa-Francorchamps,Mercedes
+11,BOT,12,0,10,12,0,75,28.5,17.4,0.0,2.5,36.0,967.1,0.0,S,11.0,Spa-Francorchamps,Mercedes
+12,BOT,13,0,10,12,0,76,28.3,17.0,0.0,2.3,37.6,966.9,177.0,S,12.0,Spa-Francorchamps,Mercedes
+13,BOT,14,0,10,12,0,76,27.9,17.3,0.0,2.6,36.1,966.9,166.0,S,13.0,Spa-Francorchamps,Mercedes
+14,BOT,15,0,10,12,0,76,27.7,17.1,0.0,0.6,36.1,967.0,82.0,S,14.0,Spa-Francorchamps,Mercedes
+15,BOT,16,0,10,12,0,76,27.6,17.1,0.0,1.8,36.5,967.0,36.0,S,15.0,Spa-Francorchamps,Mercedes
+16,BOT,17,0,9,12,0,77,27.5,17.5,0.0,2.0,37.5,966.9,183.0,S,16.0,Spa-Francorchamps,Mercedes
+17,BOT,18,0,8,12,0,77,27.5,17.6,0.0,1.7,37.4,966.9,152.0,S,17.0,Spa-Francorchamps,Mercedes
+18,BOT,19,0,8,12,0,77,27.1,17.1,0.0,1.4,38.9,966.9,152.0,S,18.0,Spa-Francorchamps,Mercedes
+19,BOT,20,0,8,12,0,77,27.1,17.3,0.0,2.0,38.7,966.9,185.0,S,19.0,Spa-Francorchamps,Mercedes
+20,BOT,21,0,8,12,0,78,27.1,17.3,0.0,2.4,36.1,966.9,204.0,S,20.0,Spa-Francorchamps,Mercedes
+21,BOT,22,0,7,12,0,78,27.1,17.0,0.0,1.1,36.5,966.9,146.0,S,21.0,Spa-Francorchamps,Mercedes
+22,BOT,23,0,6,12,0,78,27.2,17.1,0.0,1.1,37.3,966.8,154.0,S,22.0,Spa-Francorchamps,Mercedes
+23,BOT,24,0,6,12,0,78,27.1,17.1,0.0,2.6,36.7,966.8,157.0,S,23.0,Spa-Francorchamps,Mercedes
+24,BOT,25,0,5,12,0,79,27.1,17.3,0.0,2.1,37.1,966.9,195.0,V,0.0,Spa-Francorchamps,Mercedes
+25,BOT,26,0,4,12,0,79,26.9,17.1,0.0,2.8,38.0,966.8,151.0,V,1.0,Spa-Francorchamps,Mercedes
+26,BOT,27,0,4,12,0,79,27.0,17.4,0.0,1.7,37.6,966.8,178.0,V,2.0,Spa-Francorchamps,Mercedes
+27,BOT,28,0,4,12,0,79,26.7,17.1,0.0,2.0,38.7,966.7,158.0,V,3.0,Spa-Francorchamps,Mercedes
+28,BOT,29,0,4,12,0,79,27.0,17.3,0.0,1.7,38.0,966.7,158.0,V,4.0,Spa-Francorchamps,Mercedes
+29,BOT,30,0,6,12,0,79,27.0,17.3,0.0,2.6,38.2,966.7,165.0,V,5.0,Spa-Francorchamps,Mercedes
+30,BOT,31,0,6,12,0,79,26.9,17.4,0.0,1.9,38.3,966.7,267.0,V,6.0,Spa-Francorchamps,Mercedes
+31,BOT,32,0,5,12,0,79,26.8,17.4,0.0,1.3,38.2,966.8,173.0,V,7.0,Spa-Francorchamps,Mercedes
+32,BOT,33,0,5,12,0,80,26.7,17.2,0.0,2.5,39.4,966.7,158.0,V,8.0,Spa-Francorchamps,Mercedes
+33,BOT,34,0,5,12,0,80,26.3,17.0,0.0,1.1,39.5,966.7,183.0,V,9.0,Spa-Francorchamps,Mercedes
+34,BOT,35,0,5,12,0,80,26.4,17.4,0.0,1.2,38.2,966.7,139.0,V,10.0,Spa-Francorchamps,Mercedes
+35,BOT,36,0,5,12,0,80,26.3,17.1,0.0,1.3,38.4,966.7,180.0,V,11.0,Spa-Francorchamps,Mercedes
+36,BOT,37,0,5,12,0,80,26.4,17.0,0.0,1.3,39.8,966.7,154.0,V,12.0,Spa-Francorchamps,Mercedes
+37,BOT,38,0,5,12,0,80,26.8,17.4,0.0,1.1,39.5,966.7,158.0,V,13.0,Spa-Francorchamps,Mercedes
+38,BOT,39,0,5,12,0,80,26.3,17.2,0.0,2.5,38.9,966.6,234.0,V,14.0,Spa-Francorchamps,Mercedes
+39,BOT,40,0,4,12,0,81,26.2,17.2,0.0,1.2,40.2,966.7,180.0,V,15.0,Spa-Francorchamps,Mercedes
+40,BOT,41,0,4,12,0,81,26.2,17.4,0.0,2.5,39.8,966.6,130.0,V,16.0,Spa-Francorchamps,Mercedes
+41,BOT,42,0,4,12,0,81,26.2,17.4,0.0,2.9,38.6,966.6,174.0,V,17.0,Spa-Francorchamps,Mercedes
+42,BOT,43,0,4,12,0,81,25.8,17.4,0.0,2.7,38.4,966.6,163.0,V,18.0,Spa-Francorchamps,Mercedes
+43,BOT,44,0,4,12,0,81,25.6,17.4,0.0,1.7,38.8,966.7,181.0,,0.0,Spa-Francorchamps,Mercedes
+0,SAI,1,0,14,13,0,61,30.1,17.4,0.0,4.3,38.4,967.2,152.0,S,0.0,Spa-Francorchamps,Renault
+1,SAI,2,0,13,13,0,65,29.7,17.3,0.0,3.3,38.1,967.1,140.0,S,1.0,Spa-Francorchamps,Renault
+2,SAI,3,0,13,13,0,68,29.7,17.3,0.0,2.4,38.1,967.2,145.0,S,2.0,Spa-Francorchamps,Renault
+3,SAI,4,0,13,13,0,70,30.1,17.4,0.0,2.9,39.0,967.1,128.0,S,3.0,Spa-Francorchamps,Renault
+4,SAI,5,0,13,13,0,70,30.3,17.7,0.0,1.7,38.1,967.0,174.0,S,4.0,Spa-Francorchamps,Renault
+5,SAI,6,0,12,13,0,70,30.3,18.1,0.0,3.2,38.3,967.1,208.0,S,5.0,Spa-Francorchamps,Renault
+6,SAI,7,0,12,13,0,70,30.0,18.1,0.0,2.7,36.1,967.1,182.0,S,6.0,Spa-Francorchamps,Renault
+7,SAI,8,0,12,13,0,70,29.9,18.3,0.0,3.0,36.2,967.1,171.0,S,7.0,Spa-Francorchamps,Renault
+8,SAI,9,0,13,13,0,70,29.5,18.0,0.0,1.9,34.7,967.0,263.0,S,8.0,Spa-Francorchamps,Renault
+9,SAI,10,0,13,13,0,71,29.3,17.7,0.0,2.9,35.5,967.0,175.0,S,9.0,Spa-Francorchamps,Renault
+10,SAI,11,0,13,13,0,71,29.0,17.6,0.0,2.8,34.1,967.0,150.0,S,10.0,Spa-Francorchamps,Renault
+11,SAI,12,0,13,13,0,71,28.9,17.3,0.0,2.8,34.5,967.0,155.0,S,11.0,Spa-Francorchamps,Renault
+12,SAI,13,0,13,13,0,71,28.9,17.4,0.0,2.0,35.1,967.0,157.0,S,12.0,Spa-Francorchamps,Renault
+13,SAI,14,0,13,13,0,71,28.5,17.4,0.0,2.5,36.0,967.1,0.0,S,13.0,Spa-Francorchamps,Renault
+14,SAI,15,0,13,13,0,71,28.3,17.5,0.0,2.6,35.5,967.0,158.0,S,14.0,Spa-Francorchamps,Renault
+15,SAI,16,0,13,13,0,71,27.9,17.3,0.0,2.6,36.1,966.9,166.0,S,15.0,Spa-Francorchamps,Renault
+16,SAI,17,0,13,13,0,72,27.7,17.1,0.0,0.6,36.1,967.0,82.0,S,16.0,Spa-Francorchamps,Renault
+17,SAI,18,0,13,13,0,72,27.6,17.1,0.0,1.8,36.5,967.0,36.0,S,17.0,Spa-Francorchamps,Renault
+18,SAI,19,0,13,13,0,72,27.6,17.0,0.0,0.7,37.3,966.8,144.0,S,18.0,Spa-Francorchamps,Renault
+19,SAI,20,0,13,13,0,72,27.5,17.6,0.0,1.7,37.4,966.9,152.0,S,19.0,Spa-Francorchamps,Renault
+20,SAI,21,0,13,13,0,73,27.0,17.0,0.0,0.7,38.2,966.9,182.0,S,20.0,Spa-Francorchamps,Renault
+21,SAI,22,0,14,13,0,73,27.1,17.1,0.0,1.4,38.9,966.9,152.0,S,21.0,Spa-Francorchamps,Renault
+22,SAI,23,0,15,13,0,73,27.1,17.3,0.0,2.0,38.7,966.9,185.0,S,22.0,Spa-Francorchamps,Renault
+23,SAI,24,0,14,13,0,73,27.1,17.0,0.0,1.1,36.5,966.9,146.0,V,0.0,Spa-Francorchamps,Renault
+24,SAI,25,0,14,13,0,73,27.1,17.1,0.0,1.6,36.9,966.9,138.0,V,1.0,Spa-Francorchamps,Renault
+25,SAI,26,0,13,13,0,73,27.1,17.0,0.0,1.9,36.4,966.9,200.0,V,2.0,Spa-Francorchamps,Renault
+26,SAI,27,0,13,13,0,73,27.1,17.1,0.0,2.6,36.7,966.8,157.0,V,3.0,Spa-Francorchamps,Renault
+27,SAI,28,0,13,13,0,73,26.9,17.1,0.0,2.8,38.0,966.8,151.0,V,4.0,Spa-Francorchamps,Renault
+28,SAI,29,0,13,13,0,73,27.0,17.4,0.0,1.7,37.6,966.8,178.0,V,5.0,Spa-Francorchamps,Renault
+29,SAI,30,0,13,13,0,73,26.7,17.1,0.0,2.8,38.0,966.7,176.0,V,6.0,Spa-Francorchamps,Renault
+30,SAI,31,0,12,13,0,73,27.0,17.3,0.0,1.7,38.0,966.7,158.0,V,7.0,Spa-Francorchamps,Renault
+31,SAI,32,0,11,13,0,73,27.0,17.3,0.0,2.6,38.2,966.7,165.0,V,8.0,Spa-Francorchamps,Renault
+32,SAI,33,0,11,13,0,74,26.9,17.4,0.0,1.9,38.3,966.7,267.0,V,9.0,Spa-Francorchamps,Renault
+33,SAI,34,0,11,13,0,74,26.8,17.3,0.0,2.5,38.6,966.7,150.0,V,10.0,Spa-Francorchamps,Renault
+34,SAI,35,0,11,13,0,74,26.4,17.4,0.0,1.2,38.2,966.7,139.0,V,11.0,Spa-Francorchamps,Renault
+35,SAI,36,0,11,13,0,74,26.3,17.1,0.0,1.3,38.4,966.7,180.0,V,12.0,Spa-Francorchamps,Renault
+36,SAI,37,0,11,13,0,74,26.8,17.4,0.0,1.1,39.5,966.7,158.0,V,13.0,Spa-Francorchamps,Renault
+37,SAI,38,0,11,13,0,74,26.6,17.2,0.0,1.0,39.6,966.6,166.0,V,14.0,Spa-Francorchamps,Renault
+38,SAI,39,0,11,13,0,75,26.3,17.2,0.0,2.5,38.9,966.6,234.0,V,15.0,Spa-Francorchamps,Renault
+39,SAI,40,0,11,13,0,75,26.2,17.4,0.0,2.9,38.6,966.6,174.0,V,16.0,Spa-Francorchamps,Renault
+40,SAI,41,0,11,13,0,75,25.6,17.3,0.0,3.4,38.2,966.6,155.0,V,17.0,Spa-Francorchamps,Renault
+41,SAI,42,0,11,13,0,76,25.5,17.3,0.0,1.4,39.5,966.7,175.0,V,18.0,Spa-Francorchamps,Renault
+42,SAI,43,0,11,13,0,77,25.6,17.4,0.0,1.7,38.8,966.7,181.0,V,19.0,Spa-Francorchamps,Renault
+0,VAN,1,0,16,4,0,55,29.7,17.3,0.0,3.3,38.1,967.1,140.0,S,3.0,Spa-Francorchamps,McLaren
+1,VAN,2,0,16,4,0,62,30.3,17.7,0.0,1.7,38.1,967.0,174.0,S,4.0,Spa-Francorchamps,McLaren
+2,VAN,3,0,15,4,0,64,29.9,18.3,0.0,3.0,36.2,967.1,171.0,V,0.0,Spa-Francorchamps,McLaren
+3,VAN,4,0,15,4,0,64,29.3,17.9,0.0,1.0,35.6,967.1,154.0,V,1.0,Spa-Francorchamps,McLaren
+4,VAN,5,0,16,4,0,65,29.1,17.6,0.0,2.6,35.3,967.0,156.0,V,2.0,Spa-Francorchamps,McLaren
+5,VAN,6,0,16,4,0,65,29.0,17.6,0.0,2.8,34.1,967.0,150.0,V,3.0,Spa-Francorchamps,McLaren
+6,VAN,7,0,15,4,0,66,28.9,17.4,0.0,2.0,35.1,967.0,157.0,V,4.0,Spa-Francorchamps,McLaren
+7,VAN,8,0,15,4,0,67,28.4,17.2,0.0,0.9,35.4,966.8,156.0,V,5.0,Spa-Francorchamps,McLaren
+8,VAN,9,0,15,4,0,68,28.3,17.0,0.0,2.5,36.5,967.0,189.0,V,6.0,Spa-Francorchamps,McLaren
+9,VAN,10,0,15,4,0,68,28.4,17.2,0.0,2.7,37.4,967.0,150.0,V,7.0,Spa-Francorchamps,McLaren
+10,VAN,11,0,15,4,0,69,27.9,17.3,0.0,2.6,36.1,966.9,166.0,V,8.0,Spa-Francorchamps,McLaren
+11,VAN,12,0,15,4,0,69,27.7,17.1,0.0,0.6,36.1,967.0,82.0,V,9.0,Spa-Francorchamps,McLaren
+12,VAN,13,0,15,4,0,70,27.6,17.0,0.0,0.7,37.3,966.8,144.0,V,10.0,Spa-Francorchamps,McLaren
+13,VAN,14,0,15,4,0,70,27.5,17.0,0.0,1.2,37.1,966.9,143.0,V,11.0,Spa-Francorchamps,McLaren
+14,VAN,15,0,15,4,0,70,27.5,17.6,0.0,1.7,37.4,966.9,152.0,V,12.0,Spa-Francorchamps,McLaren
+15,VAN,16,0,15,4,0,70,27.3,17.5,0.0,1.3,36.6,966.9,48.0,V,13.0,Spa-Francorchamps,McLaren
+16,VAN,17,0,15,4,0,70,27.3,17.5,0.0,1.5,37.0,966.9,184.0,V,14.0,Spa-Francorchamps,McLaren
+17,VAN,18,0,15,4,0,71,27.1,17.2,0.0,2.4,37.6,966.9,39.0,V,15.0,Spa-Francorchamps,McLaren
+18,VAN,19,0,15,4,0,71,27.1,17.3,0.0,2.0,38.7,966.9,185.0,V,16.0,Spa-Francorchamps,McLaren
+19,VAN,20,0,15,4,0,71,27.1,17.3,0.0,2.6,37.2,966.9,155.0,V,17.0,Spa-Francorchamps,McLaren
+20,VAN,21,0,15,4,0,71,27.1,17.1,0.0,1.6,36.9,966.9,138.0,V,18.0,Spa-Francorchamps,McLaren
+21,VAN,22,0,15,4,0,71,27.1,17.0,0.0,1.9,36.4,966.9,200.0,V,19.0,Spa-Francorchamps,McLaren
+22,VAN,23,0,14,4,0,71,27.1,17.1,0.0,2.6,36.7,966.8,157.0,V,20.0,Spa-Francorchamps,McLaren
+23,VAN,24,0,13,4,0,72,27.1,17.3,0.0,2.1,37.1,966.9,195.0,V,21.0,Spa-Francorchamps,McLaren
+24,VAN,25,0,13,4,0,72,26.9,17.1,0.0,2.8,38.0,966.8,151.0,V,22.0,Spa-Francorchamps,McLaren
+25,VAN,26,0,15,4,0,72,26.9,17.1,0.0,2.5,37.7,966.7,172.0,V,23.0,Spa-Francorchamps,McLaren
+26,VAN,27,0,15,4,0,72,26.9,17.3,0.0,1.8,37.4,966.8,133.0,V,24.0,Spa-Francorchamps,McLaren
+27,VAN,28,0,15,4,0,72,26.7,17.1,0.0,2.0,38.7,966.7,158.0,V,25.0,Spa-Francorchamps,McLaren
+28,VAN,29,0,15,4,0,72,27.0,17.3,0.0,1.7,38.0,966.7,158.0,V,26.0,Spa-Francorchamps,McLaren
+29,VAN,30,0,15,4,0,72,26.9,17.2,0.0,2.0,38.1,966.7,171.0,S,5.0,Spa-Francorchamps,McLaren
+30,VAN,31,0,15,4,0,72,26.9,17.4,0.0,1.9,38.3,966.7,267.0,S,6.0,Spa-Francorchamps,McLaren
+31,VAN,32,0,15,4,0,72,26.8,17.3,0.0,2.5,38.6,966.7,150.0,S,7.0,Spa-Francorchamps,McLaren
+32,VAN,33,0,15,4,0,72,26.7,17.2,0.0,2.5,39.4,966.7,158.0,S,8.0,Spa-Francorchamps,McLaren
+33,VAN,34,0,15,4,0,72,26.5,17.2,0.0,2.7,38.7,966.8,148.0,S,9.0,Spa-Francorchamps,McLaren
+34,VAN,35,0,15,4,0,73,26.4,17.3,0.0,2.0,39.3,966.8,180.0,S,10.0,Spa-Francorchamps,McLaren
+35,VAN,36,0,15,4,0,73,26.3,17.1,0.0,1.3,38.4,966.7,180.0,S,11.0,Spa-Francorchamps,McLaren
+36,VAN,37,0,15,4,0,73,26.8,17.4,0.0,1.1,39.5,966.7,158.0,S,12.0,Spa-Francorchamps,McLaren
+37,VAN,38,0,15,4,0,73,26.8,17.4,0.0,1.7,39.5,966.6,148.0,S,13.0,Spa-Francorchamps,McLaren
+38,VAN,39,0,15,4,0,73,26.2,17.4,0.0,2.5,39.8,966.6,130.0,S,14.0,Spa-Francorchamps,McLaren
+39,VAN,40,0,15,4,0,74,25.9,17.3,0.0,2.7,40.3,966.6,157.0,S,15.0,Spa-Francorchamps,McLaren
+40,VAN,41,0,15,4,0,74,25.6,17.3,0.0,3.4,38.2,966.6,155.0,S,16.0,Spa-Francorchamps,McLaren
+41,VAN,42,0,15,4,0,74,25.4,17.0,0.0,3.2,38.8,966.7,204.0,S,17.0,Spa-Francorchamps,McLaren
+42,VAN,43,0,15,4,0,74,25.6,17.4,0.0,1.7,38.8,966.7,181.0,S,18.0,Spa-Francorchamps,McLaren
