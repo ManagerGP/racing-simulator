@@ -1,61 +1,61 @@
-,driver,lap,trackStatus,position,grid,out,performance,trackTemp,airTemp,raining,windSpeed,humidity,pressure,windDir,tyre,tyreLap,track,team
-0,VER,1,0,1,1,0,40,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,1.0,Spa-Francorchamps,Red Bull Racing
-1,VER,2,0,1,1,0,43,15.2,13.4,1.0,0.3,97.5,969.6,220.0,W,2.0,Spa-Francorchamps,Red Bull Racing
-2,VER,3,0,1,1,0,44,15.1,13.3,1.0,0.7,96.8,969.6,312.0,W,3.0,Spa-Francorchamps,Red Bull Racing
-0,RUS,1,0,2,2,0,39,15.3,13.4,1.0,0.3,96.8,969.6,303.0,W,0.0,Spa-Francorchamps,Williams
-1,RUS,2,0,2,2,0,40,15.1,13.4,1.0,0.5,96.9,969.6,329.0,W,1.0,Spa-Francorchamps,Williams
-2,RUS,3,0,2,2,0,34,15.0,13.3,1.0,0.5,97.2,969.7,341.0,W,2.0,Spa-Francorchamps,Williams
-0,HAM,1,0,3,3,0,38,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,1.0,Spa-Francorchamps,Mercedes
-1,HAM,2,0,3,3,0,41,15.3,13.4,0.0,0.5,96.6,969.6,291.0,W,2.0,Spa-Francorchamps,Mercedes
-2,HAM,3,0,3,3,0,29,15.0,13.3,1.0,0.4,97.0,969.6,359.0,W,3.0,Spa-Francorchamps,Mercedes
-0,RIC,1,0,4,4,0,46,15.2,13.4,1.0,0.3,97.5,969.6,220.0,W,1.0,Spa-Francorchamps,McLaren
-1,RIC,2,0,4,4,0,33,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,2.0,Spa-Francorchamps,McLaren
-2,RIC,3,0,4,4,0,45,15.0,13.3,1.0,0.5,97.2,969.7,15.0,W,3.0,Spa-Francorchamps,McLaren
-0,VET,1,0,5,5,0,47,15.2,13.4,1.0,0.3,97.0,969.6,288.0,W,0.0,Spa-Francorchamps,Aston Martin
-1,VET,2,0,5,5,0,49,15.3,13.4,1.0,0.3,96.8,969.6,303.0,W,1.0,Spa-Francorchamps,Aston Martin
-2,VET,3,0,5,5,0,47,15.0,13.3,1.0,0.5,97.2,969.7,15.0,W,2.0,Spa-Francorchamps,Aston Martin
-0,GAS,1,0,6,6,0,43,15.2,13.3,0.0,0.5,96.8,969.7,343.0,W,0.0,Spa-Francorchamps,AlphaTauri
-1,GAS,2,0,6,6,0,46,15.2,13.4,0.0,0.5,96.9,969.8,335.0,W,1.0,Spa-Francorchamps,AlphaTauri
-2,GAS,3,0,6,6,0,44,15.0,13.3,0.0,0.5,97.0,969.5,319.0,W,2.0,Spa-Francorchamps,AlphaTauri
-0,PER,1,0,20,20,0,50,15.3,13.4,1.0,0.5,96.2,969.7,337.0,W,0.0,Spa-Francorchamps,Red Bull Racing
-1,PER,2,0,20,20,0,47,15.2,13.4,1.0,0.6,96.6,969.6,331.0,W,1.0,Spa-Francorchamps,Red Bull Racing
-2,PER,3,0,20,20,0,50,15.0,13.3,0.0,0.5,97.0,969.5,319.0,W,2.0,Spa-Francorchamps,Red Bull Racing
-0,OCO,1,0,7,7,0,44,15.3,13.4,0.0,0.8,97.1,969.6,329.0,W,1.0,Spa-Francorchamps,Alpine
-1,OCO,2,0,7,7,0,46,15.2,13.4,0.0,0.5,96.9,969.8,335.0,W,2.0,Spa-Francorchamps,Alpine
-2,OCO,3,0,7,7,0,44,15.1,13.4,1.0,0.5,96.9,969.6,329.0,W,3.0,Spa-Francorchamps,Alpine
-0,LEC,1,0,8,8,0,47,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0.0,Spa-Francorchamps,Ferrari
-1,LEC,2,0,8,8,0,48,15.3,13.4,1.0,0.6,96.9,969.6,335.0,W,1.0,Spa-Francorchamps,Ferrari
-2,LEC,3,0,8,8,0,47,15.1,13.3,1.0,0.7,96.8,969.6,312.0,W,2.0,Spa-Francorchamps,Ferrari
-0,LAT,1,0,9,9,0,42,15.3,13.3,1.0,0.3,96.6,969.7,327.0,W,0.0,Spa-Francorchamps,Williams
-1,LAT,2,0,9,9,0,44,15.3,13.4,1.0,0.5,97.0,969.7,326.0,W,1.0,Spa-Francorchamps,Williams
-2,LAT,3,0,9,9,0,37,15.0,13.3,1.0,0.5,96.9,969.6,16.0,W,2.0,Spa-Francorchamps,Williams
-0,SAI,1,0,10,10,0,46,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0.0,Spa-Francorchamps,Ferrari
-1,SAI,2,0,10,10,0,52,15.2,13.4,1.0,0.3,97.0,969.6,288.0,W,1.0,Spa-Francorchamps,Ferrari
-2,SAI,3,0,10,10,0,50,15.0,13.3,1.0,0.3,96.9,969.6,344.0,W,2.0,Spa-Francorchamps,Ferrari
-0,ALO,1,0,11,11,0,43,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0.0,Spa-Francorchamps,Alpine
-1,ALO,2,0,11,11,0,43,15.3,13.3,1.0,0.3,96.6,969.7,327.0,W,1.0,Spa-Francorchamps,Alpine
-2,ALO,3,0,11,11,0,41,15.0,13.3,1.0,0.3,96.9,969.6,344.0,W,2.0,Spa-Francorchamps,Alpine
-0,BOT,1,0,12,12,0,43,15.2,13.4,1.0,0.3,97.0,969.6,288.0,W,1.0,Spa-Francorchamps,Mercedes
-1,BOT,2,0,12,12,0,46,15.3,13.4,0.0,0.5,96.6,969.6,291.0,W,2.0,Spa-Francorchamps,Mercedes
-2,BOT,3,0,12,12,0,35,15.0,13.3,1.0,0.4,97.0,969.6,359.0,W,3.0,Spa-Francorchamps,Mercedes
-0,GIO,1,0,13,13,0,48,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0.0,Spa-Francorchamps,Alfa Romeo Racing
-1,GIO,2,0,13,13,0,51,15.0,13.3,0.0,0.5,97.0,969.5,319.0,W,1.0,Spa-Francorchamps,Alfa Romeo Racing
-2,GIO,3,0,13,13,0,49,15.0,13.3,0.0,0.5,96.9,969.6,319.0,W,2.0,Spa-Francorchamps,Alfa Romeo Racing
-0,NOR,1,0,14,14,0,50,15.2,13.3,0.0,0.5,97.2,969.6,322.0,W,0.0,Spa-Francorchamps,McLaren
-1,NOR,2,0,14,14,0,40,15.0,13.3,0.0,0.5,97.0,969.5,319.0,W,1.0,Spa-Francorchamps,McLaren
-2,NOR,3,0,14,14,0,42,15.0,13.3,1.0,0.5,97.2,969.7,15.0,W,2.0,Spa-Francorchamps,McLaren
-0,TSU,1,0,15,15,0,85,15.3,13.4,1.0,0.5,96.2,969.7,337.0,W,0.0,Spa-Francorchamps,AlphaTauri
-1,TSU,2,0,15,15,0,88,15.3,13.3,1.0,0.5,96.7,969.6,296.0,W,1.0,Spa-Francorchamps,AlphaTauri
-2,TSU,3,0,15,15,0,90,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,2.0,Spa-Francorchamps,AlphaTauri
-0,MSC,1,0,16,16,0,36,15.3,13.4,1.0,0.6,96.9,969.6,335.0,W,3.0,Spa-Francorchamps,Haas F1 Team
-1,MSC,2,0,16,16,0,36,15.0,13.3,1.0,0.3,96.9,969.6,344.0,W,4.0,Spa-Francorchamps,Haas F1 Team
-2,MSC,3,0,16,16,0,32,15.1,13.3,1.0,0.7,96.8,969.6,312.0,W,5.0,Spa-Francorchamps,Haas F1 Team
-0,MAZ,1,0,17,17,0,38,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,4.0,Spa-Francorchamps,Haas F1 Team
-1,MAZ,2,0,17,17,0,24,15.3,13.4,1.0,0.5,96.2,969.7,337.0,W,5.0,Spa-Francorchamps,Haas F1 Team
-2,MAZ,3,0,17,17,0,37,15.0,13.3,0.0,0.5,97.0,969.5,319.0,W,6.0,Spa-Francorchamps,Haas F1 Team
-0,STR,1,0,18,18,0,38,15.3,13.4,1.0,0.5,96.2,969.7,337.0,W,0.0,Spa-Francorchamps,Aston Martin
-1,STR,2,0,18,18,0,39,15.2,13.4,1.0,0.3,97.0,969.6,288.0,W,1.0,Spa-Francorchamps,Aston Martin
-2,STR,3,0,18,18,0,34,15.3,13.3,0.0,0.6,97.0,969.6,316.0,W,2.0,Spa-Francorchamps,Aston Martin
-0,RAI,1,0,19,19,0,44,15.2,13.3,0.0,0.5,96.8,969.7,343.0,W,4.0,Spa-Francorchamps,Alfa Romeo Racing
-1,RAI,2,0,19,19,0,51,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,5.0,Spa-Francorchamps,Alfa Romeo Racing
-2,RAI,3,0,19,19,0,60,15.0,13.3,0.0,0.5,96.9,969.6,319.0,W,6.0,Spa-Francorchamps,Alfa Romeo Racing
+,idGP,driver,lap,trackStatus,position,targetPosition,grid,out,performance,trackTemp,airTemp,raining,windSpeed,humidity,pressure,windDir,tyre,tyreLap,track,team
+0,70,VER,1,2,1,1,1,0,40,15.2,13.3,0.0,0.5,96.6,969.6,327.0,W,1,Spa-Francorchamps,Red Bull Racing
+1,70,VER,2,0,1,1,1,0,43,15.2,13.3,0.0,0.5,96.8,969.7,343.0,W,2,Spa-Francorchamps,Red Bull Racing
+2,70,VER,3,2,1,1,1,0,44,15.4,13.3,0.0,0.5,97.0,969.7,338.0,W,3,Spa-Francorchamps,Red Bull Racing
+0,70,RUS,1,2,2,2,2,0,39,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0,Spa-Francorchamps,Williams
+1,70,RUS,2,0,2,2,2,0,40,15.0,13.3,1.0,0.5,97.2,969.7,15.0,W,1,Spa-Francorchamps,Williams
+2,70,RUS,3,2,2,2,2,0,34,15.1,13.3,1.0,0.7,96.8,969.6,312.0,W,2,Spa-Francorchamps,Williams
+0,70,HAM,1,2,3,3,3,0,38,15.2,13.4,1.0,0.6,96.6,969.6,331.0,W,1,Spa-Francorchamps,Mercedes
+1,70,HAM,2,0,3,3,3,0,41,15.3,13.4,1.0,0.6,96.9,969.6,335.0,W,2,Spa-Francorchamps,Mercedes
+2,70,HAM,3,2,3,3,3,0,29,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,3,Spa-Francorchamps,Mercedes
+0,70,RIC,1,2,4,4,4,0,46,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,1,Spa-Francorchamps,McLaren
+1,70,RIC,2,0,4,4,4,0,33,15.3,13.4,0.0,0.4,97.0,969.6,346.0,W,2,Spa-Francorchamps,McLaren
+2,70,RIC,3,2,4,4,4,0,45,15.1,13.3,1.0,0.7,96.8,969.6,312.0,W,3,Spa-Francorchamps,McLaren
+0,70,VET,1,2,5,5,5,0,47,15.3,13.3,1.0,0.5,96.7,969.6,296.0,W,0,Spa-Francorchamps,Aston Martin
+1,70,VET,2,0,5,5,5,0,49,15.2,13.4,1.0,0.3,97.0,969.6,288.0,W,1,Spa-Francorchamps,Aston Martin
+2,70,VET,3,2,5,5,5,0,47,15.1,13.4,1.0,0.5,96.9,969.6,329.0,W,2,Spa-Francorchamps,Aston Martin
+0,70,GAS,1,2,6,6,6,0,43,15.4,13.3,0.0,0.5,97.0,969.7,338.0,W,0,Spa-Francorchamps,AlphaTauri
+1,70,GAS,2,0,6,6,6,0,46,15.2,13.4,0.0,0.5,96.9,969.8,335.0,W,1,Spa-Francorchamps,AlphaTauri
+2,70,GAS,3,2,6,6,6,0,44,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,2,Spa-Francorchamps,AlphaTauri
+0,70,PER,1,2,20,20,20,0,50,15.1,13.4,1.0,0.5,96.9,969.6,329.0,W,0,Spa-Francorchamps,Red Bull Racing
+1,70,PER,2,0,20,20,20,0,47,15.0,13.3,1.0,0.3,96.9,969.6,344.0,W,1,Spa-Francorchamps,Red Bull Racing
+2,70,PER,3,2,20,20,20,0,50,15.0,13.3,1.0,0.4,97.0,969.6,359.0,W,2,Spa-Francorchamps,Red Bull Racing
+0,70,OCO,1,2,7,7,7,0,44,15.4,13.3,0.0,0.5,97.0,969.7,338.0,W,1,Spa-Francorchamps,Alpine
+1,70,OCO,2,0,7,7,7,0,46,15.0,13.3,1.0,0.5,96.9,969.6,16.0,W,2,Spa-Francorchamps,Alpine
+2,70,OCO,3,2,7,7,7,0,44,15.0,13.3,1.0,0.5,97.2,969.7,341.0,W,3,Spa-Francorchamps,Alpine
+0,70,LEC,1,2,8,8,8,0,47,15.2,13.4,1.0,0.3,96.5,969.6,353.0,W,0,Spa-Francorchamps,Ferrari
+1,70,LEC,2,0,8,8,8,0,48,15.3,13.3,0.0,0.6,97.0,969.6,316.0,W,1,Spa-Francorchamps,Ferrari
+2,70,LEC,3,2,8,8,8,0,47,15.1,13.4,1.0,0.5,96.9,969.6,329.0,W,2,Spa-Francorchamps,Ferrari
+0,70,LAT,1,2,9,9,9,0,42,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0,Spa-Francorchamps,Williams
+1,70,LAT,2,0,9,9,9,0,44,15.3,13.4,1.0,0.3,96.8,969.6,303.0,W,1,Spa-Francorchamps,Williams
+2,70,LAT,3,2,9,9,9,0,37,15.4,13.3,0.0,0.5,97.0,969.7,338.0,W,2,Spa-Francorchamps,Williams
+0,70,SAI,1,2,10,10,10,0,46,15.2,13.4,1.0,0.3,96.5,969.6,353.0,W,0,Spa-Francorchamps,Ferrari
+1,70,SAI,2,0,10,10,10,0,52,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,1,Spa-Francorchamps,Ferrari
+2,70,SAI,3,2,10,10,10,0,50,15.0,13.3,0.0,0.5,96.9,969.6,319.0,W,2,Spa-Francorchamps,Ferrari
+0,70,ALO,1,2,11,11,11,0,43,15.3,13.4,1.0,0.4,96.7,969.7,354.0,W,0,Spa-Francorchamps,Alpine
+1,70,ALO,2,0,11,11,11,0,43,15.4,13.3,0.0,0.5,97.0,969.7,338.0,W,1,Spa-Francorchamps,Alpine
+2,70,ALO,3,2,11,11,11,0,41,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,2,Spa-Francorchamps,Alpine
+0,70,BOT,1,2,12,12,12,0,43,15.2,13.4,1.0,0.3,97.0,969.6,288.0,W,1,Spa-Francorchamps,Mercedes
+1,70,BOT,2,0,12,12,12,0,46,15.2,13.3,0.0,0.5,97.2,969.6,322.0,W,2,Spa-Francorchamps,Mercedes
+2,70,BOT,3,2,12,12,12,0,35,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,3,Spa-Francorchamps,Mercedes
+0,70,GIO,1,2,13,13,13,0,48,15.2,13.3,0.0,0.5,96.6,969.6,327.0,W,0,Spa-Francorchamps,Alfa Romeo Racing
+1,70,GIO,2,0,13,13,13,0,51,15.2,13.4,1.0,0.3,96.5,969.6,353.0,W,1,Spa-Francorchamps,Alfa Romeo Racing
+2,70,GIO,3,2,13,13,13,0,49,15.3,13.4,0.0,0.8,97.1,969.6,329.0,W,2,Spa-Francorchamps,Alfa Romeo Racing
+0,70,NOR,1,2,14,14,14,0,50,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,0,Spa-Francorchamps,McLaren
+1,70,NOR,2,0,14,14,14,0,40,15.2,13.4,1.0,0.3,96.5,969.6,353.0,W,1,Spa-Francorchamps,McLaren
+2,70,NOR,3,2,14,14,14,0,42,15.3,13.4,1.0,0.4,96.7,969.7,354.0,W,2,Spa-Francorchamps,McLaren
+0,70,TSU,1,2,15,15,15,0,85,15.2,13.3,0.0,0.5,96.8,969.7,343.0,W,0,Spa-Francorchamps,AlphaTauri
+1,70,TSU,2,0,15,15,15,0,88,15.4,13.3,0.0,0.5,97.0,969.7,338.0,W,1,Spa-Francorchamps,AlphaTauri
+2,70,TSU,3,2,15,15,15,0,90,15.0,13.3,1.0,0.5,97.2,969.7,341.0,W,2,Spa-Francorchamps,AlphaTauri
+0,70,MSC,1,2,16,16,16,0,36,15.3,13.3,1.0,0.3,96.6,969.7,327.0,W,3,Spa-Francorchamps,Haas F1 Team
+1,70,MSC,2,0,16,16,16,0,36,15.0,13.3,1.0,0.3,96.9,969.6,344.0,W,4,Spa-Francorchamps,Haas F1 Team
+2,70,MSC,3,2,16,16,16,0,32,15.1,13.3,1.0,0.7,96.8,969.6,312.0,W,5,Spa-Francorchamps,Haas F1 Team
+0,70,MAZ,1,2,17,17,17,0,38,15.3,13.4,0.0,0.4,97.3,969.7,338.0,W,4,Spa-Francorchamps,Haas F1 Team
+1,70,MAZ,2,0,17,17,17,0,24,15.1,13.3,0.0,0.5,97.0,969.6,336.0,W,5,Spa-Francorchamps,Haas F1 Team
+2,70,MAZ,3,2,17,17,17,0,37,15.0,13.3,0.0,0.5,97.0,969.5,319.0,W,6,Spa-Francorchamps,Haas F1 Team
+0,70,STR,1,2,18,18,18,0,38,15.3,13.4,1.0,0.6,96.9,969.6,335.0,W,0,Spa-Francorchamps,Aston Martin
+1,70,STR,2,0,18,18,18,0,39,15.1,13.3,0.0,0.6,96.8,969.7,320.0,W,1,Spa-Francorchamps,Aston Martin
+2,70,STR,3,2,18,18,18,0,34,15.0,13.3,1.0,0.5,97.2,969.7,341.0,W,2,Spa-Francorchamps,Aston Martin
+0,70,RAI,1,2,19,19,19,0,44,15.3,13.3,0.0,0.6,96.2,969.7,342.0,W,4,Spa-Francorchamps,Alfa Romeo Racing
+1,70,RAI,2,0,19,19,19,0,51,15.3,13.4,1.0,0.4,96.7,969.7,354.0,W,5,Spa-Francorchamps,Alfa Romeo Racing
+2,70,RAI,3,2,19,19,19,0,60,15.0,13.3,0.0,0.5,96.9,969.6,319.0,W,6,Spa-Francorchamps,Alfa Romeo Racing

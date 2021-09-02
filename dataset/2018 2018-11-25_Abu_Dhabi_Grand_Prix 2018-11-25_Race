@@ -1,939 +1,939 @@
-,driver,lap,trackStatus,position,grid,out,performance,trackTemp,airTemp,raining,windSpeed,humidity,pressure,windDir,tyre,tyreLap,track,team
-0,HAM,1,0,1,1,0,55,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,E,3.0,Yas Marina Circuit,Mercedes
-1,HAM,2,0,1,1,0,48,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,E,4.0,Yas Marina Circuit,Mercedes
-2,HAM,3,0,1,1,0,42,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,E,5.0,Yas Marina Circuit,Mercedes
-3,HAM,4,0,1,1,0,40,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,E,6.0,Yas Marina Circuit,Mercedes
-4,HAM,5,0,1,1,0,42,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,E,7.0,Yas Marina Circuit,Mercedes
-5,HAM,6,0,1,1,0,44,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,8.0,Yas Marina Circuit,Mercedes
-6,HAM,7,0,1,1,0,47,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,E,9.0,Yas Marina Circuit,Mercedes
-7,HAM,8,0,5,1,0,46,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,0.0,Yas Marina Circuit,Mercedes
-8,HAM,9,0,5,1,0,47,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,1.0,Yas Marina Circuit,Mercedes
-9,HAM,10,0,5,1,0,48,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,V,2.0,Yas Marina Circuit,Mercedes
-10,HAM,11,0,5,1,0,48,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,3.0,Yas Marina Circuit,Mercedes
-11,HAM,12,0,5,1,0,49,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,4.0,Yas Marina Circuit,Mercedes
-12,HAM,13,0,5,1,0,51,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,V,5.0,Yas Marina Circuit,Mercedes
-13,HAM,14,0,5,1,0,52,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,V,6.0,Yas Marina Circuit,Mercedes
-14,HAM,15,0,5,1,0,53,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,V,7.0,Yas Marina Circuit,Mercedes
-15,HAM,16,0,4,1,0,54,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,V,8.0,Yas Marina Circuit,Mercedes
-16,HAM,17,0,3,1,0,55,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,V,9.0,Yas Marina Circuit,Mercedes
-17,HAM,18,0,2,1,0,56,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,10.0,Yas Marina Circuit,Mercedes
-18,HAM,19,0,2,1,0,56,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,11.0,Yas Marina Circuit,Mercedes
-19,HAM,20,0,2,1,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,12.0,Yas Marina Circuit,Mercedes
-20,HAM,21,0,2,1,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,13.0,Yas Marina Circuit,Mercedes
-21,HAM,22,0,2,1,0,57,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,14.0,Yas Marina Circuit,Mercedes
-22,HAM,23,0,2,1,0,58,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,15.0,Yas Marina Circuit,Mercedes
-23,HAM,24,0,2,1,0,58,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,16.0,Yas Marina Circuit,Mercedes
-24,HAM,25,0,2,1,0,58,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,17.0,Yas Marina Circuit,Mercedes
-25,HAM,26,0,2,1,0,58,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,18.0,Yas Marina Circuit,Mercedes
-26,HAM,27,0,2,1,0,58,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,19.0,Yas Marina Circuit,Mercedes
-27,HAM,28,0,2,1,0,58,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,20.0,Yas Marina Circuit,Mercedes
-28,HAM,29,0,2,1,0,58,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,21.0,Yas Marina Circuit,Mercedes
-29,HAM,30,0,2,1,0,58,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,22.0,Yas Marina Circuit,Mercedes
-30,HAM,31,0,2,1,0,58,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,23.0,Yas Marina Circuit,Mercedes
-31,HAM,32,0,2,1,0,58,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,24.0,Yas Marina Circuit,Mercedes
-32,HAM,33,0,2,1,0,58,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,25.0,Yas Marina Circuit,Mercedes
-33,HAM,34,0,1,1,0,58,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,26.0,Yas Marina Circuit,Mercedes
-34,HAM,35,0,1,1,0,58,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,27.0,Yas Marina Circuit,Mercedes
-35,HAM,36,0,1,1,0,58,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,28.0,Yas Marina Circuit,Mercedes
-36,HAM,37,0,1,1,0,58,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,29.0,Yas Marina Circuit,Mercedes
-37,HAM,38,0,1,1,0,58,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,30.0,Yas Marina Circuit,Mercedes
-38,HAM,39,0,1,1,0,58,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,31.0,Yas Marina Circuit,Mercedes
-39,HAM,40,0,1,1,0,58,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,32.0,Yas Marina Circuit,Mercedes
-40,HAM,41,0,1,1,0,58,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,33.0,Yas Marina Circuit,Mercedes
-41,HAM,42,0,1,1,0,58,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,34.0,Yas Marina Circuit,Mercedes
-42,HAM,43,0,1,1,0,58,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,35.0,Yas Marina Circuit,Mercedes
-43,HAM,44,0,1,1,0,58,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,36.0,Yas Marina Circuit,Mercedes
-44,HAM,45,0,1,1,0,58,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,37.0,Yas Marina Circuit,Mercedes
-45,HAM,46,0,1,1,0,58,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,38.0,Yas Marina Circuit,Mercedes
-46,HAM,47,0,1,1,0,58,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,V,39.0,Yas Marina Circuit,Mercedes
-47,HAM,48,0,1,1,0,59,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,V,40.0,Yas Marina Circuit,Mercedes
-48,HAM,49,0,1,1,0,59,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,41.0,Yas Marina Circuit,Mercedes
-49,HAM,50,0,1,1,0,59,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,42.0,Yas Marina Circuit,Mercedes
-50,HAM,51,0,1,1,0,59,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,43.0,Yas Marina Circuit,Mercedes
-51,HAM,52,0,1,1,0,59,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,44.0,Yas Marina Circuit,Mercedes
-52,HAM,53,0,1,1,0,59,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,45.0,Yas Marina Circuit,Mercedes
-53,HAM,54,0,1,1,0,59,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,46.0,Yas Marina Circuit,Mercedes
-54,HAM,55,0,1,1,0,59,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,47.0,Yas Marina Circuit,Mercedes
-0,BOT,1,0,2,5,0,63,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,E,3.0,Yas Marina Circuit,Mercedes
-1,BOT,2,0,2,5,0,50,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,E,4.0,Yas Marina Circuit,Mercedes
-2,BOT,3,0,2,5,0,44,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,E,5.0,Yas Marina Circuit,Mercedes
-3,BOT,4,0,2,5,0,43,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,E,6.0,Yas Marina Circuit,Mercedes
-4,BOT,5,0,2,5,0,47,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,7.0,Yas Marina Circuit,Mercedes
-5,BOT,6,0,2,5,0,51,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,8.0,Yas Marina Circuit,Mercedes
-6,BOT,7,0,2,5,0,52,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,E,9.0,Yas Marina Circuit,Mercedes
-7,BOT,8,0,1,5,0,51,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,E,10.0,Yas Marina Circuit,Mercedes
-8,BOT,9,0,1,5,0,52,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,E,11.0,Yas Marina Circuit,Mercedes
-9,BOT,10,0,1,5,0,54,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,E,12.0,Yas Marina Circuit,Mercedes
-10,BOT,11,0,1,5,0,55,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,E,13.0,Yas Marina Circuit,Mercedes
-11,BOT,12,0,1,5,0,56,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,E,14.0,Yas Marina Circuit,Mercedes
-12,BOT,13,0,1,5,0,58,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,E,15.0,Yas Marina Circuit,Mercedes
-13,BOT,14,0,1,5,0,60,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,E,16.0,Yas Marina Circuit,Mercedes
-14,BOT,15,0,1,5,0,61,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,E,17.0,Yas Marina Circuit,Mercedes
-15,BOT,16,0,1,5,0,63,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,E,18.0,Yas Marina Circuit,Mercedes
-16,BOT,17,0,4,5,0,64,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,V,0.0,Yas Marina Circuit,Mercedes
-17,BOT,18,0,3,5,0,65,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,1.0,Yas Marina Circuit,Mercedes
-18,BOT,19,0,3,5,0,66,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,2.0,Yas Marina Circuit,Mercedes
-19,BOT,20,0,3,5,0,67,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,3.0,Yas Marina Circuit,Mercedes
-20,BOT,21,0,3,5,0,68,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,4.0,Yas Marina Circuit,Mercedes
-21,BOT,22,0,3,5,0,69,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,5.0,Yas Marina Circuit,Mercedes
-22,BOT,23,0,3,5,0,70,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,6.0,Yas Marina Circuit,Mercedes
-23,BOT,24,0,3,5,0,70,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,7.0,Yas Marina Circuit,Mercedes
-24,BOT,25,0,3,5,0,70,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,8.0,Yas Marina Circuit,Mercedes
-25,BOT,26,0,3,5,0,70,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,9.0,Yas Marina Circuit,Mercedes
-26,BOT,27,0,3,5,0,70,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,10.0,Yas Marina Circuit,Mercedes
-27,BOT,28,0,3,5,0,70,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,11.0,Yas Marina Circuit,Mercedes
-28,BOT,29,0,3,5,0,70,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,12.0,Yas Marina Circuit,Mercedes
-29,BOT,30,0,3,5,0,70,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,13.0,Yas Marina Circuit,Mercedes
-30,BOT,31,0,3,5,0,70,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,14.0,Yas Marina Circuit,Mercedes
-31,BOT,32,0,3,5,0,70,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,V,15.0,Yas Marina Circuit,Mercedes
-32,BOT,33,0,3,5,0,70,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,16.0,Yas Marina Circuit,Mercedes
-33,BOT,34,0,2,5,0,70,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,17.0,Yas Marina Circuit,Mercedes
-34,BOT,35,0,3,5,0,70,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,18.0,Yas Marina Circuit,Mercedes
-35,BOT,36,0,3,5,0,70,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,V,19.0,Yas Marina Circuit,Mercedes
-36,BOT,37,0,3,5,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,20.0,Yas Marina Circuit,Mercedes
-37,BOT,38,0,4,5,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,21.0,Yas Marina Circuit,Mercedes
-38,BOT,39,0,5,5,0,70,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,V,22.0,Yas Marina Circuit,Mercedes
-39,BOT,40,0,5,5,0,70,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,23.0,Yas Marina Circuit,Mercedes
-40,BOT,41,0,5,5,0,70,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,E,0.0,Yas Marina Circuit,Mercedes
-41,BOT,42,0,5,5,0,70,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,E,1.0,Yas Marina Circuit,Mercedes
-42,BOT,43,0,5,5,0,70,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,E,2.0,Yas Marina Circuit,Mercedes
-43,BOT,44,0,5,5,0,70,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,3.0,Yas Marina Circuit,Mercedes
-44,BOT,45,0,5,5,0,70,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,4.0,Yas Marina Circuit,Mercedes
-45,BOT,46,0,5,5,0,70,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,E,5.0,Yas Marina Circuit,Mercedes
-46,BOT,47,0,5,5,0,70,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,E,6.0,Yas Marina Circuit,Mercedes
-47,BOT,48,0,5,5,0,70,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,E,7.0,Yas Marina Circuit,Mercedes
-48,BOT,49,0,5,5,0,70,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,E,8.0,Yas Marina Circuit,Mercedes
-49,BOT,50,0,5,5,0,70,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,E,9.0,Yas Marina Circuit,Mercedes
-50,BOT,51,0,5,5,0,70,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,E,10.0,Yas Marina Circuit,Mercedes
-51,BOT,52,0,5,5,0,70,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,E,11.0,Yas Marina Circuit,Mercedes
-52,BOT,53,0,5,5,0,70,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,E,12.0,Yas Marina Circuit,Mercedes
-53,BOT,54,0,5,5,0,70,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,E,13.0,Yas Marina Circuit,Mercedes
-54,BOT,55,0,5,5,0,70,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,E,14.0,Yas Marina Circuit,Mercedes
-0,VET,1,0,3,2,0,52,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,E,3.0,Yas Marina Circuit,Ferrari
-1,VET,2,0,3,2,0,48,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,E,4.0,Yas Marina Circuit,Ferrari
-2,VET,3,0,3,2,0,44,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,E,5.0,Yas Marina Circuit,Ferrari
-3,VET,4,0,3,2,0,40,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,E,6.0,Yas Marina Circuit,Ferrari
-4,VET,5,0,3,2,0,43,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,E,7.0,Yas Marina Circuit,Ferrari
-5,VET,6,0,3,2,0,48,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,E,8.0,Yas Marina Circuit,Ferrari
-6,VET,7,0,3,2,0,50,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,E,9.0,Yas Marina Circuit,Ferrari
-7,VET,8,0,2,2,0,47,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,E,10.0,Yas Marina Circuit,Ferrari
-8,VET,9,0,2,2,0,48,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,11.0,Yas Marina Circuit,Ferrari
-9,VET,10,0,2,2,0,50,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,E,12.0,Yas Marina Circuit,Ferrari
-10,VET,11,0,2,2,0,52,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,E,13.0,Yas Marina Circuit,Ferrari
-11,VET,12,0,2,2,0,54,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,E,14.0,Yas Marina Circuit,Ferrari
-12,VET,13,0,2,2,0,57,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,E,15.0,Yas Marina Circuit,Ferrari
-13,VET,14,0,2,2,0,59,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,E,16.0,Yas Marina Circuit,Ferrari
-14,VET,15,0,3,2,0,60,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,E,17.0,Yas Marina Circuit,Ferrari
-15,VET,16,0,5,2,0,61,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,0.0,Yas Marina Circuit,Ferrari
-16,VET,17,0,5,2,0,62,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,1.0,Yas Marina Circuit,Ferrari
-17,VET,18,0,4,2,0,63,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,2.0,Yas Marina Circuit,Ferrari
-18,VET,19,0,4,2,0,64,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,V,3.0,Yas Marina Circuit,Ferrari
-19,VET,20,0,4,2,0,65,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,V,4.0,Yas Marina Circuit,Ferrari
-20,VET,21,0,4,2,0,65,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,V,5.0,Yas Marina Circuit,Ferrari
-21,VET,22,0,4,2,0,66,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,V,6.0,Yas Marina Circuit,Ferrari
-22,VET,23,0,4,2,0,66,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,V,7.0,Yas Marina Circuit,Ferrari
-23,VET,24,0,4,2,0,67,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,8.0,Yas Marina Circuit,Ferrari
-24,VET,25,0,4,2,0,67,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,9.0,Yas Marina Circuit,Ferrari
-25,VET,26,0,4,2,0,67,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,10.0,Yas Marina Circuit,Ferrari
-26,VET,27,0,4,2,0,67,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,11.0,Yas Marina Circuit,Ferrari
-27,VET,28,0,4,2,0,67,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,12.0,Yas Marina Circuit,Ferrari
-28,VET,29,0,4,2,0,67,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,13.0,Yas Marina Circuit,Ferrari
-29,VET,30,0,4,2,0,67,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,14.0,Yas Marina Circuit,Ferrari
-30,VET,31,0,4,2,0,67,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,15.0,Yas Marina Circuit,Ferrari
-31,VET,32,0,4,2,0,68,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,16.0,Yas Marina Circuit,Ferrari
-32,VET,33,0,4,2,0,68,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,17.0,Yas Marina Circuit,Ferrari
-33,VET,34,0,3,2,0,68,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,18.0,Yas Marina Circuit,Ferrari
-34,VET,35,0,2,2,0,68,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,19.0,Yas Marina Circuit,Ferrari
-35,VET,36,0,2,2,0,68,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,V,20.0,Yas Marina Circuit,Ferrari
-36,VET,37,0,2,2,0,68,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,21.0,Yas Marina Circuit,Ferrari
-37,VET,38,0,2,2,0,68,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,22.0,Yas Marina Circuit,Ferrari
-38,VET,39,0,2,2,0,68,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,23.0,Yas Marina Circuit,Ferrari
-39,VET,40,0,2,2,0,68,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,24.0,Yas Marina Circuit,Ferrari
-40,VET,41,0,2,2,0,68,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,25.0,Yas Marina Circuit,Ferrari
-41,VET,42,0,2,2,0,68,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,26.0,Yas Marina Circuit,Ferrari
-42,VET,43,0,2,2,0,68,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,27.0,Yas Marina Circuit,Ferrari
-43,VET,44,0,2,2,0,68,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,V,28.0,Yas Marina Circuit,Ferrari
-44,VET,45,0,2,2,0,68,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,V,29.0,Yas Marina Circuit,Ferrari
-45,VET,46,0,2,2,0,68,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,V,30.0,Yas Marina Circuit,Ferrari
-46,VET,47,0,2,2,0,68,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,31.0,Yas Marina Circuit,Ferrari
-47,VET,48,0,2,2,0,68,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,32.0,Yas Marina Circuit,Ferrari
-48,VET,49,0,2,2,0,68,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,33.0,Yas Marina Circuit,Ferrari
-49,VET,50,0,2,2,0,68,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,34.0,Yas Marina Circuit,Ferrari
-50,VET,51,0,2,2,0,69,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,V,35.0,Yas Marina Circuit,Ferrari
-51,VET,52,0,2,2,0,69,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,36.0,Yas Marina Circuit,Ferrari
-52,VET,53,0,2,2,0,69,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,37.0,Yas Marina Circuit,Ferrari
-53,VET,54,0,2,2,0,69,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,38.0,Yas Marina Circuit,Ferrari
-54,VET,55,0,2,2,0,69,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,V,39.0,Yas Marina Circuit,Ferrari
-0,RAI,1,0,4,19,0,52,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,E,4.0,Yas Marina Circuit,Ferrari
-1,RAI,2,0,4,19,0,41,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,5.0,Yas Marina Circuit,Ferrari
-2,RAI,3,0,4,19,0,37,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,E,6.0,Yas Marina Circuit,Ferrari
-3,RAI,4,0,4,19,0,37,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,E,7.0,Yas Marina Circuit,Ferrari
-4,RAI,5,0,4,19,0,42,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,E,8.0,Yas Marina Circuit,Ferrari
-5,RAI,6,0,11,19,1,46,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,E,9.0,Yas Marina Circuit,Ferrari
-0,RIC,1,0,6,4,0,39,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,E,4.0,Yas Marina Circuit,Red Bull Racing
-1,RIC,2,0,6,4,0,42,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,E,5.0,Yas Marina Circuit,Red Bull Racing
-2,RIC,3,0,6,4,0,41,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,E,6.0,Yas Marina Circuit,Red Bull Racing
-3,RIC,4,0,6,4,0,40,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,E,7.0,Yas Marina Circuit,Red Bull Racing
-4,RIC,5,0,6,4,0,41,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,E,8.0,Yas Marina Circuit,Red Bull Racing
-5,RIC,6,0,5,4,0,42,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,9.0,Yas Marina Circuit,Red Bull Racing
-6,RIC,7,0,5,4,0,42,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,10.0,Yas Marina Circuit,Red Bull Racing
-7,RIC,8,0,3,4,0,43,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,E,11.0,Yas Marina Circuit,Red Bull Racing
-8,RIC,9,0,3,4,0,44,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,E,12.0,Yas Marina Circuit,Red Bull Racing
-9,RIC,10,0,3,4,0,45,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,E,13.0,Yas Marina Circuit,Red Bull Racing
-10,RIC,11,0,3,4,0,46,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,E,14.0,Yas Marina Circuit,Red Bull Racing
-11,RIC,12,0,3,4,0,47,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,E,15.0,Yas Marina Circuit,Red Bull Racing
-12,RIC,13,0,3,4,0,49,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,E,16.0,Yas Marina Circuit,Red Bull Racing
-13,RIC,14,0,3,4,0,50,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,E,17.0,Yas Marina Circuit,Red Bull Racing
-14,RIC,15,0,2,4,0,52,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,E,18.0,Yas Marina Circuit,Red Bull Racing
-15,RIC,16,0,2,4,0,53,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,E,19.0,Yas Marina Circuit,Red Bull Racing
-16,RIC,17,0,1,4,0,54,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,E,20.0,Yas Marina Circuit,Red Bull Racing
-17,RIC,18,0,1,4,0,55,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,E,21.0,Yas Marina Circuit,Red Bull Racing
-18,RIC,19,0,1,4,0,56,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,22.0,Yas Marina Circuit,Red Bull Racing
-19,RIC,20,0,1,4,0,56,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,23.0,Yas Marina Circuit,Red Bull Racing
-20,RIC,21,0,1,4,0,56,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,E,24.0,Yas Marina Circuit,Red Bull Racing
-21,RIC,22,0,1,4,0,57,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,E,25.0,Yas Marina Circuit,Red Bull Racing
-22,RIC,23,0,1,4,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,26.0,Yas Marina Circuit,Red Bull Racing
-23,RIC,24,0,1,4,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,E,27.0,Yas Marina Circuit,Red Bull Racing
-24,RIC,25,0,1,4,0,57,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,E,28.0,Yas Marina Circuit,Red Bull Racing
-25,RIC,26,0,1,4,0,56,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,E,29.0,Yas Marina Circuit,Red Bull Racing
-26,RIC,27,0,1,4,0,56,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,E,30.0,Yas Marina Circuit,Red Bull Racing
-27,RIC,28,0,1,4,0,56,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,E,31.0,Yas Marina Circuit,Red Bull Racing
-28,RIC,29,0,1,4,0,56,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,E,32.0,Yas Marina Circuit,Red Bull Racing
-29,RIC,30,0,1,4,0,56,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,E,33.0,Yas Marina Circuit,Red Bull Racing
-30,RIC,31,0,1,4,0,57,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,E,34.0,Yas Marina Circuit,Red Bull Racing
-31,RIC,32,0,1,4,0,57,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,E,35.0,Yas Marina Circuit,Red Bull Racing
-32,RIC,33,0,1,4,0,57,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,E,36.0,Yas Marina Circuit,Red Bull Racing
-33,RIC,34,0,5,4,0,56,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,0.0,Yas Marina Circuit,Red Bull Racing
-34,RIC,35,0,5,4,0,56,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,1.0,Yas Marina Circuit,Red Bull Racing
-35,RIC,36,0,5,4,0,57,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,V,2.0,Yas Marina Circuit,Red Bull Racing
-36,RIC,37,0,5,4,0,57,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,3.0,Yas Marina Circuit,Red Bull Racing
-37,RIC,38,0,5,4,0,57,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,V,4.0,Yas Marina Circuit,Red Bull Racing
-38,RIC,39,0,4,4,0,57,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,5.0,Yas Marina Circuit,Red Bull Racing
-39,RIC,40,0,4,4,0,56,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,6.0,Yas Marina Circuit,Red Bull Racing
-40,RIC,41,0,4,4,0,57,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,7.0,Yas Marina Circuit,Red Bull Racing
-41,RIC,42,0,4,4,0,57,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,8.0,Yas Marina Circuit,Red Bull Racing
-42,RIC,43,0,4,4,0,57,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,9.0,Yas Marina Circuit,Red Bull Racing
-43,RIC,44,0,4,4,0,57,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,10.0,Yas Marina Circuit,Red Bull Racing
-44,RIC,45,0,4,4,0,57,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,V,11.0,Yas Marina Circuit,Red Bull Racing
-45,RIC,46,0,4,4,0,57,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,V,12.0,Yas Marina Circuit,Red Bull Racing
-46,RIC,47,0,4,4,0,57,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,V,13.0,Yas Marina Circuit,Red Bull Racing
-47,RIC,48,0,4,4,0,57,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,14.0,Yas Marina Circuit,Red Bull Racing
-48,RIC,49,0,4,4,0,57,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,15.0,Yas Marina Circuit,Red Bull Racing
-49,RIC,50,0,4,4,0,57,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,16.0,Yas Marina Circuit,Red Bull Racing
-50,RIC,51,0,4,4,0,57,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,V,17.0,Yas Marina Circuit,Red Bull Racing
-51,RIC,52,0,4,4,0,57,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,18.0,Yas Marina Circuit,Red Bull Racing
-52,RIC,53,0,4,4,0,57,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,19.0,Yas Marina Circuit,Red Bull Racing
-53,RIC,54,0,4,4,0,57,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,V,20.0,Yas Marina Circuit,Red Bull Racing
-54,RIC,55,0,4,4,0,57,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,V,21.0,Yas Marina Circuit,Red Bull Racing
-0,VER,1,0,9,3,0,32,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,F,3.0,Yas Marina Circuit,Red Bull Racing
-1,VER,2,0,9,3,0,30,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,F,4.0,Yas Marina Circuit,Red Bull Racing
-2,VER,3,0,9,3,0,30,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,F,5.0,Yas Marina Circuit,Red Bull Racing
-3,VER,4,0,9,3,0,29,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,F,6.0,Yas Marina Circuit,Red Bull Racing
-4,VER,5,0,9,3,0,30,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,F,7.0,Yas Marina Circuit,Red Bull Racing
-5,VER,6,0,7,3,0,32,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,F,8.0,Yas Marina Circuit,Red Bull Racing
-6,VER,7,0,6,3,0,33,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,F,9.0,Yas Marina Circuit,Red Bull Racing
-7,VER,8,0,4,3,0,31,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,F,10.0,Yas Marina Circuit,Red Bull Racing
-8,VER,9,0,4,3,0,32,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,F,11.0,Yas Marina Circuit,Red Bull Racing
-9,VER,10,0,4,3,0,33,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,F,12.0,Yas Marina Circuit,Red Bull Racing
-10,VER,11,0,4,3,0,34,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,F,13.0,Yas Marina Circuit,Red Bull Racing
-11,VER,12,0,4,3,0,35,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,F,14.0,Yas Marina Circuit,Red Bull Racing
-12,VER,13,0,4,3,0,37,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,F,15.0,Yas Marina Circuit,Red Bull Racing
-13,VER,14,0,4,3,0,39,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,F,16.0,Yas Marina Circuit,Red Bull Racing
-14,VER,15,0,4,3,0,41,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,F,17.0,Yas Marina Circuit,Red Bull Racing
-15,VER,16,0,3,3,0,43,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,F,18.0,Yas Marina Circuit,Red Bull Racing
-16,VER,17,0,2,3,0,45,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,F,19.0,Yas Marina Circuit,Red Bull Racing
-17,VER,18,0,5,3,0,47,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,0.0,Yas Marina Circuit,Red Bull Racing
-18,VER,19,0,5,3,0,48,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,1.0,Yas Marina Circuit,Red Bull Racing
-19,VER,20,0,5,3,0,48,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,2.0,Yas Marina Circuit,Red Bull Racing
-20,VER,21,0,5,3,0,49,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,V,3.0,Yas Marina Circuit,Red Bull Racing
-21,VER,22,0,5,3,0,50,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,4.0,Yas Marina Circuit,Red Bull Racing
-22,VER,23,0,5,3,0,50,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,5.0,Yas Marina Circuit,Red Bull Racing
-23,VER,24,0,5,3,0,50,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,V,6.0,Yas Marina Circuit,Red Bull Racing
-24,VER,25,0,5,3,0,51,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,7.0,Yas Marina Circuit,Red Bull Racing
-25,VER,26,0,5,3,0,51,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,8.0,Yas Marina Circuit,Red Bull Racing
-26,VER,27,0,5,3,0,51,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,9.0,Yas Marina Circuit,Red Bull Racing
-27,VER,28,0,5,3,0,52,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,10.0,Yas Marina Circuit,Red Bull Racing
-28,VER,29,0,5,3,0,52,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,V,11.0,Yas Marina Circuit,Red Bull Racing
-29,VER,30,0,5,3,0,52,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,12.0,Yas Marina Circuit,Red Bull Racing
-30,VER,31,0,5,3,0,52,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,13.0,Yas Marina Circuit,Red Bull Racing
-31,VER,32,0,5,3,0,53,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,V,14.0,Yas Marina Circuit,Red Bull Racing
-32,VER,33,0,5,3,0,53,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,15.0,Yas Marina Circuit,Red Bull Racing
-33,VER,34,0,4,3,0,53,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,V,16.0,Yas Marina Circuit,Red Bull Racing
-34,VER,35,0,4,3,0,54,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,17.0,Yas Marina Circuit,Red Bull Racing
-35,VER,36,0,4,3,0,54,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,18.0,Yas Marina Circuit,Red Bull Racing
-36,VER,37,0,4,3,0,54,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,19.0,Yas Marina Circuit,Red Bull Racing
-37,VER,38,0,3,3,0,54,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,20.0,Yas Marina Circuit,Red Bull Racing
-38,VER,39,0,3,3,0,54,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,21.0,Yas Marina Circuit,Red Bull Racing
-39,VER,40,0,3,3,0,54,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,22.0,Yas Marina Circuit,Red Bull Racing
-40,VER,41,0,3,3,0,55,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,V,23.0,Yas Marina Circuit,Red Bull Racing
-41,VER,42,0,3,3,0,55,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,V,24.0,Yas Marina Circuit,Red Bull Racing
-42,VER,43,0,3,3,0,55,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,25.0,Yas Marina Circuit,Red Bull Racing
-43,VER,44,0,3,3,0,55,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,26.0,Yas Marina Circuit,Red Bull Racing
-44,VER,45,0,3,3,0,56,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,27.0,Yas Marina Circuit,Red Bull Racing
-45,VER,46,0,3,3,0,56,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,28.0,Yas Marina Circuit,Red Bull Racing
-46,VER,47,0,3,3,0,56,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,29.0,Yas Marina Circuit,Red Bull Racing
-47,VER,48,0,3,3,0,56,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,30.0,Yas Marina Circuit,Red Bull Racing
-48,VER,49,0,3,3,0,56,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,V,31.0,Yas Marina Circuit,Red Bull Racing
-49,VER,50,0,3,3,0,56,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,V,32.0,Yas Marina Circuit,Red Bull Racing
-50,VER,51,0,3,3,0,56,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,33.0,Yas Marina Circuit,Red Bull Racing
-51,VER,52,0,3,3,0,57,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,34.0,Yas Marina Circuit,Red Bull Racing
-52,VER,53,0,3,3,0,57,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,V,35.0,Yas Marina Circuit,Red Bull Racing
-53,VER,54,0,3,3,0,57,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,36.0,Yas Marina Circuit,Red Bull Racing
-54,VER,55,0,3,3,0,57,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,37.0,Yas Marina Circuit,Red Bull Racing
-0,GRO,1,0,7,9,0,32,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,F,3.0,Yas Marina Circuit,Haas F1 Team
-1,GRO,2,0,7,9,0,40,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,F,4.0,Yas Marina Circuit,Haas F1 Team
-2,GRO,3,0,7,9,0,39,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,F,5.0,Yas Marina Circuit,Haas F1 Team
-3,GRO,4,0,7,9,0,36,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,F,6.0,Yas Marina Circuit,Haas F1 Team
-4,GRO,5,0,7,9,0,36,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,F,7.0,Yas Marina Circuit,Haas F1 Team
-5,GRO,6,0,6,9,0,36,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,F,8.0,Yas Marina Circuit,Haas F1 Team
-6,GRO,7,0,7,9,0,35,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,F,9.0,Yas Marina Circuit,Haas F1 Team
-7,GRO,8,0,18,9,0,33,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,V,0.0,Yas Marina Circuit,Haas F1 Team
-8,GRO,9,0,17,9,0,33,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,1.0,Yas Marina Circuit,Haas F1 Team
-9,GRO,10,0,17,9,0,34,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,2.0,Yas Marina Circuit,Haas F1 Team
-10,GRO,11,0,16,9,0,34,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,3.0,Yas Marina Circuit,Haas F1 Team
-11,GRO,12,0,16,9,0,35,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,V,4.0,Yas Marina Circuit,Haas F1 Team
-12,GRO,13,0,16,9,0,36,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,5.0,Yas Marina Circuit,Haas F1 Team
-13,GRO,14,0,16,9,0,38,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,6.0,Yas Marina Circuit,Haas F1 Team
-14,GRO,15,0,16,9,0,39,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,7.0,Yas Marina Circuit,Haas F1 Team
-15,GRO,16,0,16,9,0,41,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,8.0,Yas Marina Circuit,Haas F1 Team
-16,GRO,17,0,16,9,0,42,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,V,9.0,Yas Marina Circuit,Haas F1 Team
-17,GRO,18,0,16,9,0,43,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,V,10.0,Yas Marina Circuit,Haas F1 Team
-18,GRO,19,0,15,9,0,44,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,V,11.0,Yas Marina Circuit,Haas F1 Team
-19,GRO,20,0,15,9,0,45,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,V,12.0,Yas Marina Circuit,Haas F1 Team
-20,GRO,21,0,15,9,0,46,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,V,13.0,Yas Marina Circuit,Haas F1 Team
-21,GRO,22,0,15,9,0,46,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,14.0,Yas Marina Circuit,Haas F1 Team
-22,GRO,23,0,15,9,0,47,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,15.0,Yas Marina Circuit,Haas F1 Team
-23,GRO,24,0,15,9,0,47,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,16.0,Yas Marina Circuit,Haas F1 Team
-24,GRO,25,0,14,9,0,47,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,17.0,Yas Marina Circuit,Haas F1 Team
-25,GRO,26,0,14,9,0,48,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,18.0,Yas Marina Circuit,Haas F1 Team
-26,GRO,27,0,14,9,0,48,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,19.0,Yas Marina Circuit,Haas F1 Team
-27,GRO,28,0,13,9,0,48,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,20.0,Yas Marina Circuit,Haas F1 Team
-28,GRO,29,0,13,9,0,49,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,21.0,Yas Marina Circuit,Haas F1 Team
-29,GRO,30,0,13,9,0,49,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,22.0,Yas Marina Circuit,Haas F1 Team
-30,GRO,31,0,13,9,0,49,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,V,23.0,Yas Marina Circuit,Haas F1 Team
-31,GRO,32,0,12,9,0,50,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,V,24.0,Yas Marina Circuit,Haas F1 Team
-32,GRO,33,0,12,9,0,50,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,25.0,Yas Marina Circuit,Haas F1 Team
-33,GRO,34,0,12,9,0,51,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,26.0,Yas Marina Circuit,Haas F1 Team
-34,GRO,35,0,12,9,0,51,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,27.0,Yas Marina Circuit,Haas F1 Team
-35,GRO,36,0,12,9,0,51,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,28.0,Yas Marina Circuit,Haas F1 Team
-36,GRO,37,0,12,9,0,52,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,29.0,Yas Marina Circuit,Haas F1 Team
-37,GRO,38,0,12,9,0,52,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,30.0,Yas Marina Circuit,Haas F1 Team
-38,GRO,39,0,12,9,0,52,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,31.0,Yas Marina Circuit,Haas F1 Team
-39,GRO,40,0,11,9,0,53,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,32.0,Yas Marina Circuit,Haas F1 Team
-40,GRO,41,0,11,9,0,53,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,33.0,Yas Marina Circuit,Haas F1 Team
-41,GRO,42,0,10,9,0,53,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,34.0,Yas Marina Circuit,Haas F1 Team
-42,GRO,43,0,10,9,0,54,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,35.0,Yas Marina Circuit,Haas F1 Team
-43,GRO,44,0,10,9,0,54,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,V,36.0,Yas Marina Circuit,Haas F1 Team
-44,GRO,45,0,9,9,0,54,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,37.0,Yas Marina Circuit,Haas F1 Team
-45,GRO,46,0,9,9,0,54,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,38.0,Yas Marina Circuit,Haas F1 Team
-46,GRO,47,0,9,9,0,54,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,39.0,Yas Marina Circuit,Haas F1 Team
-47,GRO,48,0,9,9,0,54,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,40.0,Yas Marina Circuit,Haas F1 Team
-48,GRO,49,0,9,9,0,54,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,V,41.0,Yas Marina Circuit,Haas F1 Team
-49,GRO,50,0,9,9,0,54,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,42.0,Yas Marina Circuit,Haas F1 Team
-50,GRO,51,0,9,9,0,54,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,43.0,Yas Marina Circuit,Haas F1 Team
-51,GRO,52,0,9,9,0,55,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,44.0,Yas Marina Circuit,Haas F1 Team
-52,GRO,53,0,9,9,0,55,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,45.0,Yas Marina Circuit,Haas F1 Team
-53,GRO,54,0,9,9,0,55,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,V,46.0,Yas Marina Circuit,Haas F1 Team
-0,LEC,1,0,5,7,0,45,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,F,3.0,Yas Marina Circuit,Sauber
-1,LEC,2,0,5,7,0,38,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,F,4.0,Yas Marina Circuit,Sauber
-2,LEC,3,0,5,7,0,39,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,F,5.0,Yas Marina Circuit,Sauber
-3,LEC,4,0,5,7,0,37,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,F,6.0,Yas Marina Circuit,Sauber
-4,LEC,5,0,5,7,0,38,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,F,7.0,Yas Marina Circuit,Sauber
-5,LEC,6,0,4,7,0,40,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,F,8.0,Yas Marina Circuit,Sauber
-6,LEC,7,0,4,7,0,40,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,F,9.0,Yas Marina Circuit,Sauber
-7,LEC,8,0,14,7,0,39,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,V,0.0,Yas Marina Circuit,Sauber
-8,LEC,9,0,13,7,0,40,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,1.0,Yas Marina Circuit,Sauber
-9,LEC,10,0,12,7,0,41,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,2.0,Yas Marina Circuit,Sauber
-10,LEC,11,0,12,7,0,42,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,3.0,Yas Marina Circuit,Sauber
-11,LEC,12,0,12,7,0,42,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,4.0,Yas Marina Circuit,Sauber
-12,LEC,13,0,12,7,0,43,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,5.0,Yas Marina Circuit,Sauber
-13,LEC,14,0,12,7,0,45,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,6.0,Yas Marina Circuit,Sauber
-14,LEC,15,0,12,7,0,46,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,7.0,Yas Marina Circuit,Sauber
-15,LEC,16,0,12,7,0,47,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,8.0,Yas Marina Circuit,Sauber
-16,LEC,17,0,12,7,0,48,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,V,9.0,Yas Marina Circuit,Sauber
-17,LEC,18,0,12,7,0,48,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,V,10.0,Yas Marina Circuit,Sauber
-18,LEC,19,0,11,7,0,49,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,V,11.0,Yas Marina Circuit,Sauber
-19,LEC,20,0,11,7,0,49,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,12.0,Yas Marina Circuit,Sauber
-20,LEC,21,0,11,7,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,13.0,Yas Marina Circuit,Sauber
-21,LEC,22,0,11,7,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,14.0,Yas Marina Circuit,Sauber
-22,LEC,23,0,11,7,0,51,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,15.0,Yas Marina Circuit,Sauber
-23,LEC,24,0,11,7,0,51,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,16.0,Yas Marina Circuit,Sauber
-24,LEC,25,0,10,7,0,51,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,17.0,Yas Marina Circuit,Sauber
-25,LEC,26,0,9,7,0,51,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,18.0,Yas Marina Circuit,Sauber
-26,LEC,27,0,8,7,0,51,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,19.0,Yas Marina Circuit,Sauber
-27,LEC,28,0,8,7,0,51,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,20.0,Yas Marina Circuit,Sauber
-28,LEC,29,0,8,7,0,51,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,21.0,Yas Marina Circuit,Sauber
-29,LEC,30,0,7,7,0,52,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,22.0,Yas Marina Circuit,Sauber
-30,LEC,31,0,7,7,0,52,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,23.0,Yas Marina Circuit,Sauber
-31,LEC,32,0,7,7,0,52,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,V,24.0,Yas Marina Circuit,Sauber
-32,LEC,33,0,7,7,0,53,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,25.0,Yas Marina Circuit,Sauber
-33,LEC,34,0,7,7,0,53,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,26.0,Yas Marina Circuit,Sauber
-34,LEC,35,0,7,7,0,53,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,27.0,Yas Marina Circuit,Sauber
-35,LEC,36,0,7,7,0,53,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,V,28.0,Yas Marina Circuit,Sauber
-36,LEC,37,0,7,7,0,53,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,29.0,Yas Marina Circuit,Sauber
-37,LEC,38,0,7,7,0,54,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,30.0,Yas Marina Circuit,Sauber
-38,LEC,39,0,7,7,0,54,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,31.0,Yas Marina Circuit,Sauber
-39,LEC,40,0,7,7,0,54,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,32.0,Yas Marina Circuit,Sauber
-40,LEC,41,0,7,7,0,54,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,33.0,Yas Marina Circuit,Sauber
-41,LEC,42,0,7,7,0,54,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,34.0,Yas Marina Circuit,Sauber
-42,LEC,43,0,7,7,0,54,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,35.0,Yas Marina Circuit,Sauber
-43,LEC,44,0,7,7,0,55,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,36.0,Yas Marina Circuit,Sauber
-44,LEC,45,0,7,7,0,55,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,37.0,Yas Marina Circuit,Sauber
-45,LEC,46,0,7,7,0,55,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,38.0,Yas Marina Circuit,Sauber
-46,LEC,47,0,7,7,0,55,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,39.0,Yas Marina Circuit,Sauber
-47,LEC,48,0,7,7,0,55,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,V,40.0,Yas Marina Circuit,Sauber
-48,LEC,49,0,7,7,0,55,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,41.0,Yas Marina Circuit,Sauber
-49,LEC,50,0,7,7,0,55,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,42.0,Yas Marina Circuit,Sauber
-50,LEC,51,0,7,7,0,56,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,V,43.0,Yas Marina Circuit,Sauber
-51,LEC,52,0,7,7,0,56,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,44.0,Yas Marina Circuit,Sauber
-52,LEC,53,0,7,7,0,56,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,45.0,Yas Marina Circuit,Sauber
-53,LEC,54,0,7,7,0,56,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,46.0,Yas Marina Circuit,Sauber
-54,LEC,55,0,7,7,0,56,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,V,47.0,Yas Marina Circuit,Sauber
-0,OCO,1,0,8,17,0,36,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,F,3.0,Yas Marina Circuit,Racing Point
-1,OCO,2,0,8,17,0,36,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,F,4.0,Yas Marina Circuit,Racing Point
-2,OCO,3,0,8,17,0,38,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,F,5.0,Yas Marina Circuit,Racing Point
-3,OCO,4,0,8,17,0,38,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,F,6.0,Yas Marina Circuit,Racing Point
-4,OCO,5,0,8,17,0,37,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,F,7.0,Yas Marina Circuit,Racing Point
-5,OCO,6,0,8,17,0,37,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,F,8.0,Yas Marina Circuit,Racing Point
-6,OCO,7,0,8,17,0,35,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,F,9.0,Yas Marina Circuit,Racing Point
-7,OCO,8,0,6,17,0,36,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,F,10.0,Yas Marina Circuit,Racing Point
-8,OCO,9,0,6,17,0,36,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,F,11.0,Yas Marina Circuit,Racing Point
-9,OCO,10,0,6,17,0,37,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,F,12.0,Yas Marina Circuit,Racing Point
-10,OCO,11,0,6,17,0,38,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,F,13.0,Yas Marina Circuit,Racing Point
-11,OCO,12,0,6,17,0,39,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,F,14.0,Yas Marina Circuit,Racing Point
-12,OCO,13,0,6,17,0,40,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,F,15.0,Yas Marina Circuit,Racing Point
-13,OCO,14,0,6,17,0,42,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,F,16.0,Yas Marina Circuit,Racing Point
-14,OCO,15,0,6,17,0,44,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,F,17.0,Yas Marina Circuit,Racing Point
-15,OCO,16,0,7,17,0,45,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,F,18.0,Yas Marina Circuit,Racing Point
-16,OCO,17,0,7,17,0,47,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,F,19.0,Yas Marina Circuit,Racing Point
-17,OCO,18,0,8,17,0,48,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,F,20.0,Yas Marina Circuit,Racing Point
-18,OCO,19,0,18,17,0,49,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,0.0,Yas Marina Circuit,Racing Point
-19,OCO,20,0,18,17,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,1.0,Yas Marina Circuit,Racing Point
-20,OCO,21,0,18,17,0,51,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,2.0,Yas Marina Circuit,Racing Point
-21,OCO,22,0,17,17,0,51,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,3.0,Yas Marina Circuit,Racing Point
-22,OCO,23,0,16,17,0,52,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,V,4.0,Yas Marina Circuit,Racing Point
-23,OCO,24,0,16,17,0,52,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,5.0,Yas Marina Circuit,Racing Point
-24,OCO,25,0,15,17,0,52,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,6.0,Yas Marina Circuit,Racing Point
-25,OCO,26,0,15,17,0,52,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,V,7.0,Yas Marina Circuit,Racing Point
-26,OCO,27,0,15,17,0,52,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,8.0,Yas Marina Circuit,Racing Point
-27,OCO,28,0,14,17,0,52,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,9.0,Yas Marina Circuit,Racing Point
-28,OCO,29,0,14,17,0,52,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,10.0,Yas Marina Circuit,Racing Point
-29,OCO,30,0,12,17,0,52,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,V,11.0,Yas Marina Circuit,Racing Point
-30,OCO,31,0,11,17,0,52,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,V,12.0,Yas Marina Circuit,Racing Point
-31,OCO,32,0,11,17,0,52,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,13.0,Yas Marina Circuit,Racing Point
-32,OCO,33,0,11,17,0,53,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,14.0,Yas Marina Circuit,Racing Point
-33,OCO,34,0,11,17,0,53,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,15.0,Yas Marina Circuit,Racing Point
-34,OCO,35,0,11,17,0,53,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,16.0,Yas Marina Circuit,Racing Point
-35,OCO,36,0,11,17,0,53,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,17.0,Yas Marina Circuit,Racing Point
-36,OCO,37,0,11,17,0,54,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,18.0,Yas Marina Circuit,Racing Point
-37,OCO,38,0,10,17,0,54,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,19.0,Yas Marina Circuit,Racing Point
-38,OCO,39,0,10,17,0,54,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,20.0,Yas Marina Circuit,Racing Point
-39,OCO,40,0,10,17,0,54,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,21.0,Yas Marina Circuit,Racing Point
-40,OCO,41,0,10,17,0,54,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,V,22.0,Yas Marina Circuit,Racing Point
-41,OCO,42,0,9,17,0,55,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,23.0,Yas Marina Circuit,Racing Point
-42,OCO,43,0,9,17,0,55,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,24.0,Yas Marina Circuit,Racing Point
-43,OCO,44,0,9,17,1,55,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,V,25.0,Yas Marina Circuit,Racing Point
-0,SAI,1,0,11,20,0,61,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,,0.0,Yas Marina Circuit,Renault
-1,SAI,2,0,11,20,0,68,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,,0.0,Yas Marina Circuit,Renault
-2,SAI,3,0,11,20,0,67,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,,0.0,Yas Marina Circuit,Renault
-3,SAI,4,0,11,20,0,68,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,,0.0,Yas Marina Circuit,Renault
-4,SAI,5,0,11,20,0,67,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,,0.0,Yas Marina Circuit,Renault
-5,SAI,6,0,10,20,0,65,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,,0.0,Yas Marina Circuit,Renault
-6,SAI,7,0,11,20,0,62,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,,0.0,Yas Marina Circuit,Renault
-7,SAI,8,0,9,20,0,61,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,,0.0,Yas Marina Circuit,Renault
-8,SAI,9,0,9,20,0,60,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,,0.0,Yas Marina Circuit,Renault
-9,SAI,10,0,9,20,0,60,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,,0.0,Yas Marina Circuit,Renault
-10,SAI,11,0,9,20,0,60,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,,0.0,Yas Marina Circuit,Renault
-11,SAI,12,0,9,20,0,61,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,,0.0,Yas Marina Circuit,Renault
-12,SAI,13,0,9,20,0,62,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,,0.0,Yas Marina Circuit,Renault
-13,SAI,14,0,8,20,0,64,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,,0.0,Yas Marina Circuit,Renault
-14,SAI,15,0,8,20,0,65,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,,0.0,Yas Marina Circuit,Renault
-15,SAI,16,0,8,20,0,67,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,,0.0,Yas Marina Circuit,Renault
-16,SAI,17,0,8,20,0,68,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,,0.0,Yas Marina Circuit,Renault
-17,SAI,18,0,7,20,0,69,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,,0.0,Yas Marina Circuit,Renault
-18,SAI,19,0,7,20,0,70,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,,0.0,Yas Marina Circuit,Renault
-19,SAI,20,0,7,20,0,70,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,,0.0,Yas Marina Circuit,Renault
-20,SAI,21,0,7,20,0,71,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,,0.0,Yas Marina Circuit,Renault
-21,SAI,22,0,7,20,0,72,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,,0.0,Yas Marina Circuit,Renault
-22,SAI,23,0,7,20,0,73,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,,0.0,Yas Marina Circuit,Renault
-23,SAI,24,0,7,20,0,73,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,,0.0,Yas Marina Circuit,Renault
-24,SAI,25,0,7,20,0,73,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,,0.0,Yas Marina Circuit,Renault
-25,SAI,26,0,6,20,0,73,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,,0.0,Yas Marina Circuit,Renault
-26,SAI,27,0,6,20,0,73,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,,0.0,Yas Marina Circuit,Renault
-27,SAI,28,0,6,20,0,74,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,,0.0,Yas Marina Circuit,Renault
-28,SAI,29,0,6,20,0,74,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,,0.0,Yas Marina Circuit,Renault
-29,SAI,30,0,6,20,0,74,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,,0.0,Yas Marina Circuit,Renault
-30,SAI,31,0,6,20,0,75,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,,0.0,Yas Marina Circuit,Renault
-31,SAI,32,0,6,20,0,75,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,,0.0,Yas Marina Circuit,Renault
-32,SAI,33,0,6,20,0,75,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,,0.0,Yas Marina Circuit,Renault
-33,SAI,34,0,6,20,0,76,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,,0.0,Yas Marina Circuit,Renault
-34,SAI,35,0,6,20,0,76,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,,0.0,Yas Marina Circuit,Renault
-35,SAI,36,0,6,20,0,76,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,,0.0,Yas Marina Circuit,Renault
-36,SAI,37,0,6,20,0,76,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,,0.0,Yas Marina Circuit,Renault
-37,SAI,38,0,6,20,0,76,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,,0.0,Yas Marina Circuit,Renault
-38,SAI,39,0,6,20,0,76,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,,0.0,Yas Marina Circuit,Renault
-39,SAI,40,0,6,20,0,76,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,,0.0,Yas Marina Circuit,Renault
-40,SAI,41,0,6,20,0,77,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,,0.0,Yas Marina Circuit,Renault
-41,SAI,42,0,6,20,0,77,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,,0.0,Yas Marina Circuit,Renault
-42,SAI,43,0,6,20,0,77,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,,0.0,Yas Marina Circuit,Renault
-43,SAI,44,0,6,20,0,77,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,,0.0,Yas Marina Circuit,Renault
-44,SAI,45,0,6,20,0,77,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,,0.0,Yas Marina Circuit,Renault
-45,SAI,46,0,6,20,0,77,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,,0.0,Yas Marina Circuit,Renault
-46,SAI,47,0,6,20,0,77,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,,0.0,Yas Marina Circuit,Renault
-47,SAI,48,0,6,20,0,77,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,,0.0,Yas Marina Circuit,Renault
-48,SAI,49,0,6,20,0,77,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,,0.0,Yas Marina Circuit,Renault
-49,SAI,50,0,6,20,0,77,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,,0.0,Yas Marina Circuit,Renault
-50,SAI,51,0,6,20,0,77,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,,0.0,Yas Marina Circuit,Renault
-51,SAI,52,0,6,20,0,77,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,,0.0,Yas Marina Circuit,Renault
-52,SAI,53,0,6,20,0,77,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,,0.0,Yas Marina Circuit,Renault
-53,SAI,54,0,6,20,0,77,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,,0.0,Yas Marina Circuit,Renault
-54,SAI,55,0,6,20,1,77,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,,0.0,Yas Marina Circuit,Renault
-0,ERI,1,0,12,6,0,36,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,E,0.0,Yas Marina Circuit,Sauber
-1,ERI,2,0,12,6,0,47,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,E,1.0,Yas Marina Circuit,Sauber
-2,ERI,3,0,12,6,0,49,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,E,2.0,Yas Marina Circuit,Sauber
-3,ERI,4,0,12,6,0,52,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,3.0,Yas Marina Circuit,Sauber
-4,ERI,5,0,12,6,0,54,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,E,4.0,Yas Marina Circuit,Sauber
-5,ERI,6,0,11,6,0,56,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,E,5.0,Yas Marina Circuit,Sauber
-6,ERI,7,0,10,6,0,54,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,E,6.0,Yas Marina Circuit,Sauber
-7,ERI,8,0,8,6,0,54,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,E,7.0,Yas Marina Circuit,Sauber
-8,ERI,9,0,8,6,0,55,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,8.0,Yas Marina Circuit,Sauber
-9,ERI,10,0,8,6,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,9.0,Yas Marina Circuit,Sauber
-10,ERI,11,0,8,6,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,E,10.0,Yas Marina Circuit,Sauber
-11,ERI,12,0,8,6,0,58,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,E,11.0,Yas Marina Circuit,Sauber
-12,ERI,13,0,8,6,0,59,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,E,12.0,Yas Marina Circuit,Sauber
-13,ERI,14,0,9,6,0,60,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,E,13.0,Yas Marina Circuit,Sauber
-14,ERI,15,0,9,6,0,60,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,E,14.0,Yas Marina Circuit,Sauber
-15,ERI,16,0,9,6,0,62,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,E,15.0,Yas Marina Circuit,Sauber
-16,ERI,17,0,9,6,0,62,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,E,16.0,Yas Marina Circuit,Sauber
-17,ERI,18,0,9,6,0,63,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,17.0,Yas Marina Circuit,Sauber
-18,ERI,19,0,8,6,0,63,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,18.0,Yas Marina Circuit,Sauber
-19,ERI,20,0,8,6,0,64,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,E,19.0,Yas Marina Circuit,Sauber
-20,ERI,21,0,8,6,0,64,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,E,20.0,Yas Marina Circuit,Sauber
-21,ERI,22,0,8,6,0,64,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,E,21.0,Yas Marina Circuit,Sauber
-22,ERI,23,0,8,6,0,65,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,E,22.0,Yas Marina Circuit,Sauber
-23,ERI,24,0,8,6,0,64,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,E,23.0,Yas Marina Circuit,Sauber
-0,MAG,1,0,16,18,0,32,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,V,0.0,Yas Marina Circuit,Haas F1 Team
-1,MAG,2,0,16,18,0,41,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,V,1.0,Yas Marina Circuit,Haas F1 Team
-2,MAG,3,0,16,18,0,42,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,V,2.0,Yas Marina Circuit,Haas F1 Team
-3,MAG,4,0,16,18,0,42,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,V,3.0,Yas Marina Circuit,Haas F1 Team
-4,MAG,5,0,15,18,0,42,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,V,4.0,Yas Marina Circuit,Haas F1 Team
-5,MAG,6,0,15,18,0,41,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,V,5.0,Yas Marina Circuit,Haas F1 Team
-6,MAG,7,0,14,18,0,41,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,V,6.0,Yas Marina Circuit,Haas F1 Team
-7,MAG,8,0,12,18,0,41,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,V,7.0,Yas Marina Circuit,Haas F1 Team
-8,MAG,9,0,12,18,0,41,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,8.0,Yas Marina Circuit,Haas F1 Team
-9,MAG,10,0,13,18,0,40,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,9.0,Yas Marina Circuit,Haas F1 Team
-10,MAG,11,0,13,18,0,40,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,10.0,Yas Marina Circuit,Haas F1 Team
-11,MAG,12,0,13,18,0,41,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,11.0,Yas Marina Circuit,Haas F1 Team
-12,MAG,13,0,13,18,0,42,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,12.0,Yas Marina Circuit,Haas F1 Team
-13,MAG,14,0,13,18,0,43,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,13.0,Yas Marina Circuit,Haas F1 Team
-14,MAG,15,0,13,18,0,43,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,14.0,Yas Marina Circuit,Haas F1 Team
-15,MAG,16,0,13,18,0,45,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,15.0,Yas Marina Circuit,Haas F1 Team
-16,MAG,17,0,13,18,0,45,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,16.0,Yas Marina Circuit,Haas F1 Team
-17,MAG,18,0,13,18,0,46,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,V,17.0,Yas Marina Circuit,Haas F1 Team
-18,MAG,19,0,12,18,0,46,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,V,18.0,Yas Marina Circuit,Haas F1 Team
-19,MAG,20,0,12,18,0,47,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,V,19.0,Yas Marina Circuit,Haas F1 Team
-20,MAG,21,0,12,18,0,47,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,V,20.0,Yas Marina Circuit,Haas F1 Team
-21,MAG,22,0,12,18,0,47,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,21.0,Yas Marina Circuit,Haas F1 Team
-22,MAG,23,0,12,18,0,47,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,22.0,Yas Marina Circuit,Haas F1 Team
-23,MAG,24,0,12,18,0,47,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,23.0,Yas Marina Circuit,Haas F1 Team
-24,MAG,25,0,11,18,0,47,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,,0.0,Yas Marina Circuit,Haas F1 Team
-25,MAG,26,0,11,18,0,48,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,,0.0,Yas Marina Circuit,Haas F1 Team
-26,MAG,27,0,11,18,0,48,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,,0.0,Yas Marina Circuit,Haas F1 Team
-27,MAG,28,0,10,18,0,48,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,,0.0,Yas Marina Circuit,Haas F1 Team
-28,MAG,29,0,10,18,0,48,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,,0.0,Yas Marina Circuit,Haas F1 Team
-29,MAG,30,0,9,18,0,48,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,,0.0,Yas Marina Circuit,Haas F1 Team
-30,MAG,31,0,9,18,0,49,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,,0.0,Yas Marina Circuit,Haas F1 Team
-31,MAG,32,0,9,18,0,49,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,,0.0,Yas Marina Circuit,Haas F1 Team
-32,MAG,33,0,9,18,0,49,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,,0.0,Yas Marina Circuit,Haas F1 Team
-33,MAG,34,0,9,18,0,49,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,,0.0,Yas Marina Circuit,Haas F1 Team
-34,MAG,35,0,9,18,0,50,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,,0.0,Yas Marina Circuit,Haas F1 Team
-35,MAG,36,0,9,18,0,50,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,,0.0,Yas Marina Circuit,Haas F1 Team
-36,MAG,37,0,9,18,0,50,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,,0.0,Yas Marina Circuit,Haas F1 Team
-37,MAG,38,0,9,18,0,50,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,,0.0,Yas Marina Circuit,Haas F1 Team
-38,MAG,39,0,9,18,0,50,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,,0.0,Yas Marina Circuit,Haas F1 Team
-39,MAG,40,0,9,18,0,51,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,,0.0,Yas Marina Circuit,Haas F1 Team
-40,MAG,41,0,9,18,0,51,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,,0.0,Yas Marina Circuit,Haas F1 Team
-41,MAG,42,0,12,18,0,51,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,,0.0,Yas Marina Circuit,Haas F1 Team
-42,MAG,43,0,12,18,0,51,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,,0.0,Yas Marina Circuit,Haas F1 Team
-43,MAG,44,0,12,18,0,51,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,,0.0,Yas Marina Circuit,Haas F1 Team
-44,MAG,45,0,11,18,0,51,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,,0.0,Yas Marina Circuit,Haas F1 Team
-45,MAG,46,0,11,18,0,51,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,,0.0,Yas Marina Circuit,Haas F1 Team
-46,MAG,47,0,10,18,0,51,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,,0.0,Yas Marina Circuit,Haas F1 Team
-47,MAG,48,0,10,18,0,51,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,,0.0,Yas Marina Circuit,Haas F1 Team
-48,MAG,49,0,10,18,0,52,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,,0.0,Yas Marina Circuit,Haas F1 Team
-49,MAG,50,0,10,18,0,52,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,,0.0,Yas Marina Circuit,Haas F1 Team
-50,MAG,51,0,10,18,0,52,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,,0.0,Yas Marina Circuit,Haas F1 Team
-51,MAG,52,0,10,18,0,52,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,,0.0,Yas Marina Circuit,Haas F1 Team
-52,MAG,53,0,10,18,0,52,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,,0.0,Yas Marina Circuit,Haas F1 Team
-53,MAG,54,0,10,18,1,52,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,,0.0,Yas Marina Circuit,Haas F1 Team
-0,PER,1,0,10,10,0,41,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,V,0.0,Yas Marina Circuit,Racing Point
-1,PER,2,0,10,10,0,34,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,V,1.0,Yas Marina Circuit,Racing Point
-2,PER,3,0,10,10,0,32,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,V,2.0,Yas Marina Circuit,Racing Point
-3,PER,4,0,10,10,0,33,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,V,3.0,Yas Marina Circuit,Racing Point
-4,PER,5,0,10,10,0,34,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,V,4.0,Yas Marina Circuit,Racing Point
-5,PER,6,0,9,10,0,35,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,V,5.0,Yas Marina Circuit,Racing Point
-6,PER,7,0,9,10,0,34,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,V,6.0,Yas Marina Circuit,Racing Point
-7,PER,8,0,7,10,0,32,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,V,7.0,Yas Marina Circuit,Racing Point
-8,PER,9,0,7,10,0,33,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,8.0,Yas Marina Circuit,Racing Point
-9,PER,10,0,7,10,0,34,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,9.0,Yas Marina Circuit,Racing Point
-10,PER,11,0,7,10,0,35,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,V,10.0,Yas Marina Circuit,Racing Point
-11,PER,12,0,7,10,0,37,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,11.0,Yas Marina Circuit,Racing Point
-12,PER,13,0,7,10,0,38,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,12.0,Yas Marina Circuit,Racing Point
-13,PER,14,0,7,10,0,40,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,13.0,Yas Marina Circuit,Racing Point
-14,PER,15,0,7,10,0,42,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,V,14.0,Yas Marina Circuit,Racing Point
-15,PER,16,0,6,10,0,44,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,V,15.0,Yas Marina Circuit,Racing Point
-16,PER,17,0,6,10,0,46,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,V,16.0,Yas Marina Circuit,Racing Point
-17,PER,18,0,6,10,0,47,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,V,17.0,Yas Marina Circuit,Racing Point
-18,PER,19,0,6,10,0,48,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,18.0,Yas Marina Circuit,Racing Point
-19,PER,20,0,6,10,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,19.0,Yas Marina Circuit,Racing Point
-20,PER,21,0,6,10,0,51,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,20.0,Yas Marina Circuit,Racing Point
-21,PER,22,0,6,10,0,52,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,21.0,Yas Marina Circuit,Racing Point
-22,PER,23,0,6,10,0,52,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,22.0,Yas Marina Circuit,Racing Point
-23,PER,24,0,6,10,0,53,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,23.0,Yas Marina Circuit,Racing Point
-24,PER,25,0,6,10,0,53,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,24.0,Yas Marina Circuit,Racing Point
-25,PER,26,0,7,10,0,54,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,V,25.0,Yas Marina Circuit,Racing Point
-26,PER,27,0,9,10,0,54,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,26.0,Yas Marina Circuit,Racing Point
-27,PER,28,0,9,10,0,54,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,27.0,Yas Marina Circuit,Racing Point
-28,PER,29,0,9,10,0,55,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,28.0,Yas Marina Circuit,Racing Point
-29,PER,30,0,8,10,0,55,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,V,29.0,Yas Marina Circuit,Racing Point
-30,PER,31,0,8,10,0,55,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,V,30.0,Yas Marina Circuit,Racing Point
-31,PER,32,0,8,10,0,56,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,31.0,Yas Marina Circuit,Racing Point
-32,PER,33,0,8,10,0,56,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,32.0,Yas Marina Circuit,Racing Point
-33,PER,34,0,8,10,0,56,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,33.0,Yas Marina Circuit,Racing Point
-34,PER,35,0,8,10,0,56,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,34.0,Yas Marina Circuit,Racing Point
-35,PER,36,0,8,10,0,56,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,35.0,Yas Marina Circuit,Racing Point
-36,PER,37,0,8,10,0,57,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,36.0,Yas Marina Circuit,Racing Point
-37,PER,38,0,8,10,0,57,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,V,37.0,Yas Marina Circuit,Racing Point
-38,PER,39,0,8,10,0,57,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,38.0,Yas Marina Circuit,Racing Point
-39,PER,40,0,8,10,0,57,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,39.0,Yas Marina Circuit,Racing Point
-40,PER,41,0,8,10,0,57,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,40.0,Yas Marina Circuit,Racing Point
-41,PER,42,0,8,10,0,57,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,E,0.0,Yas Marina Circuit,Racing Point
-42,PER,43,0,8,10,0,57,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,E,1.0,Yas Marina Circuit,Racing Point
-43,PER,44,0,8,10,0,57,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,E,2.0,Yas Marina Circuit,Racing Point
-44,PER,45,0,8,10,0,57,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,E,3.0,Yas Marina Circuit,Racing Point
-45,PER,46,0,8,10,0,57,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,E,4.0,Yas Marina Circuit,Racing Point
-46,PER,47,0,8,10,0,58,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,E,5.0,Yas Marina Circuit,Racing Point
-47,PER,48,0,8,10,0,58,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,E,6.0,Yas Marina Circuit,Racing Point
-48,PER,49,0,8,10,0,58,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,E,7.0,Yas Marina Circuit,Racing Point
-49,PER,50,0,8,10,0,58,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,E,8.0,Yas Marina Circuit,Racing Point
-50,PER,51,0,8,10,0,58,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,E,9.0,Yas Marina Circuit,Racing Point
-51,PER,52,0,8,10,0,58,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,E,10.0,Yas Marina Circuit,Racing Point
-52,PER,53,0,8,10,0,58,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,E,11.0,Yas Marina Circuit,Racing Point
-53,PER,54,0,8,10,0,59,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,E,12.0,Yas Marina Circuit,Racing Point
-54,PER,55,0,8,10,0,59,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,,0.0,Yas Marina Circuit,Racing Point
-0,ALO,1,0,14,8,0,53,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,E,0.0,Yas Marina Circuit,McLaren
-1,ALO,2,0,14,8,0,52,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,E,1.0,Yas Marina Circuit,McLaren
-2,ALO,3,0,14,8,0,53,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,E,2.0,Yas Marina Circuit,McLaren
-3,ALO,4,0,14,8,0,53,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,E,3.0,Yas Marina Circuit,McLaren
-4,ALO,5,0,14,8,0,54,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,E,4.0,Yas Marina Circuit,McLaren
-5,ALO,6,0,14,8,0,55,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,5.0,Yas Marina Circuit,McLaren
-6,ALO,7,0,13,8,0,53,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,E,6.0,Yas Marina Circuit,McLaren
-7,ALO,8,0,11,8,0,51,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,E,7.0,Yas Marina Circuit,McLaren
-8,ALO,9,0,11,8,0,51,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,E,8.0,Yas Marina Circuit,McLaren
-9,ALO,10,0,11,8,0,52,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,E,9.0,Yas Marina Circuit,McLaren
-10,ALO,11,0,11,8,0,52,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,E,10.0,Yas Marina Circuit,McLaren
-11,ALO,12,0,11,8,0,54,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,E,11.0,Yas Marina Circuit,McLaren
-12,ALO,13,0,11,8,0,56,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,E,12.0,Yas Marina Circuit,McLaren
-13,ALO,14,0,11,8,0,58,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,E,13.0,Yas Marina Circuit,McLaren
-14,ALO,15,0,11,8,0,59,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,E,14.0,Yas Marina Circuit,McLaren
-15,ALO,16,0,11,8,0,61,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,15.0,Yas Marina Circuit,McLaren
-16,ALO,17,0,11,8,0,62,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,16.0,Yas Marina Circuit,McLaren
-17,ALO,18,0,11,8,0,63,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,E,17.0,Yas Marina Circuit,McLaren
-18,ALO,19,0,10,8,0,64,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,18.0,Yas Marina Circuit,McLaren
-19,ALO,20,0,10,8,0,65,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,19.0,Yas Marina Circuit,McLaren
-20,ALO,21,0,10,8,0,66,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,E,20.0,Yas Marina Circuit,McLaren
-21,ALO,22,0,10,8,0,66,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,E,21.0,Yas Marina Circuit,McLaren
-22,ALO,23,0,10,8,0,67,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,E,22.0,Yas Marina Circuit,McLaren
-23,ALO,24,0,10,8,0,67,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,E,23.0,Yas Marina Circuit,McLaren
-24,ALO,25,0,9,8,0,67,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,E,24.0,Yas Marina Circuit,McLaren
-25,ALO,26,0,10,8,0,67,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,E,25.0,Yas Marina Circuit,McLaren
-26,ALO,27,0,10,8,0,68,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,0.0,Yas Marina Circuit,McLaren
-27,ALO,28,0,17,8,0,67,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,1.0,Yas Marina Circuit,McLaren
-28,ALO,29,0,17,8,0,68,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,V,2.0,Yas Marina Circuit,McLaren
-29,ALO,30,0,17,8,0,68,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,V,3.0,Yas Marina Circuit,McLaren
-30,ALO,31,0,17,8,0,69,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,4.0,Yas Marina Circuit,McLaren
-31,ALO,32,0,16,8,0,69,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,5.0,Yas Marina Circuit,McLaren
-32,ALO,33,0,16,8,0,69,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,V,6.0,Yas Marina Circuit,McLaren
-33,ALO,34,0,15,8,0,69,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,V,7.0,Yas Marina Circuit,McLaren
-34,ALO,35,0,14,8,0,69,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,8.0,Yas Marina Circuit,McLaren
-35,ALO,36,0,14,8,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,9.0,Yas Marina Circuit,McLaren
-36,ALO,37,0,14,8,0,70,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,V,10.0,Yas Marina Circuit,McLaren
-37,ALO,38,0,14,8,0,70,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,11.0,Yas Marina Circuit,McLaren
-38,ALO,39,0,14,8,0,70,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,12.0,Yas Marina Circuit,McLaren
-39,ALO,40,0,14,8,0,71,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,13.0,Yas Marina Circuit,McLaren
-40,ALO,41,0,13,8,0,71,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,14.0,Yas Marina Circuit,McLaren
-41,ALO,42,0,13,8,0,71,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,15.0,Yas Marina Circuit,McLaren
-42,ALO,43,0,13,8,0,71,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,16.0,Yas Marina Circuit,McLaren
-43,ALO,44,0,13,8,0,71,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,V,17.0,Yas Marina Circuit,McLaren
-44,ALO,45,0,12,8,0,71,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,18.0,Yas Marina Circuit,McLaren
-45,ALO,46,0,12,8,0,71,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,19.0,Yas Marina Circuit,McLaren
-46,ALO,47,0,11,8,0,71,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,20.0,Yas Marina Circuit,McLaren
-47,ALO,48,0,11,8,0,71,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,V,21.0,Yas Marina Circuit,McLaren
-48,ALO,49,0,11,8,0,71,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,V,22.0,Yas Marina Circuit,McLaren
-49,ALO,50,0,11,8,0,71,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,23.0,Yas Marina Circuit,McLaren
-50,ALO,51,0,11,8,0,71,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,V,24.0,Yas Marina Circuit,McLaren
-51,ALO,52,0,11,8,0,71,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,25.0,Yas Marina Circuit,McLaren
-52,ALO,53,0,11,8,0,71,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,26.0,Yas Marina Circuit,McLaren
-53,ALO,54,0,11,8,0,71,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,V,27.0,Yas Marina Circuit,McLaren
-0,HAR,1,0,19,11,0,54,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,E,0.0,Yas Marina Circuit,Toro Rosso
-1,HAR,2,0,19,11,0,62,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,E,1.0,Yas Marina Circuit,Toro Rosso
-2,HAR,3,0,19,11,0,66,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,E,2.0,Yas Marina Circuit,Toro Rosso
-3,HAR,4,0,19,11,0,69,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,E,3.0,Yas Marina Circuit,Toro Rosso
-4,HAR,5,0,19,11,0,70,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,E,4.0,Yas Marina Circuit,Toro Rosso
-5,HAR,6,0,19,11,0,71,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,E,5.0,Yas Marina Circuit,Toro Rosso
-6,HAR,7,0,18,11,0,70,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,E,6.0,Yas Marina Circuit,Toro Rosso
-7,HAR,8,0,17,11,0,68,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,E,7.0,Yas Marina Circuit,Toro Rosso
-8,HAR,9,0,18,11,0,68,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,E,8.0,Yas Marina Circuit,Toro Rosso
-9,HAR,10,0,18,11,0,69,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,E,9.0,Yas Marina Circuit,Toro Rosso
-10,HAR,11,0,18,11,0,69,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,E,10.0,Yas Marina Circuit,Toro Rosso
-11,HAR,12,0,18,11,0,69,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,E,11.0,Yas Marina Circuit,Toro Rosso
-12,HAR,13,0,18,11,0,70,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,E,12.0,Yas Marina Circuit,Toro Rosso
-13,HAR,14,0,18,11,0,72,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,E,13.0,Yas Marina Circuit,Toro Rosso
-14,HAR,15,0,18,11,0,73,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,E,14.0,Yas Marina Circuit,Toro Rosso
-15,HAR,16,0,18,11,0,74,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,E,15.0,Yas Marina Circuit,Toro Rosso
-16,HAR,17,0,18,11,0,74,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,16.0,Yas Marina Circuit,Toro Rosso
-17,HAR,18,0,18,11,0,75,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,17.0,Yas Marina Circuit,Toro Rosso
-18,HAR,19,0,17,11,0,75,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,E,18.0,Yas Marina Circuit,Toro Rosso
-19,HAR,20,0,17,11,0,76,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,E,19.0,Yas Marina Circuit,Toro Rosso
-20,HAR,21,0,17,11,0,76,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,E,20.0,Yas Marina Circuit,Toro Rosso
-21,HAR,22,0,18,11,0,76,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,E,21.0,Yas Marina Circuit,Toro Rosso
-22,HAR,23,0,18,11,0,76,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,E,22.0,Yas Marina Circuit,Toro Rosso
-23,HAR,24,0,18,11,0,76,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,E,23.0,Yas Marina Circuit,Toro Rosso
-24,HAR,25,0,16,11,0,76,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,E,24.0,Yas Marina Circuit,Toro Rosso
-25,HAR,26,0,16,11,0,77,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,E,25.0,Yas Marina Circuit,Toro Rosso
-26,HAR,27,0,16,11,0,77,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,E,26.0,Yas Marina Circuit,Toro Rosso
-27,HAR,28,0,15,11,0,77,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,0.0,Yas Marina Circuit,Toro Rosso
-28,HAR,29,0,15,11,0,77,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,V,1.0,Yas Marina Circuit,Toro Rosso
-29,HAR,30,0,14,11,0,77,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,2.0,Yas Marina Circuit,Toro Rosso
-30,HAR,31,0,14,11,0,78,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,V,3.0,Yas Marina Circuit,Toro Rosso
-31,HAR,32,0,14,11,0,78,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,V,4.0,Yas Marina Circuit,Toro Rosso
-32,HAR,33,0,15,11,0,78,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,5.0,Yas Marina Circuit,Toro Rosso
-33,HAR,34,0,16,11,0,78,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,V,6.0,Yas Marina Circuit,Toro Rosso
-34,HAR,35,0,16,11,0,78,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,7.0,Yas Marina Circuit,Toro Rosso
-35,HAR,36,0,15,11,0,79,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,8.0,Yas Marina Circuit,Toro Rosso
-36,HAR,37,0,15,11,0,79,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,V,9.0,Yas Marina Circuit,Toro Rosso
-37,HAR,38,0,15,11,0,79,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,10.0,Yas Marina Circuit,Toro Rosso
-38,HAR,39,0,15,11,0,79,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,V,11.0,Yas Marina Circuit,Toro Rosso
-39,HAR,40,0,15,11,0,80,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,12.0,Yas Marina Circuit,Toro Rosso
-40,HAR,41,0,14,11,0,80,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,V,13.0,Yas Marina Circuit,Toro Rosso
-41,HAR,42,0,14,11,0,80,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,V,14.0,Yas Marina Circuit,Toro Rosso
-42,HAR,43,0,14,11,0,80,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,V,15.0,Yas Marina Circuit,Toro Rosso
-43,HAR,44,0,14,11,0,80,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,16.0,Yas Marina Circuit,Toro Rosso
-44,HAR,45,0,13,11,0,80,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,17.0,Yas Marina Circuit,Toro Rosso
-45,HAR,46,0,13,11,0,80,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,V,18.0,Yas Marina Circuit,Toro Rosso
-46,HAR,47,0,12,11,0,81,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,19.0,Yas Marina Circuit,Toro Rosso
-47,HAR,48,0,12,11,0,81,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,V,20.0,Yas Marina Circuit,Toro Rosso
-48,HAR,49,0,12,11,0,81,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,V,21.0,Yas Marina Circuit,Toro Rosso
-49,HAR,50,0,12,11,0,81,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,22.0,Yas Marina Circuit,Toro Rosso
-50,HAR,51,0,12,11,0,81,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,V,23.0,Yas Marina Circuit,Toro Rosso
-51,HAR,52,0,12,11,0,81,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,24.0,Yas Marina Circuit,Toro Rosso
-52,HAR,53,0,12,11,0,81,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,25.0,Yas Marina Circuit,Toro Rosso
-53,HAR,54,0,12,11,0,81,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,V,26.0,Yas Marina Circuit,Toro Rosso
-0,GAS,1,0,13,12,0,54,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,E,0.0,Yas Marina Circuit,Toro Rosso
-1,GAS,2,0,13,12,0,59,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,V,0.0,Yas Marina Circuit,Toro Rosso
-2,GAS,3,0,13,12,0,59,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,V,1.0,Yas Marina Circuit,Toro Rosso
-3,GAS,4,0,13,12,0,61,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,V,2.0,Yas Marina Circuit,Toro Rosso
-4,GAS,5,0,13,12,0,63,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,V,3.0,Yas Marina Circuit,Toro Rosso
-5,GAS,6,0,13,12,0,63,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,V,4.0,Yas Marina Circuit,Toro Rosso
-6,GAS,7,0,12,12,0,62,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,5.0,Yas Marina Circuit,Toro Rosso
-7,GAS,8,0,10,12,0,62,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,6.0,Yas Marina Circuit,Toro Rosso
-8,GAS,9,0,10,12,0,63,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,7.0,Yas Marina Circuit,Toro Rosso
-9,GAS,10,0,10,12,0,63,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,8.0,Yas Marina Circuit,Toro Rosso
-10,GAS,11,0,10,12,0,63,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,9.0,Yas Marina Circuit,Toro Rosso
-11,GAS,12,0,10,12,0,63,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,V,10.0,Yas Marina Circuit,Toro Rosso
-12,GAS,13,0,10,12,0,64,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,V,11.0,Yas Marina Circuit,Toro Rosso
-13,GAS,14,0,10,12,0,65,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,V,12.0,Yas Marina Circuit,Toro Rosso
-14,GAS,15,0,10,12,0,66,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,V,13.0,Yas Marina Circuit,Toro Rosso
-15,GAS,16,0,10,12,0,68,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,14.0,Yas Marina Circuit,Toro Rosso
-16,GAS,17,0,10,12,0,69,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,15.0,Yas Marina Circuit,Toro Rosso
-17,GAS,18,0,10,12,0,70,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,16.0,Yas Marina Circuit,Toro Rosso
-18,GAS,19,0,9,12,0,70,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,17.0,Yas Marina Circuit,Toro Rosso
-19,GAS,20,0,9,12,0,71,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,18.0,Yas Marina Circuit,Toro Rosso
-20,GAS,21,0,9,12,0,71,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,19.0,Yas Marina Circuit,Toro Rosso
-21,GAS,22,0,9,12,0,72,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,20.0,Yas Marina Circuit,Toro Rosso
-22,GAS,23,0,9,12,0,72,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,21.0,Yas Marina Circuit,Toro Rosso
-23,GAS,24,0,9,12,0,72,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,V,22.0,Yas Marina Circuit,Toro Rosso
-24,GAS,25,0,8,12,0,72,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,23.0,Yas Marina Circuit,Toro Rosso
-25,GAS,26,0,8,12,0,72,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,24.0,Yas Marina Circuit,Toro Rosso
-26,GAS,27,0,7,12,0,73,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,25.0,Yas Marina Circuit,Toro Rosso
-27,GAS,28,0,7,12,0,73,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,26.0,Yas Marina Circuit,Toro Rosso
-28,GAS,29,0,7,12,0,73,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,27.0,Yas Marina Circuit,Toro Rosso
-29,GAS,30,0,16,12,0,73,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,28.0,Yas Marina Circuit,Toro Rosso
-30,GAS,31,0,15,12,0,73,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,29.0,Yas Marina Circuit,Toro Rosso
-31,GAS,32,0,15,12,0,73,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,V,30.0,Yas Marina Circuit,Toro Rosso
-32,GAS,33,0,14,12,0,73,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,V,31.0,Yas Marina Circuit,Toro Rosso
-33,GAS,34,0,14,12,0,73,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,32.0,Yas Marina Circuit,Toro Rosso
-34,GAS,35,0,13,12,0,74,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,V,33.0,Yas Marina Circuit,Toro Rosso
-35,GAS,36,0,13,12,0,74,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,V,34.0,Yas Marina Circuit,Toro Rosso
-36,GAS,37,0,13,12,0,74,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,V,35.0,Yas Marina Circuit,Toro Rosso
-37,GAS,38,0,13,12,0,74,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,V,36.0,Yas Marina Circuit,Toro Rosso
-38,GAS,39,0,13,12,0,74,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,37.0,Yas Marina Circuit,Toro Rosso
-39,GAS,40,0,13,12,0,75,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,V,38.0,Yas Marina Circuit,Toro Rosso
-40,GAS,41,0,12,12,0,75,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,39.0,Yas Marina Circuit,Toro Rosso
-41,GAS,42,0,11,12,0,75,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,V,40.0,Yas Marina Circuit,Toro Rosso
-42,GAS,43,0,11,12,0,75,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,V,41.0,Yas Marina Circuit,Toro Rosso
-43,GAS,44,0,11,12,0,75,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,V,42.0,Yas Marina Circuit,Toro Rosso
-44,GAS,45,0,10,12,0,76,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,V,43.0,Yas Marina Circuit,Toro Rosso
-45,GAS,46,0,10,12,0,76,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,V,44.0,Yas Marina Circuit,Toro Rosso
-0,VAN,1,0,17,16,0,49,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,V,0.0,Yas Marina Circuit,McLaren
-1,VAN,2,0,17,16,0,55,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,V,1.0,Yas Marina Circuit,McLaren
-2,VAN,3,0,17,16,0,58,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,V,2.0,Yas Marina Circuit,McLaren
-3,VAN,4,0,17,16,0,56,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,V,3.0,Yas Marina Circuit,McLaren
-4,VAN,5,0,17,16,0,59,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,V,4.0,Yas Marina Circuit,McLaren
-5,VAN,6,0,17,16,0,60,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,V,5.0,Yas Marina Circuit,McLaren
-6,VAN,7,0,16,16,0,58,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,V,6.0,Yas Marina Circuit,McLaren
-7,VAN,8,0,15,16,0,56,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,7.0,Yas Marina Circuit,McLaren
-8,VAN,9,0,15,16,0,57,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,8.0,Yas Marina Circuit,McLaren
-9,VAN,10,0,15,16,0,57,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,V,9.0,Yas Marina Circuit,McLaren
-10,VAN,11,0,15,16,0,58,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,10.0,Yas Marina Circuit,McLaren
-11,VAN,12,0,15,16,0,59,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,11.0,Yas Marina Circuit,McLaren
-12,VAN,13,0,15,16,0,60,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,12.0,Yas Marina Circuit,McLaren
-13,VAN,14,0,15,16,0,62,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,13.0,Yas Marina Circuit,McLaren
-14,VAN,15,0,15,16,0,63,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,14.0,Yas Marina Circuit,McLaren
-15,VAN,16,0,15,16,0,64,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,15.0,Yas Marina Circuit,McLaren
-16,VAN,17,0,15,16,0,65,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,V,16.0,Yas Marina Circuit,McLaren
-17,VAN,18,0,15,16,0,66,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,V,17.0,Yas Marina Circuit,McLaren
-18,VAN,19,0,14,16,0,66,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,V,18.0,Yas Marina Circuit,McLaren
-19,VAN,20,0,14,16,0,67,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,V,19.0,Yas Marina Circuit,McLaren
-20,VAN,21,0,14,16,0,68,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,V,20.0,Yas Marina Circuit,McLaren
-21,VAN,22,0,14,16,0,68,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,V,21.0,Yas Marina Circuit,McLaren
-22,VAN,23,0,14,16,0,68,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,22.0,Yas Marina Circuit,McLaren
-23,VAN,24,0,14,16,0,69,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,23.0,Yas Marina Circuit,McLaren
-24,VAN,25,0,13,16,0,69,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,24.0,Yas Marina Circuit,McLaren
-25,VAN,26,0,13,16,0,69,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,25.0,Yas Marina Circuit,McLaren
-26,VAN,27,0,13,16,0,69,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,26.0,Yas Marina Circuit,McLaren
-27,VAN,28,0,12,16,0,70,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,27.0,Yas Marina Circuit,McLaren
-28,VAN,29,0,12,16,0,70,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,28.0,Yas Marina Circuit,McLaren
-29,VAN,30,0,11,16,0,70,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,E,0.0,Yas Marina Circuit,McLaren
-30,VAN,31,0,12,16,0,70,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,E,1.0,Yas Marina Circuit,McLaren
-31,VAN,32,0,13,16,0,70,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,E,2.0,Yas Marina Circuit,McLaren
-32,VAN,33,0,13,16,0,70,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,E,3.0,Yas Marina Circuit,McLaren
-33,VAN,34,0,13,16,0,70,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,E,4.0,Yas Marina Circuit,McLaren
-34,VAN,35,0,15,16,0,70,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,E,5.0,Yas Marina Circuit,McLaren
-35,VAN,36,0,16,16,0,70,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,E,6.0,Yas Marina Circuit,McLaren
-36,VAN,37,0,16,16,0,70,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,E,7.0,Yas Marina Circuit,McLaren
-37,VAN,38,0,16,16,0,71,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,E,8.0,Yas Marina Circuit,McLaren
-38,VAN,39,0,16,16,0,71,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,E,9.0,Yas Marina Circuit,McLaren
-39,VAN,40,0,16,16,0,71,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,E,10.0,Yas Marina Circuit,McLaren
-40,VAN,41,0,16,16,0,71,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,E,11.0,Yas Marina Circuit,McLaren
-41,VAN,42,0,16,16,0,72,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,E,12.0,Yas Marina Circuit,McLaren
-42,VAN,43,0,16,16,0,72,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,E,13.0,Yas Marina Circuit,McLaren
-43,VAN,44,0,16,16,0,72,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,14.0,Yas Marina Circuit,McLaren
-44,VAN,45,0,15,16,0,72,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,15.0,Yas Marina Circuit,McLaren
-45,VAN,46,0,15,16,0,72,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,E,16.0,Yas Marina Circuit,McLaren
-46,VAN,47,0,14,16,0,73,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,,0.0,Yas Marina Circuit,McLaren
-47,VAN,48,0,14,16,0,73,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,,0.0,Yas Marina Circuit,McLaren
-48,VAN,49,0,14,16,0,73,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,,0.0,Yas Marina Circuit,McLaren
-49,VAN,50,0,14,16,0,73,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,,0.0,Yas Marina Circuit,McLaren
-50,VAN,51,0,14,16,0,73,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,,0.0,Yas Marina Circuit,McLaren
-51,VAN,52,0,14,16,0,73,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,,0.0,Yas Marina Circuit,McLaren
-52,VAN,53,0,14,16,0,73,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,,0.0,Yas Marina Circuit,McLaren
-53,VAN,54,0,14,16,1,74,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,,0.0,Yas Marina Circuit,McLaren
-0,SIR,1,0,18,14,0,39,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,V,0.0,Yas Marina Circuit,Williams
-1,SIR,2,0,18,14,0,33,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,V,1.0,Yas Marina Circuit,Williams
-2,SIR,3,0,18,14,0,38,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,V,2.0,Yas Marina Circuit,Williams
-3,SIR,4,0,18,14,0,40,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,V,3.0,Yas Marina Circuit,Williams
-4,SIR,5,0,18,14,0,42,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,V,4.0,Yas Marina Circuit,Williams
-5,SIR,6,0,18,14,0,43,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,V,5.0,Yas Marina Circuit,Williams
-6,SIR,7,0,17,14,0,41,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,V,6.0,Yas Marina Circuit,Williams
-7,SIR,8,0,16,14,0,39,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,V,7.0,Yas Marina Circuit,Williams
-8,SIR,9,0,16,14,0,40,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,V,8.0,Yas Marina Circuit,Williams
-9,SIR,10,0,16,14,0,41,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,V,9.0,Yas Marina Circuit,Williams
-10,SIR,11,0,17,14,0,42,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,10.0,Yas Marina Circuit,Williams
-11,SIR,12,0,17,14,0,43,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,11.0,Yas Marina Circuit,Williams
-12,SIR,13,0,17,14,0,44,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,V,12.0,Yas Marina Circuit,Williams
-13,SIR,14,0,17,14,0,46,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,V,13.0,Yas Marina Circuit,Williams
-14,SIR,15,0,17,14,0,48,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,V,14.0,Yas Marina Circuit,Williams
-15,SIR,16,0,17,14,0,49,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,V,15.0,Yas Marina Circuit,Williams
-16,SIR,17,0,17,14,0,51,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,V,16.0,Yas Marina Circuit,Williams
-17,SIR,18,0,17,14,0,52,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,17.0,Yas Marina Circuit,Williams
-18,SIR,19,0,16,14,0,53,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,V,18.0,Yas Marina Circuit,Williams
-19,SIR,20,0,16,14,0,54,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,19.0,Yas Marina Circuit,Williams
-20,SIR,21,0,16,14,0,55,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,V,20.0,Yas Marina Circuit,Williams
-21,SIR,22,0,16,14,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,21.0,Yas Marina Circuit,Williams
-22,SIR,23,0,17,14,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,22.0,Yas Marina Circuit,Williams
-23,SIR,24,0,17,14,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,23.0,Yas Marina Circuit,Williams
-24,SIR,25,0,17,14,0,57,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,24.0,Yas Marina Circuit,Williams
-25,SIR,26,0,17,14,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,25.0,Yas Marina Circuit,Williams
-26,SIR,27,0,17,14,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,26.0,Yas Marina Circuit,Williams
-27,SIR,28,0,16,14,0,58,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,V,27.0,Yas Marina Circuit,Williams
-28,SIR,29,0,16,14,0,57,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,28.0,Yas Marina Circuit,Williams
-29,SIR,30,0,15,14,0,57,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,V,29.0,Yas Marina Circuit,Williams
-30,SIR,31,0,16,14,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,30.0,Yas Marina Circuit,Williams
-31,SIR,32,0,17,14,0,57,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,31.0,Yas Marina Circuit,Williams
-32,SIR,33,0,17,14,0,57,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,32.0,Yas Marina Circuit,Williams
-33,SIR,34,0,17,14,0,58,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,33.0,Yas Marina Circuit,Williams
-34,SIR,35,0,17,14,0,58,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,V,34.0,Yas Marina Circuit,Williams
-35,SIR,36,0,17,14,0,58,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,E,0.0,Yas Marina Circuit,Williams
-36,SIR,37,0,17,14,0,58,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,E,1.0,Yas Marina Circuit,Williams
-37,SIR,38,0,17,14,0,58,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,E,2.0,Yas Marina Circuit,Williams
-38,SIR,39,0,17,14,0,59,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,E,3.0,Yas Marina Circuit,Williams
-39,SIR,40,0,17,14,0,59,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,E,4.0,Yas Marina Circuit,Williams
-40,SIR,41,0,17,14,0,59,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,E,5.0,Yas Marina Circuit,Williams
-41,SIR,42,0,17,14,0,59,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,E,6.0,Yas Marina Circuit,Williams
-42,SIR,43,0,17,14,0,59,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,E,7.0,Yas Marina Circuit,Williams
-43,SIR,44,0,17,14,0,59,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,8.0,Yas Marina Circuit,Williams
-44,SIR,45,0,16,14,0,59,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,E,9.0,Yas Marina Circuit,Williams
-45,SIR,46,0,16,14,0,60,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,E,10.0,Yas Marina Circuit,Williams
-46,SIR,47,0,15,14,0,60,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,E,11.0,Yas Marina Circuit,Williams
-47,SIR,48,0,15,14,0,60,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,E,12.0,Yas Marina Circuit,Williams
-48,SIR,49,0,15,14,0,60,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,E,13.0,Yas Marina Circuit,Williams
-49,SIR,50,0,15,14,0,60,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,E,14.0,Yas Marina Circuit,Williams
-50,SIR,51,0,15,14,0,60,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,E,15.0,Yas Marina Circuit,Williams
-51,SIR,52,0,15,14,0,60,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,E,16.0,Yas Marina Circuit,Williams
-52,SIR,53,0,15,14,0,61,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,E,17.0,Yas Marina Circuit,Williams
-53,SIR,54,0,15,14,0,61,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,E,18.0,Yas Marina Circuit,Williams
-0,STR,1,0,15,15,0,38,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,V,0.0,Yas Marina Circuit,Williams
-1,STR,2,0,15,15,0,36,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,V,1.0,Yas Marina Circuit,Williams
-2,STR,3,0,15,15,0,41,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,V,2.0,Yas Marina Circuit,Williams
-3,STR,4,0,15,15,0,41,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,V,3.0,Yas Marina Circuit,Williams
-4,STR,5,0,16,15,0,44,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,V,4.0,Yas Marina Circuit,Williams
-5,STR,6,0,16,15,0,45,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,V,5.0,Yas Marina Circuit,Williams
-6,STR,7,0,15,15,0,44,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,V,6.0,Yas Marina Circuit,Williams
-7,STR,8,0,13,15,0,43,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,V,7.0,Yas Marina Circuit,Williams
-8,STR,9,0,14,15,0,43,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,8.0,Yas Marina Circuit,Williams
-9,STR,10,0,14,15,0,44,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,V,9.0,Yas Marina Circuit,Williams
-10,STR,11,0,14,15,0,45,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,V,10.0,Yas Marina Circuit,Williams
-11,STR,12,0,14,15,0,45,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,V,11.0,Yas Marina Circuit,Williams
-12,STR,13,0,14,15,0,47,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,V,12.0,Yas Marina Circuit,Williams
-13,STR,14,0,14,15,0,49,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,V,13.0,Yas Marina Circuit,Williams
-14,STR,15,0,14,15,0,50,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,V,14.0,Yas Marina Circuit,Williams
-15,STR,16,0,14,15,0,52,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,V,15.0,Yas Marina Circuit,Williams
-16,STR,17,0,14,15,0,53,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,16.0,Yas Marina Circuit,Williams
-17,STR,18,0,14,15,0,54,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,17.0,Yas Marina Circuit,Williams
-18,STR,19,0,13,15,0,55,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,18.0,Yas Marina Circuit,Williams
-19,STR,20,0,13,15,0,55,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,V,19.0,Yas Marina Circuit,Williams
-20,STR,21,0,13,15,0,56,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,V,20.0,Yas Marina Circuit,Williams
-21,STR,22,0,13,15,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,21.0,Yas Marina Circuit,Williams
-22,STR,23,0,13,15,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,V,22.0,Yas Marina Circuit,Williams
-23,STR,24,0,13,15,0,57,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,V,23.0,Yas Marina Circuit,Williams
-24,STR,25,0,12,15,0,57,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,V,24.0,Yas Marina Circuit,Williams
-25,STR,26,0,12,15,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,V,25.0,Yas Marina Circuit,Williams
-26,STR,27,0,12,15,0,58,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,V,26.0,Yas Marina Circuit,Williams
-27,STR,28,0,11,15,0,58,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,V,27.0,Yas Marina Circuit,Williams
-28,STR,29,0,11,15,0,58,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,V,28.0,Yas Marina Circuit,Williams
-29,STR,30,0,10,15,0,58,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,V,29.0,Yas Marina Circuit,Williams
-30,STR,31,0,10,15,0,59,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,V,30.0,Yas Marina Circuit,Williams
-31,STR,32,0,10,15,0,59,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,31.0,Yas Marina Circuit,Williams
-32,STR,33,0,10,15,0,59,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,V,32.0,Yas Marina Circuit,Williams
-33,STR,34,0,10,15,0,60,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,V,33.0,Yas Marina Circuit,Williams
-34,STR,35,0,10,15,0,60,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,V,34.0,Yas Marina Circuit,Williams
-35,STR,36,0,10,15,0,60,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,E,0.0,Yas Marina Circuit,Williams
-36,STR,37,0,10,15,0,61,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,E,1.0,Yas Marina Circuit,Williams
-37,STR,38,0,11,15,0,61,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,E,2.0,Yas Marina Circuit,Williams
-38,STR,39,0,11,15,0,61,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,E,3.0,Yas Marina Circuit,Williams
-39,STR,40,0,12,15,0,61,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,E,4.0,Yas Marina Circuit,Williams
-40,STR,41,0,15,15,0,61,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,E,5.0,Yas Marina Circuit,Williams
-41,STR,42,0,15,15,0,61,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,E,6.0,Yas Marina Circuit,Williams
-42,STR,43,0,15,15,0,61,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,E,7.0,Yas Marina Circuit,Williams
-43,STR,44,0,15,15,0,62,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,E,8.0,Yas Marina Circuit,Williams
-44,STR,45,0,14,15,0,62,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,E,9.0,Yas Marina Circuit,Williams
-45,STR,46,0,14,15,0,62,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,E,10.0,Yas Marina Circuit,Williams
-46,STR,47,0,13,15,0,62,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,E,11.0,Yas Marina Circuit,Williams
-47,STR,48,0,13,15,0,62,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,E,12.0,Yas Marina Circuit,Williams
-48,STR,49,0,13,15,0,62,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,E,13.0,Yas Marina Circuit,Williams
-49,STR,50,0,13,15,0,62,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,E,14.0,Yas Marina Circuit,Williams
-50,STR,51,0,13,15,0,62,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,E,15.0,Yas Marina Circuit,Williams
-51,STR,52,0,13,15,0,62,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,E,16.0,Yas Marina Circuit,Williams
-52,STR,53,0,13,15,0,62,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,E,17.0,Yas Marina Circuit,Williams
-53,STR,54,0,13,15,0,62,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,E,18.0,Yas Marina Circuit,Williams
+,idGP,driver,lap,trackStatus,position,targetPosition,grid,out,performance,trackTemp,airTemp,raining,windSpeed,humidity,pressure,windDir,tyre,tyreLap,track,team
+0,20,HAM,1,2,1,1,1,0,55,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,3,Yas Marina Circuit,Mercedes
+1,20,HAM,2,2,1,1,1,0,48,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,4,Yas Marina Circuit,Mercedes
+2,20,HAM,3,2,1,1,1,0,42,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,M,5,Yas Marina Circuit,Mercedes
+3,20,HAM,4,2,1,1,1,0,40,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,M,6,Yas Marina Circuit,Mercedes
+4,20,HAM,5,0,1,1,1,0,42,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,M,7,Yas Marina Circuit,Mercedes
+5,20,HAM,6,0,1,1,1,0,44,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,M,8,Yas Marina Circuit,Mercedes
+6,20,HAM,7,2,1,1,1,0,47,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,M,9,Yas Marina Circuit,Mercedes
+7,20,HAM,8,2,1,5,1,0,46,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,H,0,Yas Marina Circuit,Mercedes
+8,20,HAM,9,0,5,5,1,0,47,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,H,1,Yas Marina Circuit,Mercedes
+9,20,HAM,10,0,5,5,1,0,48,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,H,2,Yas Marina Circuit,Mercedes
+10,20,HAM,11,0,5,5,1,0,48,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,3,Yas Marina Circuit,Mercedes
+11,20,HAM,12,0,5,5,1,0,49,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,4,Yas Marina Circuit,Mercedes
+12,20,HAM,13,0,5,5,1,0,51,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,5,Yas Marina Circuit,Mercedes
+13,20,HAM,14,0,5,5,1,0,52,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,6,Yas Marina Circuit,Mercedes
+14,20,HAM,15,0,5,5,1,0,53,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,7,Yas Marina Circuit,Mercedes
+15,20,HAM,16,0,5,4,1,0,54,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,H,8,Yas Marina Circuit,Mercedes
+16,20,HAM,17,0,4,3,1,0,55,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,9,Yas Marina Circuit,Mercedes
+17,20,HAM,18,0,3,2,1,0,56,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,H,10,Yas Marina Circuit,Mercedes
+18,20,HAM,19,0,2,2,1,0,56,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,H,11,Yas Marina Circuit,Mercedes
+19,20,HAM,20,0,2,2,1,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,12,Yas Marina Circuit,Mercedes
+20,20,HAM,21,0,2,2,1,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,13,Yas Marina Circuit,Mercedes
+21,20,HAM,22,0,2,2,1,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,14,Yas Marina Circuit,Mercedes
+22,20,HAM,23,0,2,2,1,0,58,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,15,Yas Marina Circuit,Mercedes
+23,20,HAM,24,0,2,2,1,0,58,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,16,Yas Marina Circuit,Mercedes
+24,20,HAM,25,0,2,2,1,0,58,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,17,Yas Marina Circuit,Mercedes
+25,20,HAM,26,0,2,2,1,0,58,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,18,Yas Marina Circuit,Mercedes
+26,20,HAM,27,0,2,2,1,0,58,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,19,Yas Marina Circuit,Mercedes
+27,20,HAM,28,0,2,2,1,0,58,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,20,Yas Marina Circuit,Mercedes
+28,20,HAM,29,0,2,2,1,0,58,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,21,Yas Marina Circuit,Mercedes
+29,20,HAM,30,0,2,2,1,0,58,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,22,Yas Marina Circuit,Mercedes
+30,20,HAM,31,0,2,2,1,0,58,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,23,Yas Marina Circuit,Mercedes
+31,20,HAM,32,0,2,2,1,0,58,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,24,Yas Marina Circuit,Mercedes
+32,20,HAM,33,0,2,2,1,0,58,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,25,Yas Marina Circuit,Mercedes
+33,20,HAM,34,0,2,1,1,0,58,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,26,Yas Marina Circuit,Mercedes
+34,20,HAM,35,0,1,1,1,0,58,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,27,Yas Marina Circuit,Mercedes
+35,20,HAM,36,0,1,1,1,0,58,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,28,Yas Marina Circuit,Mercedes
+36,20,HAM,37,0,1,1,1,0,58,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,29,Yas Marina Circuit,Mercedes
+37,20,HAM,38,0,1,1,1,0,58,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,H,30,Yas Marina Circuit,Mercedes
+38,20,HAM,39,0,1,1,1,0,58,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,31,Yas Marina Circuit,Mercedes
+39,20,HAM,40,0,1,1,1,0,58,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,32,Yas Marina Circuit,Mercedes
+40,20,HAM,41,0,1,1,1,0,58,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,33,Yas Marina Circuit,Mercedes
+41,20,HAM,42,0,1,1,1,0,58,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,34,Yas Marina Circuit,Mercedes
+42,20,HAM,43,0,1,1,1,0,58,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,H,35,Yas Marina Circuit,Mercedes
+43,20,HAM,44,0,1,1,1,0,58,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,H,36,Yas Marina Circuit,Mercedes
+44,20,HAM,45,0,1,1,1,0,58,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,37,Yas Marina Circuit,Mercedes
+45,20,HAM,46,0,1,1,1,0,58,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,38,Yas Marina Circuit,Mercedes
+46,20,HAM,47,0,1,1,1,0,58,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,39,Yas Marina Circuit,Mercedes
+47,20,HAM,48,1,1,1,1,0,59,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,40,Yas Marina Circuit,Mercedes
+48,20,HAM,49,1,1,1,1,0,59,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,41,Yas Marina Circuit,Mercedes
+49,20,HAM,50,0,1,1,1,0,59,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,42,Yas Marina Circuit,Mercedes
+50,20,HAM,51,0,1,1,1,0,59,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,H,43,Yas Marina Circuit,Mercedes
+51,20,HAM,52,0,1,1,1,0,59,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,44,Yas Marina Circuit,Mercedes
+52,20,HAM,53,0,1,1,1,0,59,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,H,45,Yas Marina Circuit,Mercedes
+53,20,HAM,54,0,1,1,1,0,59,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,46,Yas Marina Circuit,Mercedes
+54,20,HAM,55,1,1,1,1,0,59,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,47,Yas Marina Circuit,Mercedes
+0,20,BOT,1,2,2,2,2,0,63,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,M,3,Yas Marina Circuit,Mercedes
+1,20,BOT,2,2,2,2,2,0,50,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,M,4,Yas Marina Circuit,Mercedes
+2,20,BOT,3,2,2,2,2,0,44,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,M,5,Yas Marina Circuit,Mercedes
+3,20,BOT,4,2,2,2,2,0,43,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,M,6,Yas Marina Circuit,Mercedes
+4,20,BOT,5,0,2,2,2,0,47,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,7,Yas Marina Circuit,Mercedes
+5,20,BOT,6,0,2,2,2,0,51,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,8,Yas Marina Circuit,Mercedes
+6,20,BOT,7,2,2,2,2,0,52,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,M,9,Yas Marina Circuit,Mercedes
+7,20,BOT,8,2,2,1,2,0,51,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,M,10,Yas Marina Circuit,Mercedes
+8,20,BOT,9,0,1,1,2,0,52,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,M,11,Yas Marina Circuit,Mercedes
+9,20,BOT,10,0,1,1,2,0,54,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,M,12,Yas Marina Circuit,Mercedes
+10,20,BOT,11,0,1,1,2,0,55,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,M,13,Yas Marina Circuit,Mercedes
+11,20,BOT,12,0,1,1,2,0,56,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,M,14,Yas Marina Circuit,Mercedes
+12,20,BOT,13,0,1,1,2,0,58,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,15,Yas Marina Circuit,Mercedes
+13,20,BOT,14,0,1,1,2,0,60,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,16,Yas Marina Circuit,Mercedes
+14,20,BOT,15,0,1,1,2,0,61,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,17,Yas Marina Circuit,Mercedes
+15,20,BOT,16,0,1,1,2,0,63,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,M,18,Yas Marina Circuit,Mercedes
+16,20,BOT,17,0,1,4,2,0,64,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,0,Yas Marina Circuit,Mercedes
+17,20,BOT,18,0,4,3,2,0,65,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,1,Yas Marina Circuit,Mercedes
+18,20,BOT,19,0,3,3,2,0,66,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,H,2,Yas Marina Circuit,Mercedes
+19,20,BOT,20,0,3,3,2,0,67,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,H,3,Yas Marina Circuit,Mercedes
+20,20,BOT,21,0,3,3,2,0,68,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,H,4,Yas Marina Circuit,Mercedes
+21,20,BOT,22,0,3,3,2,0,69,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,5,Yas Marina Circuit,Mercedes
+22,20,BOT,23,0,3,3,2,0,70,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,6,Yas Marina Circuit,Mercedes
+23,20,BOT,24,0,3,3,2,0,70,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,7,Yas Marina Circuit,Mercedes
+24,20,BOT,25,0,3,3,2,0,70,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,8,Yas Marina Circuit,Mercedes
+25,20,BOT,26,0,3,3,2,0,70,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,9,Yas Marina Circuit,Mercedes
+26,20,BOT,27,0,3,3,2,0,70,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,10,Yas Marina Circuit,Mercedes
+27,20,BOT,28,0,3,3,2,0,70,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,11,Yas Marina Circuit,Mercedes
+28,20,BOT,29,0,3,3,2,0,70,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,12,Yas Marina Circuit,Mercedes
+29,20,BOT,30,0,3,3,2,0,70,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,13,Yas Marina Circuit,Mercedes
+30,20,BOT,31,0,3,3,2,0,70,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,14,Yas Marina Circuit,Mercedes
+31,20,BOT,32,0,3,3,2,0,70,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,15,Yas Marina Circuit,Mercedes
+32,20,BOT,33,0,3,3,2,0,70,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,16,Yas Marina Circuit,Mercedes
+33,20,BOT,34,0,3,2,2,0,70,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,H,17,Yas Marina Circuit,Mercedes
+34,20,BOT,35,0,2,3,2,0,70,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,18,Yas Marina Circuit,Mercedes
+35,20,BOT,36,0,3,3,2,0,70,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,19,Yas Marina Circuit,Mercedes
+36,20,BOT,37,0,3,3,2,0,70,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,20,Yas Marina Circuit,Mercedes
+37,20,BOT,38,0,3,4,2,0,70,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,21,Yas Marina Circuit,Mercedes
+38,20,BOT,39,0,4,5,2,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,22,Yas Marina Circuit,Mercedes
+39,20,BOT,40,0,5,5,2,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,23,Yas Marina Circuit,Mercedes
+40,20,BOT,41,0,5,5,2,0,70,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,M,0,Yas Marina Circuit,Mercedes
+41,20,BOT,42,0,5,5,2,0,70,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,M,1,Yas Marina Circuit,Mercedes
+42,20,BOT,43,0,5,5,2,0,70,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,M,2,Yas Marina Circuit,Mercedes
+43,20,BOT,44,0,5,5,2,0,70,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,M,3,Yas Marina Circuit,Mercedes
+44,20,BOT,45,0,5,5,2,0,70,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,M,4,Yas Marina Circuit,Mercedes
+45,20,BOT,46,0,5,5,2,0,70,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,M,5,Yas Marina Circuit,Mercedes
+46,20,BOT,47,0,5,5,2,0,70,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,M,6,Yas Marina Circuit,Mercedes
+47,20,BOT,48,1,5,5,2,0,70,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,7,Yas Marina Circuit,Mercedes
+48,20,BOT,49,1,5,5,2,0,70,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,8,Yas Marina Circuit,Mercedes
+49,20,BOT,50,0,5,5,2,0,70,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,9,Yas Marina Circuit,Mercedes
+50,20,BOT,51,0,5,5,2,0,70,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,M,10,Yas Marina Circuit,Mercedes
+51,20,BOT,52,0,5,5,2,0,70,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,M,11,Yas Marina Circuit,Mercedes
+52,20,BOT,53,0,5,5,2,0,70,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,12,Yas Marina Circuit,Mercedes
+53,20,BOT,54,0,5,5,2,0,70,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,13,Yas Marina Circuit,Mercedes
+54,20,BOT,55,1,5,5,2,0,70,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,14,Yas Marina Circuit,Mercedes
+0,20,VET,1,2,3,3,3,0,52,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,M,3,Yas Marina Circuit,Ferrari
+1,20,VET,2,2,3,3,3,0,48,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,M,4,Yas Marina Circuit,Ferrari
+2,20,VET,3,2,3,3,3,0,44,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,M,5,Yas Marina Circuit,Ferrari
+3,20,VET,4,2,3,3,3,0,40,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,6,Yas Marina Circuit,Ferrari
+4,20,VET,5,0,3,3,3,0,43,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,M,7,Yas Marina Circuit,Ferrari
+5,20,VET,6,0,3,3,3,0,48,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,M,8,Yas Marina Circuit,Ferrari
+6,20,VET,7,2,3,3,3,0,50,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,M,9,Yas Marina Circuit,Ferrari
+7,20,VET,8,2,3,2,3,0,47,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,M,10,Yas Marina Circuit,Ferrari
+8,20,VET,9,0,2,2,3,0,48,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,M,11,Yas Marina Circuit,Ferrari
+9,20,VET,10,0,2,2,3,0,50,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,M,12,Yas Marina Circuit,Ferrari
+10,20,VET,11,0,2,2,3,0,52,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,M,13,Yas Marina Circuit,Ferrari
+11,20,VET,12,0,2,2,3,0,54,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,M,14,Yas Marina Circuit,Ferrari
+12,20,VET,13,0,2,2,3,0,57,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,15,Yas Marina Circuit,Ferrari
+13,20,VET,14,0,2,2,3,0,59,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,16,Yas Marina Circuit,Ferrari
+14,20,VET,15,0,2,3,3,0,60,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,M,17,Yas Marina Circuit,Ferrari
+15,20,VET,16,0,3,5,3,0,61,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,0,Yas Marina Circuit,Ferrari
+16,20,VET,17,0,5,5,3,0,62,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,1,Yas Marina Circuit,Ferrari
+17,20,VET,18,0,5,4,3,0,63,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,H,2,Yas Marina Circuit,Ferrari
+18,20,VET,19,0,4,4,3,0,64,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,H,3,Yas Marina Circuit,Ferrari
+19,20,VET,20,0,4,4,3,0,65,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,H,4,Yas Marina Circuit,Ferrari
+20,20,VET,21,0,4,4,3,0,65,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,5,Yas Marina Circuit,Ferrari
+21,20,VET,22,0,4,4,3,0,66,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,6,Yas Marina Circuit,Ferrari
+22,20,VET,23,0,4,4,3,0,66,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,7,Yas Marina Circuit,Ferrari
+23,20,VET,24,0,4,4,3,0,67,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,8,Yas Marina Circuit,Ferrari
+24,20,VET,25,0,4,4,3,0,67,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,9,Yas Marina Circuit,Ferrari
+25,20,VET,26,0,4,4,3,0,67,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,10,Yas Marina Circuit,Ferrari
+26,20,VET,27,0,4,4,3,0,67,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,11,Yas Marina Circuit,Ferrari
+27,20,VET,28,0,4,4,3,0,67,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,12,Yas Marina Circuit,Ferrari
+28,20,VET,29,0,4,4,3,0,67,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,13,Yas Marina Circuit,Ferrari
+29,20,VET,30,0,4,4,3,0,67,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,14,Yas Marina Circuit,Ferrari
+30,20,VET,31,0,4,4,3,0,67,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,15,Yas Marina Circuit,Ferrari
+31,20,VET,32,0,4,4,3,0,68,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,16,Yas Marina Circuit,Ferrari
+32,20,VET,33,0,4,4,3,0,68,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,17,Yas Marina Circuit,Ferrari
+33,20,VET,34,0,4,3,3,0,68,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,H,18,Yas Marina Circuit,Ferrari
+34,20,VET,35,0,3,2,3,0,68,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,19,Yas Marina Circuit,Ferrari
+35,20,VET,36,0,2,2,3,0,68,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,20,Yas Marina Circuit,Ferrari
+36,20,VET,37,0,2,2,3,0,68,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,21,Yas Marina Circuit,Ferrari
+37,20,VET,38,0,2,2,3,0,68,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,22,Yas Marina Circuit,Ferrari
+38,20,VET,39,0,2,2,3,0,68,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,23,Yas Marina Circuit,Ferrari
+39,20,VET,40,0,2,2,3,0,68,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,24,Yas Marina Circuit,Ferrari
+40,20,VET,41,0,2,2,3,0,68,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,25,Yas Marina Circuit,Ferrari
+41,20,VET,42,0,2,2,3,0,68,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,26,Yas Marina Circuit,Ferrari
+42,20,VET,43,0,2,2,3,0,68,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,27,Yas Marina Circuit,Ferrari
+43,20,VET,44,0,2,2,3,0,68,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,28,Yas Marina Circuit,Ferrari
+44,20,VET,45,0,2,2,3,0,68,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,29,Yas Marina Circuit,Ferrari
+45,20,VET,46,0,2,2,3,0,68,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,30,Yas Marina Circuit,Ferrari
+46,20,VET,47,0,2,2,3,0,68,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,H,31,Yas Marina Circuit,Ferrari
+47,20,VET,48,1,2,2,3,0,68,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,32,Yas Marina Circuit,Ferrari
+48,20,VET,49,1,2,2,3,0,68,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,H,33,Yas Marina Circuit,Ferrari
+49,20,VET,50,0,2,2,3,0,68,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,H,34,Yas Marina Circuit,Ferrari
+50,20,VET,51,0,2,2,3,0,69,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,35,Yas Marina Circuit,Ferrari
+51,20,VET,52,0,2,2,3,0,69,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,36,Yas Marina Circuit,Ferrari
+52,20,VET,53,0,2,2,3,0,69,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,37,Yas Marina Circuit,Ferrari
+53,20,VET,54,0,2,2,3,0,69,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,38,Yas Marina Circuit,Ferrari
+54,20,VET,55,1,2,2,3,0,69,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,H,39,Yas Marina Circuit,Ferrari
+0,20,RAI,1,2,4,4,4,0,52,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,M,4,Yas Marina Circuit,Ferrari
+1,20,RAI,2,2,4,4,4,0,41,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,5,Yas Marina Circuit,Ferrari
+2,20,RAI,3,2,4,4,4,0,37,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,6,Yas Marina Circuit,Ferrari
+3,20,RAI,4,2,4,4,4,0,37,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,M,7,Yas Marina Circuit,Ferrari
+4,20,RAI,5,0,4,4,4,0,42,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,M,8,Yas Marina Circuit,Ferrari
+5,20,RAI,6,0,4,11,4,1,46,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,M,9,Yas Marina Circuit,Ferrari
+0,20,RIC,1,2,6,6,6,0,39,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,M,4,Yas Marina Circuit,Red Bull Racing
+1,20,RIC,2,2,6,6,6,0,42,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,M,5,Yas Marina Circuit,Red Bull Racing
+2,20,RIC,3,2,6,6,6,0,41,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,6,Yas Marina Circuit,Red Bull Racing
+3,20,RIC,4,2,6,6,6,0,40,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,M,7,Yas Marina Circuit,Red Bull Racing
+4,20,RIC,5,0,6,6,6,0,41,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,M,8,Yas Marina Circuit,Red Bull Racing
+5,20,RIC,6,0,6,5,6,0,42,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,M,9,Yas Marina Circuit,Red Bull Racing
+6,20,RIC,7,2,5,5,6,0,42,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,M,10,Yas Marina Circuit,Red Bull Racing
+7,20,RIC,8,2,5,3,6,0,43,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,M,11,Yas Marina Circuit,Red Bull Racing
+8,20,RIC,9,0,3,3,6,0,44,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,M,12,Yas Marina Circuit,Red Bull Racing
+9,20,RIC,10,0,3,3,6,0,45,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,M,13,Yas Marina Circuit,Red Bull Racing
+10,20,RIC,11,0,3,3,6,0,46,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,14,Yas Marina Circuit,Red Bull Racing
+11,20,RIC,12,0,3,3,6,0,47,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,15,Yas Marina Circuit,Red Bull Racing
+12,20,RIC,13,0,3,3,6,0,49,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,M,16,Yas Marina Circuit,Red Bull Racing
+13,20,RIC,14,0,3,3,6,0,50,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,M,17,Yas Marina Circuit,Red Bull Racing
+14,20,RIC,15,0,3,2,6,0,52,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,M,18,Yas Marina Circuit,Red Bull Racing
+15,20,RIC,16,0,2,2,6,0,53,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,M,19,Yas Marina Circuit,Red Bull Racing
+16,20,RIC,17,0,2,1,6,0,54,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,M,20,Yas Marina Circuit,Red Bull Racing
+17,20,RIC,18,0,1,1,6,0,55,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,21,Yas Marina Circuit,Red Bull Racing
+18,20,RIC,19,0,1,1,6,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,22,Yas Marina Circuit,Red Bull Racing
+19,20,RIC,20,0,1,1,6,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,23,Yas Marina Circuit,Red Bull Racing
+20,20,RIC,21,0,1,1,6,0,56,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,M,24,Yas Marina Circuit,Red Bull Racing
+21,20,RIC,22,0,1,1,6,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,M,25,Yas Marina Circuit,Red Bull Racing
+22,20,RIC,23,0,1,1,6,0,57,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,M,26,Yas Marina Circuit,Red Bull Racing
+23,20,RIC,24,0,1,1,6,0,57,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,M,27,Yas Marina Circuit,Red Bull Racing
+24,20,RIC,25,0,1,1,6,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,M,28,Yas Marina Circuit,Red Bull Racing
+25,20,RIC,26,0,1,1,6,0,56,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,M,29,Yas Marina Circuit,Red Bull Racing
+26,20,RIC,27,0,1,1,6,0,56,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,M,30,Yas Marina Circuit,Red Bull Racing
+27,20,RIC,28,0,1,1,6,0,56,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,M,31,Yas Marina Circuit,Red Bull Racing
+28,20,RIC,29,0,1,1,6,0,56,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,M,32,Yas Marina Circuit,Red Bull Racing
+29,20,RIC,30,0,1,1,6,0,56,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,M,33,Yas Marina Circuit,Red Bull Racing
+30,20,RIC,31,0,1,1,6,0,57,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,M,34,Yas Marina Circuit,Red Bull Racing
+31,20,RIC,32,0,1,1,6,0,57,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,M,35,Yas Marina Circuit,Red Bull Racing
+32,20,RIC,33,0,1,1,6,0,57,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,M,36,Yas Marina Circuit,Red Bull Racing
+33,20,RIC,34,0,1,5,6,0,56,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,0,Yas Marina Circuit,Red Bull Racing
+34,20,RIC,35,0,5,5,6,0,56,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,1,Yas Marina Circuit,Red Bull Racing
+35,20,RIC,36,0,5,5,6,0,57,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,2,Yas Marina Circuit,Red Bull Racing
+36,20,RIC,37,0,5,5,6,0,57,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,3,Yas Marina Circuit,Red Bull Racing
+37,20,RIC,38,0,5,5,6,0,57,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,4,Yas Marina Circuit,Red Bull Racing
+38,20,RIC,39,0,5,4,6,0,57,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,5,Yas Marina Circuit,Red Bull Racing
+39,20,RIC,40,0,4,4,6,0,56,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,6,Yas Marina Circuit,Red Bull Racing
+40,20,RIC,41,0,4,4,6,0,57,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,7,Yas Marina Circuit,Red Bull Racing
+41,20,RIC,42,0,4,4,6,0,57,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,8,Yas Marina Circuit,Red Bull Racing
+42,20,RIC,43,0,4,4,6,0,57,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,9,Yas Marina Circuit,Red Bull Racing
+43,20,RIC,44,0,4,4,6,0,57,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,10,Yas Marina Circuit,Red Bull Racing
+44,20,RIC,45,0,4,4,6,0,57,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,11,Yas Marina Circuit,Red Bull Racing
+45,20,RIC,46,0,4,4,6,0,57,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,12,Yas Marina Circuit,Red Bull Racing
+46,20,RIC,47,0,4,4,6,0,57,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,13,Yas Marina Circuit,Red Bull Racing
+47,20,RIC,48,1,4,4,6,0,57,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,H,14,Yas Marina Circuit,Red Bull Racing
+48,20,RIC,49,1,4,4,6,0,57,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,15,Yas Marina Circuit,Red Bull Racing
+49,20,RIC,50,0,4,4,6,0,57,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,16,Yas Marina Circuit,Red Bull Racing
+50,20,RIC,51,0,4,4,6,0,57,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,17,Yas Marina Circuit,Red Bull Racing
+51,20,RIC,52,0,4,4,6,0,57,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,18,Yas Marina Circuit,Red Bull Racing
+52,20,RIC,53,0,4,4,6,0,57,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,19,Yas Marina Circuit,Red Bull Racing
+53,20,RIC,54,0,4,4,6,0,57,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,20,Yas Marina Circuit,Red Bull Racing
+54,20,RIC,55,1,4,4,6,0,57,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,21,Yas Marina Circuit,Red Bull Racing
+0,20,VER,1,2,9,9,9,0,32,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,S,3,Yas Marina Circuit,Red Bull Racing
+1,20,VER,2,2,9,9,9,0,30,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,S,4,Yas Marina Circuit,Red Bull Racing
+2,20,VER,3,2,9,9,9,0,30,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,S,5,Yas Marina Circuit,Red Bull Racing
+3,20,VER,4,2,9,9,9,0,29,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,S,6,Yas Marina Circuit,Red Bull Racing
+4,20,VER,5,0,9,9,9,0,30,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,S,7,Yas Marina Circuit,Red Bull Racing
+5,20,VER,6,0,9,7,9,0,32,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,S,8,Yas Marina Circuit,Red Bull Racing
+6,20,VER,7,2,7,6,9,0,33,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,S,9,Yas Marina Circuit,Red Bull Racing
+7,20,VER,8,2,6,4,9,0,31,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,S,10,Yas Marina Circuit,Red Bull Racing
+8,20,VER,9,0,4,4,9,0,32,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,S,11,Yas Marina Circuit,Red Bull Racing
+9,20,VER,10,0,4,4,9,0,33,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,S,12,Yas Marina Circuit,Red Bull Racing
+10,20,VER,11,0,4,4,9,0,34,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,S,13,Yas Marina Circuit,Red Bull Racing
+11,20,VER,12,0,4,4,9,0,35,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,S,14,Yas Marina Circuit,Red Bull Racing
+12,20,VER,13,0,4,4,9,0,37,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,S,15,Yas Marina Circuit,Red Bull Racing
+13,20,VER,14,0,4,4,9,0,39,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,S,16,Yas Marina Circuit,Red Bull Racing
+14,20,VER,15,0,4,4,9,0,41,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,S,17,Yas Marina Circuit,Red Bull Racing
+15,20,VER,16,0,4,3,9,0,43,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,S,18,Yas Marina Circuit,Red Bull Racing
+16,20,VER,17,0,3,2,9,0,45,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,S,19,Yas Marina Circuit,Red Bull Racing
+17,20,VER,18,0,2,5,9,0,47,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,H,0,Yas Marina Circuit,Red Bull Racing
+18,20,VER,19,0,5,5,9,0,48,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,1,Yas Marina Circuit,Red Bull Racing
+19,20,VER,20,0,5,5,9,0,48,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,2,Yas Marina Circuit,Red Bull Racing
+20,20,VER,21,0,5,5,9,0,49,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,H,3,Yas Marina Circuit,Red Bull Racing
+21,20,VER,22,0,5,5,9,0,50,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,H,4,Yas Marina Circuit,Red Bull Racing
+22,20,VER,23,0,5,5,9,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,5,Yas Marina Circuit,Red Bull Racing
+23,20,VER,24,0,5,5,9,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,6,Yas Marina Circuit,Red Bull Racing
+24,20,VER,25,0,5,5,9,0,51,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,7,Yas Marina Circuit,Red Bull Racing
+25,20,VER,26,0,5,5,9,0,51,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,8,Yas Marina Circuit,Red Bull Racing
+26,20,VER,27,0,5,5,9,0,51,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,9,Yas Marina Circuit,Red Bull Racing
+27,20,VER,28,0,5,5,9,0,52,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,10,Yas Marina Circuit,Red Bull Racing
+28,20,VER,29,0,5,5,9,0,52,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,11,Yas Marina Circuit,Red Bull Racing
+29,20,VER,30,0,5,5,9,0,52,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,12,Yas Marina Circuit,Red Bull Racing
+30,20,VER,31,0,5,5,9,0,52,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,13,Yas Marina Circuit,Red Bull Racing
+31,20,VER,32,0,5,5,9,0,53,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,14,Yas Marina Circuit,Red Bull Racing
+32,20,VER,33,0,5,5,9,0,53,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,15,Yas Marina Circuit,Red Bull Racing
+33,20,VER,34,0,5,4,9,0,53,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,16,Yas Marina Circuit,Red Bull Racing
+34,20,VER,35,0,4,4,9,0,54,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,17,Yas Marina Circuit,Red Bull Racing
+35,20,VER,36,0,4,4,9,0,54,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,H,18,Yas Marina Circuit,Red Bull Racing
+36,20,VER,37,0,4,4,9,0,54,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,19,Yas Marina Circuit,Red Bull Racing
+37,20,VER,38,0,4,3,9,0,54,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,20,Yas Marina Circuit,Red Bull Racing
+38,20,VER,39,0,3,3,9,0,54,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,H,21,Yas Marina Circuit,Red Bull Racing
+39,20,VER,40,0,3,3,9,0,54,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,22,Yas Marina Circuit,Red Bull Racing
+40,20,VER,41,0,3,3,9,0,55,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,23,Yas Marina Circuit,Red Bull Racing
+41,20,VER,42,0,3,3,9,0,55,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,24,Yas Marina Circuit,Red Bull Racing
+42,20,VER,43,0,3,3,9,0,55,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,25,Yas Marina Circuit,Red Bull Racing
+43,20,VER,44,0,3,3,9,0,55,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,26,Yas Marina Circuit,Red Bull Racing
+44,20,VER,45,0,3,3,9,0,56,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,H,27,Yas Marina Circuit,Red Bull Racing
+45,20,VER,46,0,3,3,9,0,56,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,28,Yas Marina Circuit,Red Bull Racing
+46,20,VER,47,0,3,3,9,0,56,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,29,Yas Marina Circuit,Red Bull Racing
+47,20,VER,48,1,3,3,9,0,56,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,30,Yas Marina Circuit,Red Bull Racing
+48,20,VER,49,1,3,3,9,0,56,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,31,Yas Marina Circuit,Red Bull Racing
+49,20,VER,50,0,3,3,9,0,56,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,32,Yas Marina Circuit,Red Bull Racing
+50,20,VER,51,0,3,3,9,0,56,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,33,Yas Marina Circuit,Red Bull Racing
+51,20,VER,52,0,3,3,9,0,57,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,34,Yas Marina Circuit,Red Bull Racing
+52,20,VER,53,0,3,3,9,0,57,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,35,Yas Marina Circuit,Red Bull Racing
+53,20,VER,54,0,3,3,9,0,57,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,36,Yas Marina Circuit,Red Bull Racing
+54,20,VER,55,1,3,3,9,0,57,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,H,37,Yas Marina Circuit,Red Bull Racing
+0,20,GRO,1,2,7,7,7,0,32,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,S,3,Yas Marina Circuit,Haas F1 Team
+1,20,GRO,2,2,7,7,7,0,40,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,S,4,Yas Marina Circuit,Haas F1 Team
+2,20,GRO,3,2,7,7,7,0,39,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,S,5,Yas Marina Circuit,Haas F1 Team
+3,20,GRO,4,2,7,7,7,0,36,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,S,6,Yas Marina Circuit,Haas F1 Team
+4,20,GRO,5,0,7,7,7,0,36,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,S,7,Yas Marina Circuit,Haas F1 Team
+5,20,GRO,6,0,7,6,7,0,36,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,S,8,Yas Marina Circuit,Haas F1 Team
+6,20,GRO,7,2,6,7,7,0,35,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,S,9,Yas Marina Circuit,Haas F1 Team
+7,20,GRO,8,2,7,18,7,0,33,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,H,0,Yas Marina Circuit,Haas F1 Team
+8,20,GRO,9,0,18,17,7,0,33,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,1,Yas Marina Circuit,Haas F1 Team
+9,20,GRO,10,0,17,17,7,0,34,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,2,Yas Marina Circuit,Haas F1 Team
+10,20,GRO,11,0,17,16,7,0,34,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,3,Yas Marina Circuit,Haas F1 Team
+11,20,GRO,12,0,16,16,7,0,35,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,4,Yas Marina Circuit,Haas F1 Team
+12,20,GRO,13,0,16,16,7,0,36,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,5,Yas Marina Circuit,Haas F1 Team
+13,20,GRO,14,0,16,16,7,0,38,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,6,Yas Marina Circuit,Haas F1 Team
+14,20,GRO,15,0,16,16,7,0,39,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,H,7,Yas Marina Circuit,Haas F1 Team
+15,20,GRO,16,0,16,16,7,0,41,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,H,8,Yas Marina Circuit,Haas F1 Team
+16,20,GRO,17,0,16,16,7,0,42,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,H,9,Yas Marina Circuit,Haas F1 Team
+17,20,GRO,18,0,16,16,7,0,43,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,10,Yas Marina Circuit,Haas F1 Team
+18,20,GRO,19,0,16,15,7,0,44,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,11,Yas Marina Circuit,Haas F1 Team
+19,20,GRO,20,0,15,15,7,0,45,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,12,Yas Marina Circuit,Haas F1 Team
+20,20,GRO,21,0,15,15,7,0,46,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,13,Yas Marina Circuit,Haas F1 Team
+21,20,GRO,22,0,15,15,7,0,46,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,14,Yas Marina Circuit,Haas F1 Team
+22,20,GRO,23,0,15,15,7,0,47,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,15,Yas Marina Circuit,Haas F1 Team
+23,20,GRO,24,0,15,15,7,0,47,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,16,Yas Marina Circuit,Haas F1 Team
+24,20,GRO,25,0,15,14,7,0,47,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,17,Yas Marina Circuit,Haas F1 Team
+25,20,GRO,26,0,14,14,7,0,48,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,18,Yas Marina Circuit,Haas F1 Team
+26,20,GRO,27,0,14,14,7,0,48,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,19,Yas Marina Circuit,Haas F1 Team
+27,20,GRO,28,0,14,13,7,0,48,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,20,Yas Marina Circuit,Haas F1 Team
+28,20,GRO,29,0,13,13,7,0,49,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,21,Yas Marina Circuit,Haas F1 Team
+29,20,GRO,30,0,13,13,7,0,49,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,22,Yas Marina Circuit,Haas F1 Team
+30,20,GRO,31,0,13,13,7,0,49,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,23,Yas Marina Circuit,Haas F1 Team
+31,20,GRO,32,0,13,12,7,0,50,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,24,Yas Marina Circuit,Haas F1 Team
+32,20,GRO,33,0,12,12,7,0,50,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,25,Yas Marina Circuit,Haas F1 Team
+33,20,GRO,34,0,12,12,7,0,51,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,H,26,Yas Marina Circuit,Haas F1 Team
+34,20,GRO,35,0,12,12,7,0,51,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,27,Yas Marina Circuit,Haas F1 Team
+35,20,GRO,36,0,12,12,7,0,51,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,28,Yas Marina Circuit,Haas F1 Team
+36,20,GRO,37,0,12,12,7,0,52,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,29,Yas Marina Circuit,Haas F1 Team
+37,20,GRO,38,0,12,12,7,0,52,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,30,Yas Marina Circuit,Haas F1 Team
+38,20,GRO,39,0,12,12,7,0,52,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,31,Yas Marina Circuit,Haas F1 Team
+39,20,GRO,40,0,12,11,7,0,53,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,32,Yas Marina Circuit,Haas F1 Team
+40,20,GRO,41,0,11,11,7,0,53,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,H,33,Yas Marina Circuit,Haas F1 Team
+41,20,GRO,42,0,11,10,7,0,53,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,H,34,Yas Marina Circuit,Haas F1 Team
+42,20,GRO,43,0,10,10,7,0,54,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,H,35,Yas Marina Circuit,Haas F1 Team
+43,20,GRO,44,0,10,10,7,0,54,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,H,36,Yas Marina Circuit,Haas F1 Team
+44,20,GRO,45,0,10,9,7,0,54,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,37,Yas Marina Circuit,Haas F1 Team
+45,20,GRO,46,0,9,9,7,0,54,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,38,Yas Marina Circuit,Haas F1 Team
+46,20,GRO,47,0,9,9,7,0,54,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,39,Yas Marina Circuit,Haas F1 Team
+47,20,GRO,48,1,9,9,7,0,54,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,40,Yas Marina Circuit,Haas F1 Team
+48,20,GRO,49,1,9,9,7,0,54,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,41,Yas Marina Circuit,Haas F1 Team
+49,20,GRO,50,0,9,9,7,0,54,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,42,Yas Marina Circuit,Haas F1 Team
+50,20,GRO,51,0,9,9,7,0,54,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,H,43,Yas Marina Circuit,Haas F1 Team
+51,20,GRO,52,0,9,9,7,0,55,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,H,44,Yas Marina Circuit,Haas F1 Team
+52,20,GRO,53,0,9,9,7,0,55,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,45,Yas Marina Circuit,Haas F1 Team
+53,20,GRO,54,0,9,9,7,0,55,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,46,Yas Marina Circuit,Haas F1 Team
+0,20,LEC,1,2,5,5,5,0,45,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,S,3,Yas Marina Circuit,Sauber
+1,20,LEC,2,2,5,5,5,0,38,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,S,4,Yas Marina Circuit,Sauber
+2,20,LEC,3,2,5,5,5,0,39,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,S,5,Yas Marina Circuit,Sauber
+3,20,LEC,4,2,5,5,5,0,37,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,S,6,Yas Marina Circuit,Sauber
+4,20,LEC,5,0,5,5,5,0,38,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,S,7,Yas Marina Circuit,Sauber
+5,20,LEC,6,0,5,4,5,0,40,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,S,8,Yas Marina Circuit,Sauber
+6,20,LEC,7,2,4,4,5,0,40,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,S,9,Yas Marina Circuit,Sauber
+7,20,LEC,8,2,4,14,5,0,39,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,0,Yas Marina Circuit,Sauber
+8,20,LEC,9,0,14,13,5,0,40,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,H,1,Yas Marina Circuit,Sauber
+9,20,LEC,10,0,13,12,5,0,41,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,H,2,Yas Marina Circuit,Sauber
+10,20,LEC,11,0,12,12,5,0,42,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,H,3,Yas Marina Circuit,Sauber
+11,20,LEC,12,0,12,12,5,0,42,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,H,4,Yas Marina Circuit,Sauber
+12,20,LEC,13,0,12,12,5,0,43,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,5,Yas Marina Circuit,Sauber
+13,20,LEC,14,0,12,12,5,0,45,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,6,Yas Marina Circuit,Sauber
+14,20,LEC,15,0,12,12,5,0,46,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,7,Yas Marina Circuit,Sauber
+15,20,LEC,16,0,12,12,5,0,47,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,H,8,Yas Marina Circuit,Sauber
+16,20,LEC,17,0,12,12,5,0,48,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,9,Yas Marina Circuit,Sauber
+17,20,LEC,18,0,12,12,5,0,48,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,H,10,Yas Marina Circuit,Sauber
+18,20,LEC,19,0,12,11,5,0,49,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,11,Yas Marina Circuit,Sauber
+19,20,LEC,20,0,11,11,5,0,49,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,H,12,Yas Marina Circuit,Sauber
+20,20,LEC,21,0,11,11,5,0,50,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,H,13,Yas Marina Circuit,Sauber
+21,20,LEC,22,0,11,11,5,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,14,Yas Marina Circuit,Sauber
+22,20,LEC,23,0,11,11,5,0,51,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,15,Yas Marina Circuit,Sauber
+23,20,LEC,24,0,11,11,5,0,51,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,16,Yas Marina Circuit,Sauber
+24,20,LEC,25,0,11,10,5,0,51,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,17,Yas Marina Circuit,Sauber
+25,20,LEC,26,0,10,9,5,0,51,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,18,Yas Marina Circuit,Sauber
+26,20,LEC,27,0,9,8,5,0,51,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,19,Yas Marina Circuit,Sauber
+27,20,LEC,28,0,8,8,5,0,51,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,20,Yas Marina Circuit,Sauber
+28,20,LEC,29,0,8,8,5,0,51,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,21,Yas Marina Circuit,Sauber
+29,20,LEC,30,0,8,7,5,0,52,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,22,Yas Marina Circuit,Sauber
+30,20,LEC,31,0,7,7,5,0,52,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,23,Yas Marina Circuit,Sauber
+31,20,LEC,32,0,7,7,5,0,52,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,24,Yas Marina Circuit,Sauber
+32,20,LEC,33,0,7,7,5,0,53,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,25,Yas Marina Circuit,Sauber
+33,20,LEC,34,0,7,7,5,0,53,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,26,Yas Marina Circuit,Sauber
+34,20,LEC,35,0,7,7,5,0,53,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,27,Yas Marina Circuit,Sauber
+35,20,LEC,36,0,7,7,5,0,53,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,28,Yas Marina Circuit,Sauber
+36,20,LEC,37,0,7,7,5,0,53,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,29,Yas Marina Circuit,Sauber
+37,20,LEC,38,0,7,7,5,0,54,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,30,Yas Marina Circuit,Sauber
+38,20,LEC,39,0,7,7,5,0,54,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,31,Yas Marina Circuit,Sauber
+39,20,LEC,40,0,7,7,5,0,54,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,H,32,Yas Marina Circuit,Sauber
+40,20,LEC,41,0,7,7,5,0,54,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,33,Yas Marina Circuit,Sauber
+41,20,LEC,42,0,7,7,5,0,54,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,34,Yas Marina Circuit,Sauber
+42,20,LEC,43,0,7,7,5,0,54,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,35,Yas Marina Circuit,Sauber
+43,20,LEC,44,0,7,7,5,0,55,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,36,Yas Marina Circuit,Sauber
+44,20,LEC,45,0,7,7,5,0,55,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,H,37,Yas Marina Circuit,Sauber
+45,20,LEC,46,0,7,7,5,0,55,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,H,38,Yas Marina Circuit,Sauber
+46,20,LEC,47,0,7,7,5,0,55,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,39,Yas Marina Circuit,Sauber
+47,20,LEC,48,1,7,7,5,0,55,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,40,Yas Marina Circuit,Sauber
+48,20,LEC,49,1,7,7,5,0,55,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,41,Yas Marina Circuit,Sauber
+49,20,LEC,50,0,7,7,5,0,55,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,42,Yas Marina Circuit,Sauber
+50,20,LEC,51,0,7,7,5,0,56,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,43,Yas Marina Circuit,Sauber
+51,20,LEC,52,0,7,7,5,0,56,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,H,44,Yas Marina Circuit,Sauber
+52,20,LEC,53,0,7,7,5,0,56,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,45,Yas Marina Circuit,Sauber
+53,20,LEC,54,0,7,7,5,0,56,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,46,Yas Marina Circuit,Sauber
+54,20,LEC,55,1,7,7,5,0,56,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,47,Yas Marina Circuit,Sauber
+0,20,OCO,1,2,8,8,8,0,36,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,S,3,Yas Marina Circuit,Racing Point
+1,20,OCO,2,2,8,8,8,0,36,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,S,4,Yas Marina Circuit,Racing Point
+2,20,OCO,3,2,8,8,8,0,38,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,S,5,Yas Marina Circuit,Racing Point
+3,20,OCO,4,2,8,8,8,0,38,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,S,6,Yas Marina Circuit,Racing Point
+4,20,OCO,5,0,8,8,8,0,37,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,S,7,Yas Marina Circuit,Racing Point
+5,20,OCO,6,0,8,8,8,0,37,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,S,8,Yas Marina Circuit,Racing Point
+6,20,OCO,7,2,8,8,8,0,35,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,S,9,Yas Marina Circuit,Racing Point
+7,20,OCO,8,2,8,6,8,0,36,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,S,10,Yas Marina Circuit,Racing Point
+8,20,OCO,9,0,6,6,8,0,36,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,S,11,Yas Marina Circuit,Racing Point
+9,20,OCO,10,0,6,6,8,0,37,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,S,12,Yas Marina Circuit,Racing Point
+10,20,OCO,11,0,6,6,8,0,38,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,S,13,Yas Marina Circuit,Racing Point
+11,20,OCO,12,0,6,6,8,0,39,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,S,14,Yas Marina Circuit,Racing Point
+12,20,OCO,13,0,6,6,8,0,40,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,S,15,Yas Marina Circuit,Racing Point
+13,20,OCO,14,0,6,6,8,0,42,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,S,16,Yas Marina Circuit,Racing Point
+14,20,OCO,15,0,6,6,8,0,44,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,S,17,Yas Marina Circuit,Racing Point
+15,20,OCO,16,0,6,7,8,0,45,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,S,18,Yas Marina Circuit,Racing Point
+16,20,OCO,17,0,7,7,8,0,47,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,S,19,Yas Marina Circuit,Racing Point
+17,20,OCO,18,0,7,8,8,0,48,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,S,20,Yas Marina Circuit,Racing Point
+18,20,OCO,19,0,8,18,8,0,49,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,0,Yas Marina Circuit,Racing Point
+19,20,OCO,20,0,18,18,8,0,50,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,H,1,Yas Marina Circuit,Racing Point
+20,20,OCO,21,0,18,18,8,0,51,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,H,2,Yas Marina Circuit,Racing Point
+21,20,OCO,22,0,18,17,8,0,51,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,3,Yas Marina Circuit,Racing Point
+22,20,OCO,23,0,17,16,8,0,52,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,4,Yas Marina Circuit,Racing Point
+23,20,OCO,24,0,16,16,8,0,52,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,5,Yas Marina Circuit,Racing Point
+24,20,OCO,25,0,16,15,8,0,52,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,6,Yas Marina Circuit,Racing Point
+25,20,OCO,26,0,15,15,8,0,52,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,7,Yas Marina Circuit,Racing Point
+26,20,OCO,27,0,15,15,8,0,52,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,8,Yas Marina Circuit,Racing Point
+27,20,OCO,28,0,15,14,8,0,52,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,9,Yas Marina Circuit,Racing Point
+28,20,OCO,29,0,14,14,8,0,52,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,10,Yas Marina Circuit,Racing Point
+29,20,OCO,30,0,14,12,8,0,52,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,H,11,Yas Marina Circuit,Racing Point
+30,20,OCO,31,0,12,11,8,0,52,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,12,Yas Marina Circuit,Racing Point
+31,20,OCO,32,0,11,11,8,0,52,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,13,Yas Marina Circuit,Racing Point
+32,20,OCO,33,0,11,11,8,0,53,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,14,Yas Marina Circuit,Racing Point
+33,20,OCO,34,0,11,11,8,0,53,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,H,15,Yas Marina Circuit,Racing Point
+34,20,OCO,35,0,11,11,8,0,53,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,16,Yas Marina Circuit,Racing Point
+35,20,OCO,36,0,11,11,8,0,53,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,17,Yas Marina Circuit,Racing Point
+36,20,OCO,37,0,11,11,8,0,54,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,H,18,Yas Marina Circuit,Racing Point
+37,20,OCO,38,0,11,10,8,0,54,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,19,Yas Marina Circuit,Racing Point
+38,20,OCO,39,0,10,10,8,0,54,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,20,Yas Marina Circuit,Racing Point
+39,20,OCO,40,0,10,10,8,0,54,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,21,Yas Marina Circuit,Racing Point
+40,20,OCO,41,0,10,10,8,0,54,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,H,22,Yas Marina Circuit,Racing Point
+41,20,OCO,42,0,10,9,8,0,55,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,23,Yas Marina Circuit,Racing Point
+42,20,OCO,43,0,9,9,8,0,55,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,24,Yas Marina Circuit,Racing Point
+43,20,OCO,44,0,9,9,8,1,55,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,25,Yas Marina Circuit,Racing Point
+0,20,SAI,1,2,11,11,11,0,61,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,M,0,Yas Marina Circuit,Renault
+1,20,SAI,2,2,11,11,11,0,68,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,M,1,Yas Marina Circuit,Renault
+2,20,SAI,3,2,11,11,11,0,67,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,2,Yas Marina Circuit,Renault
+3,20,SAI,4,2,11,11,11,0,68,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,3,Yas Marina Circuit,Renault
+4,20,SAI,5,0,11,11,11,0,67,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,M,4,Yas Marina Circuit,Renault
+5,20,SAI,6,0,11,10,11,0,65,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,M,5,Yas Marina Circuit,Renault
+6,20,SAI,7,2,10,11,11,0,62,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,M,6,Yas Marina Circuit,Renault
+7,20,SAI,8,2,11,9,11,0,61,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,M,7,Yas Marina Circuit,Renault
+8,20,SAI,9,0,9,9,11,0,60,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,M,8,Yas Marina Circuit,Renault
+9,20,SAI,10,0,9,9,11,0,60,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,M,9,Yas Marina Circuit,Renault
+10,20,SAI,11,0,9,9,11,0,60,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,M,10,Yas Marina Circuit,Renault
+11,20,SAI,12,0,9,9,11,0,61,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,11,Yas Marina Circuit,Renault
+12,20,SAI,13,0,9,9,11,0,62,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,12,Yas Marina Circuit,Renault
+13,20,SAI,14,0,9,8,11,0,64,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,13,Yas Marina Circuit,Renault
+14,20,SAI,15,0,8,8,11,0,65,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,14,Yas Marina Circuit,Renault
+15,20,SAI,16,0,8,8,11,0,67,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,M,15,Yas Marina Circuit,Renault
+16,20,SAI,17,0,8,8,11,0,68,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,M,16,Yas Marina Circuit,Renault
+17,20,SAI,18,0,8,7,11,0,69,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,M,17,Yas Marina Circuit,Renault
+18,20,SAI,19,0,7,7,11,0,70,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,M,18,Yas Marina Circuit,Renault
+19,20,SAI,20,0,7,7,11,0,70,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,M,19,Yas Marina Circuit,Renault
+20,20,SAI,21,0,7,7,11,0,71,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,M,20,Yas Marina Circuit,Renault
+21,20,SAI,22,0,7,7,11,0,72,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,M,21,Yas Marina Circuit,Renault
+22,20,SAI,23,0,7,7,11,0,73,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,M,22,Yas Marina Circuit,Renault
+23,20,SAI,24,0,7,7,11,0,73,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,23,Yas Marina Circuit,Renault
+24,20,SAI,25,0,7,7,11,0,73,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,24,Yas Marina Circuit,Renault
+25,20,SAI,26,0,7,6,11,0,73,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,25,Yas Marina Circuit,Renault
+26,20,SAI,27,0,6,6,11,0,73,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,M,26,Yas Marina Circuit,Renault
+27,20,SAI,28,0,6,6,11,0,74,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,M,27,Yas Marina Circuit,Renault
+28,20,SAI,29,0,6,6,11,0,74,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,M,28,Yas Marina Circuit,Renault
+29,20,SAI,30,0,6,6,11,0,74,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,M,29,Yas Marina Circuit,Renault
+30,20,SAI,31,0,6,6,11,0,75,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,M,30,Yas Marina Circuit,Renault
+31,20,SAI,32,0,6,6,11,0,75,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,M,31,Yas Marina Circuit,Renault
+32,20,SAI,33,0,6,6,11,0,75,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,M,32,Yas Marina Circuit,Renault
+33,20,SAI,34,0,6,6,11,0,76,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,M,33,Yas Marina Circuit,Renault
+34,20,SAI,35,0,6,6,11,0,76,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,M,34,Yas Marina Circuit,Renault
+35,20,SAI,36,0,6,6,11,0,76,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,M,35,Yas Marina Circuit,Renault
+36,20,SAI,37,0,6,6,11,0,76,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,M,36,Yas Marina Circuit,Renault
+37,20,SAI,38,0,6,6,11,0,76,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,0,Yas Marina Circuit,Renault
+38,20,SAI,39,0,6,6,11,0,76,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,1,Yas Marina Circuit,Renault
+39,20,SAI,40,0,6,6,11,0,76,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,2,Yas Marina Circuit,Renault
+40,20,SAI,41,0,6,6,11,0,77,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,3,Yas Marina Circuit,Renault
+41,20,SAI,42,0,6,6,11,0,77,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,4,Yas Marina Circuit,Renault
+42,20,SAI,43,0,6,6,11,0,77,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,5,Yas Marina Circuit,Renault
+43,20,SAI,44,0,6,6,11,0,77,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,6,Yas Marina Circuit,Renault
+44,20,SAI,45,0,6,6,11,0,77,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,H,7,Yas Marina Circuit,Renault
+45,20,SAI,46,0,6,6,11,0,77,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,H,8,Yas Marina Circuit,Renault
+46,20,SAI,47,0,6,6,11,0,77,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,9,Yas Marina Circuit,Renault
+47,20,SAI,48,1,6,6,11,0,77,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,10,Yas Marina Circuit,Renault
+48,20,SAI,49,1,6,6,11,0,77,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,11,Yas Marina Circuit,Renault
+49,20,SAI,50,0,6,6,11,0,77,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,12,Yas Marina Circuit,Renault
+50,20,SAI,51,0,6,6,11,0,77,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,13,Yas Marina Circuit,Renault
+51,20,SAI,52,0,6,6,11,0,77,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,14,Yas Marina Circuit,Renault
+52,20,SAI,53,0,6,6,11,0,77,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,15,Yas Marina Circuit,Renault
+53,20,SAI,54,0,6,6,11,0,77,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,16,Yas Marina Circuit,Renault
+54,20,SAI,55,1,6,6,11,0,77,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,17,Yas Marina Circuit,Renault
+0,20,ERI,1,2,12,12,12,0,36,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,H,0,Yas Marina Circuit,Sauber
+1,20,ERI,2,2,12,12,12,0,47,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,H,1,Yas Marina Circuit,Sauber
+2,20,ERI,3,2,12,12,12,0,49,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,H,2,Yas Marina Circuit,Sauber
+3,20,ERI,4,2,12,12,12,0,52,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,H,3,Yas Marina Circuit,Sauber
+4,20,ERI,5,0,12,12,12,0,54,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,4,Yas Marina Circuit,Sauber
+5,20,ERI,6,0,12,11,12,0,56,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,5,Yas Marina Circuit,Sauber
+6,20,ERI,7,2,11,10,12,0,54,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,6,Yas Marina Circuit,Sauber
+7,20,ERI,8,2,10,8,12,0,54,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,7,Yas Marina Circuit,Sauber
+8,20,ERI,9,0,8,8,12,0,55,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,8,Yas Marina Circuit,Sauber
+9,20,ERI,10,0,8,8,12,0,56,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,H,9,Yas Marina Circuit,Sauber
+10,20,ERI,11,0,8,8,12,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,10,Yas Marina Circuit,Sauber
+11,20,ERI,12,0,8,8,12,0,58,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,11,Yas Marina Circuit,Sauber
+12,20,ERI,13,0,8,8,12,0,59,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,12,Yas Marina Circuit,Sauber
+13,20,ERI,14,0,8,9,12,0,60,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,13,Yas Marina Circuit,Sauber
+14,20,ERI,15,0,9,9,12,0,60,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,14,Yas Marina Circuit,Sauber
+15,20,ERI,16,0,9,9,12,0,62,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,15,Yas Marina Circuit,Sauber
+16,20,ERI,17,0,9,9,12,0,62,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,16,Yas Marina Circuit,Sauber
+17,20,ERI,18,0,9,9,12,0,63,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,17,Yas Marina Circuit,Sauber
+18,20,ERI,19,0,9,8,12,0,63,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,18,Yas Marina Circuit,Sauber
+19,20,ERI,20,0,8,8,12,0,64,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,H,19,Yas Marina Circuit,Sauber
+20,20,ERI,21,0,8,8,12,0,64,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,H,20,Yas Marina Circuit,Sauber
+21,20,ERI,22,0,8,8,12,0,64,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,21,Yas Marina Circuit,Sauber
+22,20,ERI,23,0,8,8,12,0,65,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,H,22,Yas Marina Circuit,Sauber
+23,20,ERI,24,0,8,8,12,1,64,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,23,Yas Marina Circuit,Sauber
+0,20,MAG,1,2,16,16,16,0,32,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,H,0,Yas Marina Circuit,Haas F1 Team
+1,20,MAG,2,2,16,16,16,0,41,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,H,1,Yas Marina Circuit,Haas F1 Team
+2,20,MAG,3,2,16,16,16,0,42,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,H,2,Yas Marina Circuit,Haas F1 Team
+3,20,MAG,4,2,16,16,16,0,42,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,H,3,Yas Marina Circuit,Haas F1 Team
+4,20,MAG,5,0,16,15,16,0,42,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,H,4,Yas Marina Circuit,Haas F1 Team
+5,20,MAG,6,0,15,15,16,0,41,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,H,5,Yas Marina Circuit,Haas F1 Team
+6,20,MAG,7,2,15,14,16,0,41,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,H,6,Yas Marina Circuit,Haas F1 Team
+7,20,MAG,8,2,14,12,16,0,41,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,H,7,Yas Marina Circuit,Haas F1 Team
+8,20,MAG,9,0,12,12,16,0,41,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,H,8,Yas Marina Circuit,Haas F1 Team
+9,20,MAG,10,0,12,13,16,0,40,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,9,Yas Marina Circuit,Haas F1 Team
+10,20,MAG,11,0,13,13,16,0,40,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,10,Yas Marina Circuit,Haas F1 Team
+11,20,MAG,12,0,13,13,16,0,41,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,11,Yas Marina Circuit,Haas F1 Team
+12,20,MAG,13,0,13,13,16,0,42,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,H,12,Yas Marina Circuit,Haas F1 Team
+13,20,MAG,14,0,13,13,16,0,43,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,13,Yas Marina Circuit,Haas F1 Team
+14,20,MAG,15,0,13,13,16,0,43,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,14,Yas Marina Circuit,Haas F1 Team
+15,20,MAG,16,0,13,13,16,0,45,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,15,Yas Marina Circuit,Haas F1 Team
+16,20,MAG,17,0,13,13,16,0,45,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,16,Yas Marina Circuit,Haas F1 Team
+17,20,MAG,18,0,13,13,16,0,46,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,17,Yas Marina Circuit,Haas F1 Team
+18,20,MAG,19,0,13,12,16,0,46,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,18,Yas Marina Circuit,Haas F1 Team
+19,20,MAG,20,0,12,12,16,0,47,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,19,Yas Marina Circuit,Haas F1 Team
+20,20,MAG,21,0,12,12,16,0,47,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,20,Yas Marina Circuit,Haas F1 Team
+21,20,MAG,22,0,12,12,16,0,47,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,21,Yas Marina Circuit,Haas F1 Team
+22,20,MAG,23,0,12,12,16,0,47,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,22,Yas Marina Circuit,Haas F1 Team
+23,20,MAG,24,0,12,12,16,0,47,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,23,Yas Marina Circuit,Haas F1 Team
+24,20,MAG,25,0,12,11,16,0,47,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,24,Yas Marina Circuit,Haas F1 Team
+25,20,MAG,26,0,11,11,16,0,48,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,25,Yas Marina Circuit,Haas F1 Team
+26,20,MAG,27,0,11,11,16,0,48,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,26,Yas Marina Circuit,Haas F1 Team
+27,20,MAG,28,0,11,10,16,0,48,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,27,Yas Marina Circuit,Haas F1 Team
+28,20,MAG,29,0,10,10,16,0,48,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,28,Yas Marina Circuit,Haas F1 Team
+29,20,MAG,30,0,10,9,16,0,48,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,H,29,Yas Marina Circuit,Haas F1 Team
+30,20,MAG,31,0,9,9,16,0,49,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,30,Yas Marina Circuit,Haas F1 Team
+31,20,MAG,32,0,9,9,16,0,49,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,31,Yas Marina Circuit,Haas F1 Team
+32,20,MAG,33,0,9,9,16,0,49,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,32,Yas Marina Circuit,Haas F1 Team
+33,20,MAG,34,0,9,9,16,0,49,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,33,Yas Marina Circuit,Haas F1 Team
+34,20,MAG,35,0,9,9,16,0,50,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,34,Yas Marina Circuit,Haas F1 Team
+35,20,MAG,36,0,9,9,16,0,50,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,35,Yas Marina Circuit,Haas F1 Team
+36,20,MAG,37,0,9,9,16,0,50,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,H,36,Yas Marina Circuit,Haas F1 Team
+37,20,MAG,38,0,9,9,16,0,50,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,37,Yas Marina Circuit,Haas F1 Team
+38,20,MAG,39,0,9,9,16,0,50,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,38,Yas Marina Circuit,Haas F1 Team
+39,20,MAG,40,0,9,9,16,0,51,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,39,Yas Marina Circuit,Haas F1 Team
+40,20,MAG,41,0,9,9,16,0,51,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,40,Yas Marina Circuit,Haas F1 Team
+41,20,MAG,42,0,9,12,16,0,51,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,M,0,Yas Marina Circuit,Haas F1 Team
+42,20,MAG,43,0,12,12,16,0,51,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,M,1,Yas Marina Circuit,Haas F1 Team
+43,20,MAG,44,0,12,12,16,0,51,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,M,2,Yas Marina Circuit,Haas F1 Team
+44,20,MAG,45,0,12,11,16,0,51,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,M,3,Yas Marina Circuit,Haas F1 Team
+45,20,MAG,46,0,11,11,16,0,51,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,4,Yas Marina Circuit,Haas F1 Team
+46,20,MAG,47,0,11,10,16,0,51,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,5,Yas Marina Circuit,Haas F1 Team
+47,20,MAG,48,1,10,10,16,0,51,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,6,Yas Marina Circuit,Haas F1 Team
+48,20,MAG,49,1,10,10,16,0,52,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,M,7,Yas Marina Circuit,Haas F1 Team
+49,20,MAG,50,0,10,10,16,0,52,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,M,8,Yas Marina Circuit,Haas F1 Team
+50,20,MAG,51,0,10,10,16,0,52,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,M,9,Yas Marina Circuit,Haas F1 Team
+51,20,MAG,52,0,10,10,16,0,52,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,10,Yas Marina Circuit,Haas F1 Team
+52,20,MAG,53,0,10,10,16,0,52,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,11,Yas Marina Circuit,Haas F1 Team
+53,20,MAG,54,0,10,10,16,0,52,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,M,12,Yas Marina Circuit,Haas F1 Team
+0,20,PER,1,2,10,10,10,0,41,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,M,0,Yas Marina Circuit,Racing Point
+1,20,PER,2,2,10,10,10,0,34,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,M,1,Yas Marina Circuit,Racing Point
+2,20,PER,3,2,10,10,10,0,32,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,M,2,Yas Marina Circuit,Racing Point
+3,20,PER,4,2,10,10,10,0,33,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,3,Yas Marina Circuit,Racing Point
+4,20,PER,5,0,10,10,10,0,34,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,M,4,Yas Marina Circuit,Racing Point
+5,20,PER,6,0,10,9,10,0,35,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,M,5,Yas Marina Circuit,Racing Point
+6,20,PER,7,2,9,9,10,0,34,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,M,6,Yas Marina Circuit,Racing Point
+7,20,PER,8,2,9,7,10,0,32,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,M,7,Yas Marina Circuit,Racing Point
+8,20,PER,9,0,7,7,10,0,33,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,M,8,Yas Marina Circuit,Racing Point
+9,20,PER,10,0,7,7,10,0,34,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,M,9,Yas Marina Circuit,Racing Point
+10,20,PER,11,0,7,7,10,0,35,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,10,Yas Marina Circuit,Racing Point
+11,20,PER,12,0,7,7,10,0,37,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,11,Yas Marina Circuit,Racing Point
+12,20,PER,13,0,7,7,10,0,38,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,M,12,Yas Marina Circuit,Racing Point
+13,20,PER,14,0,7,7,10,0,40,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,M,13,Yas Marina Circuit,Racing Point
+14,20,PER,15,0,7,7,10,0,42,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,M,14,Yas Marina Circuit,Racing Point
+15,20,PER,16,0,7,6,10,0,44,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,M,15,Yas Marina Circuit,Racing Point
+16,20,PER,17,0,6,6,10,0,46,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,M,16,Yas Marina Circuit,Racing Point
+17,20,PER,18,0,6,6,10,0,47,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,M,17,Yas Marina Circuit,Racing Point
+18,20,PER,19,0,6,6,10,0,48,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,M,18,Yas Marina Circuit,Racing Point
+19,20,PER,20,0,6,6,10,0,50,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,19,Yas Marina Circuit,Racing Point
+20,20,PER,21,0,6,6,10,0,51,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,20,Yas Marina Circuit,Racing Point
+21,20,PER,22,0,6,6,10,0,52,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,M,21,Yas Marina Circuit,Racing Point
+22,20,PER,23,0,6,6,10,0,52,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,M,22,Yas Marina Circuit,Racing Point
+23,20,PER,24,0,6,6,10,0,53,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,M,23,Yas Marina Circuit,Racing Point
+24,20,PER,25,0,6,6,10,0,53,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,M,24,Yas Marina Circuit,Racing Point
+25,20,PER,26,0,6,7,10,0,54,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,M,25,Yas Marina Circuit,Racing Point
+26,20,PER,27,0,7,9,10,0,54,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,0,Yas Marina Circuit,Racing Point
+27,20,PER,28,0,9,9,10,0,54,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,1,Yas Marina Circuit,Racing Point
+28,20,PER,29,0,9,9,10,0,55,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,2,Yas Marina Circuit,Racing Point
+29,20,PER,30,0,9,8,10,0,55,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,3,Yas Marina Circuit,Racing Point
+30,20,PER,31,0,8,8,10,0,55,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,4,Yas Marina Circuit,Racing Point
+31,20,PER,32,0,8,8,10,0,56,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,5,Yas Marina Circuit,Racing Point
+32,20,PER,33,0,8,8,10,0,56,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,6,Yas Marina Circuit,Racing Point
+33,20,PER,34,0,8,8,10,0,56,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,H,7,Yas Marina Circuit,Racing Point
+34,20,PER,35,0,8,8,10,0,56,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,8,Yas Marina Circuit,Racing Point
+35,20,PER,36,0,8,8,10,0,56,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,9,Yas Marina Circuit,Racing Point
+36,20,PER,37,0,8,8,10,0,57,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,10,Yas Marina Circuit,Racing Point
+37,20,PER,38,0,8,8,10,0,57,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,11,Yas Marina Circuit,Racing Point
+38,20,PER,39,0,8,8,10,0,57,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,12,Yas Marina Circuit,Racing Point
+39,20,PER,40,0,8,8,10,0,57,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,13,Yas Marina Circuit,Racing Point
+40,20,PER,41,0,8,8,10,0,57,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,14,Yas Marina Circuit,Racing Point
+41,20,PER,42,0,8,8,10,0,57,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,H,15,Yas Marina Circuit,Racing Point
+42,20,PER,43,0,8,8,10,0,57,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,H,16,Yas Marina Circuit,Racing Point
+43,20,PER,44,0,8,8,10,0,57,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,17,Yas Marina Circuit,Racing Point
+44,20,PER,45,0,8,8,10,0,57,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,18,Yas Marina Circuit,Racing Point
+45,20,PER,46,0,8,8,10,0,57,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,19,Yas Marina Circuit,Racing Point
+46,20,PER,47,0,8,8,10,0,58,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,20,Yas Marina Circuit,Racing Point
+47,20,PER,48,1,8,8,10,0,58,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,H,21,Yas Marina Circuit,Racing Point
+48,20,PER,49,1,8,8,10,0,58,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,22,Yas Marina Circuit,Racing Point
+49,20,PER,50,0,8,8,10,0,58,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,H,23,Yas Marina Circuit,Racing Point
+50,20,PER,51,0,8,8,10,0,58,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,H,24,Yas Marina Circuit,Racing Point
+51,20,PER,52,0,8,8,10,0,58,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,25,Yas Marina Circuit,Racing Point
+52,20,PER,53,0,8,8,10,0,58,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,26,Yas Marina Circuit,Racing Point
+53,20,PER,54,0,8,8,10,0,59,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,27,Yas Marina Circuit,Racing Point
+54,20,PER,55,1,8,8,10,0,59,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,H,28,Yas Marina Circuit,Racing Point
+0,20,ALO,1,2,14,14,14,0,53,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,M,0,Yas Marina Circuit,McLaren
+1,20,ALO,2,2,14,14,14,0,52,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,M,1,Yas Marina Circuit,McLaren
+2,20,ALO,3,2,14,14,14,0,53,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,2,Yas Marina Circuit,McLaren
+3,20,ALO,4,2,14,14,14,0,53,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,M,3,Yas Marina Circuit,McLaren
+4,20,ALO,5,0,14,14,14,0,54,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,M,4,Yas Marina Circuit,McLaren
+5,20,ALO,6,0,14,14,14,0,55,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,M,5,Yas Marina Circuit,McLaren
+6,20,ALO,7,2,14,13,14,0,53,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,M,6,Yas Marina Circuit,McLaren
+7,20,ALO,8,2,13,11,14,0,51,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,M,7,Yas Marina Circuit,McLaren
+8,20,ALO,9,0,11,11,14,0,51,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,M,8,Yas Marina Circuit,McLaren
+9,20,ALO,10,0,11,11,14,0,52,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,M,9,Yas Marina Circuit,McLaren
+10,20,ALO,11,0,11,11,14,0,52,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,M,10,Yas Marina Circuit,McLaren
+11,20,ALO,12,0,11,11,14,0,54,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,M,11,Yas Marina Circuit,McLaren
+12,20,ALO,13,0,11,11,14,0,56,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,M,12,Yas Marina Circuit,McLaren
+13,20,ALO,14,0,11,11,14,0,58,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,M,13,Yas Marina Circuit,McLaren
+14,20,ALO,15,0,11,11,14,0,59,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,M,14,Yas Marina Circuit,McLaren
+15,20,ALO,16,0,11,11,14,0,61,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,M,15,Yas Marina Circuit,McLaren
+16,20,ALO,17,0,11,11,14,0,62,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,M,16,Yas Marina Circuit,McLaren
+17,20,ALO,18,0,11,11,14,0,63,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,M,17,Yas Marina Circuit,McLaren
+18,20,ALO,19,0,11,10,14,0,64,34.4,33.1,0.0,2.9,36.3,1013.1,284.0,M,18,Yas Marina Circuit,McLaren
+19,20,ALO,20,0,10,10,14,0,65,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,M,19,Yas Marina Circuit,McLaren
+20,20,ALO,21,0,10,10,14,0,66,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,M,20,Yas Marina Circuit,McLaren
+21,20,ALO,22,0,10,10,14,0,66,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,M,21,Yas Marina Circuit,McLaren
+22,20,ALO,23,0,10,10,14,0,67,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,22,Yas Marina Circuit,McLaren
+23,20,ALO,24,0,10,10,14,0,67,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,23,Yas Marina Circuit,McLaren
+24,20,ALO,25,0,10,9,14,0,67,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,24,Yas Marina Circuit,McLaren
+25,20,ALO,26,0,9,10,14,0,67,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,M,25,Yas Marina Circuit,McLaren
+26,20,ALO,27,0,10,10,14,0,68,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,M,26,Yas Marina Circuit,McLaren
+27,20,ALO,28,0,10,17,14,0,67,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,0,Yas Marina Circuit,McLaren
+28,20,ALO,29,0,17,17,14,0,68,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,1,Yas Marina Circuit,McLaren
+29,20,ALO,30,0,17,17,14,0,68,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,2,Yas Marina Circuit,McLaren
+30,20,ALO,31,0,17,17,14,0,69,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,3,Yas Marina Circuit,McLaren
+31,20,ALO,32,0,17,16,14,0,69,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,4,Yas Marina Circuit,McLaren
+32,20,ALO,33,0,16,16,14,0,69,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,5,Yas Marina Circuit,McLaren
+33,20,ALO,34,0,16,15,14,0,69,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,6,Yas Marina Circuit,McLaren
+34,20,ALO,35,0,15,14,14,0,69,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,H,7,Yas Marina Circuit,McLaren
+35,20,ALO,36,0,14,14,14,0,70,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,8,Yas Marina Circuit,McLaren
+36,20,ALO,37,0,14,14,14,0,70,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,9,Yas Marina Circuit,McLaren
+37,20,ALO,38,0,14,14,14,0,70,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,10,Yas Marina Circuit,McLaren
+38,20,ALO,39,0,14,14,14,0,70,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,H,11,Yas Marina Circuit,McLaren
+39,20,ALO,40,0,14,14,14,0,71,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,12,Yas Marina Circuit,McLaren
+40,20,ALO,41,0,14,13,14,0,71,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,13,Yas Marina Circuit,McLaren
+41,20,ALO,42,0,13,13,14,0,71,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,14,Yas Marina Circuit,McLaren
+42,20,ALO,43,0,13,13,14,0,71,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,H,15,Yas Marina Circuit,McLaren
+43,20,ALO,44,0,13,13,14,0,71,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,H,16,Yas Marina Circuit,McLaren
+44,20,ALO,45,0,13,12,14,0,71,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,H,17,Yas Marina Circuit,McLaren
+45,20,ALO,46,0,12,12,14,0,71,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,18,Yas Marina Circuit,McLaren
+46,20,ALO,47,0,12,11,14,0,71,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,19,Yas Marina Circuit,McLaren
+47,20,ALO,48,1,11,11,14,0,71,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,20,Yas Marina Circuit,McLaren
+48,20,ALO,49,1,11,11,14,0,71,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,H,21,Yas Marina Circuit,McLaren
+49,20,ALO,50,0,11,11,14,0,71,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,22,Yas Marina Circuit,McLaren
+50,20,ALO,51,0,11,11,14,0,71,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,23,Yas Marina Circuit,McLaren
+51,20,ALO,52,0,11,11,14,0,71,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,24,Yas Marina Circuit,McLaren
+52,20,ALO,53,0,11,11,14,0,71,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,H,25,Yas Marina Circuit,McLaren
+53,20,ALO,54,0,11,11,14,0,71,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,H,26,Yas Marina Circuit,McLaren
+0,20,HAR,1,2,19,19,19,0,54,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,M,0,Yas Marina Circuit,Toro Rosso
+1,20,HAR,2,2,19,19,19,0,62,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,H,0,Yas Marina Circuit,Toro Rosso
+2,20,HAR,3,2,19,19,19,0,66,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,H,1,Yas Marina Circuit,Toro Rosso
+3,20,HAR,4,2,19,19,19,0,69,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,H,2,Yas Marina Circuit,Toro Rosso
+4,20,HAR,5,0,19,19,19,0,70,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,H,3,Yas Marina Circuit,Toro Rosso
+5,20,HAR,6,0,19,19,19,0,71,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,H,4,Yas Marina Circuit,Toro Rosso
+6,20,HAR,7,2,19,18,19,0,70,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,5,Yas Marina Circuit,Toro Rosso
+7,20,HAR,8,2,18,17,19,0,68,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,H,6,Yas Marina Circuit,Toro Rosso
+8,20,HAR,9,0,17,18,19,0,68,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,7,Yas Marina Circuit,Toro Rosso
+9,20,HAR,10,0,18,18,19,0,69,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,8,Yas Marina Circuit,Toro Rosso
+10,20,HAR,11,0,18,18,19,0,69,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,9,Yas Marina Circuit,Toro Rosso
+11,20,HAR,12,0,18,18,19,0,69,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,10,Yas Marina Circuit,Toro Rosso
+12,20,HAR,13,0,18,18,19,0,70,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,H,11,Yas Marina Circuit,Toro Rosso
+13,20,HAR,14,0,18,18,19,0,72,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,H,12,Yas Marina Circuit,Toro Rosso
+14,20,HAR,15,0,18,18,19,0,73,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,13,Yas Marina Circuit,Toro Rosso
+15,20,HAR,16,0,18,18,19,0,74,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,14,Yas Marina Circuit,Toro Rosso
+16,20,HAR,17,0,18,18,19,0,74,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,H,15,Yas Marina Circuit,Toro Rosso
+17,20,HAR,18,0,18,18,19,0,75,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,H,16,Yas Marina Circuit,Toro Rosso
+18,20,HAR,19,0,18,17,19,0,75,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,H,17,Yas Marina Circuit,Toro Rosso
+19,20,HAR,20,0,17,17,19,0,76,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,H,18,Yas Marina Circuit,Toro Rosso
+20,20,HAR,21,0,17,17,19,0,76,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,19,Yas Marina Circuit,Toro Rosso
+21,20,HAR,22,0,17,18,19,0,76,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,20,Yas Marina Circuit,Toro Rosso
+22,20,HAR,23,0,18,18,19,0,76,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,21,Yas Marina Circuit,Toro Rosso
+23,20,HAR,24,0,18,18,19,0,76,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,22,Yas Marina Circuit,Toro Rosso
+24,20,HAR,25,0,18,16,19,0,76,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,23,Yas Marina Circuit,Toro Rosso
+25,20,HAR,26,0,16,16,19,0,77,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,24,Yas Marina Circuit,Toro Rosso
+26,20,HAR,27,0,16,16,19,0,77,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,25,Yas Marina Circuit,Toro Rosso
+27,20,HAR,28,0,16,15,19,0,77,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,26,Yas Marina Circuit,Toro Rosso
+28,20,HAR,29,0,15,15,19,0,77,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,27,Yas Marina Circuit,Toro Rosso
+29,20,HAR,30,0,15,14,19,0,77,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,28,Yas Marina Circuit,Toro Rosso
+30,20,HAR,31,0,14,14,19,0,78,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,29,Yas Marina Circuit,Toro Rosso
+31,20,HAR,32,0,14,14,19,0,78,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,30,Yas Marina Circuit,Toro Rosso
+32,20,HAR,33,0,14,15,19,0,78,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,31,Yas Marina Circuit,Toro Rosso
+33,20,HAR,34,0,15,16,19,0,78,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,H,32,Yas Marina Circuit,Toro Rosso
+34,20,HAR,35,0,16,16,19,0,78,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,33,Yas Marina Circuit,Toro Rosso
+35,20,HAR,36,0,16,15,19,0,79,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,34,Yas Marina Circuit,Toro Rosso
+36,20,HAR,37,0,15,15,19,0,79,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,35,Yas Marina Circuit,Toro Rosso
+37,20,HAR,38,0,15,15,19,0,79,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,H,36,Yas Marina Circuit,Toro Rosso
+38,20,HAR,39,0,15,15,19,0,79,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,37,Yas Marina Circuit,Toro Rosso
+39,20,HAR,40,0,15,15,19,0,80,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,38,Yas Marina Circuit,Toro Rosso
+40,20,HAR,41,0,15,14,19,0,80,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,H,39,Yas Marina Circuit,Toro Rosso
+41,20,HAR,42,0,14,14,19,0,80,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,H,40,Yas Marina Circuit,Toro Rosso
+42,20,HAR,43,0,14,14,19,0,80,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,H,41,Yas Marina Circuit,Toro Rosso
+43,20,HAR,44,0,14,14,19,0,80,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,H,42,Yas Marina Circuit,Toro Rosso
+44,20,HAR,45,0,14,13,19,0,80,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,H,43,Yas Marina Circuit,Toro Rosso
+45,20,HAR,46,0,13,13,19,0,80,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,H,44,Yas Marina Circuit,Toro Rosso
+46,20,HAR,47,0,13,12,19,0,81,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,45,Yas Marina Circuit,Toro Rosso
+47,20,HAR,48,1,12,12,19,0,81,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,H,46,Yas Marina Circuit,Toro Rosso
+48,20,HAR,49,1,12,12,19,0,81,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,H,47,Yas Marina Circuit,Toro Rosso
+49,20,HAR,50,0,12,12,19,0,81,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,H,48,Yas Marina Circuit,Toro Rosso
+50,20,HAR,51,0,12,12,19,0,81,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,H,49,Yas Marina Circuit,Toro Rosso
+51,20,HAR,52,0,12,12,19,0,81,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,50,Yas Marina Circuit,Toro Rosso
+52,20,HAR,53,0,12,12,19,0,81,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,H,51,Yas Marina Circuit,Toro Rosso
+53,20,HAR,54,0,12,12,19,0,81,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,H,52,Yas Marina Circuit,Toro Rosso
+0,20,GAS,1,2,13,13,13,0,54,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,H,0,Yas Marina Circuit,Toro Rosso
+1,20,GAS,2,2,13,13,13,0,59,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,H,1,Yas Marina Circuit,Toro Rosso
+2,20,GAS,3,2,13,13,13,0,59,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,H,2,Yas Marina Circuit,Toro Rosso
+3,20,GAS,4,2,13,13,13,0,61,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,H,3,Yas Marina Circuit,Toro Rosso
+4,20,GAS,5,0,13,13,13,0,63,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,H,4,Yas Marina Circuit,Toro Rosso
+5,20,GAS,6,0,13,13,13,0,63,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,H,5,Yas Marina Circuit,Toro Rosso
+6,20,GAS,7,2,13,12,13,0,62,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,H,6,Yas Marina Circuit,Toro Rosso
+7,20,GAS,8,2,12,10,13,0,62,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,H,7,Yas Marina Circuit,Toro Rosso
+8,20,GAS,9,0,10,10,13,0,63,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,H,8,Yas Marina Circuit,Toro Rosso
+9,20,GAS,10,0,10,10,13,0,63,34.3,32.7,0.0,1.5,37.2,1012.8,272.0,H,9,Yas Marina Circuit,Toro Rosso
+10,20,GAS,11,0,10,10,13,0,63,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,H,10,Yas Marina Circuit,Toro Rosso
+11,20,GAS,12,0,10,10,13,0,63,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,H,11,Yas Marina Circuit,Toro Rosso
+12,20,GAS,13,0,10,10,13,0,64,34.4,33.1,0.0,0.9,36.6,1013.0,265.0,H,12,Yas Marina Circuit,Toro Rosso
+13,20,GAS,14,0,10,10,13,0,65,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,13,Yas Marina Circuit,Toro Rosso
+14,20,GAS,15,0,10,10,13,0,66,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,14,Yas Marina Circuit,Toro Rosso
+15,20,GAS,16,0,10,10,13,0,68,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,H,15,Yas Marina Circuit,Toro Rosso
+16,20,GAS,17,0,10,10,13,0,69,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,H,16,Yas Marina Circuit,Toro Rosso
+17,20,GAS,18,0,10,10,13,0,70,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,17,Yas Marina Circuit,Toro Rosso
+18,20,GAS,19,0,10,9,13,0,70,34.3,33.0,0.0,2.3,36.7,1012.9,249.0,H,18,Yas Marina Circuit,Toro Rosso
+19,20,GAS,20,0,9,9,13,0,71,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,H,19,Yas Marina Circuit,Toro Rosso
+20,20,GAS,21,0,9,9,13,0,71,34.6,33.2,0.0,4.0,36.2,1013.1,279.0,H,20,Yas Marina Circuit,Toro Rosso
+21,20,GAS,22,0,9,9,13,0,72,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,21,Yas Marina Circuit,Toro Rosso
+22,20,GAS,23,0,9,9,13,0,72,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,22,Yas Marina Circuit,Toro Rosso
+23,20,GAS,24,0,9,9,13,0,72,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,23,Yas Marina Circuit,Toro Rosso
+24,20,GAS,25,0,9,8,13,0,72,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,24,Yas Marina Circuit,Toro Rosso
+25,20,GAS,26,0,8,8,13,0,72,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,25,Yas Marina Circuit,Toro Rosso
+26,20,GAS,27,0,8,7,13,0,73,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,26,Yas Marina Circuit,Toro Rosso
+27,20,GAS,28,0,7,7,13,0,73,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,27,Yas Marina Circuit,Toro Rosso
+28,20,GAS,29,0,7,7,13,0,73,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,H,28,Yas Marina Circuit,Toro Rosso
+29,20,GAS,30,0,7,16,13,0,73,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,M,0,Yas Marina Circuit,Toro Rosso
+30,20,GAS,31,0,16,15,13,0,73,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,M,1,Yas Marina Circuit,Toro Rosso
+31,20,GAS,32,0,15,15,13,0,73,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,M,2,Yas Marina Circuit,Toro Rosso
+32,20,GAS,33,0,15,14,13,0,73,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,M,3,Yas Marina Circuit,Toro Rosso
+33,20,GAS,34,0,14,14,13,0,73,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,M,4,Yas Marina Circuit,Toro Rosso
+34,20,GAS,35,0,14,13,13,0,74,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,M,5,Yas Marina Circuit,Toro Rosso
+35,20,GAS,36,0,13,13,13,0,74,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,6,Yas Marina Circuit,Toro Rosso
+36,20,GAS,37,0,13,13,13,0,74,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,7,Yas Marina Circuit,Toro Rosso
+37,20,GAS,38,0,13,13,13,0,74,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,8,Yas Marina Circuit,Toro Rosso
+38,20,GAS,39,0,13,13,13,0,74,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,9,Yas Marina Circuit,Toro Rosso
+39,20,GAS,40,0,13,13,13,0,75,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,M,10,Yas Marina Circuit,Toro Rosso
+40,20,GAS,41,0,13,12,13,0,75,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,M,11,Yas Marina Circuit,Toro Rosso
+41,20,GAS,42,0,12,11,13,0,75,28.9,25.4,0.0,4.2,74.1,1014.4,334.0,M,12,Yas Marina Circuit,Toro Rosso
+42,20,GAS,43,0,11,11,13,0,75,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,13,Yas Marina Circuit,Toro Rosso
+43,20,GAS,44,0,11,11,13,0,75,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,14,Yas Marina Circuit,Toro Rosso
+44,20,GAS,45,0,11,10,13,0,76,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,15,Yas Marina Circuit,Toro Rosso
+45,20,GAS,46,0,10,10,13,1,76,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,M,16,Yas Marina Circuit,Toro Rosso
+0,20,VAN,1,2,17,17,17,0,49,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,H,0,Yas Marina Circuit,McLaren
+1,20,VAN,2,2,17,17,17,0,55,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,H,1,Yas Marina Circuit,McLaren
+2,20,VAN,3,2,17,17,17,0,58,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,H,2,Yas Marina Circuit,McLaren
+3,20,VAN,4,2,17,17,17,0,56,34.7,32.5,0.0,1.5,38.2,1012.7,225.0,H,3,Yas Marina Circuit,McLaren
+4,20,VAN,5,0,17,17,17,0,59,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,H,4,Yas Marina Circuit,McLaren
+5,20,VAN,6,0,17,17,17,0,60,34.6,32.5,0.0,1.1,37.5,1012.7,268.0,H,5,Yas Marina Circuit,McLaren
+6,20,VAN,7,2,17,16,17,0,58,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,H,6,Yas Marina Circuit,McLaren
+7,20,VAN,8,2,16,15,17,0,56,34.7,32.6,0.0,0.8,37.6,1012.8,240.0,H,7,Yas Marina Circuit,McLaren
+8,20,VAN,9,0,15,15,17,0,57,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,8,Yas Marina Circuit,McLaren
+9,20,VAN,10,0,15,15,17,0,57,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,9,Yas Marina Circuit,McLaren
+10,20,VAN,11,0,15,15,17,0,58,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,H,10,Yas Marina Circuit,McLaren
+11,20,VAN,12,0,15,15,17,0,59,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,H,11,Yas Marina Circuit,McLaren
+12,20,VAN,13,0,15,15,17,0,60,34.1,33.1,0.0,1.0,36.7,1012.9,0.0,H,12,Yas Marina Circuit,McLaren
+13,20,VAN,14,0,15,15,17,0,62,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,13,Yas Marina Circuit,McLaren
+14,20,VAN,15,0,15,15,17,0,63,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,H,14,Yas Marina Circuit,McLaren
+15,20,VAN,16,0,15,15,17,0,64,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,H,15,Yas Marina Circuit,McLaren
+16,20,VAN,17,0,15,15,17,0,65,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,H,16,Yas Marina Circuit,McLaren
+17,20,VAN,18,0,15,15,17,0,66,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,H,17,Yas Marina Circuit,McLaren
+18,20,VAN,19,0,15,14,17,0,66,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,18,Yas Marina Circuit,McLaren
+19,20,VAN,20,0,14,14,17,0,67,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,19,Yas Marina Circuit,McLaren
+20,20,VAN,21,0,14,14,17,0,68,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,H,20,Yas Marina Circuit,McLaren
+21,20,VAN,22,0,14,14,17,0,68,34.6,33.2,0.0,1.7,36.1,1013.0,271.0,H,21,Yas Marina Circuit,McLaren
+22,20,VAN,23,0,14,14,17,0,68,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,H,22,Yas Marina Circuit,McLaren
+23,20,VAN,24,0,14,14,17,0,69,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,23,Yas Marina Circuit,McLaren
+24,20,VAN,25,0,14,13,17,0,69,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,24,Yas Marina Circuit,McLaren
+25,20,VAN,26,0,13,13,17,0,69,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,25,Yas Marina Circuit,McLaren
+26,20,VAN,27,0,13,13,17,0,69,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,26,Yas Marina Circuit,McLaren
+27,20,VAN,28,0,13,12,17,0,70,33.5,32.1,0.0,3.6,45.7,1013.5,267.0,H,27,Yas Marina Circuit,McLaren
+28,20,VAN,29,0,12,12,17,0,70,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,28,Yas Marina Circuit,McLaren
+29,20,VAN,30,0,12,11,17,0,70,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,29,Yas Marina Circuit,McLaren
+30,20,VAN,31,0,11,12,17,0,70,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,30,Yas Marina Circuit,McLaren
+31,20,VAN,32,0,12,13,17,0,70,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,31,Yas Marina Circuit,McLaren
+32,20,VAN,33,0,13,13,17,0,70,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,32,Yas Marina Circuit,McLaren
+33,20,VAN,34,0,13,13,17,0,70,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,33,Yas Marina Circuit,McLaren
+34,20,VAN,35,0,13,15,17,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,34,Yas Marina Circuit,McLaren
+35,20,VAN,36,0,15,16,17,0,70,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,M,0,Yas Marina Circuit,McLaren
+36,20,VAN,37,0,16,16,17,0,70,32.6,30.0,0.0,1.0,51.6,1013.0,278.0,M,1,Yas Marina Circuit,McLaren
+37,20,VAN,38,0,16,16,17,0,71,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,M,2,Yas Marina Circuit,McLaren
+38,20,VAN,39,0,16,16,17,0,71,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,M,3,Yas Marina Circuit,McLaren
+39,20,VAN,40,0,16,16,17,0,71,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,M,4,Yas Marina Circuit,McLaren
+40,20,VAN,41,0,16,16,17,0,71,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,M,5,Yas Marina Circuit,McLaren
+41,20,VAN,42,0,16,16,17,0,72,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,M,6,Yas Marina Circuit,McLaren
+42,20,VAN,43,0,16,16,17,0,72,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,M,7,Yas Marina Circuit,McLaren
+43,20,VAN,44,0,16,16,17,0,72,32.6,30.4,0.0,2.7,49.5,1013.6,275.0,M,8,Yas Marina Circuit,McLaren
+44,20,VAN,45,0,16,15,17,0,72,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,9,Yas Marina Circuit,McLaren
+45,20,VAN,46,0,15,15,17,0,72,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,10,Yas Marina Circuit,McLaren
+46,20,VAN,47,0,15,14,17,0,73,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,11,Yas Marina Circuit,McLaren
+47,20,VAN,48,1,14,14,17,0,73,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,M,12,Yas Marina Circuit,McLaren
+48,20,VAN,49,1,14,14,17,0,73,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,13,Yas Marina Circuit,McLaren
+49,20,VAN,50,0,14,14,17,0,73,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,14,Yas Marina Circuit,McLaren
+50,20,VAN,51,0,14,14,17,0,73,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,15,Yas Marina Circuit,McLaren
+51,20,VAN,52,0,14,14,17,0,73,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,16,Yas Marina Circuit,McLaren
+52,20,VAN,53,0,14,14,17,0,73,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,M,17,Yas Marina Circuit,McLaren
+53,20,VAN,54,0,14,14,17,0,74,29.3,24.9,0.0,3.5,74.6,1014.7,323.0,M,18,Yas Marina Circuit,McLaren
+0,20,SIR,1,2,18,18,18,0,39,34.3,32.1,0.0,0.9,39.6,1012.7,302.0,H,0,Yas Marina Circuit,Williams
+1,20,SIR,2,2,18,18,18,0,33,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,H,1,Yas Marina Circuit,Williams
+2,20,SIR,3,2,18,18,18,0,38,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,H,2,Yas Marina Circuit,Williams
+3,20,SIR,4,2,18,18,18,0,40,34.6,32.3,0.0,2.6,38.4,1012.8,309.0,H,3,Yas Marina Circuit,Williams
+4,20,SIR,5,0,18,18,18,0,42,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,H,4,Yas Marina Circuit,Williams
+5,20,SIR,6,0,18,18,18,0,43,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,H,5,Yas Marina Circuit,Williams
+6,20,SIR,7,2,18,17,18,0,41,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,6,Yas Marina Circuit,Williams
+7,20,SIR,8,2,17,16,18,0,39,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,7,Yas Marina Circuit,Williams
+8,20,SIR,9,0,16,16,18,0,40,34.6,32.7,0.0,1.3,37.5,1012.8,0.0,H,8,Yas Marina Circuit,Williams
+9,20,SIR,10,0,16,16,18,0,41,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,H,9,Yas Marina Circuit,Williams
+10,20,SIR,11,0,16,17,18,0,42,34.7,32.9,0.0,2.8,36.8,1012.9,291.0,H,10,Yas Marina Circuit,Williams
+11,20,SIR,12,0,17,17,18,0,43,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,11,Yas Marina Circuit,Williams
+12,20,SIR,13,0,17,17,18,0,44,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,H,12,Yas Marina Circuit,Williams
+13,20,SIR,14,0,17,17,18,0,46,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,H,13,Yas Marina Circuit,Williams
+14,20,SIR,15,0,17,17,18,0,48,34.5,33.1,0.0,2.4,36.3,1012.9,249.0,H,14,Yas Marina Circuit,Williams
+15,20,SIR,16,0,17,17,18,0,49,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,H,15,Yas Marina Circuit,Williams
+16,20,SIR,17,0,17,17,18,0,51,34.3,33.0,0.0,3.0,36.5,1012.9,262.0,H,16,Yas Marina Circuit,Williams
+17,20,SIR,18,0,17,17,18,0,52,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,17,Yas Marina Circuit,Williams
+18,20,SIR,19,0,17,16,18,0,53,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,18,Yas Marina Circuit,Williams
+19,20,SIR,20,0,16,16,18,0,54,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,19,Yas Marina Circuit,Williams
+20,20,SIR,21,0,16,16,18,0,55,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,20,Yas Marina Circuit,Williams
+21,20,SIR,22,0,16,16,18,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,21,Yas Marina Circuit,Williams
+22,20,SIR,23,0,16,17,18,0,56,33.5,32.5,0.0,4.6,41.4,1013.2,284.0,H,22,Yas Marina Circuit,Williams
+23,20,SIR,24,0,17,17,18,0,57,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,23,Yas Marina Circuit,Williams
+24,20,SIR,25,0,17,17,18,0,57,32.3,31.6,0.0,4.7,49.3,1013.5,278.0,H,24,Yas Marina Circuit,Williams
+25,20,SIR,26,0,17,17,18,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,25,Yas Marina Circuit,Williams
+26,20,SIR,27,0,17,17,18,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,26,Yas Marina Circuit,Williams
+27,20,SIR,28,0,17,16,18,0,58,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,27,Yas Marina Circuit,Williams
+28,20,SIR,29,0,16,16,18,0,57,31.7,30.5,1.0,3.2,50.8,1013.5,271.0,H,28,Yas Marina Circuit,Williams
+29,20,SIR,30,0,16,15,18,0,57,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,29,Yas Marina Circuit,Williams
+30,20,SIR,31,0,15,16,18,0,57,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,30,Yas Marina Circuit,Williams
+31,20,SIR,32,0,16,17,18,0,57,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,31,Yas Marina Circuit,Williams
+32,20,SIR,33,0,17,17,18,0,57,31.7,29.6,0.0,2.1,53.1,1013.2,271.0,H,32,Yas Marina Circuit,Williams
+33,20,SIR,34,0,17,17,18,0,58,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,33,Yas Marina Circuit,Williams
+34,20,SIR,35,0,17,17,18,0,58,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,34,Yas Marina Circuit,Williams
+35,20,SIR,36,0,17,17,18,0,58,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,M,0,Yas Marina Circuit,Williams
+36,20,SIR,37,0,17,17,18,0,58,32.2,29.7,0.0,1.5,52.8,1013.1,235.0,M,1,Yas Marina Circuit,Williams
+37,20,SIR,38,0,17,17,18,0,58,32.1,29.8,0.0,1.7,52.8,1013.0,270.0,M,2,Yas Marina Circuit,Williams
+38,20,SIR,39,0,17,17,18,0,59,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,M,3,Yas Marina Circuit,Williams
+39,20,SIR,40,0,17,17,18,0,59,32.6,30.5,0.0,2.0,50.0,1013.1,314.0,M,4,Yas Marina Circuit,Williams
+40,20,SIR,41,0,17,17,18,0,59,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,M,5,Yas Marina Circuit,Williams
+41,20,SIR,42,0,17,17,18,0,59,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,M,6,Yas Marina Circuit,Williams
+42,20,SIR,43,0,17,17,18,0,59,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,M,7,Yas Marina Circuit,Williams
+43,20,SIR,44,0,17,17,18,0,59,32.3,30.2,0.0,2.0,50.2,1013.2,332.0,M,8,Yas Marina Circuit,Williams
+44,20,SIR,45,0,17,16,18,0,59,32.4,30.3,0.0,3.2,49.9,1013.4,274.0,M,9,Yas Marina Circuit,Williams
+45,20,SIR,46,0,16,16,18,0,60,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,M,10,Yas Marina Circuit,Williams
+46,20,SIR,47,0,16,15,18,0,60,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,11,Yas Marina Circuit,Williams
+47,20,SIR,48,1,15,15,18,0,60,28.3,27.4,0.0,3.0,65.2,1013.9,339.0,M,12,Yas Marina Circuit,Williams
+48,20,SIR,49,1,15,15,18,0,60,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,M,13,Yas Marina Circuit,Williams
+49,20,SIR,50,0,15,15,18,0,60,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,M,14,Yas Marina Circuit,Williams
+50,20,SIR,51,0,15,15,18,0,60,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,M,15,Yas Marina Circuit,Williams
+51,20,SIR,52,0,15,15,18,0,60,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,16,Yas Marina Circuit,Williams
+52,20,SIR,53,0,15,15,18,0,61,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,17,Yas Marina Circuit,Williams
+53,20,SIR,54,0,15,15,18,0,61,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,M,18,Yas Marina Circuit,Williams
+0,20,STR,1,2,15,15,15,0,38,34.7,32.3,0.0,0.5,39.2,1012.7,192.0,H,0,Yas Marina Circuit,Williams
+1,20,STR,2,2,15,15,15,0,36,34.1,32.3,0.0,1.3,38.5,1012.8,260.0,H,1,Yas Marina Circuit,Williams
+2,20,STR,3,2,15,15,15,0,41,34.1,32.3,0.0,0.7,38.7,1012.8,272.0,H,2,Yas Marina Circuit,Williams
+3,20,STR,4,2,15,15,15,0,41,34.6,32.5,0.0,1.2,38.6,1012.7,302.0,H,3,Yas Marina Circuit,Williams
+4,20,STR,5,0,15,16,15,0,44,34.8,32.6,0.0,1.0,38.0,1012.8,280.0,H,4,Yas Marina Circuit,Williams
+5,20,STR,6,0,16,16,15,0,45,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,5,Yas Marina Circuit,Williams
+6,20,STR,7,2,16,15,15,0,44,34.6,32.6,0.0,0.8,37.7,1012.8,267.0,H,6,Yas Marina Circuit,Williams
+7,20,STR,8,2,15,13,15,0,43,34.4,32.6,0.0,1.9,37.9,1012.8,239.0,H,7,Yas Marina Circuit,Williams
+8,20,STR,9,0,13,14,15,0,43,34.4,33.0,0.0,1.6,36.5,1013.0,274.0,H,8,Yas Marina Circuit,Williams
+9,20,STR,10,0,14,14,15,0,44,34.4,33.0,0.0,2.1,36.5,1012.9,256.0,H,9,Yas Marina Circuit,Williams
+10,20,STR,11,0,14,14,15,0,45,34.3,32.9,0.0,1.1,36.8,1012.9,246.0,H,10,Yas Marina Circuit,Williams
+11,20,STR,12,0,14,14,15,0,45,34.3,32.9,0.0,1.3,37.0,1012.9,273.0,H,11,Yas Marina Circuit,Williams
+12,20,STR,13,0,14,14,15,0,47,34.3,33.0,0.0,3.1,36.6,1012.9,271.0,H,12,Yas Marina Circuit,Williams
+13,20,STR,14,0,14,14,15,0,49,34.5,33.2,0.0,1.4,36.2,1013.0,244.0,H,13,Yas Marina Circuit,Williams
+14,20,STR,15,0,14,14,15,0,50,34.4,33.1,0.0,1.4,36.4,1013.0,248.0,H,14,Yas Marina Circuit,Williams
+15,20,STR,16,0,14,14,15,0,52,34.3,33.0,0.0,1.6,36.5,1013.0,281.0,H,15,Yas Marina Circuit,Williams
+16,20,STR,17,0,14,14,15,0,53,34.3,33.1,0.0,3.4,36.3,1012.9,283.0,H,16,Yas Marina Circuit,Williams
+17,20,STR,18,0,14,14,15,0,54,34.5,33.1,0.0,4.0,36.4,1013.0,282.0,H,17,Yas Marina Circuit,Williams
+18,20,STR,19,0,14,13,15,0,55,34.6,33.2,0.0,1.7,36.0,1013.1,281.0,H,18,Yas Marina Circuit,Williams
+19,20,STR,20,0,13,13,15,0,55,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,19,Yas Marina Circuit,Williams
+20,20,STR,21,0,13,13,15,0,56,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,20,Yas Marina Circuit,Williams
+21,20,STR,22,0,13,13,15,0,57,34.5,33.2,0.0,4.9,37.3,1013.0,281.0,H,21,Yas Marina Circuit,Williams
+22,20,STR,23,0,13,13,15,0,57,33.6,33.1,0.0,3.4,38.2,1013.2,274.0,H,22,Yas Marina Circuit,Williams
+23,20,STR,24,0,13,13,15,0,57,33.5,32.4,0.0,3.3,42.2,1013.4,277.0,H,23,Yas Marina Circuit,Williams
+24,20,STR,25,0,13,12,15,0,57,32.1,31.1,1.0,4.1,50.2,1013.5,279.0,H,24,Yas Marina Circuit,Williams
+25,20,STR,26,0,12,12,15,0,57,31.2,30.1,1.0,3.0,52.3,1013.4,266.0,H,25,Yas Marina Circuit,Williams
+26,20,STR,27,0,12,12,15,0,58,30.9,29.8,1.0,3.4,53.9,1013.4,252.0,H,26,Yas Marina Circuit,Williams
+27,20,STR,28,0,12,11,15,0,58,31.1,29.4,0.0,2.4,55.1,1013.3,262.0,H,27,Yas Marina Circuit,Williams
+28,20,STR,29,0,11,11,15,0,58,31.5,29.4,0.0,2.2,54.9,1013.3,272.0,H,28,Yas Marina Circuit,Williams
+29,20,STR,30,0,11,10,15,0,58,31.6,29.4,0.0,2.9,54.1,1013.3,266.0,H,29,Yas Marina Circuit,Williams
+30,20,STR,31,0,10,10,15,0,59,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,30,Yas Marina Circuit,Williams
+31,20,STR,32,0,10,10,15,0,59,31.9,29.7,0.0,2.6,53.0,1013.1,260.0,H,31,Yas Marina Circuit,Williams
+32,20,STR,33,0,10,10,15,0,59,32.1,29.7,0.0,2.6,52.9,1013.1,240.0,H,32,Yas Marina Circuit,Williams
+33,20,STR,34,0,10,10,15,0,60,32.4,29.8,0.0,0.9,52.1,1013.0,274.0,H,33,Yas Marina Circuit,Williams
+34,20,STR,35,0,10,10,15,0,60,32.6,30.0,0.0,2.3,51.9,1013.0,243.0,H,34,Yas Marina Circuit,Williams
+35,20,STR,36,0,10,10,15,0,60,33.0,30.3,0.0,2.9,50.5,1013.1,279.0,H,35,Yas Marina Circuit,Williams
+36,20,STR,37,0,10,10,15,0,61,32.4,30.5,0.0,1.3,49.8,1013.2,281.0,H,36,Yas Marina Circuit,Williams
+37,20,STR,38,0,10,11,15,0,61,32.4,30.4,0.0,2.3,50.0,1013.0,296.0,H,37,Yas Marina Circuit,Williams
+38,20,STR,39,0,11,11,15,0,61,32.3,30.4,0.0,1.8,50.0,1013.2,296.0,H,38,Yas Marina Circuit,Williams
+39,20,STR,40,0,11,12,15,0,61,32.1,30.3,0.0,0.9,50.2,1013.2,280.0,H,39,Yas Marina Circuit,Williams
+40,20,STR,41,0,12,15,15,0,61,32.1,30.3,0.0,2.1,50.1,1013.3,327.0,M,0,Yas Marina Circuit,Williams
+41,20,STR,42,0,15,15,15,0,61,32.5,30.4,0.0,3.7,49.4,1013.7,266.0,M,1,Yas Marina Circuit,Williams
+42,20,STR,43,0,15,15,15,0,61,32.3,30.4,0.0,3.1,49.7,1013.8,245.0,M,2,Yas Marina Circuit,Williams
+43,20,STR,44,0,15,15,15,0,62,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,3,Yas Marina Circuit,Williams
+44,20,STR,45,0,15,14,15,0,62,32.2,29.9,0.0,5.9,54.5,1013.9,23.0,M,4,Yas Marina Circuit,Williams
+45,20,STR,46,0,14,14,15,0,62,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,M,5,Yas Marina Circuit,Williams
+46,20,STR,47,0,14,13,15,0,62,28.2,26.4,0.0,2.6,69.6,1014.2,31.0,M,6,Yas Marina Circuit,Williams
+47,20,STR,48,1,13,13,15,0,62,28.6,25.9,0.0,3.9,72.4,1014.2,353.0,M,7,Yas Marina Circuit,Williams
+48,20,STR,49,1,13,13,15,0,62,28.6,25.8,0.0,2.3,72.9,1014.4,22.0,M,8,Yas Marina Circuit,Williams
+49,20,STR,50,0,13,13,15,0,62,28.6,25.5,0.0,4.9,74.0,1014.2,249.0,M,9,Yas Marina Circuit,Williams
+50,20,STR,51,0,13,13,15,0,62,29.3,25.3,0.0,4.0,74.3,1014.3,50.0,M,10,Yas Marina Circuit,Williams
+51,20,STR,52,0,13,13,15,0,62,29.2,25.3,0.0,3.5,73.2,1014.4,15.0,M,11,Yas Marina Circuit,Williams
+52,20,STR,53,0,13,13,15,0,62,29.4,25.1,0.0,3.2,73.9,1014.7,9.0,M,12,Yas Marina Circuit,Williams
+53,20,STR,54,0,13,13,15,0,62,29.4,25.0,0.0,3.2,74.5,1014.7,146.0,M,13,Yas Marina Circuit,Williams
