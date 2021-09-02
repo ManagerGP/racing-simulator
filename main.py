@@ -1,14 +1,21 @@
-from json.decoder import JSONDecoder
-from numpy.core.fromnumeric import size
-from numpy.lib.function_base import percentile
-from pandas.io.pytables import performance_doc
+from functools import cmp_to_key
 import requests
 import json
 import pandas
 import numpy
 
+def parseTyre(tyre):
+    if tyre == 'F': return '0'
+    if tyre == 'E': return '1'
+    if tyre == 'V': return '2'
+    if tyre == 'S': return '3'
+    if tyre == 'M': return '4'
+    if tyre == 'H': return '5'
+    return tyre
+
 def getTrackStatus(status):
-    if status == 'S': return 1
+    if status == 'Y': return 1
+    if status == 'S': return 2
     if status == 'R': return 2
     return 0
 
@@ -96,6 +103,7 @@ col=[
     'lap',
     'trackStatus',
     'position',
+    'targetPosition',
     'grid',
     'out',
     'performance',
@@ -131,14 +139,13 @@ for path in paths:
 
     # gridPosition = data['free']['data']['DR']
 
-    idx = 0
-    for driver in drivers:
+    for idx, driver in enumerate(drivers):
         driverKey = 'p' + driver['Initials']
         laps = data['LapPos']['graph']['data'][driverKey][2:][::2]
         print(len(laps))
 
         if(len(laps) > 0):
-            trackStatus = data['LapPos']['graph']['TrackStatus'][2:][::2]
+            trackStatus = data['LapPos']['graph']['TrackStatus'][2:][1::2]
             positions = data['LapPos']['graph']['data'][driverKey][2:][1::2]
             try:
                 performances = data['Scores']['graph']['Performance'][driverKey][1::2]
@@ -155,10 +162,12 @@ for path in paths:
 
             tyreHistory = list(list(filter(None, data['xtra']['data']['DR'][idx]['X']))[0])
             tyreHistory.reverse()
+            print(driver)
+            print(tyreHistory)
 
             tyreStatus = data['xtra']['data']['DR'][idx]['TI']
 
-            a = []
+            a = numpy.empty(0, dtype=int)
             b = []
             for i in range(len(tyreHistory)):
                 index = i * 3
@@ -166,8 +175,10 @@ for path in paths:
                 b = numpy.append(b, numpy.full(tyreStatus[index+1], tyreHistory[i]))
 
             if(len(laps) != len(a)):
-                a.resize(len(laps))
-                b.resize(len(laps))
+                a = numpy.resize(a, len(laps))
+                b = numpy.resize(b, len(laps))
+                # a.resize(len(laps))
+                # b.resize(len(laps))
                 print('warning - tyreHistory')
 
             randomIndices = numpy.sort(numpy.random.choice(len(pTrack), len(laps), replace=False))
@@ -178,8 +189,10 @@ for path in paths:
             df2['team'] = numpy.full(len(laps), driver['Team'])
             df2['trackStatus'] = list(map(getTrackStatus, trackStatus))[:len(laps)]
             df2['lap'] = laps
-            df2['position'] = positions
-            df2['grid'] = numpy.full(len(laps), int(data['free']['data']['DR'][idx]['F'][3]))
+            df2['targetPosition'] = positions
+            df2['grid'] = numpy.full(len(laps), df2['targetPosition'][0], dtype=int)
+            df2['targetPosition'] = positions
+            df2['position'] = df2['targetPosition'].shift(1, fill_value=int(df2['targetPosition'][0]))
             df2['performance'] = numpy.resize(performances, len(laps))
             df2['trackTemp'] = pTrack[randomIndices]
             df2['airTemp'] = pAir[randomIndices]
@@ -194,10 +207,19 @@ for path in paths:
             df2['track'] = numpy.full(len(laps), data['free']['data']['CL'])
 
             df = df.append(df2)
-            globalDf = globalDf.append(df2)
-            idx+=1
+
+    if(path.startswith('2018')):
+        df['tyre'] = df['tyre'].apply(parseTyre)
+        tyreSet = sorted(df['tyre'].unique())
+        tyreSet= list(filter(lambda x: x != '', tyreSet))
+        print(tyreSet)
+        driversDict = {tyreSet[tyreIdx]: tyre for tyreIdx, tyre in enumerate(['S', 'M', 'H'])}
+        print(driversDict)
+        df['tyre'] = df['tyre'].apply((lambda x: driversDict[x] if (x in driversDict.keys()) else x ))
+        # df2['tyre'].apply()
 
     print(df)
     df.to_csv('dataset/' + path.replace('/', ' '))
+    globalDf = globalDf.append(df)
 
 globalDf.to_csv('dataset/global.csv')
