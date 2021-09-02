@@ -99,6 +99,7 @@ paths = [
     ]
 
 col=[
+    'idGP',
     'driver',
     'lap',
     'trackStatus',
@@ -122,7 +123,7 @@ col=[
 
 globalDf = pandas.DataFrame(columns=col)
 
-for path in paths:
+for pathIdx, path in enumerate(paths):
     print("https://livetiming.formula1.com/static/"+ path +"SPFeed.json")
     response = requests.get("https://livetiming.formula1.com/static/"+ path +"SPFeed.json").content.decode('utf-8-sig')
     data = json.loads(response)
@@ -184,7 +185,7 @@ for path in paths:
             randomIndices = numpy.sort(numpy.random.choice(len(pTrack), len(laps), replace=False))
 
             df2 = pandas.DataFrame(columns=col)
-            # df2['driver'] = numpy.full(len(laps), driver['Num'])
+            df2['idGP'] = numpy.full(len(laps), pathIdx)
             df2['driver'] = numpy.full(len(laps), driver['Initials'])
             df2['team'] = numpy.full(len(laps), driver['Team'])
             df2['trackStatus'] = list(map(getTrackStatus, trackStatus))[:len(laps)]
