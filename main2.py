@@ -37,7 +37,7 @@ g_dataset_train = keras.preprocessing.timeseries_dataset_from_array(
     y_train,
     sequence_length=3,
     sampling_rate=1,
-    batch_size=256,
+    batch_size=1,
 )
 
 print('dataset built')
@@ -70,6 +70,10 @@ modelckpt_callback = keras.callbacks.ModelCheckpoint(
     save_best_only=True,
 )
 
+for x, y in g_dataset_train.take(1):
+    print(x)
+    print(y)
+
 history = model.fit(
     g_dataset_train.take(int(len(g_dataset_train)*70/100)),
     epochs=5,
@@ -79,5 +83,6 @@ history = model.fit(
 
 
 for x, y in g_dataset_train.take(5):
+    print(x)
     print(y)
     print(model.predict(x)[0])
