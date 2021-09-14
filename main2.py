@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow import keras
 
@@ -11,7 +11,7 @@ train_split = int(split_fraction * int(df.shape[0]))
 
 df.sort_values(by=['idGP', 'driver', 'lap'], inplace=True)
 
-df.drop(columns=['idGP', 'out', 'positionT-1', 'positionT-2', 'positionT-3', 'Unnamed: 0'], inplace=True)
+df.drop(columns=['idGP', 'out', 'positionT-1', 'positionT-2', 'positionT-3', 'Unnamed: 0', 'windSpeed','humidity','pressure','windDir'], inplace=True)
 
 for idx, col in enumerate(['driver', 'tyre', 'track', 'team', 'driverPrev', 'teamPrev', 'driverNext', 'teamNext']):
     df[col] = pd.Categorical(df[col])
@@ -30,6 +30,7 @@ print(df.head())
 # print(name)
 x_train = df 
 y_train = x_train.pop('targetPosition')
+print(y_train)
 
 # if (len(x_train) >= 3):
 g_dataset_train = keras.preprocessing.timeseries_dataset_from_array(
@@ -40,6 +41,8 @@ g_dataset_train = keras.preprocessing.timeseries_dataset_from_array(
     batch_size=1,
 )
 
+print(len(g_dataset_train))
+g_dataset_train = g_dataset_train.shuffle(len(g_dataset_train))
 print('dataset built')
 
 for feat, targ in g_dataset_train.take(5):
@@ -66,7 +69,7 @@ modelckpt_callback = keras.callbacks.ModelCheckpoint(
     monitor="val_loss",
     filepath=path_checkpoint,
     verbose=1,
-    save_weights_only=True,
+    save_weights_only=False,
     save_best_only=True,
 )
 
@@ -76,7 +79,7 @@ for x, y in g_dataset_train.take(1):
 
 history = model.fit(
     g_dataset_train.take(int(len(g_dataset_train)*70/100)),
-    epochs=5,
+    epochs=15,
     validation_data=g_dataset_train.skip(int(len(g_dataset_train)*70/100)),
     callbacks=[es_callback, modelckpt_callback],
 )
