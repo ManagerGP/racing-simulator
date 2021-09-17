@@ -8,11 +8,12 @@ from tensorflow import keras
 path_checkpoint = "model_checkpoint.h5"
 model = keras.models.load_model(path_checkpoint)
 
-data = pd.read_csv('dataset/global-processed.csv', index_col=0)
+data = pd.read_csv('dataset/global-processed.csv')
 df = pd.DataFrame(data)
 
 df.sort_values(by=['idGP', 'driver', 'lap'], inplace=True)
-df.drop(columns=['targetPosition', 'out', 'positionT-1', 'positionT-2', 'positionT-3', 'windSpeed','humidity','pressure','windDir','targetPosition'], inplace=True)
+
+df.drop(columns=['idGP', 'out', 'windSpeed','humidity','pressure','windDir'], inplace=True)
 
 for idx, col in enumerate(['driver', 'tyre', 'track', 'team', 'driverPrev', 'teamPrev', 'driverNext', 'teamNext']):
     df[col] = pd.Categorical(df[col])
